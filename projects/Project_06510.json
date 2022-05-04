@@ -1,0 +1,81 @@
+{
+  "type": "Project",
+  "id": "06510",
+  "notes": "Not Published",
+  "serializeDate": "27th April 2022 15:06:44",
+  "serialized": 1651072004283,
+  "serializedBy": "Steve Reeve",
+  "title": "Beijing New International Airport",
+  "description": "Rogers Stirk Harbour + Partners’ inspiration for the Beijing New Airport stems from the philosophy that sustainable architecture can transform space through order, scale and beauty.",
+  "date": "2010-2013",
+  "client": "Beijing Capital Airport Authority",
+  "location": "Beijing, China",
+  "longLat": "116.609105 / 40.055051",
+  "typologies": [
+    "Transport"
+  ],
+  "team": [
+    "Tadashi Arai",
+    "Laurence Day",
+    "John Dent",
+    "Tobi Frenzen",
+    "Jack Morton-Gransmore",
+    "Lennart Grut",
+    "Ed Hiscock",
+    "Toby Jeavons",
+    "Jon Mercer",
+    "Mark Ng",
+    "Joseph Park",
+    "Richard Paul",
+    "Richard Rogers",
+    "Laura Salisbury",
+    "Neil Southard",
+    "Stephen Spence",
+    "Graham Stirk",
+    "Andrew Tyley",
+    "Andrew Yek"
+  ],
+  "partners": [
+    "Lennart Grut",
+    "Richard Paul",
+    "Graham Stirk"
+  ],
+  "leaders": [
+    "Andrew Tyley"
+  ],
+  "overview": "Rogers Stirk Harbour + Partners’ inspiration for the Beijing New Airport stems from the philosophy that sustainable architecture can transform space through order, scale and beauty. The terminal building’s unique star form is an expression of its architectural, human and functional ideals; the design celebrates both its physical and cultural context and the spirit of travel, while also prioritising passenger comfort and movement. As a world-leading, multi-modal transportation hub unparalleled in its flexibility, efficiency and beauty this project presented an exceptional opportunity for Beijing to promote its enlightenment to the world through agenda-setting architecture.\n\nGreat buildings celebrate their context as well as making a key contribution to human experience and cultural life. This was the primary aim of RSHP’s proposal; to create a strong contextual relationship through the form and national symbolism of the five-pointed star. The world’s best airports simplify the complex business of air travel for the passenger through unseen but highly functional processing and technical systems. In addition to these systems, the genesis of RSHP’s solution – the star – furthered passenger experience by dramatically minimising walking distances. Its unique form provided 82 contact stands which could process over 45 million passengers a year.\n\n\nRSHP’s proposal offers functionality and efficiencies that promote passenger health and wellbeing; integrating local public transport systems and delivering outstanding public space, creating clear direction for passengers from forecourt to plane, and utilising a significant amount of glazing and natural light.\n\nThe design concept delivers: a compact ‘Phase One’ terminal building with radial piers that connect directly to a single central processing hub and operate without the need for an Automated People Mover; an efficient and economic building structure designed on a standard modular pier arrangement that optimises repetitive construction – minimising construction time and creating opportunities for prefabrication; optimum convenience and an equality of spatial experience – intuitive wayfinding, open views, minimised walking distances and level changes, quick transfer times; a free-standing and separately deliverable Intermodal Transportation Centre providing seamless interchange between public transport and the terminal; priority to sustainable public transport modes for connections between the airport, the city and the wider Beijing region; a terminal foreground where civic gardens dominate and provide a welcoming and vibrant public space for all airport users and the local community; and a masterplan to maximise long-term development flexibility and provide the best response to air traffic growth in an unpredictable industry.",
+  "dimensions": [
+    {
+      "elementId": "web:grossArea",
+      "label": "Gross Area",
+      "value": "700 000 m²"
+    }
+  ],
+  "companies": [
+    {
+      "elementId": "web:structuralEngineer",
+      "label": "Structural Engineer",
+      "value": "Arup"
+    },
+    {
+      "elementId": "web:servicesEngineer",
+      "label": "Services Engineer",
+      "value": "Arup"
+    },
+    {
+      "elementId": "web:landscapeArchitect",
+      "label": "Landscape Architect",
+      "value": "Gillespies LLP"
+    },
+    {
+      "elementId": "web:airportPlanning",
+      "label": "Airport Planning",
+      "value": "Arup"
+    },
+    {
+      "elementId": "web:retailPlanning",
+      "label": "Retail Planning",
+      "value": "Design Solutions"
+    }
+  ]
+}

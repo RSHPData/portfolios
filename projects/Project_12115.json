@@ -1,0 +1,91 @@
+{
+  "type": "Project",
+  "id": "12115",
+  "notes": "Not Published",
+  "serializeDate": "2nd May 2022 16:07:58",
+  "serialized": 1651507678843,
+  "serializedBy": "Steve Reeve",
+  "title": "Inno-tech Guiwan",
+  "description": "Inno-tech Guiwan, a designated youth entrepreneurship zone, offers an oasis of innovation and creates an urban work‒life balance community in Qianhai.",
+  "date": "2018 - under construction",
+  "client": "Qianhai Inno-tech Investment Holdings",
+  "location": "Shenzhen, China",
+  "longLat": "113.8939153 / 22.5324168",
+  "typologies": [
+    "Mixed Use"
+  ],
+  "team": [
+    "Juan Carpio",
+    "Christophe Dembinski",
+    "Alba Fernández Arias",
+    "Dan Hanna",
+    "Lu-Min Guo",
+    "Virginia Moreno",
+    "Marian San Emeterio",
+    "Harjinder Singh",
+    "Stephen Spence",
+    "Pei Yi Lin",
+    "Jasmine Yue",
+    "Francis Yuen"
+  ],
+  "partners": [
+    "Lennart Grut",
+    "Ben Warner",
+    "Richard Rogers"
+  ],
+  "leaders": [
+    "Stephen Spence",
+    "Harjinder Singh",
+    "Francis Yuen"
+  ],
+  "overview": "Inno-tech Guiwan, a designated youth entrepreneurship zone, offers an oasis of innovation and creates an urban work‒life balance community in Qianhai. This urban innovation and creativity hub is a pedestrianised, completely vehicle-free, masterplan development with a central public square and park, surrounded by walkable streets, green courtyards with urban gardens and trees and water features.\n\nThe central square provides a series of shared outdoor spaces for social meetings and gatherings, performances, sports and other leisure activities, relaxation and regeneration.\n\n\nA cluster of lower and elevated buildings with planted terraces, vertical green villages and sky gardens on a gentle urban slope hosts a raised landmark cultural and arts building providing a large multi-purpose hall, exhibition and office spaces. Commercial spaces are flexible and column-free, with options to be divided into open plan, cellular or mixed office units.\n\nThe building design and layout is based on flexibility, adaptability with physical and visual connectivity. In contrast to the new 'super high rise' developments within the Qianhai area of Shenzhen, this temporary 10 year 'super low rise' development aims to create a people focused concept for an 'urban living room'.",
+  "dimensions": [
+    {
+      "elementId": "XLA0uo9bikCZClyA6d8vjQ",
+      "label": "Floors",
+      "value": "Typically 6. Landmark Building 8"
+    },
+    {
+      "elementId": "web:siteArea",
+      "label": "Site Area",
+      "value": "90 000 m²"
+    }
+  ],
+  "companies": [
+    {
+      "elementId": "web:co-architect",
+      "label": "Co-Architect",
+      "value": "Hong Kong Huayi Design Consultants"
+    },
+    {
+      "elementId": "web:structuralEngineer",
+      "label": "Structural Engineer",
+      "value": "Hong Kong Huayi Design Consultants"
+    },
+    {
+      "elementId": "web:landscapeArchitect",
+      "label": "Landscape Architect",
+      "value": "Aoya-HK"
+    },
+    {
+      "elementId": "web:fireConsultant",
+      "label": "Fire Consultant",
+      "value": "Hong Kong Huayi Design Consultants"
+    },
+    {
+      "elementId": "web:servicesEngineer",
+      "label": "Services Engineer",
+      "value": "Hong Kong Huayi Design Consultants"
+    },
+    {
+      "elementId": "web:costConsultant",
+      "label": "Cost Consultant",
+      "value": "China State Construction International Co., LTD."
+    },
+    {
+      "elementId": "web:contractor",
+      "label": "Contractor",
+      "value": "China State Construction International Co., LTD."
+    }
+  ]
+}

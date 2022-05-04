@@ -1,0 +1,63 @@
+{
+  "type": "Project",
+  "id": "10170",
+  "notes": "Not Published",
+  "serializeDate": "26th April 2022 17:31:42",
+  "serialized": 1650994302483,
+  "serializedBy": "Steve Reeve",
+  "title": "National Football Stadium",
+  "description": "Estadio Nacional de Fútbol de Venezuela, Caracas - created in collaboration with Arup and schlaich bergermann und partner - is set in parkland on a hillside overlooking the Venezuelan capital.",
+  "date": "2013-ongoing",
+  "client": "Foundation Parque Hugo Chavez",
+  "location": "Caracas, Venezuela",
+  "longLat": "-66.938242 / 10.442437",
+  "constructionCost": "$ 325,000,000",
+  "typologies": [
+    "Sport & Arenas"
+  ],
+  "team": [
+    "Laurence Day",
+    "Vidal Fernandez",
+    "Tobi Frenzen",
+    "Dan Hanna",
+    "Ed Hiscock",
+    "James Leathem",
+    "Ramon Mendoza",
+    "Pedro Morales",
+    "Matilde Napoleao",
+    "Richard Rogers",
+    "Marian San Emeterio",
+    "Anna Sebastia",
+    "Simon Smithson",
+    "Soki So",
+    "Maria Taboada",
+    "Andrew Tyley",
+    "Zoe Webber"
+  ],
+  "partners": [
+    "Simon Smithson"
+  ],
+  "leaders": [
+    "Vidal Fernandez Diez"
+  ],
+  "overview": "Estadio Nacional de Fútbol de Venezuela, Caracas - created in collaboration with engineering firms Arup and schlaich bergermann und partner - is set in parkland on a hillside overlooking the Venezuelan capital.\n\nRSHP’s first football stadium is the result of an initial approach by Mayor Jorge Rodriguez to look at the design of a new bus station and masterplan for the area known as La Rinconada 8.5km south-west of the capital. This masterplan includes a transport interchange (linking a new bus station with existing metro and train stations) and also establishes a new metropolitan park protecting the surrounding hillsides from further development. Within the park, existing sports facilities, including the listed Arthur Froehlich-designed racecourse, will now be augmented by a new baseball stadium, a geodesic dome for events and a colourful 50,000 capacity bowl-shaped national football stadium, providing a new focus for leisure activities in the city and an additional eight hectares of public space.\n\n\nThe football stadium, which features terraces cut into the hillside that give way to a series of floating esplanades providing access to the various levels, is a lightweight addition to the surrounding topography with deliberate gaps left in the structure to provide spectacular views of the city to the northeast. A brightly-coloured bicycle wheel canopy roof hovers over the complex, which will be FIFA certified and play host to Caracas FC.",
+  "dimensions": [
+    {
+      "elementId": "web:area",
+      "label": "Area",
+      "value": "121,000m²"
+    }
+  ],
+  "companies": [
+    {
+      "elementId": "web:structuralEngineer",
+      "label": "Structural Engineer",
+      "value": "Arup / schlaich bergermann und partner"
+    },
+    {
+      "elementId": "web:landscapeArchitect",
+      "label": "Landscape Architect",
+      "value": "Arquitectura y Agronomia"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "type": "Project",
+  "id": "11250",
+  "notes": "Not Published",
+  "serializeDate": "26th April 2022 17:38:30",
+  "serialized": 1650994710313,
+  "serializedBy": "Steve Reeve",
+  "title": "Shanghai Sijing",
+  "description": "Located in a historical town on the outskirts of Shanghai, Sijing is 40 minutes from the city’s CBD.",
+  "date": "2016-",
+  "client": "Gree Real Estate",
+  "location": "Shanghai, China",
+  "longLat": "121.2560707 / 31.1250084",
+  "constructionCost": "570 million RMB (Estimated)",
+  "typologies": [
+    "Residential"
+  ],
+  "team": [
+    "Ann Au",
+    "Torsten Burkhardt",
+    "Simon Davis",
+    "Alexandria Fu",
+    "Ben Goble",
+    "Lennart Grut",
+    "Ivan Harbour",
+    "Taylor Huggins",
+    "Matt Jackson",
+    "Pei-Yi Lin",
+    "Elisabeth Low",
+    "Ann Miller",
+    "Vajini Pannila",
+    "Richard Rogers",
+    "Marco Tessaro",
+    "Ben Warner",
+    "Siyang Yu",
+    "Yue Zheng",
+    "Ruby Zhou"
+  ],
+  "partners": [
+    "Ivan Harbour",
+    "Ben Warner",
+    "Lennart Grut"
+  ],
+  "leaders": [
+    "Torsten Burkhardt"
+  ],
+  "overview": "Located in a historical town on the outskirts of Shanghai, Sijing is 40 minutes from the city’s CBD. Two metro lines and several expressways have helped attract young professionals to the area thanks to an easy commute, thus creating residential development opportunities.\n\nRSHP's brief was to design a series of compact apartments, 80% of which were required to be under 100sqm. The residential unit types vary from studios to three-bedroom apartments and duplex penthouses whilst 5% of the development is public housing.\n\n\nThe project comprises nine residential towers, ranging from eleven to fifteen stories, each with a different rooftop configuration creating a dynamic skyline. These roofs also form a series of terraces providing additional outdoor space for residents.\n\nThe tower geometry is a direct response to the south facing orientation preferred in the Chinese residential market. Four storey high podium bars at various lengths extend like fingers to both sides of the towers, defining the ground floor spaces and creating various intimate pocket gardens. Each pocket garden is assigned a locally relevant and site-specific theme, catering for both family play and quiet contemplation.\n\n\nThe Sijing masterplan is defined by diagonal access routes across the site, linking various pedestrian entrances to the centre of the site. Retail spaces, health and sports amenities and a club house at the heart of the development provide an animated series of social spaces for residents. The main pedestrian axis is also enhanced by carefully crafted landscaping, interwoven with delicate water features echoing the region’s water heritage.The clubhouse and retail pavilion sit in harmony with the towers creating a lively urban quarter of distinct character.",
+  "dimensions": [
+    {
+      "elementId": "XLA0uo9bikCZClyA6d8vjQ",
+      "label": "Floors",
+      "value": "4 – 15 floors (varies)"
+    },
+    {
+      "elementId": "web:siteArea",
+      "label": "Site Area",
+      "value": "32 600 m²"
+    }
+  ],
+  "companies": [
+    {
+      "elementId": "web:structuralEngineer",
+      "label": "Structural Engineer",
+      "value": "Schlaich Bergmann Partner"
+    },
+    {
+      "elementId": "web:servicesEngineer",
+      "label": "Services Engineer",
+      "value": "LDI Jonson"
+    },
+    {
+      "elementId": "web:projectManager",
+      "label": "Project Manager",
+      "value": "Shanghai Jianke Project Management"
+    },
+    {
+      "elementId": "web:landscapeArchitects",
+      "label": "Landscape Architects",
+      "value": "Gustafson Porter + Bowman"
+    },
+    {
+      "elementId": "web:co-architect",
+      "label": "Co-architect",
+      "value": "CDI Tokyo; LDI Jonson"
+    },
+    {
+      "elementId": "web:contractor",
+      "label": "Contractor",
+      "value": "China Construction Third Engineering Bureau"
+    }
+  ]
+}

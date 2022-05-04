@@ -1,0 +1,82 @@
+{
+  "type": "Project",
+  "id": "10620",
+  "notes": "Not Published",
+  "serializeDate": "27th April 2022 15:31:19",
+  "serialized": 1651073479430,
+  "serializedBy": "Steve Reeve",
+  "title": "Centre de conservation du Louvre à Liévin",
+  "description": "RSHP won an international competition to design a new collections facility for the Louvre in 2015. The facility is designed to integrate storage and conservation of more than 250,000 works of art that are currently distributed between 60 different locations around France. The winning proposals create an environmentally sensitive and elegantly understated facility emerging discretely from the landscape.",
+  "date": "2015-2019",
+  "client": "Musee du Louvre / Région Hauts de France",
+  "location": "Liévin, France",
+  "longLat": "2.804547 / 50.431529",
+  "constructionCost": "€ 35 million",
+  "typologies": [
+    "Culture & Leisure"
+  ],
+  "team": [
+    "Ainhoa Abreu Diaz",
+    "Stephen Barrett",
+    "Tobi Frenzen",
+    "Lennart Grut",
+    "Alex Kitching",
+    "Mathias Koester",
+    "Kinga Koren",
+    "Nina Manchorova",
+    "John McElgunn",
+    "Theo Pagnon",
+    "Ceclia Pineiro-Lopez",
+    "Nicolas Salthouse",
+    "Graham Stirk",
+    "James White",
+    "Andrew Yek"
+  ],
+  "partners": [
+    "Graham Stirk",
+    "Lennart Grut",
+    "John McElgunn"
+  ],
+  "leaders": [
+    "Cecilia Pineiro-Lopez",
+    "Hamish Crockett",
+    "Theo Pagnon"
+  ],
+  "overview": "RSHP won an international competition to design a new collections facility for the Louvre in 2015. The facility is designed to integrate storage and conservation of more than 250,000 works of art that are currently distributed between 60 different locations around France. The winning proposals create an environmentally sensitive and elegantly understated facility emerging discretely from the landscape.\n\nThe conservation and storage centre, comprising 20,000 square metres of space, is located in Liévin in northern France, alongside the recently opened Louvre-Lens by Sanaa architects.\n\nTaking advantage of the natural slope in the terrain, the building emerges seamlessly from the landscape, defined by two pairs of concrete walls, reminiscent of the French military architecture of Vauban. Its green roof forms a gently-sloped visual extension to the Louvre Lens park, and a natural link in a green arc connecting Liévin to Lens itself.\n\nThe facility provides a counterpoint to the transparent and ephemeral museum building by Sanaa, exploring the expressive potential of what is hidden and what is revealed. At the front of the building, double height windows bring light into study and conservation workspaces, with a mezzanine floor for offices at one end. As well as enhancing the working environment, these windows allow glimpses through the trees into the inner workings of this private facility and create a buffer zone between storage spaces and street. Sliding screens allow for additional flexibility of use and separate these workspaces from a top-lit central corridor – the internal ‘Boulevard des Arts’ that traverses the building and serves as its principal circulation space.\n\n\nOn the other side of this main axis, a sequence of storage spaces beneath an arched roof are arranged on a single level and reduce in height from six metres to three metres, in a direct response to the needs of the collection. All services are housed within the volume created by the external twin walls, ensuring the future flexibility of the collection spaces that remain completely clear.\n\nAs a secure, semi-buried facility, the choice of concrete as a construction material was a logical one. The system employed also privileged the off-site fabrication of standardized modular components which served to minimize waste, optimize efficiencies and economies of scale and reduce the amount of material use. Importantly the use of concrete also provides the building with thermal mass, a key component of the building’s environmental strategy.\n\nWorking in tandem with cutting edge technology, the inertia provided by the surrounding soil into which the building is embedded as well as by its concrete construction ensures thermal stability and provides optimal climatic conditions for the storage of art as well as reducing the environmental impact of the building. Not only does the building envelope provide extremely high levels of thermal insulation but the airtightness provided by the facility is equivalent to 4 times those required by Passivhaus standards. A system of perforated metal ducts with variable flow rate are calibrated to allow an internal air mixing of 30 vol/h for the supply and mixing of the air within the storage spaces. This ensures the high degree of control over both temperature and humidity that the storage and conservation of precious cultural artefacts requires.\n\n\nDespite the extremely high performance of the building envelope, natural daylight is provided to all working spaces, from the restoration workshops to the loading bays. The design of these environments contributes not only to supporting the world-leading activities the building houses but also to the wellbeing of the staff: Large well-lit and well-ventilated spaces benefit from a level of attention to detail that ranges from the selection of materials, air quality and ventilation as well as acoustic design.\n\nWater management is also fully integrated into the landscape and flood risk minimized with the presence onsite water infiltration with decantation ponds and natural basins. The roof of the building appears in the landscape as a natural meadow, ensuring the continuity of the bio-diverse green corridor in which the building is embedded, irrigated by rainwater captured, recycled and stored on site.\n\nVehicle access is submerged below the landscaping, enabling easy loading and unloading of the artworks, and ensuring segregation of access for goods vehicles and the staff working in the facility (researchers, curators and scientists).\n\nThe building housing this world-class facility not only seeks to limit its visual impact in the landscape but through, intelligent passive design, minimize its environmental footprint.",
+  "dimensions": [
+    {
+      "elementId": "web:area",
+      "label": "Area",
+      "value": "20 000 m²"
+    }
+  ],
+  "companies": [
+    {
+      "elementId": "web:technicalConsultancy",
+      "label": "Technical Consultancy",
+      "value": "Egis Bâtiments Nord"
+    },
+    {
+      "elementId": "web:environmentalConsultancy",
+      "label": "Environmental Consultancy",
+      "value": "Inddigo SAS"
+    },
+    {
+      "elementId": "web:quantitySurveyor",
+      "label": "Quantity Surveyor",
+      "value": "VPEAS SAS"
+    },
+    {
+      "elementId": "web:landscapeArchitect",
+      "label": "Landscape Architect",
+      "value": "Mutabilis Paysage"
+    }
+  ],
+  "awards": [
+    {
+      "rowId": "1",
+      "year": "2020",
+      "award": "Prix de l’Equerre d’Argent - finalist"
+    }
+  ]
+}

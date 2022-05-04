@@ -1,0 +1,93 @@
+{
+  "type": "Project",
+  "id": "10690",
+  "notes": "Not Published",
+  "serializeDate": "26th April 2022 17:36:17",
+  "serialized": 1650994577555,
+  "serializedBy": "Steve Reeve",
+  "title": "Taoyuan Airport T3",
+  "description": "The design for Taoyuan Terminal 3 synthesises the practice’s previous major airport experience with the specific brief.",
+  "date": "2015-ongoing",
+  "client": "Taoyuan International Airport Corporation",
+  "location": "Taipei, Taiwan",
+  "longLat": "121.234958 / 25.079800",
+  "typologies": [
+    "Transport"
+  ],
+  "team": [
+    "Luca D'Amico",
+    "Benjamin Darras",
+    "Da Feng",
+    "Vidal Fernandez Diez",
+    "Tobi Frenzen",
+    "Lennart Grut",
+    "Nandi Han",
+    "Ivan Harbour",
+    "Jon Mercer",
+    "Mariola Merino",
+    "Mark Ng",
+    "Joseph Park",
+    "Andrew Tyley",
+    "Ben Warner",
+    "Toby Tinsley",
+    "Simon Smithson",
+    "Pedro Morales",
+    "Ming-Yi Lin",
+    "David Weng",
+    "Marcie Lu",
+    "Jason Chang"
+  ],
+  "partners": [
+    "Ivan Harbour",
+    "Simon Smithson"
+  ],
+  "leaders": [
+    "Andrew Tyley",
+    "Georgina Robledo"
+  ],
+  "overview": "The design for Taoyuan Terminal 3 synthesises the practice’s previous major airport experience with the specific brief. It has brought together the flexibility of the single span, loose fit volume of Heathrow Terminal 5 with the warmth and human qualities of the flowing interior spaces of Barajas Terminal 4. The result is a unique, dynamic and fluid architecture that allows for easy adaption and future transformation of airport functions without compromising the passenger experience or the architectural integrity.\n\nThe RSHP proposal is inherently simple in its concept. The design is inspired by Taiwan’s beautiful landscapes, the seas surrounding it, its rhythms of nature and life to create a series of unique interior places designed for their purpose and protected beneath an elegant hard shell roof. Within, a soft inner surface is malleable and dynamic to celebrate and form the ever changing spaces below.\n\n\nThe nature of the interior spaces whether grand, intimate, uniform or dramatic and the extent of those spaces too can be changed. This adjustable scaling will give passengers spatial clarity in all areas; large, small, busy or quiet, to reduce stress and improve wellbeing and comfort. This flexibility ensures the airport is always at its best and suitably presented as the principal gateway to and from Taiwan to the rest of the world.\n\nThis terminal will be the first of a new generation, a highlight in the journey for new and seasoned travellers alike. It will offer arriving passengers an equality of spatial experience to those departing. Its rational plan arrangement is forecast to deliver minimum connection times of just 40 minutes, the best in the region, with simple way-finding and airside connectivity.",
+  "dimensions": [
+    {
+      "elementId": "web:grossArea",
+      "label": "Gross Area",
+      "value": "640 000 m²"
+    }
+  ],
+  "companies": [
+    {
+      "elementId": "web:co-architect",
+      "label": "Co-Architect",
+      "value": "Fei & Cheng Associates"
+    },
+    {
+      "elementId": "web:structuralEngineer",
+      "label": "Structural Engineer",
+      "value": "CECI Engineering Consultants / Arup"
+    },
+    {
+      "elementId": "web:landscapeArchitect",
+      "label": "Landscape Architect",
+      "value": "Gillespies"
+    },
+    {
+      "elementId": "web:retailArchitect",
+      "label": "Retail Architect",
+      "value": "The Design Solution"
+    },
+    {
+      "elementId": "web:baggageHandlingConsultants",
+      "label": "Baggage Handling Consultants",
+      "value": "BNP Associates"
+    },
+    {
+      "elementId": "web:aviationServices",
+      "label": "Aviation Services",
+      "value": "Fraport"
+    },
+    {
+      "elementId": "web:transportConsultant",
+      "label": "Transport Consultant",
+      "value": "OTC"
+    }
+  ]
+}

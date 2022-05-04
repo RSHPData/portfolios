@@ -1,0 +1,59 @@
+{
+  "type": "Project",
+  "id": "06740",
+  "notes": "Not Published",
+  "serializeDate": "27th April 2022 15:07:37",
+  "serialized": 1651072057128,
+  "serializedBy": "Steve Reeve",
+  "title": "425 Park Avenue",
+  "description": "Just two blocks away from Mies van der Rohe’s iconic Seagram Building, RSHP’s design for 425 Park Avenue is a contemporary homage to New York’s rich heritage of skyscrapers, setting a course for the next chapter in their illustrious story.",
+  "date": "2012",
+  "client": "L&L Holding Company",
+  "location": "New York, USA",
+  "longLat": "-73.971059 / 40.760632",
+  "typologies": [
+    "Office"
+  ],
+  "team": [
+    "Kelly Darlington",
+    "Simon Davis",
+    "John Dent",
+    "Mike Fairbrass",
+    "Vidal Diez Fernandez",
+    "Tobi Frenzen",
+    "Martha Gale",
+    "Sarah Gaventa",
+    "Gianmaria Givanni",
+    "Ed Hiscock",
+    "Anja Kempa",
+    "Anthony Lau",
+    "Andrew Morris",
+    "Graham Stirk",
+    "Richard Rogers",
+    "Alleen Siu",
+    "Andrew Yek",
+    "Elizabeth Young"
+  ],
+  "partners": [
+    "Graham Stirk",
+    "Andrew Morris"
+  ],
+  "leaders": [
+    "Simon Davis"
+  ],
+  "overview": "Just two blocks away from Mies van der Rohe’s iconic Seagram Building, RSHP’s design for 425 Park Avenue is a contemporary homage to New York’s rich heritage of skyscrapers, setting a course for the next chapter in their illustrious story. Rogers Stirk Harbour + Partners’ solution acknowledges the design attributes of its neighbours on Park Avenue, but brings new qualities: honest expression; generosity; efficiency and humanity.\n\nCommissioned through a limited design competition, RSHP’s design offers 53,000 square metres of space, clearly expressing the process of construction in its 44 storey steel frame, which stretches 200m into the sky. But the design also brings human scale and articulation, breaking the mass of the building through the insertion of four west-facing sky gardens for the building’s users that offer perspectives over Central Park and the metropolis, as well as providing visual interest and a sense of scale for passers-by.\n\n\nThe sky gardens reconnect workers and the city with nature, by using different American landscape ecologies, from forest to alpine, to suit the different altitudes of each garden. A generous open space at ground level gives visitors to the building and passing members of the public a retreat from the busy urban street, with reception on the second floor and a restaurant above, overlooking the landscaped open space and the constantly-changing tableau of one of the world’s great thoroughfares.\n\nThe building is serviced from the rear, with external glass escalators adding dynamism and enabling an extremely flexible and efficient interior layout, with minimal interruption to views across office floors, and out to the city beyond. Environmental performance is optimised through the use of solar panels, natural light and ventilation systems, and the use of green roofs and natural planting.\n\nIt is a tower that works both at the skyline and street level, has a unique rhythm, and sets a new architectural bench mark for both Park Avenue and the great American skyscraper.",
+  "dimensions": [
+    {
+      "elementId": "web:area",
+      "label": "Area",
+      "value": "570 677 ft²"
+    }
+  ],
+  "companies": [
+    {
+      "elementId": "web:structuralEngineer",
+      "label": "Structural Engineer",
+      "value": "Arup"
+    }
+  ]
+}

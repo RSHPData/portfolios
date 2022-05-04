@@ -1,0 +1,100 @@
+{
+  "type": "Project",
+  "id": "10590",
+  "notes": "Not Published",
+  "serializeDate": "27th April 2022 15:30:43",
+  "serialized": 1651073443774,
+  "serializedBy": "Steve Reeve",
+  "title": "RSHP Studio in The Leadenhall Building",
+  "description": "After 30 years based at Thames Wharf in Hammersmith West London, the practice has moved to The Leadenhall Building, to a new studio that better suits the practice as it is now.",
+  "date": "2015",
+  "client": "Rogers Stirk Harbour + Partners",
+  "location": "London, UK",
+  "longLat": "-0.0817047 / 51.5142558",
+  "constructionCost": "Contract Value (including IT provision) £2.3 million",
+  "typologies": [
+    "Office"
+  ],
+  "team": [
+    "Ian Birtles",
+    "Maurice Brennan",
+    "Will Clayton",
+    "Seamus Conway",
+    "Kelly Darlington",
+    "Veronika Gilwa",
+    "Lennart Grut",
+    "Ivan Harbour",
+    "Dan Hanna",
+    "Ed Hiscock",
+    "Emily Maisey",
+    "Andrew Morris",
+    "Richard Paul",
+    "Mark Read",
+    "Richard Rogers",
+    "Annabel Rootes",
+    "Simon Smithson",
+    "Graham Stirk",
+    "Willem Kok",
+    "Andrew Yek",
+    "Andy Young"
+  ],
+  "partners": [
+    "Graham Stirk",
+    "Ivan Harbour",
+    "Richard Rogers",
+    "Andrew Morris"
+  ],
+  "leaders": [
+    "Maurice Brennan"
+  ],
+  "overview": "After 30 years based at <a href=\"projects/office/thames-wharf-studios/\">Thames Wharf</a> in Hammersmith West London, the practice has moved to <a href=\"projects/office/the-leadenhall-building/\">The Leadenhall Building</a>, to a new studio that better suits the practice as it is now.\n\nIt sought an office space that could accommodate all its 200 staff on one floor, in order to promote communication and collaborative working. Level 14 of the RSHP designed Leadenhall Building gave the opportunity to do just this.\n\nThe fit-out design was undertaken in-house and reinterprets the design philosophy of the practice as flexible, legible space. The structure of the soffit and services are exposed, rather than using a suspended ceiling, and the full height of the space is revealed giving a greater sense of internal volume. In doing so, the materiality of the building becomes evident in the interior. The lighting design, by Speirs and Major is responsive to user needs, changing in tone through the day to mimic circadian patterns and promote wellbeing.\n\n\nThe studios are grouped to the south, giving sight lines across the whole studio, and beyond to St Paul’s Cathedral, Canary Wharf and Lloyd’s of London. Desks are arranged in three groups aligned to each of the façades, giving the best aspect for all staff. The more highly serviced areas to the north are closer to the service core. Generous circulation space and a large kitchen give opportunities for chance encounters and informal conversations. A large central meeting area, open on three sides and visible to all, provides flexible space capable of hosting either a number of small meetings; the weekly Monday Design Forum, open to all staff; or lectures and events for up to 200 people.\n\nThe modelshop is located by the front door in the main studio space and the entrance is lined with architectural models, exhibiting the work of the practice to visitors. Additionally, the servers are exposed as integral parts of the life of the practice.\n\nThere are no cellular offices at RSHP, reflecting the democratic philosophy of the practice. Instead, the corners are given over to quiet space, for meetings, reflection and relaxation.",
+  "dimensions": [
+    {
+      "elementId": "WVvwpYIJTEuCKULdwxZ8PA",
+      "label": "Height",
+      "value": "3.7m"
+    },
+    {
+      "elementId": "web:area",
+      "label": "Area",
+      "value": "1620 m²"
+    }
+  ],
+  "companies": [
+    {
+      "elementId": "web:structuralEngineer",
+      "label": "Structural Engineer",
+      "value": "Arup"
+    },
+    {
+      "elementId": "web:servicesEngineer",
+      "label": "Services Engineer",
+      "value": "Arup"
+    },
+    {
+      "elementId": "web:lightingConsultant",
+      "label": "Lighting Consultant",
+      "value": "Speirs + Major"
+    },
+    {
+      "elementId": "web:landscapeArchitect",
+      "label": "Landscape Architect",
+      "value": "Dan Pearson Studio"
+    },
+    {
+      "elementId": "web:contractor",
+      "label": "Contractor",
+      "value": "Ruddy Joinery and Fit Out"
+    },
+    {
+      "elementId": "web:meContractor",
+      "label": "M and E Contractor",
+      "value": "BPI"
+    },
+    {
+      "elementId": "web:itConsultants",
+      "label": "IT Consultants",
+      "value": "Modern Networks / Cordless"
+    }
+  ]
+}

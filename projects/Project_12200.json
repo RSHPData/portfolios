@@ -1,0 +1,143 @@
+{
+  "type": "Project",
+  "id": "12200",
+  "notes": "Not Published",
+  "serializeDate": "26th April 2022 17:43:39",
+  "serialized": 1650995019546,
+  "serializedBy": "Steve Reeve",
+  "title": "Fubon Renai",
+  "description": "A new commercial tower located on the corner of Renai Road and Jianguo Road in Taipei, Taiwan for our clients Fubon Insurance and Fubon Securities. \nFubon Financial Holding Co. is a large financial investment holding company with numerous subsidiaries. The building will serve as the headquarters for their Property and Casualty Insurance divisions.\nThe site is where Fubon was founded by the current Chairmen’s father so it is a significant building for the Chairmen Tsai Brothers and the company. \nThe building is 120m tall with 27000m2 GFA spread over 27 floors. \nFeaturing an eccentric braced frame, a concrete and steel structure, an articulated façade and an expressed external core.",
+  "date": "2019 - ongoing",
+  "client": "Fubon Insurance Co. Ltd",
+  "location": "Renai",
+  "longLat": "25.037561 / 121.538553",
+  "constructionCost": "3.5 billion NTD",
+  "typologies": [
+    "Office",
+    "Retail"
+  ],
+  "team": [
+    "Addy Lin",
+    "Ann Miller",
+    "Ben Warner",
+    "Benjamin Darras",
+    "Bevan Badenhorst",
+    "Boji Hu",
+    "Dan Hanna",
+    "Ed Hiscock",
+    "Ivan Harbour",
+    "Janos Katona",
+    "Luca D'Amico",
+    "Matthew Jackson",
+    "Patricia Andres",
+    "Pei-Yi Lin",
+    "Sim Yee Lee",
+    "Torsten Burkhardt",
+    "Alejandro Terron",
+    "Valentina Frieri",
+    "Kelly Darlington"
+  ],
+  "partners": [
+    "Ivan Harbour",
+    "Lennart Grut"
+  ],
+  "leaders": [
+    "Torsten Burkhardt",
+    "Matthew Jackson"
+  ],
+  "overview": "A new commercial tower located on the corner of Renai Road and Jianguo Road in Taipei, Taiwan for our clients Fubon Insurance and Fubon Securities. \nFubon Financial Holding Co. is a large financial investment holding company with numerous subsidiaries. The building will serve as the headquarters for their Property and Casualty Insurance divisions.\nThe site is where Fubon was founded by the current Chairmen’s father so it is a significant building for the Chairmen Tsai Brothers and the company. \nThe building is 120m tall with 27000m2 GFA spread over 27 floors. \nFeaturing an eccentric braced frame, a concrete and steel structure, an articulated façade and an expressed external core.",
+  "dimensions": [
+    {
+      "elementId": "WVvwpYIJTEuCKULdwxZ8PA",
+      "label": "Height",
+      "value": "120m"
+    },
+    {
+      "elementId": "XLA0uo9bikCZClyA6d8vjQ",
+      "label": "Floors",
+      "value": "29"
+    },
+    {
+      "elementId": "4LV+ykMQwEatdGmWpp1gIQ",
+      "label": "Building Top",
+      "value": "127.68m"
+    }
+  ],
+  "companies": [
+    {
+      "elementId": "deltek:claddingContractor",
+      "label": "Cladding Consultant",
+      "value": "CDC"
+    },
+    {
+      "elementId": "deltek:traffic",
+      "label": "Traffic Engineer",
+      "value": "Easygogo"
+    },
+    {
+      "elementId": "deltek:consultant",
+      "label": "Structural Engineer",
+      "value": "Hsin-Yeh Engineering Consultants Inc"
+    },
+    {
+      "elementId": "deltek:landscapeDesign",
+      "label": "Landscape Designer",
+      "value": "Motif"
+    },
+    {
+      "elementId": "deltek:fireConsultant",
+      "label": "Fire Consultant",
+      "value": "Taiwan Fire Service"
+    },
+    {
+      "elementId": "deltek:mEPConsultant",
+      "label": "MEP Consultant",
+      "value": "Techkey"
+    },
+    {
+      "elementId": "deltek:projectManager",
+      "label": "Project Manager",
+      "value": "Yu Tai Sheng"
+    },
+    {
+      "elementId": "DTQnWGJ2VEKMAirs5wdmqQ",
+      "label": "Structural Engineer - Lead",
+      "value": "WEB Structures"
+    },
+    {
+      "elementId": "5jo1fWxlNEaTg5E8kcJ9wA",
+      "label": "LEED Consultant",
+      "value": "ARUP"
+    },
+    {
+      "elementId": "L0BKtAHsEESrDyo1vPxoBw",
+      "label": "Vertical Transportation Consultant",
+      "value": "ARUP"
+    },
+    {
+      "elementId": "GIxXjyxSv0Cnc7UnhInhnQ",
+      "label": "Lighting Designer",
+      "value": "CMA"
+    },
+    {
+      "elementId": "sOYcoN9g1E+a6bs8ys34TA",
+      "label": "Executive Architect",
+      "value": "HOY"
+    },
+    {
+      "elementId": "5Jcpw3edUUSDPiJ+m6/rZw",
+      "label": "General Contractor",
+      "value": "Dacin"
+    },
+    {
+      "elementId": "UJ4uEde7v0qQs9ZjiALlsw",
+      "label": "Cladding Contractor",
+      "value": "SKLF"
+    },
+    {
+      "elementId": "j2wOn5eaFEWv7ZJAWP/bkQ",
+      "label": "Steelwork Contractor",
+      "value": "China Steel Corporation"
+    }
+  ]
+}

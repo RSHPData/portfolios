@@ -1,0 +1,105 @@
+{
+  "type": "Project",
+  "id": "12005",
+  "notes": "Not Published",
+  "serializeDate": "2nd May 2022 16:08:01",
+  "serialized": 1651507681423,
+  "serializedBy": "Steve Reeve",
+  "title": "Montparnasse Masterplan",
+  "description": "In 2019, Rogers Stirk Harbour + Partners led the winning team for this competition run by the City of Paris, launched in tandem with the co-owners of the existing complex, the EITMM.",
+  "date": "2019-",
+  "client": "Ville de Paris",
+  "location": "Paris, France",
+  "longLat": "2.330387 / 48.839228",
+  "typologies": [
+    "Masterplanning"
+  ],
+  "team": [
+    "Stephen Barrett",
+    "Jonathan Bouris",
+    "Nicola Carnevali",
+    "Kelly Darlington",
+    "Benjamin Darras",
+    "Christophe Dembinski",
+    "Sebastien Gey",
+    "Jean-Baptiste Gilles",
+    "Ed Hiscock",
+    "Alex Kitching",
+    "Samantha Maurel",
+    "Kyle McGuinness",
+    "Bridget Munro",
+    "Cira Oller Katarzyna Penar",
+    "Cecilia Pineiro-Lopez",
+    "Dan Rogers",
+    "Amabel Richardson",
+    "Emily Wilkinson",
+    "Sim Yee Lee"
+  ],
+  "partners": [
+    "Stephen Barrett",
+    "Lennart Grut"
+  ],
+  "leaders": [
+    "Stephen Barrett"
+  ],
+  "overview": "In 2019, Rogers Stirk Harbour + Partners (RSHP) led the winning team for this competition run by the City of Paris, launched in tandem with the co-owners of the existing complex, the EITMM.\n\nThe project aims to radically transform this pivotal neighbourhood of more than 9 hectares, bordering both the Montparnasse station and Tower, by opening up the existing buildings on the site, creating new routes and vistas across the previously impassable and introverted shopping centre that currently dominates the approach to the station.\n\nBy rethinking traffic flows across the site, the project proposes the significant pedestrianisation of the streets in the neighbourhood, facilitating wayfinding, walking and cycling. As part of the low-carbon vision for this emblematic Parisian hub, more than 1,500 trees will be planted, creating 10,000m² of green space as part of an “urban forest” conceived by Michel Desvigne Paysagiste.\n\n\nThe project also proposes a renewal of the site through a strategy of diversification with a range of new residential, office, cultural and sporting amenities serving to strengthen the mix and resilience on the site, as well as seeking to animate and refresh its identity. The proposed phasing strategies seek to safeguard the scalability of the proposals, limiting their impacts and enabling the gradual transformation of a neighbourhood in flux.\n\nThe plinth formed by the shopping centre is opened up, revealed and made more accessible. The commercial offer is redeployed in the form of a pedestrian street that is open to the sky and organized to reflect pedestrian movements across the site.\n\n\nOur proposal is based on a contemporary reinterpretation of Haussmann, delivering a sensitive, dynamic urban plan based on desire lines and thereby reflecting the movement of people across the site.\n\nAnne Hidalgo, Mayor of Paris said of our proposal: “Our challenge is to transform modernist urbanism of the 1950s and 1970s, to recompose and reconstitute this urban landscape in keeping with Paris’s fabric and with our climate commitments ”.",
+  "dimensions": [
+    {
+      "elementId": "XLA0uo9bikCZClyA6d8vjQ",
+      "label": "Floors",
+      "value": "Typically 6. Landmark Building 8"
+    },
+    {
+      "elementId": "web:siteArea",
+      "label": "Site Area",
+      "value": "9ha"
+    },
+    {
+      "elementId": "web:builtArea",
+      "label": "Built Area",
+      "value": "40 - 60 000m² (on-going)"
+    }
+  ],
+  "companies": [
+    {
+      "elementId": "web:co-architect",
+      "label": "Co-Architect",
+      "value": "Lina Ghotmeh Architecture"
+    },
+    {
+      "elementId": "web:urbanPlanning/Brief",
+      "label": "Urban Planning/Brief",
+      "value": "Une Fabrique de la Ville"
+    },
+    {
+      "elementId": "web:engineering",
+      "label": "Engineering",
+      "value": "Ingérop"
+    },
+    {
+      "elementId": "web:landscapeArchitect",
+      "label": "Landscape Architect",
+      "value": "Michel Desvignes Paysagiste"
+    },
+    {
+      "elementId": "web:sustainabilityConsultant",
+      "label": "Sustainability Consultant",
+      "value": "Franck Boutté Consultants"
+    },
+    {
+      "elementId": "web:legalConsultant",
+      "label": "Legal Consultant",
+      "value": "SCET"
+    },
+    {
+      "elementId": "web:costConsultant",
+      "label": "Cost Consultant",
+      "value": "CEI"
+    },
+    {
+      "elementId": "web:mobilityAndFlowConsultant",
+      "label": "Mobility and Flow Consultant",
+      "value": "Systematica"
+    }
+  ]
+}

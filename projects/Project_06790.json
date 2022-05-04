@@ -1,0 +1,118 @@
+{
+  "type": "Project",
+  "id": "06790",
+  "notes": "Not Published",
+  "serializeDate": "26th April 2022 17:28:16",
+  "serialized": 1650994096857,
+  "serializedBy": "Steve Reeve",
+  "title": "Terminal 1, Lyon-Saint Exupéry Airport",
+  "description": "The brief for the project was challenging: to extend a distinctive group of existing terminal buildings in order to provide additional stands and improved passenger facilities.",
+  "date": "2013-2018",
+  "client": "Aéroports de Lyon",
+  "location": "Lyon, France",
+  "longLat": "5.077658 / 45.716817",
+  "constructionCost": "€180 million​",
+  "typologies": [
+    "Transport"
+  ],
+  "team": [
+    "Ad Aderet",
+    "Stephen Barrett",
+    "Annie Castle",
+    "Matt Cooper",
+    "Hamish Crockett",
+    "Philip Dennis",
+    "John Dent",
+    "Steven Dijkuizen",
+    "Elisabeth Du Souich",
+    "Maria Golasowska",
+    "Lennart Grut",
+    "Daniel Holmes",
+    "Taylor Huggins",
+    "Anja Kempa",
+    "John Kennedy",
+    "Mathias Koester",
+    "Kinga Koren",
+    "Amy Learmonth",
+    "Stephen Light",
+    "Cris Mitry",
+    "Colin Moriarty",
+    "Borja Muguiro",
+    "Ben Nicholls",
+    "Kevin O'Brien",
+    "Theo Pagnon",
+    "Louise Palomba",
+    "Cecilia Pineiro-Lopez",
+    "Aleksandrina Rizova",
+    "Richard Rogers",
+    "Marian San Emeterio",
+    "Alleen Siu",
+    "Graham Stirk",
+    "Kristina Tafa",
+    "James White",
+    "Daniel Wright",
+    "Andrew Yek"
+  ],
+  "partners": [
+    "Graham Stirk",
+    "Lennart Grut"
+  ],
+  "leaders": [
+    "Stephen Barrett",
+    "Ad Aderet"
+  ],
+  "overview": "The brief for the project was challenging: to extend a distinctive group of existing terminal buildings in order to provide additional stands and improved passenger facilities.\n\nIt was important that the proposals should create a new identity for the airport, yet respect the original architecture and complement the nearby TGV train station, designed by Santiago Calatrava.\n\nRogers Stirk Harbour + Partners’ (RSHP) competition winning solution is a circular building made up of bold, simple and elegant structural elements which extends, and gives a new focus to, the existing airport whilst offering future flexibility, adaptability and potential for growth.\n\n\nThrough a phased development until 2020, the scheme will nearly double the size of the airport, enabling it to welcome an additional five million passengers annually. Connecting directly to the existing terminal 1, the curved form is extended into a new circular terminal which will offer a spacious and clearly defined entrance, a large shopping area and hanging garden at the centre, which will enrich the travelling experience for passengers. The angled facade allows passengers to take advantage of natural light and views over landscaped gardens and the airfield, whilst providing solar shading and protecting against solar gain.\n\nA modular approach to the design and construction of the building responds to important economic constraints but will also harness the quality and speed of construction inherent in prefabricated construction techniques.",
+  "dimensions": [
+    {
+      "elementId": "web:totalArea",
+      "label": "Total Area",
+      "value": "70 000 m²"
+    }
+  ],
+  "companies": [
+    {
+      "elementId": "web:co-architect",
+      "label": "Co-Architect",
+      "value": "Chabanne & Partenaires"
+    },
+    {
+      "elementId": "web:structuralEngineer",
+      "label": "Structural Engineer",
+      "value": "Bouygues Bâtiment Sud Est"
+    },
+    {
+      "elementId": "web:mechanicalEngineer",
+      "label": "Mechanical Engineer",
+      "value": "WSP"
+    },
+    {
+      "elementId": "web:electricalEngineer",
+      "label": "Electrical Engineer",
+      "value": "CAP Ingelec"
+    },
+    {
+      "elementId": "web:principalContractor",
+      "label": "Principal Contractor",
+      "value": "Bouygues Bâtiment Sud Est"
+    },
+    {
+      "elementId": "web:sustainabilityConsultant",
+      "label": "Sustainability Consultant",
+      "value": "Inddigo"
+    }
+  ],
+  "certificates": [
+    {
+      "rowId": "1",
+      "authority": "HQE",
+      "rating": "(France)"
+    }
+  ],
+  "awards": [
+    {
+      "rowId": "1",
+      "year": "2020",
+      "award": "Trophée Eiffel D'architecture Acier - Voyager category winner"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "type": "Project",
+  "id": "12605",
+  "notes": "Not Published",
+  "serializeDate": "27th April 2022 16:30:56",
+  "serialized": 1651077056509,
+  "serializedBy": "Steve Reeve",
+  "title": "Horse Soldier Farms",
+  "description": "Horse Soldier Farms is a bourbon distillery complex and visitor resort in Somerset, Kentucky, USA",
+  "date": "2020 -",
+  "client": "American Freedom Distillery, LLC",
+  "location": "Kentucky, USA",
+  "longLat": "-84.6376738560819 / 37.030419631500905",
+  "typologies": [
+    "Industrial"
+  ],
+  "team": [
+    "Ainhoa Abreu Diaz",
+    "Walid Bhatt",
+    "Jean Corona",
+    "John Dent",
+    "Heidi Gillett",
+    "Toby Jeavons",
+    "Anja Kempa",
+    "Adam Lampon",
+    "John McElgunn",
+    "Andrew Morris",
+    "Bridget Munro",
+    "Joanna Pencakowski",
+    "Graham Stirk",
+    "Andrew Yek"
+  ],
+  "partners": [
+    "Graham Stirk",
+    "John McElgunn"
+  ],
+  "leaders": [
+    "Toby Jeavons"
+  ],
+  "overview": "Horse Soldier Farms is a 227-acre masterplan, overlooking Lake Cumberland in Somerset, Kentucky, USA.\n\nAt the heart of the site is a bourbon distillery and production facility, comprising maturation warehouses, a bottling facility and finished logistics warehouse, which will produce between 3-5 million gallons of bourbon annually.\n\nThe distillery reflects the historic 12 Horse Soldiers story, including 12 fermentation vessels that circle the 54-foot column still. The Stillhouse is also articulated as an array of 12 inclined structural elements, reminiscent of the staves of a whiskey barrel under construction.\n\n\nThe inverse of the Stillhouse geometry is expressed in the form of an enclosed water garden called ‘The Everyday Heroes Gallery’. At the centre of this space is a replica of the Horse Soldier monument found near Ground Zero. When read together the two elements of the Stillhouse and the memorial water garden pay homage to the Twin Towers.\n\nThe primary built structures are simple long and low horizontal buildings, inspired by the traditional agricultural vernacular of barns and warehouses in Kentucky. These dominant forms, set amongst the undulating natural landscape, reinforce the salient lines and geometries of the site.\n\n\nBlack in colour, the warehouses and distillery echo the county’s traditional tobacco barns and provide a simple palette, which, along with the lush green landscape and accents of colour, are pertinent to the brand.\n\nA retail park, chapel, event centre, equestrian centre, community rooms, and health and wellness opportunities will welcome the estimated 200,000 annual visitors.\n\nA 60-room lodge complex with spa, will invite veterans, locals and bourbon connoisseurs to stay and reflect for longer.",
+  "dimensions": [
+    {
+      "elementId": "web:OYYt4GRsFEatt9fn87g7ag",
+      "label": "Site Area",
+      "value": "227 acres<br>"
+    }
+  ],
+  "companies": [
+    {
+      "elementId": "web:sr5TbaIE00uiVkR1JH088Q",
+      "label": "Architect of Record",
+      "value": "EOP Architects"
+    },
+    {
+      "elementId": "web:wDi4kivAGECSDZ0bdivAZg",
+      "label": "Structural Engineer",
+      "value": "Brown + Kubican"
+    },
+    {
+      "elementId": "web:1RoNaU1K2EuNyoCZNGso2Q",
+      "label": "Process Engineer",
+      "value": "VITOK"
+    },
+    {
+      "elementId": "web:/9dHuOGsr0KWSYLY44PCyg",
+      "label": "MEP Engineer",
+      "value": "CMTA, Inc."
+    },
+    {
+      "elementId": "web:Bgr0Dq6JAk+u1t481Mzhog",
+      "label": "Landscape and Civil Engineer",
+      "value": "Carman"
+    },
+    {
+      "elementId": "web:zeVauxcfm0a5PRQDiTmw3A",
+      "label": "Experiential Design",
+      "value": "BRC Imagination Arts"
+    },
+    {
+      "elementId": "web:35y88kCkuU6liCV8o51/gw",
+      "label": "Facilities Management",
+      "value": "CRM Companies"
+    },
+    {
+      "elementId": "web:3n5AJ05VI0eiAhBaNxzJig",
+      "label": "Contractor",
+      "value": "D.W. Wilburn, Inc."
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "Project",
+  "id": "06630",
+  "notes": "Not Published",
+  "serializeDate": "26th April 2022 17:25:58",
+  "serialized": 1650993958463,
+  "serializedBy": "Steve Reeve",
+  "title": "Kunming Competition",
+  "description": "The Camellia development is a major mixed-use development located in the centre of Kunming’s CBD. Flanked by the Ginko Department Store and Beijing Road.",
+  "date": "2011",
+  "client": "Hang Lung Properties",
+  "location": "Kunming City, China",
+  "longLat": "102.719863 / 25.039867",
+  "constructionCost": "5,280,365,450 RMB",
+  "typologies": [
+    "Mixed Use"
+  ],
+  "team": [
+    "Andrea Marini",
+    "Ben Warner",
+    "Cris Mitry",
+    "Davide Costa",
+    "Ed Hiscock",
+    "Jon Mercer",
+    "Joseph Park",
+    "Kairo Baden-Powell",
+    "Kelly Darlington",
+    "Mark Darbon",
+    "Mark Ng",
+    "Neil Southard",
+    "Richard Rogers",
+    "Stephen Spence",
+    "Tim Mason",
+    "Zoe Webber"
+  ],
+  "partners": [
+    "Ben Warner",
+    "Richard Rogers"
+  ],
+  "leaders": [
+    "Stephen Spence"
+  ],
+  "overview": "The Camellia development is a major mixed-use development located in the centre of Kunming’s CBD. Flanked by the Ginko Department Store and Beijing Road, a bustling commercial street in the city, the scheme capitalises on new levels of investment to the city’s economy by creating a centralised shopping experience with a commercial tower comprised of over 1.5million square foot of office space, alongside a residential tower offering quality apartments, all brought together by an integrated public realm.\n\nA network of modular steel frames link together floorplates of various scale and proportion to support the diverse set of functions it accommodates. Whilst the expressive structure gives nod to Kunming’s industrial heritage, the flexible framework it creates is designed with the future needs of this evolving hub in mind.\n\n\nThis landmark development is designed to take advantage of the city’s year-round mild weather, where a series of ground level parks, courtyards, roof and sky gardens define a well-connected, permeable public world along with private premises, with an aspiration to create a 24-hour living place, full of activities in daytime and evening, in an accessible, safe environment with an emphasis on well-being.\n\nThe scheme strives to be the cultivating ground for the rich diversity of native flora and fauna with active encouragement of birds creating a development that is a centre for sustainable excellence.",
+  "dimensions": [
+    {
+      "elementId": "XLA0uo9bikCZClyA6d8vjQ",
+      "label": "Floors",
+      "value": "72"
+    },
+    {
+      "elementId": "web:siteArea",
+      "label": "Site Area",
+      "value": "56 043 m²"
+    }
+  ],
+  "companies": [
+    {
+      "elementId": "web:costConsultant",
+      "label": "Cost Consultant",
+      "value": "Davis Langdon"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "type": "Project",
+  "id": "06780",
+  "notes": "Not Published",
+  "serializeDate": "27th April 2022 15:11:03",
+  "serialized": 1651072263344,
+  "serializedBy": "Steve Reeve",
+  "title": "Burlington Gate",
+  "description": "Burlington Gate is made up of apartments and galleries, as well as a new public space in the form of an arcade that runs from Old Burlington Street to Cork Street.",
+  "date": "2012-2017",
+  "client": "Native Land (Ten Acre (Mayfair) Two Limited)",
+  "location": "London, UK",
+  "longLat": "-0.141115 / 51.510608",
+  "typologies": [
+    "Residential"
+  ],
+  "team": [
+    "Matt Cooper",
+    "Jean Corona",
+    "Simon Davis",
+    "Laurence Day",
+    "Philip Dennis",
+    "John Dent",
+    "Ainhoa Diaz",
+    "Mike Fairbrass",
+    "Vidal Fernandez",
+    "Tobi Frenzen",
+    "Anja Kempa",
+    "Kinga Koren",
+    "Emily Lewith",
+    "Tim Mason",
+    "Cris Mitry",
+    "Andrew Morris",
+    "Borja Muguiro",
+    "Mark Ng",
+    "Dawid Panek",
+    "Laura Penman",
+    "Richard Rogers",
+    "Alleen Siu",
+    "Graham Stirk",
+    "Angela Tobin",
+    "Rion Willard",
+    "Andrew Yek",
+    "Annette Main"
+  ],
+  "partners": [
+    "Graham Stirk"
+  ],
+  "leaders": [
+    "Simon Davis"
+  ],
+  "overview": "Burlington Gate is made up of apartments and galleries, as well as a new public space in the form of an arcade that runs from Old Burlington Street to Cork Street. Not only does this project enhance the experience of London’s most established art gallery district, it also re-establishes the character of the Georgian streetscape with a contemporary building of the highest architectural quality.\n\nThe development is in the heart of Mayfair close to the Royal Academy and Burlington Arcade. The area was developed most extensively during the 18th Century and is typified by a hierarchy of streets and squares framed by close grained Georgian architecture. Successive eras of development have taken place and the area now has a great variety of architectural styles and scales.\n\n\nRSHP’s design has evolved through an analysis of the immediate and wider context, which has resulted in a sensitive scheme that responds to the height, scale and urban grain of its surroundings and provides a positive contribution to the streetscape of Old Burlington Street and Cork Street. The development comprises two linear buildings connected by a single translucent core that allows light into the heart of the scheme. The street facades are expressed in a series of bays in proportion to the nearby townhouses, restoring the prevalent urban grain. Inside, apartments are arranged so that the living areas face the streets and bedrooms face the internal light well, taking advantage of daylight as much as possible. At the upper levels, the façade is inclined and this setback responds to the surrounding roofscapes.\n\n\nThe materials for this project have been carefully selected to reflect the architectural heritage of the area. The main structural frame will be made up of high-quality reinforced concrete that contains a high proportion of crushed granite, basalt and mica aggregate. This dark background is broken up by a series of light stainless steel frames and matches the colour contrast of the surrounding brick facades with their white window frames. These stainless steel elements surround either windows or solid panels made up of handmade bricks, referring to the subtle modelling on the adjacent building exteriors.",
+  "dimensions": [
+    {
+      "elementId": "web:totalArea",
+      "label": "Total Area",
+      "value": "12 000 m²"
+    }
+  ],
+  "companies": [
+    {
+      "elementId": "web:structuralEngineer",
+      "label": "Structural Engineer",
+      "value": "Waterman Structures Limited"
+    },
+    {
+      "elementId": "web:servicesEngineer",
+      "label": "Services Engineer",
+      "value": "Waterman Building Services"
+    },
+    {
+      "elementId": "web:contractor",
+      "label": "Contractor",
+      "value": "Multiplex"
+    },
+    {
+      "elementId": "web:costConsultant",
+      "label": "Cost Consultant",
+      "value": "Core 5"
+    },
+    {
+      "elementId": "web:planningConsultant",
+      "label": "Planning Consultant",
+      "value": "DP9"
+    },
+    {
+      "elementId": "web:fireConsultant",
+      "label": "Fire Consultant",
+      "value": "Waterman"
+    }
+  ]
+}

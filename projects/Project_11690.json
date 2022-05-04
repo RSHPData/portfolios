@@ -1,0 +1,129 @@
+{
+  "type": "Project",
+  "id": "11690",
+  "notes": "Not Published",
+  "serializeDate": "27th April 2022 16:10:38",
+  "serialized": 1651075838712,
+  "serializedBy": "Steve Reeve",
+  "title": "Marian Place Bethnal Green",
+  "description": ".",
+  "date": "2018 -",
+  "client": "St William Homes LLP",
+  "location": "London, UK",
+  "longLat": "-0.061724539814304785 / 51.53424062905374",
+  "typologies": [
+    "Residential"
+  ],
+  "team": [
+    "Lily Amar",
+    "Uday Berry",
+    "Alessandro Blasucci",
+    "Maurice Brennan",
+    "Jean Corona",
+    "Luca D'Amico",
+    "Kelly Darlington",
+    "John Dent",
+    "Sandra Goddard",
+    "Katherine Hegab",
+    "Ed Hiscock",
+    "Toby Jeavons",
+    "Will Jefferies",
+    "Anja Kempa",
+    "John Kennedy",
+    "Adam Lampon",
+    "Stephen Light",
+    "Tracy Meller",
+    "Nicholas Mitchell",
+    "Andrew Morris",
+    "Jo Murtagh",
+    "Jack Newton",
+    "Mark Ng",
+    "Joanna Pencakowski",
+    "Anna Sebastia",
+    "Peter Shannon",
+    "Alleen Siu",
+    "Graham Stirk",
+    "Alejandro Terron",
+    "Adeline Wee",
+    "Andrew Yek"
+  ],
+  "partners": [
+    "Graham Stirk",
+    "Tracy Meller",
+    "Andrew Morris",
+    "Stephen Light"
+  ],
+  "leaders": [
+    "Graham Stirk"
+  ],
+  "overview": "Marian Place Bethnal Green will celebrate the unique industrial character of a London gasholder site, providing 555 new private and affordable homes; new spaces for jobs, socialising and leisure, and 1.75 acres of public open space and landscaping - all of which will be framed by Regent’s Canal and identified by the retention of the two existing iconic gasholder frames.\n\nThe scheme comprises 5 faceted buildings ranging from 6 – 13 storeys, which, in addition to the high-quality new homes, will provide 4,182sqm of flexible non-residential floorspace.\n\n\nGasholders no.2 and no.5 will be dismantled, refurbished, and reinstated to create a strong architectural narrative driven by an understanding of the industrial heritage of the site.\n\nResidential apartments will benefit from uninterrupted views of the landscape, the existing gasholder frames, Regent’s Canal, and mid and long-distance views between and beyond neighbouring buildings. Separating accommodation into five buildings will maximise visual and pedestrian permeability through the site.\n\n\nThe scheme will unify the townscape condition and generate new cross-site links to join neighbouring areas. This physical reintegration of the site into the surrounding area will permit the site adjacencies to naturally grow as well as developing Regent’s Canal’s substantial frontage, making it publicly accessible.",
+  "dimensions": [
+    {
+      "elementId": "WVvwpYIJTEuCKULdwxZ8PA",
+      "label": "Height",
+      "value": "Building A - 47.485m / 155.79ft Building B - 32.625m / 107.021ft  Building C - 45.225m / 148.37ft  Building D - 38.925m / 127.70ft  Building E - 23.175m / 76.03ft"
+    },
+    {
+      "elementId": "XLA0uo9bikCZClyA6d8vjQ",
+      "label": "Floors",
+      "value": "6-13"
+    },
+    {
+      "elementId": "web:p/OkLavKu0CDUT+f0rDpeg",
+      "label": "Site Area",
+      "value": "4.53 acres"
+    },
+    {
+      "elementId": "web:jvDEAd4R5USUe7Cj4QON2w",
+      "label": "Net Residential Area",
+      "value": "38,400m2 (net sellable area)<br>"
+    }
+  ],
+  "companies": [
+    {
+      "elementId": "web:5n0z3SzXj02lmOVDpC+6nw",
+      "label": "Structural Engineer",
+      "value": "WSP"
+    },
+    {
+      "elementId": "web:d7+bYTDnX02rr4pqCgKA4A",
+      "label": "MEP",
+      "value": "WSP"
+    },
+    {
+      "elementId": "web:yL3lZIaY7UKMwgD430WogQ",
+      "label": "Planning Consultant",
+      "value": "Montagu Evans"
+    },
+    {
+      "elementId": "web:zPLgbnfrK0qRvRWp8xfdVQ",
+      "label": "Ecology Consultant",
+      "value": "Ecology Solutions"
+    },
+    {
+      "elementId": "web:TW2ui5z4d0uMWQlKt2zkTQ",
+      "label": "Transport Consultant",
+      "value": "TPP"
+    },
+    {
+      "elementId": "web:ya2JQMxuD0GSs/KFDUB6fw",
+      "label": "Engineering Consultant",
+      "value": "WSP"
+    },
+    {
+      "elementId": "web:5RxbVhXQWE6hvWP0pjiBSg",
+      "label": "Right to Light Consultant",
+      "value": "Point 2"
+    },
+    {
+      "elementId": "web:kLbrev3x80ir8gfZNGpKmw",
+      "label": "Landscape Architect",
+      "value": "Gillespies"
+    },
+    {
+      "elementId": "web:f+X1tmIZ806iz9cUceXqPg",
+      "label": "Architecture and Heritage consultant",
+      "value": "Tavernor Consultancy"
+    }
+  ]
+}

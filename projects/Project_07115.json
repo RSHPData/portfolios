@@ -1,0 +1,58 @@
+{
+  "type": "Project",
+  "id": "07115",
+  "notes": "Not Published",
+  "serializeDate": "26th April 2022 17:28:50",
+  "serialized": 1650994130525,
+  "serializedBy": "Steve Reeve",
+  "title": "Richard Rogers RA: Inside Out",
+  "description": "Throughout his career, Rogers’ creations have been shaped by political, social and ethical concerns, as well as popular culture, technology, art and urbanism.",
+  "date": "2013",
+  "client": "Royal Academy of Arts",
+  "location": "Royal Academy of Arts, London, UK",
+  "longLat": "-0.139282 / 51.508821",
+  "typologies": [
+    "Culture & Leisure"
+  ],
+  "team": [
+    "Kelly Darlington",
+    "Philip Dennis",
+    "Mike Fairbrass",
+    "Robert Fiehn",
+    "Karen Firmin-Cooper",
+    "Sarah Gaventa",
+    "Jennifer Goldsmith",
+    "Georgina Lever",
+    "Vicki MacGregor",
+    "Jo Murtagh",
+    "Camilla Nicholls",
+    "Richard Rogers",
+    "Jenny Stephens",
+    "Tina Wilson."
+  ],
+  "partners": [
+    "Richard Rogers"
+  ],
+  "leaders": [
+    "Vicki Macgregor"
+  ],
+  "overview": "Throughout his career, Rogers’ creations have been shaped by political, social and ethical concerns, as well as popular culture, technology, art and urbanism. This blend of influences is manifest not only in his architecture, but also in his roles as a speaker, writer, politician and activist.\n\nFocusing on key projects and using previously unseen archival material, drawings and personal items, the exhibition explored his career, from the influence of his Italian family to his impact on how we experience cities today. Visitors were able to gain an unprecedented insight into this leader of modern design.\n\n\nTo encourage visitors to engage in the debates and issues around architecture today, the final room in the exhibition was conceived as a space for dialogue and discussion, events and workshops, where visitors can share their views and hear from high-profile speakers in related fields. Rogers Stirk Harbour + Partners' manufactured house, <a href=\"projects/residential/homeshell/\">Homeshell</a>, was also installed in the courtyard through August until early September. This innovative, flat packed, environmentally efficient home is an example of how new building technologies can help shape better mass housing.",
+  "dimensions": [],
+  "companies": [
+    {
+      "elementId": "web:exhibitionDesign",
+      "label": "Exhibition Design",
+      "value": "Ab Rogers Design"
+    },
+    {
+      "elementId": "web:designGraphic",
+      "label": "Design Graphic",
+      "value": "Graphic Thought Facility"
+    },
+    {
+      "elementId": "web:sponsors",
+      "label": "Sponsors",
+      "value": "Ferrovial Agroman, Heathrow, Laing O’Rourke, Porcelanosa"
+    }
+  ]
+}

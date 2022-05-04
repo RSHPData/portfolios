@@ -1,0 +1,51 @@
+{
+  "type": "Project",
+  "id": "10140",
+  "notes": "Not Published",
+  "serializeDate": "27th April 2022 15:12:39",
+  "serialized": 1651072359269,
+  "serializedBy": "Steve Reeve",
+  "title": "Pudong Airport Satellite",
+  "description": "Rogers Stirk Harbour + Partners’ proposal implements a petal-like modular roof system, which complements the existing Terminal’s design, and an inspirational balance of economy and function.",
+  "date": "2013",
+  "client": "Shanghai Pudong Airport Authority",
+  "location": "Shanghai, China",
+  "longLat": "121.807618 / 31.148283",
+  "typologies": [
+    "Transport"
+  ],
+  "team": [
+    "Yuting Cheng",
+    "Lu-Min Guo",
+    "Lennart Grut",
+    "Ivan Harbour",
+    "Jon Mercer",
+    "Mark Ng",
+    "Joseph Park",
+    "Richard Paul",
+    "Richard Rogers",
+    "Ben Warner",
+    "Matthew Wilmar",
+    "Freda Yuen"
+  ],
+  "partners": [
+    "Richard Paul"
+  ],
+  "leaders": [
+    "Ben Warner"
+  ],
+  "overview": "In response to China’s rapid growth in air travel, the Shanghai Pudong Airport Authority has planned a future mid-field satellite terminal to increase its airport capacity from 42 million passengers per annum – currently processed through the existing Terminals 1 and 2 – to 80 million passengers per annum in 2020.\n\nRogers Stirk Harbour + Partners’ proposal implements a petal-like modular roof system, which complements the existing Terminal’s design, and an inspirational balance of economy and function. The design is focused on a three-storey sunlit space that connects the below ground APM platforms to the above ground aircraft stands.\n\nThis new facility will be centrally positioned between the two existing north and south runways and will only be accessible via two independently operational airside Automated People Movers (APMs); one providing connection to Terminal 1 and the other to Terminal 2.\n\nWith 92 contact stands, this project represents the largest single satellite terminal building in the world, unprecedented in its scale of operations and hubbing capacity (the capacity of an airport to accommodate transferring and transiting passengers).\n\n\nA modular approach to the prefabrication of the shell-form roof will facilitate both a rapid construction programme and provide cost effectiveness through a repetition in processes. The petal-like modules are arranged together – inspired by the magnolia flower and a natural evolution of the existing terminal’s design – to form a striking, undulating roof.\n\nThe overhang of the petal roof eaves, supported by v-shaped steel columns, help to shade the interior space from direct sunlight without affecting the passenger’s exterior view.\n\nUnlike most terminal buildings, where the passenger experience starts from a curb side drop off, the dramatic arrival at the Pudong Satellite Terminal will be via two APM stations, which will form the epicentre of all arrivals and departures within the building. They have been strategically positioned to minimise walking distances within acceptable International Air Transport Association standards.\n\n\nArriving and departing passengers experience the building by moving vertically through a top-lit atrium. Passengers can see down through the open light well, to all levels to the APM platforms. This allows natural light, from skylights above, to penetrate deep into the heart of the building. In lower levels, passengers can enjoy and experience the modular magnolia-petal roof system through glazed floors.\n\nThe Satellite Terminal is arranged over three principle levels. The first level, above the apron, accommodates domestic passengers, both arriving and departing. The international arrivals are located on the level above and the top level is dedicated to international departures. The individual gate lounges are configured with a simple valve system to provide maximum flexibility of stand configuration. This provides the potential for future expansion for both international and domestic capacity.",
+  "dimensions": [],
+  "companies": [
+    {
+      "elementId": "web:co-architect",
+      "label": "Co-Architect",
+      "value": "ECADI"
+    },
+    {
+      "elementId": "web:retailPlanning",
+      "label": "Retail Planning",
+      "value": "Design Solutions"
+    }
+  ]
+}

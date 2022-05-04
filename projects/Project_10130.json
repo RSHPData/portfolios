@@ -1,0 +1,59 @@
+{
+  "type": "Project",
+  "id": "10130",
+  "notes": "Not Published",
+  "serializeDate": "26th April 2022 17:29:24",
+  "serialized": 1650994164921,
+  "serializedBy": "Steve Reeve",
+  "title": "AstraZeneca - New Cambridge Site",
+  "date": "2013",
+  "client": "AstraZeneca",
+  "location": "Cambridge, UK",
+  "longLat": "52.17217601682367, 0.13290407157017586",
+  "team": [
+    "Ainhoa Abreu diaz",
+    "Andrew Morris",
+    "Andrew Yek",
+    "Angela Tobin",
+    "Gianmaria Givanni",
+    "Graham Stirk",
+    "John Kennedy",
+    "Kelly Darlington",
+    "Kinga Koren",
+    "Laura Penman",
+    "Laurence Day",
+    "Louise Palomba",
+    "Mike Fairbrass",
+    "Philip Dennis",
+    "Richard Rogers",
+    "Tobi Frenzen",
+    "Toby Jeavons"
+  ],
+  "partners": [
+    "Graham Stirk",
+    "Andrew Morris"
+  ],
+  "leaders": [
+    "Louise Palomba"
+  ],
+  "overview": "The AstraZeneca New Cambridge Site 2013 was a competition to design a new global research and development facility on the Cambridge Biomedical Campus (CBC) which would establish the CBC as a leading centre for biomedical research and development with institutions and companies from the education, health care, science, and research sectors.\nThe brief called for two 25,000m2 labs and one 16,000m2 office building, reflecting AstraZeneca’s ambition to be a key point of exchange and collaboration in the CBC and building on its many existing collaborations with members of the Cambridge Life Science community, including the University of Cambridge, the Medical Research Council and Cancer Research UK. \nRSHP proposed three systematic blocks which would respond to the existing and proposed context: a structured external space would bind the campus sites and establish a boulevard connection to Addenbroke Hospital; a headquarters building - acting as the focal point and terminating the primary axis; and four modular, flexible laboratory spaces which would be central to the CBC and create a communal working / shared campus amenity. Open public galleria would connect key campus academic centres and an underground pedestrian and service link would connect the two sites and the energy centre. The development also included support buildings, parking for cars and bikes, internal roads, and hard and soft landscaping.\nThe architecture of the buildings and the layout of the site were to have a porous relationship to the surrounding Cambridge institutions and Cambridge as a whole.",
+  "dimensions": [
+    {
+      "elementId": "WVvwpYIJTEuCKULdwxZ8PA",
+      "label": "Height",
+      "value": "Office: 36m / 118ft"
+    },
+    {
+      "elementId": "TQsSVxdwk0mUwZuf5WjO/g",
+      "label": "Area",
+      "value": "66000m2/ 710418ft2; Office: \t16,000 m2; Laboratories 50,000m2"
+    }
+  ],
+  "companies": [
+    {
+      "elementId": "deltek:competitionWinner",
+      "label": "Competition Winner",
+      "value": "Herzog & de Meuron"
+    }
+  ]
+}

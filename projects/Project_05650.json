@@ -1,0 +1,71 @@
+{
+  "type": "Project",
+  "id": "05650",
+  "notes": "Not Published",
+  "serializeDate": "27th April 2022 14:56:28",
+  "serialized": 1651071388680,
+  "serializedBy": "Steve Reeve",
+  "title": "One Park Taipei",
+  "description": "RSHP has designed two high-rise residential towers adjacent to Da-An Park in the city of Taipei. The site is located to the east side of Da-An Park along the Juanguo South Road.",
+  "date": "2008-2018",
+  "client": "Yuan Lih Construction",
+  "location": "Taipei, Taiwan",
+  "longLat": "121.537765 / 25.030809",
+  "typologies": [
+    "Residential"
+  ],
+  "partners": [
+    "Lennart Grut",
+    "Ivan Harbour"
+  ],
+  "leaders": [
+    "Ben Warner"
+  ],
+  "overview": "RSHP has designed two high-rise residential towers adjacent to Da-An Park in the city of Taipei. The site is located to the east side of Da-An Park along the Juanguo South Road. The towers are two of the highest residential buildings in Taipei. The design has set a new benchmark in high-rise residential projects in Taiwan, in terms of location, views and aspect, spatial quality, landscape design and public amenities. The external ground floor area provides private landscaped spaces as well as swimming pools for residents of each tower.\n\nThe towers – one at 35 storeys and the other at 31 storeys above ground – accommodate apartment types ranging from 300m² to 600m².\n\n\nThere are two apartments per floor for the small units and one apartment per floor for the large units at the top of the towers. Each apartment benefits from panoramic views of the park with generous external terraces.\n\nThe larger units have large double height terraces. Whilst the park elevations are articulated by external terraces, the north and south elevations are articulated by projecting windows and external shading elements. The east elevation offers unique city views of Taipei CBD and Taipei 101. This elevation is further accentuated by the colourful and slender stair cores.",
+  "dimensions": [
+    {
+      "elementId": "web:siteArea",
+      "label": "Site Area",
+      "value": "63 538 m²"
+    },
+    {
+      "elementId": "web:northTower",
+      "label": "North Tower",
+      "value": "3 748 m²"
+    },
+    {
+      "elementId": "web:southTower",
+      "label": "South Tower",
+      "value": "4 332 m²"
+    }
+  ],
+  "companies": [
+    {
+      "elementId": "web:structuralEngineer",
+      "label": "Structural Engineer",
+      "value": "Evergreen Construction"
+    },
+    {
+      "elementId": "web:servicesEngineer",
+      "label": "Services Engineer",
+      "value": "Continental Engineering Consultants. Inc"
+    },
+    {
+      "elementId": "web:landscapeArchitect",
+      "label": "Landscape Architect",
+      "value": "Environmental Arts Design"
+    },
+    {
+      "elementId": "web:co-architect",
+      "label": "Co-Architect",
+      "value": "CT Chen Architects and Associates"
+    }
+  ],
+  "awards": [
+    {
+      "rowId": "1",
+      "year": "2019",
+      "award": "CTBUH Award of Excellence in the 100-199m category"
+    }
+  ]
+}

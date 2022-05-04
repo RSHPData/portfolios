@@ -1,0 +1,59 @@
+{
+  "type": "Project",
+  "id": "05110",
+  "notes": "Not Published",
+  "serializeDate": "27th April 2022 14:36:55",
+  "serialized": 1651070215608,
+  "serializedBy": "Steve Reeve",
+  "title": "Alta Velocidad Masterplan",
+  "description": "This masterplan for Valladolid, winner of an international competition, was to guide the growth of this city over the next 25 years, transforming it into a more sustainable city, one that could act as a model for other European cities.",
+  "date": "2005-2014",
+  "client": "Valladolid Alta Velocidad, S.A.",
+  "location": "Valladolid, Spain",
+  "longLat": "-4.727167 / 41.641694",
+  "constructionCost": "€900,000,000",
+  "typologies": [
+    "Masterplanning"
+  ],
+  "team": [
+    "Ana belen Franco",
+    "Marta Gomellas",
+    "Juan Laguna",
+    "Jugatx Lopez Amurrio",
+    "Simon Smithson",
+    "Luis Vidal"
+  ],
+  "partners": [
+    "Simon Smithson"
+  ],
+  "leaders": [
+    "Juan Laguna"
+  ],
+  "overview": "This masterplan for Valladolid, winner of an international competition, was to guide the growth of this city over the next 25 years, transforming it into a more sustainable city, one that could act as a model for other European cities.\n\nThe trigger for this ‘re-orientation’ of the city was a major civil engineering project initiated by the Ministerio de Fomento (Ministry of Public Works) to bury 6 kms of railway tracks in a tunnel under the city that previously sliced through the city.\n\nThe arrival of the AVE (the high speed rail train) provided Valladolid with an exceptional opportunity for a radical rethink of the city form. Strictly speaking, the competition brief focused on the areas released by the burying of the railway tracks, however during the initial phases of work it became evident that it would require a more fundamental review of the urban structure of Valladolid in order to arrive at a satisfactory solution for the four sites included in the brief; the railway corridor itself, associated shunting yards and two maintenance depots.\n\n\nThe existing city structure was in fact fractured not only by the rail corridor but also by the River Pisuerga which passes on an almost parallel north-south alignment through the city centre. The two in effect divided the city into three zones and severely restricted east-west circulation.\n\nRSHP proposed a chain of parks which would, in time, create the armature for a gradual ‘greening’ of the entire city centre. Building on an existing and elegant pedestrian axis that connects the train station with the Plaza Mayor, these two axis establish a framework that, via multiple smaller scale improvements, permit the gradual weaving together of the parks and plazas that dot the city centre and link them with large open spaces at the city limits, resulting in a city wide network of open spaces, pedestrian routes, cycle routes and public transportation links. The byline adopted for the project was ‘Connections and Re-connections’.\n\n\nThis green ‘trelliswork’ plan superimposes a new urban structure on a city that previously lacked coherence.\n\nA key component around which the plan hinged is a new transport interchange which brings together the new AVE station, local (wide gauge) trains, the regional bus station, local bus routes and the new segregated transport corridor that runs along the greenway in the centre portion of the corridor, fanning out to form a big ‘X’ and linking the four corners of the city with its centre.",
+  "dimensions": [
+    {
+      "elementId": "web:siteArea",
+      "label": "Site Area",
+      "value": "98 hectares"
+    }
+  ],
+  "companies": [
+    {
+      "elementId": "web:co-architect",
+      "label": "Co-Architect",
+      "value": "Vidal y Asociados arquitectos"
+    },
+    {
+      "elementId": "web:economicAndMarketAnalysis",
+      "label": "Economic and Market Analysis",
+      "value": "Idom Engineers"
+    }
+  ],
+  "awards": [
+    {
+      "rowId": "QjY8wbv+DEyu3DPySWannQ",
+      "year": "2008",
+      "award": "MIPIM Future Projects: Masterplanning and regeneration category 2008"
+    }
+  ]
+}

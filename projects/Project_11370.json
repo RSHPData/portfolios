@@ -1,0 +1,116 @@
+{
+  "type": "Project",
+  "id": "11370",
+  "notes": "Not Published",
+  "serializeDate": "26th April 2022 17:39:04",
+  "serialized": 1650994744801,
+  "serializedBy": "Steve Reeve",
+  "title": "The HUB, 30 Bay Street",
+  "description": "Named for its proximity to Harbour, Union Station and Bay Street, the HUB will be one of the tallest commercial towers in downtown Toronto’s vibrant South Core neighbourhood.",
+  "date": "2017-",
+  "client": "Oxford Properties",
+  "location": "Toronto, Canada",
+  "longLat": "-79.3806469 / 43.6420533",
+  "typologies": [
+    "Office"
+  ],
+  "team": [
+    "Jaime Cunha",
+    "Jon Garmendia",
+    "Taylor Huggins",
+    "David Kennedy",
+    "John Kennedy",
+    "Adam Lampon",
+    "Mark Ng",
+    "Georgina Robledo",
+    "Stephanie Sinden",
+    "Harjinder Singh",
+    "Edward Walker",
+    "Adeline Wee",
+    "Matt Wilson",
+    "Daniel Wright",
+    "Andrew Yek"
+  ],
+  "partners": [
+    "Graham Stirk",
+    "Stephen Light",
+    "Richard Paul",
+    "Andrew Morris"
+  ],
+  "leaders": [
+    "Richard Paul",
+    "Georgina Robledo"
+  ],
+  "overview": "Named for its proximity to Harbour, Union Station and Bay Street, the HUB will be one of the tallest commercial towers in downtown Toronto’s vibrant South Core neighbourhood, located close to the shores of Lake Ontario and the CBD. The scheme creates a contemporary dialogue with its historical context, allowing the heritage building breathing space to coexist with a large new office tower development and maintaining integrity within the overall urban configuration.\n\nThe 1917 six-storey Toronto Harbour Commission Building currently occupies a significant portion of the site. This challenging constraint inspired the new 60-storey tower’s unique, bridge-like structure: Four pairs of mega-columns and diagonal steel hangers suspend the entire volume of the office tower up and over the existing property, allowing this high-rise to touch the ground with a minimal footprint. This structure preserves the integrity of the heritage building, but also gives way for a square centre-core tower with optimised lease spans and flexible, column-free, seemingly floating floorplates visually expressed through a clear glazed façade.\n\n\nThe cathedral-like, transparent reception space engages both public and private, offering a range of amenities with direct link to Toronto’s transport network and allowing pedestrians to flow through the building seamlessly. The surrounding ground plane features public art, interactive landscape and water features that respond to the region’s dramatic climate and respectfully embrace the heritage building, whilst creating a compelling public realm that is unique, inviting and accessible.\n\nA distinctive rooftop lantern and a number of enclosed sky gardens at the tower corners captivate the vistas of Lake Ontario, the CN tower and panoramic views across the city and beyond, whilst redefining the city’s ever-evolving skyline.\n\n\nEnvironmental credentials include a CaGBC zero carbon pilot application and striving to achieve LEED Platinum status, through the provision of district heating, deep-lake cooling technology, roof mounted photovoltaic panels and a variety of other sustainable design features to minimise the building’s environmental impact.",
+  "dimensions": [
+    {
+      "elementId": "WVvwpYIJTEuCKULdwxZ8PA",
+      "label": "Height",
+      "value": "276 m"
+    },
+    {
+      "elementId": "XLA0uo9bikCZClyA6d8vjQ",
+      "label": "Floors",
+      "value": "60"
+    },
+    {
+      "elementId": "web:siteArea",
+      "label": "Site Area",
+      "value": "78 135 ft²"
+    },
+    {
+      "elementId": "web:totalGrossFloorArea",
+      "label": "Total Gross Floor Area",
+      "value": "1 453 077 ft²"
+    }
+  ],
+  "companies": [
+    {
+      "elementId": "web:co-architect",
+      "label": "Co-Architect",
+      "value": "Adamsons Associates"
+    },
+    {
+      "elementId": "web:structuralEngineer",
+      "label": "Structural Engineer",
+      "value": "RJC Engineers"
+    },
+    {
+      "elementId": "web:servicesEngineer",
+      "label": "Services Engineer",
+      "value": "Smith + Andersen"
+    },
+    {
+      "elementId": "web:landscapeArchitect",
+      "label": "Landscape Architect",
+      "value": "Gillespies"
+    },
+    {
+      "elementId": "web:contractor",
+      "label": "Contractor",
+      "value": "EllisDon"
+    },
+    {
+      "elementId": "web:planningConsultant",
+      "label": "Planning Consultant",
+      "value": "Urban Strategies"
+    },
+    {
+      "elementId": "web:developmentManager",
+      "label": "Development Manager",
+      "value": "Andrew O'Neill"
+    },
+    {
+      "elementId": "web:fireConsultant",
+      "label": "Fire Consultant",
+      "value": "LMDG"
+    }
+  ],
+  "certificates": [
+    {
+      "rowId": "58H5HijeKUOBOWxmpIfX7Q",
+      "authority": "LEED",
+      "rating": "Platinum"
+    }
+  ]
+}

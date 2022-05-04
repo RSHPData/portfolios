@@ -1,0 +1,155 @@
+{
+  "type": "Project",
+  "id": "06130",
+  "notes": "Not Published",
+  "serializeDate": "27th April 2022 15:03:08",
+  "serialized": 1651071788058,
+  "serializedBy": "Steve Reeve",
+  "title": "Cancer Centre at Guy’s Hospital",
+  "description": "The Cancer Centre at Guy’s will bring together all oncology services from across Guy’s and St Thomas hospital, integrating research and treatment services within the same building.",
+  "date": "2010-2016",
+  "client": "Guy's and St Thomas' NHS Foundation Trust",
+  "location": "London, UK",
+  "longLat": "-0.086914 / 51.50349",
+  "constructionCost": "£120,000,000",
+  "typologies": [
+    "Health & Science"
+  ],
+  "team": [
+    "Peter Angrave",
+    "Anna Au",
+    "Kelly Darlington",
+    "Benjamin Darras",
+    "Laurence Day",
+    "Philip Dennis",
+    "Mike Fairbrass",
+    "Abi Ford",
+    "Ben Goble",
+    "Ivan Harbour",
+    "Ed Hiscock",
+    "Taylor Huggins",
+    "Andrea Marini",
+    "Steve Martin",
+    "Cris Mitry",
+    "Andrew Morris",
+    "Leonardo Pelleriti",
+    "Laura Penman",
+    "Richard Rogers",
+    "Tanya Samarasingha",
+    "Angela Tobin",
+    "Louise Charlton",
+    "Amo Kalsi",
+    "Rion Willard",
+    "William Wimshurst",
+    "Christopher Worsfold"
+  ],
+  "partners": [
+    "Ivan Harbour",
+    "Andrew Morris"
+  ],
+  "leaders": [
+    "Steve Martin"
+  ],
+  "overview": "The Cancer Centre at Guy’s will bring together all oncology services from across Guy’s and St Thomas hospital, integrating research and treatment services within the same building.\n\nAt a city scale, the 14-storey height of the building provides a transition from the 300-metre (1,000-foot) height of Renzo Piano’s the Shard and the hospital’s Tower Wing to the lower rise areas to the south and defines a new gateway to the Guy’s campus.\n\nThe building is made up of a number of stacked ‘villages’ each relating to a particular patient need – chemotherapy, radiotherapy or the one-stop clinic – and each with their own distinct identity. In addition there is a double-height welcome area at the base of the building and private suites at the top.\n\n\nBy breaking up the functions of the building into two, three or four-storey chunks, a human scale is created for each of the care villages, making orientation easier. Visitors exit the lift at their desired section and enter into the ‘village square’ – a non clinical space which includes a planted external balcony as well as informal seating and relaxation areas for patients waiting for consultations, appointments or results. Patients then navigate to consultation and treatment rooms via stairs and lifts within each village.\n\nThe treatment areas are efficient, ergonomic, functional and safe, in order to maximise clinical gain and patient care. Across the centre the focus is on improving the user experience, providing patients and staff with views and light, making a series of inclusive spaces with straightforward way-finding and patient-centred facilities.\n\n\nThe building is designed to actively support change in clinical and accommodation needs over time. Flexibility and adaptability are key parts of the design, structure and services strategy.",
+  "concept": "Won in competition in 2010, the Cancer Centre at Guy’s Hospital has been designed to transform the experience of cancer patients. The Centre consolidates all cancer treatment, as well as clinical research from across Guy’s and St Thomas Hospital, into one building. This will effect greater integration of the major practitioners of cancer, facilitate clinical research across both disciplines and patient groupings and improve supportive care, patient information and complementary therapies provided at each stage of the patient’s pathway.\n\n\nThe site is roughly triangular in plan and the Cancer Centre takes this shape in order to reinforce the street frontages and maximise the site footprint to ensure a critical number of clinical activities can be located on each level. The building’s 14 storeys are arranged into three stacked ‘villages’, each of two or three storeys and each relating to a particularnbsp;need. These three patient areas – a radiotherapy village, a chemotherapy village and a one-stop clinic village (that brings diagnostic and outpatients facilities together) – are designed on a human scale and are each split into a social and a clinical zone.\n\n\nThe social zone draws on RSHP’s Maggie’s West London Centre (2008), and is a relaxed and airy space with balconies and terraced gardens. It provides a pleasant space where patients and visitors can wait in comfort between appointments. Partly glazed lifts give access to an atrium space at the main level of each village which overlooks the streets and connects the public atria with the surrounding neighbourhood.\n\nThe clinical zone is at the north of the building, in a location appropriate to more private and less open clinical facilities.",
+  "design": "The balance between care and treatment is fundamental to the successful design of the Cancer Centre at Guy’s Hospital. By breaking up the building into villages, a human scale is created; patients feel they are being treated within two- or three-storey villages rather than a less personal fourteen-storey tower. The second-floor balcony defines a double-height welcome and reception area at ground level, relating to the scale of the street and nearby buildings.\n\nAbove the welcome area are the radiotherapy, one-stop and chemotherapy villages. Typically, radiotherapy facilities would be located at basement level in a lightless environment, in the Cancer Centre they have been placed above ground as part of the normal life of the building, with their associated areas afforded views and natural light. This also minimises the basement area required for the Centre and allows the remains of a Roman boat, found during excavations, to remain in situ.\n\n\nThe chemotherapy village includes a research floor for King’s College London. This allows complete integration of research and treatment, with a large proportion of patients being involved in clinical trials and giving the Cancer Centre both a national and global significance in the treatment of cancer. The one-stop village is the top-most of the three care villages and brings diagnostic and outpatient facilities together allowing patients to have a consultation and a range of investigations in a single visit. A private patients unit across the top-most floors complete the building.\n\n\nMany recent developments in the London Bridge area have included new public spaces. As part of this transformation the southern end of Great Maze Pond will be redesigned to be an inviting public space that integrates the hospital with its neighbourhood, with more generous pedestrian areas, trees, benches and cycle parking.",
+  "construction": "Located on a small triangular site in a busy urban area, the Cancer Centre’s footprint reaches to the very edges of its site. As a result, layout and storage space on site are at a premium, making the construction a logistical challenge. The response to this was to use predominantly prefabricated building parts.\n\n\nWork started on site in June 2013. Using Laing O’Rourke’s Explore factory to manufacture parts for on-site assembly, a high quality of workmanship is coupled with a fast pace of construction. The prefabricated concrete frame and unitised cladding system allow the structure to grow at a rate of approximately one floor per week. Both clinical and nonclinical services are delivered as a partly modular system with ducts, cables and pipes pre-fitted in ceiling frames and connected up on site.\n\n\nOnce the shell and core are completed, the fit out of clinical accommodation takes place. The centre is due for completion in Spring 2016.",
+  "dimensions": [
+    {
+      "elementId": "WVvwpYIJTEuCKULdwxZ8PA",
+      "label": "Height",
+      "value": "60m"
+    },
+    {
+      "elementId": "XLA0uo9bikCZClyA6d8vjQ",
+      "label": "Floors",
+      "value": "14"
+    },
+    {
+      "elementId": "web:grossFloorArea",
+      "label": "Gross Floor Area",
+      "value": "20,000 m²"
+    }
+  ],
+  "companies": [
+    {
+      "elementId": "web:co-architect",
+      "label": "Co-Architect",
+      "value": "Stantec"
+    },
+    {
+      "elementId": "web:structuralEngineer",
+      "label": "Structural Engineer",
+      "value": "Arup"
+    },
+    {
+      "elementId": "web:servicesEngineer",
+      "label": "Services Engineer",
+      "value": "Arup"
+    },
+    {
+      "elementId": "web:contractor",
+      "label": "Contractor",
+      "value": "Laing O’Rourke"
+    }
+  ],
+  "certificates": [
+    {
+      "rowId": "1",
+      "authority": "BREEAM",
+      "rating": "Excellent"
+    }
+  ],
+  "awards": [
+    {
+      "rowId": "1",
+      "year": "2017",
+      "award": "FX Design Awards - Best Public Sector Project"
+    },
+    {
+      "rowId": "2",
+      "year": "2017",
+      "award": "Building Better Healthcare - Grand Prix Design Award, Clinician’s choice, Best sustainable development, Best acute hospital development, Best internal environment"
+    },
+    {
+      "rowId": "3",
+      "year": "2017",
+      "award": "New London Architecture - Ashden Prize for Sustainability, Built Wellbeing"
+    },
+    {
+      "rowId": "4",
+      "year": "2017",
+      "award": "Royal Institute of British Architects (RIBA) Awards - London regional"
+    },
+    {
+      "rowId": "5",
+      "year": "2017",
+      "award": "LABC (Local Authority Building Control) Building Excellence Awards - Best Public Service Building"
+    },
+    {
+      "rowId": "6",
+      "year": "2017",
+      "award": "European Healthcare Design Awards - Interior Design and the Arts"
+    },
+    {
+      "rowId": "7",
+      "year": "2017",
+      "award": "ICE London Civil Engineering Awards - Best Building"
+    },
+    {
+      "rowId": "8",
+      "year": "2016",
+      "award": "Healthcare Business Awards - Best Hospital Building"
+    },
+    {
+      "rowId": "9",
+      "year": "2015",
+      "award": "Architects for Health (AfH) award for Ideas or New Concepts"
+    },
+    {
+      "rowId": "10",
+      "year": "2013",
+      "award": "Be Inspired Award Winner - Innovation in Building"
+    }
+  ]
+}
