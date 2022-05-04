@@ -1,0 +1,70 @@
+{
+  "type": "Project",
+  "id": "04200",
+  "notes": "Not Published",
+  "serializeDate": "27th April 2022 14:18:49",
+  "serialized": 1651069129716,
+  "serializedBy": "Steve Reeve",
+  "title": "R9 Station",
+  "description": "This station serves Kaohsiung’s popular Central Park and the Datong shopping district on the new ‘Red’ line of the underground system.",
+  "date": "2003-2007",
+  "client": "Kaohsiung Rapid Transit Corporation",
+  "location": "Kaohsiung, Taiwan",
+  "longLat": "120.300958 / 22.624688",
+  "constructionCost": "£15 000 000",
+  "typologies": [
+    "Transport"
+  ],
+  "team": [
+    "Lennart Grut",
+    "Ivan Harbour",
+    "Aki Kageyama",
+    "Amo Kalsi",
+    "Sanekazu Kofuku",
+    "Stephen Macbean",
+    "Annie Miller",
+    "Andrew Partridge",
+    "Richard Rogers",
+    "Yoshi Uchiyama",
+    "Misako Unno",
+    "Ben Warner",
+    "David Weng"
+  ],
+  "partners": [
+    "Ivan Harbour",
+    "Lennart Grut"
+  ],
+  "leaders": [
+    "Ben Warner"
+  ],
+  "overview": "This station serves Kaohsiung’s popular Central Park and the Datong shopping district on the new ‘Red’ line of the underground system. A large aluminium canopy sails over the underground concourse, protecting commuters from strong sunlight and rainfall but still allows for natural airflow. Aluminium was chosen as the canopy material due to its lightness, durability and resistance to corrosion. The canopy is approximately 50 metres by 50 metres, weighs 220 metric tonnes and sits on four yellow steel ‘trees’. Across the canopy’s top surface there are a large number of glazed openings filled with frosted glass. On the underside, these openings are perforated to ensure that natural light can reach the concourse underneath, while still helping to dissipate the glare of the sun.\n\n\nThe station entrance, essentially, draws the landscaping down from the park into the station via a sloped, green bank that leads people down to concourse level, some 11 metres below ground. Two sets of escalators – plus staircases on either side – allow people to move between the concourse and park level and are divided by a cascading water feature which helps to animate the approach to the platforms.\n\nIn addition to the main entrance, there are two sub-entrances on the opposite side of Chung-Shan Road. These have their own distinctive aluminium canopies supported on smaller yellow steel trees.",
+  "dimensions": [
+    {
+      "elementId": "web:buildingArea",
+      "label": "Building Area",
+      "value": "14 300 m²"
+    }
+  ],
+  "companies": [
+    {
+      "elementId": "web:co-architect",
+      "label": "Co-Architect",
+      "value": "Resource Engineering Service, Inc."
+    },
+    {
+      "elementId": "web:structuralEngineer",
+      "label": "Structural Engineer",
+      "value": "Structured Environment"
+    },
+    {
+      "elementId": "web:servicesEngineer",
+      "label": "Services Engineer",
+      "value": "Resource Engineering Service, Inc."
+    },
+    {
+      "elementId": "web:contractor",
+      "label": "Contractor",
+      "value": "Far Eastern Construction Co. Ltd. Pan Asia Corporation Iwata Chizaki Inc."
+    }
+  ]
+}

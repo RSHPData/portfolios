@@ -1,0 +1,91 @@
+{
+  "type": "Project",
+  "id": "04330",
+  "notes": "Not Published",
+  "serializeDate": "26th April 2022 17:02:56",
+  "serialized": 1650992576862,
+  "serializedBy": "Steve Reeve",
+  "title": "Woolston Riverside",
+  "description": "The site presented the practice with a complex problem in terms of urban regeneration – a vacant shipyard on the River Itchen in Southampton, directly adjacent to both a ‘Special Protection Area’ and an existing sewage works.",
+  "date": "2003-2005",
+  "client": "SEEDA South East England Development Agency",
+  "location": "Southampton, UK",
+  "longLat": "-1.382622 / 50.894617",
+  "constructionCost": "£300,000,000",
+  "typologies": [
+    "Masterplanning"
+  ],
+  "team": [
+    "Ed Butler",
+    "Maxine Campbell",
+    "Sean Daly",
+    "Mark Darbon",
+    "Philip Dennis",
+    "Carolyn Gembles",
+    "Maria Hadjinicolaou",
+    "Patrick Klugerherz",
+    "Marcus Lee",
+    "Robert Luck",
+    "Pik-yan Luk",
+    "Tim Mason",
+    "John Mercer",
+    "Juan Molina",
+    "Andrew Morris",
+    "Alastair Parvin",
+    "Laura Salisbury",
+    "Richard Rogers",
+    "Peter Ryan",
+    "Patricia Sendin",
+    "Stephen Spence",
+    "Mat Venn",
+    "Neil Wormsley",
+    "Andy Young"
+  ],
+  "partners": [
+    "Andrew Morris",
+    "Mark Darbon"
+  ],
+  "leaders": [
+    "Mark Darbon"
+  ],
+  "overview": "The site presented the practice with a complex problem in terms of urban regeneration – a vacant shipyard on the River Itchen in Southampton, directly adjacent to both a ‘Special Protection Area’ (wildlife habitat) and an existing sewage works.\n\nThe approach to creating a masterplan for this 12 hectare site, was to exploit the existing deep water dock at the north of the site, by retaining the shipyard and adjacent warehouse building, upgrading it and incorporating facilities tailored to emerging trends in the industry. Other smaller scale facilities (such as offices and welfare facilities) surround the new employment zone, creating a buffer to the existing inland residential community.\n\n\nOur proposals were required to deliver a distinctive architectural statement to the site as viewed from the opposite back, identifying it as a significant destination along the riverbank. We achieved this by siting a series of high residential blocks fanning out at the water’s edge, creating a dramatic shoreline as viewed from the opposite bank, whilst providing spectacular vistas to the river estuary from the apartments. This arrangement allowed the SPA to the southwest to blend into the masterplan, resulting in a new, more indented shoreline, adding significant area to the existing nature reserve. This would enhance the wildlife habitat and improve views out across the water from the site. Further inland, the scale of residential blocks decreases, respecting the relationship with the existing buildings and street patterns.\n\n\nThe existing retail centre north of the site would be diverted and extended into the new masterplan area culminating in a new town square, surrounded by a mix of building typologies, opening out to the waterfront, The scheme proposed a new landmark mixed-use complex formed from the refurbishment of one of the existing industrial buildings. The overall proposal was intended to provide a framework for sustainable redevelopment which complemented (rather than competed with) the existing town centre, enhancing the site’s rich industrial heritage and providing a new vibrant quarter for the 21st century.\n\nThe masterplan achieved planning consent in 2004, before the site was sold. Elements of the plan were incorporated in the 2012 local development plan.",
+  "dimensions": [
+    {
+      "elementId": "web:siteArea",
+      "label": "Site Area",
+      "value": "12 hectares"
+    }
+  ],
+  "companies": [
+    {
+      "elementId": "web:costConsultant",
+      "label": "Cost Consultant",
+      "value": "Davis Langdon"
+    },
+    {
+      "elementId": "web:planningConsultant",
+      "label": "Planning Consultant",
+      "value": "Drivers Jonas"
+    },
+    {
+      "elementId": "web:communityConsultants",
+      "label": "Community Consultants",
+      "value": "Community Action Network"
+    },
+    {
+      "elementId": "web:environmentalConsultant",
+      "label": "Environmental Consultant",
+      "value": "Campbell Reith Hill"
+    },
+    {
+      "elementId": "web:trafficEngineer",
+      "label": "Traffic Engineer",
+      "value": "Alan Baxter Associates"
+    },
+    {
+      "elementId": "web:accessConsultant",
+      "label": "Access Consultant",
+      "value": "Drivers Jonas"
+    }
+  ]
+}

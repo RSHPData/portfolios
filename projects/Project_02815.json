@@ -1,0 +1,66 @@
+{
+  "type": "Project",
+  "id": "02815",
+  "notes": "Not Published",
+  "serializeDate": "26th April 2022 16:47:14",
+  "serialized": 1650991634055,
+  "serializedBy": "Steve Reeve",
+  "title": "Transbay Transit Center",
+  "description": "San Francisco is one of the few major US cities that has managed to avoid the large scale decay of central areas, the sprawl of the suburbs and dependence on the private car as a means of transport, with the consequent erosion of city life.",
+  "date": "2007",
+  "client": "Transbay Joint Powers Authority",
+  "location": "San Francisco, USA",
+  "longLat": "-122.393127 / 37.789609",
+  "typologies": [
+    "Transport"
+  ],
+  "team": [
+    "Dennis Austin",
+    "Phillip Dennis",
+    "Ivan Harbour",
+    "Ann Miller",
+    "Richard Rogers",
+    "Andrew Tyley"
+  ],
+  "partners": [
+    "Ivan Harbour"
+  ],
+  "leaders": [
+    "Andrew Tyley"
+  ],
+  "overview": "San Francisco is one of the few major US cities that has managed to avoid the largescale decay of central areas, the sprawl of the suburbs and dependence on the private car as a means of transport, with the consequent erosion of city life.\n\nHowever, the existing regional rapid transit network – which dates back to the 1970s – is currently operating at full capacity. Bus usage alone in the city has increased by 50 per cent in recent years as traffic congestion has forced commuters to seek alternatives to the car. Beyond the city, there is interest in rail as means for cross-state travel, with the prospect of a high-speed link between San Diego and Sacramento extending beyond California.\n\n\nRSHP has been involved in designing a number of different proposals for a major new infrastructure terminal in San Francisco over the past decade. The current Transbay Transit Center and Tower proposal is focused on the ‘South of Market Area’ (SOMA) close to the city’s waterfront and seeks to maintain transport links to the northern Financial District as the centre of San Francisco expands southwards. The Transit Center - with its waves of glass and steel and emphasis on transparency – will serve as a natural gateway to visitors and commuters into the city. Transbay provides a naturally lit and ventilated facility shaded by a flowing roof structure incorporating solar collectors. Transit modes are organised vertically, connected by the central public concourse. As well as providing a greatly enhanced transport interchange, the design creates a new public realm aimed at bringing to a once key area of San Francisco new life and vitality which, in turn, will help to animate this significant space and underline the city’s inclusiveness.\n\n\nComplementing the Transit Center, the transparent, multi-use, 82-storey Transbay Tower will define the city’s skyline for decades. The tower rises to 1,100 feet but will be set back at street level to create a large public plaza. As well as community spaces devoted to education and culture, the tower will support retail and office space, a research institute, hotel rooms, condominiums and affordable housing. Topped with a working wind turbine, the design will seek to be highly sustainable and energy efficient in its day-to-day operation. The 2007 design competition was won by a consortium including Pelli Clarke Pelli Architects.",
+  "dimensions": [
+    {
+      "elementId": "web:transitCenter",
+      "label": "Transit Centre",
+      "value": "960 000 ft²"
+    },
+    {
+      "elementId": "web:towerArea",
+      "label": "Tower",
+      "value": "1 500 000 ft²"
+    }
+  ],
+  "companies": [
+    {
+      "elementId": "web:co-architect",
+      "label": "Co-Architect",
+      "value": "SMWM / AAI Architects Inc"
+    },
+    {
+      "elementId": "web:structuralEngineer",
+      "label": "Structural Engineer",
+      "value": "Arup"
+    },
+    {
+      "elementId": "web:landscapeArchitect",
+      "label": "Landscape Architect",
+      "value": "Olin Partnership"
+    },
+    {
+      "elementId": "web:developers",
+      "label": "Developers",
+      "value": "Forest City Development / MacFarlane Partners"
+    }
+  ]
+}

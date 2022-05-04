@@ -1,0 +1,65 @@
+{
+  "type": "Project",
+  "id": "03600",
+  "notes": "Not Published",
+  "serializeDate": "26th April 2022 16:54:17",
+  "serialized": 1650992057181,
+  "serializedBy": "Steve Reeve",
+  "title": "Convoys Wharf",
+  "description": "This masterplan envisages the site in south east London as a destination along the River Thames. As the Thames finds a new role in the economic and social life of the city, there is the potential for Convoys Wharf to establish itself as one of the key destinations along the river.",
+  "date": "2002",
+  "client": "News International plc",
+  "location": "London, UK",
+  "longLat": "-0.0391989 / 51.4865061",
+  "typologies": [
+    "Masterplanning"
+  ],
+  "team": [
+    "Joveria Baig",
+    "Mark Darbon",
+    "Hilde Depuydt",
+    "James Finestone",
+    "Toby Jeavons",
+    "Tracy Meller",
+    "Jon Mercer",
+    "Georgina Robledon",
+    "Carl Smith"
+  ],
+  "partners": [
+    "Andrew Morris"
+  ],
+  "overview": "This masterplan envisages the site in south east London as a destination along the River Thames. As the Thames finds a new role in the economic and social life of the city, there is the potential for Convoys Wharf to establish itself as one of the key destinations along the river, the aspiration being a new cultural quarter centred on the Olympia Warehouse and the historic basin of ‘Kings Yard’.\n\nThe unlocking of the riverside and the connection to Deptford High Street form the cornerstone of the design concept, directly linking the heart of the area to the riverside and creating a strong sense of identity as well as a central focus for cultural and social amenities. Convoys Wharf will become a new mixed-use neighbourhood balancing employment, culture, residential, educational, retail and leisure uses.\n\n\nEmployment is a key factor in creating a vibrant mixed community. River-based job opportunities which historically existed on the site have evaporated with the changes in river-based industrial processes. The reinvigoration of the Thames as a working river, new riverside recycling and manufacturing processes, the creation of a new cultural area, provision for small businesses and for retail, leisure and community facilities will generate a wide range of employment. A mixed residential population is envisaged – key workers, shared ownership, rented accommodation, small and large family units – all combining to produce a thriving well-balanced community.\n\n\nEmphasis on the public realm is key to this masterplan which is designed to be highly accessible and ‘permeable’. The new public space at the heart of the masterplan will be the nucleus for all new routes. All public activities will benefit from this natural focus point, resulting in a strong link between the northern and southern parts of Deptford for the first time in over 50 years.",
+  "dimensions": [],
+  "companies": [
+    {
+      "elementId": "web:civilEngineer",
+      "label": "Civil Engineer",
+      "value": "Buro Happold"
+    },
+    {
+      "elementId": "web:transportEngineer",
+      "label": "Transport Engineer",
+      "value": "Buro Happold"
+    },
+    {
+      "elementId": "web:geotechnicalConsultant",
+      "label": "Geotechnical Consultant",
+      "value": "Buro Happold"
+    },
+    {
+      "elementId": "web:planningConsultant",
+      "label": "Planning Consultant",
+      "value": "Montagu Evans"
+    },
+    {
+      "elementId": "web:landscapeDesigner",
+      "label": "Landscape Designer",
+      "value": "Bell Fischer"
+    },
+    {
+      "elementId": "web:quantitySurveyor",
+      "label": "Quantity Surveyor",
+      "value": "Faithful & Gould"
+    }
+  ]
+}

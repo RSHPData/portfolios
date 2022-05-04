@@ -1,0 +1,68 @@
+{
+  "type": "Project",
+  "id": "02920",
+  "notes": "Not Published",
+  "serializeDate": "27th April 2022 14:14:09",
+  "serialized": 1651068849541,
+  "serializedBy": "Steve Reeve",
+  "title": "Rome Congress Centre",
+  "description": "This competition scheme was designed for a site in the EUR district of Rome, an area planned in the 1930s as a demonstration of the monumental formalism that characterised fascist urbanism.",
+  "date": "1999",
+  "client": "Rome Council",
+  "location": "Rome, Italy",
+  "longLat": "12.326672 / 41.806287",
+  "typologies": [
+    "Civic"
+  ],
+  "team": [
+    "Louise Barnett",
+    "Maurice Brennan",
+    "Andy Bryce",
+    "Russell Gilchrist",
+    "Mark Hallett",
+    "Carmel Lewin",
+    "Andrea Parigi",
+    "Richard Paul",
+    "Richard Rogers",
+    "Andrei Saltykov",
+    "Patricia Sendin",
+    "Kish Sohal",
+    "Graham Stirk",
+    "David Thompson",
+    "Simon Williams-Gunn",
+    "Nick Zervoglos"
+  ],
+  "partners": [
+    "Graham Stirk"
+  ],
+  "overview": "This competition scheme was designed for a site in the EUR district of Rome, an area planned in the 1930s as a demonstration of the monumental formalism that characterised fascist urbanism.\n\nThe scheme sets the main congress and exhibition areas in a cantilevered roof space, supported by central columns and surrounded by service towers. A wide public terrace runs around the edge of the roof, optimising views across the Rome skyline.\n\n\nBeneath the great over-sailing, timber-clad roof is a second building for offices, ticketing, restaurants, parking, shops and a hotel, its roof forming a wedge-shaped ramp of public space.\n\nThe public nature of the building is emphasised by the provision of a partially enclosed 2,000-seat amphitheatre within the lower building, alongside which runs a new pedestrian route, linking the Enrico Termi station with the existing Palazzo dei Congressi. Further shops are placed alongside this route, and around the edge of the building, to ensure an open relationship with the public domain.",
+  "dimensions": [
+    {
+      "elementId": "web:grossFloorArea",
+      "label": "Gross Floor Area",
+      "value": "27 000 m²"
+    }
+  ],
+  "companies": [
+    {
+      "elementId": "web:structuralEngineer",
+      "label": "Structural Engineer",
+      "value": "Arup"
+    },
+    {
+      "elementId": "web:servicesEngineer",
+      "label": "Services Engineer",
+      "value": "Arup"
+    },
+    {
+      "elementId": "web:quantitySurveyor",
+      "label": "Quantity Surveyor",
+      "value": "Hanscomb Ltd"
+    },
+    {
+      "elementId": "web:trafficConsultant",
+      "label": "Traffic Consultant",
+      "value": "Arup Transportation"
+    }
+  ]
+}

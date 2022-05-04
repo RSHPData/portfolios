@@ -1,0 +1,111 @@
+{
+  "type": "Project",
+  "id": "02900",
+  "notes": "Not Published",
+  "serializeDate": "27th April 2022 14:13:17",
+  "serialized": 1651068797878,
+  "serializedBy": "Steve Reeve",
+  "title": "Paddington Waterside",
+  "description": "This project is located within the masterplan for the Paddington Basin. Adjacent to Paddington Station it offers a revitalised, mixed commercial, residential and retail environment.",
+  "date": "1999-2003",
+  "client": "Chelsfield plc",
+  "location": "London, UK",
+  "longLat": "-0.174832 / 51.518624",
+  "constructionCost": "£56,000,000",
+  "typologies": [
+    "Office"
+  ],
+  "team": [
+    "Maurice Brennan",
+    "Maxine Campbell",
+    "Stephen Light",
+    "David Merllie",
+    "Andrew Morris",
+    "Richard Rogers",
+    "Marita Schnepper",
+    "Patricia Sendin",
+    "Graham Stirk",
+    "Daniel Wright",
+    "Andrew Yek",
+    "Andy Young"
+  ],
+  "partners": [
+    "Graham Stirk",
+    "Andrew Morris"
+  ],
+  "overview": "This project is located within the masterplan for the Paddington Basin. Adjacent to Paddington Station it offers a revitalised, mixed commercial, residential and retail environment. Waterside, the corporate headquarters for Marks  Spencer, comprises 13 levels of accommodation. Large triangular floor plates provide good levels of daylight and views along the canal.\n\n\nThe building comprises served space – the main occupied floor plates – and servant spaces providing essential support allowing the office floors to function. These elements are distinctly expressed in the form of the building. Two full-height atria with circulation bridges facilitate daylight penetration and create a secondary aspect to the north of the site.\n\n\nThe secondary service elements are distinctly expressed in corner service towers, lending emphasis to the canal edge and to the main entrances from North Wharf Road. The principal circulation towers contain the main passenger lifts and give a strong dynamic identity to the development.",
+  "dimensions": [
+    {
+      "elementId": "web:siteArea",
+      "label": "Site Area",
+      "value": "7 000 m²"
+    },
+    {
+      "elementId": "web:grossFloorArea",
+      "label": "Gross Floor Area",
+      "value": "33 968 m²"
+    }
+  ],
+  "companies": [
+    {
+      "elementId": "web:structuralEngineer",
+      "label": "Structural Engineer",
+      "value": "Arup"
+    },
+    {
+      "elementId": "web:servicesEngineer",
+      "label": "Services Engineer",
+      "value": "Arup"
+    },
+    {
+      "elementId": "web:quantitySurveyor",
+      "label": "Quantity Surveyor",
+      "value": "Gardiner & Theobold"
+    },
+    {
+      "elementId": "web:projectManager",
+      "label": "Project Manager",
+      "value": "Mace"
+    },
+    {
+      "elementId": "web:lightingConsultant",
+      "label": "Lighting Consultant",
+      "value": "Arup"
+    },
+    {
+      "elementId": "web:landscapeArchitect",
+      "label": "Landscape Architect",
+      "value": "Gillespies"
+    },
+    {
+      "elementId": "web:contractor",
+      "label": "Contractor",
+      "value": "Carillion plc"
+    },
+    {
+      "elementId": "web:planningConsultant",
+      "label": "Planning Consultant",
+      "value": "Montagu Evans"
+    },
+    {
+      "elementId": "web:acousticConsultant",
+      "label": "Acoustic Consultant",
+      "value": "Bickerdike Allen Partners"
+    },
+    {
+      "elementId": "web:civilEngineer",
+      "label": "Civil Engineer",
+      "value": "Halcrow Fox"
+    },
+    {
+      "elementId": "web:claddingConsultant",
+      "label": "Cladding Consultant",
+      "value": "Bickerdike Allen Partners"
+    },
+    {
+      "elementId": "web:liftConsultant",
+      "label": "Lift Consultant",
+      "value": "Arup"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "type": "Project",
+  "id": "03730",
+  "notes": "Not Published",
+  "serializeDate": "26th April 2022 16:55:12",
+  "serialized": 1650992112056,
+  "serializedBy": "Steve Reeve",
+  "title": "Birmingham City Library",
+  "description": "The new Library of Birmingham was envisaged as a major cultural and educational resource and a potent engine for urban regeneration. The library, replacing a 1960s building, is located in Birmingham’s Eastside, a neighbourhood previously isolated by a motorway that later became the subject of radical redevelopment proposals.",
+  "date": "2002-2006",
+  "client": "Birmingham City Council",
+  "location": "Birmingham, UK",
+  "longLat": "-1.908387 / 52.479866",
+  "constructionCost": "£130million",
+  "typologies": [
+    "Culture & Leisure"
+  ],
+  "team": [
+    "Andy Bryce",
+    "Ed Burgess",
+    "Maxine Campbell",
+    "Russell Gilchrist",
+    "Mark Hallet",
+    "Ivan Harbour",
+    "Justin Lau",
+    "Carmel Lewin",
+    "John McElgunn",
+    "Jack Newton",
+    "Richard Rogers",
+    "Graham Stirk",
+    "Andrew Yek"
+  ],
+  "partners": [
+    "Graham Stirk"
+  ],
+  "overview": "The new Library of Birmingham was envisaged as a major cultural and educational resource and a potent engine for urban regeneration. The library, replacing a 1960s building, is located in Birmingham’s Eastside, a neighbourhood previously isolated by a motorway that later became the subject of radical redevelopment proposals.\n\nThe brief for the project was far more than the replacement of the existing library (one of the best-stocked and popular libraries in Britain) – it also incorporated a vision of the public library as a learning resource for all, an inviting place where books are available alongside many other media. The collections include the outstanding Shakespeare Library and a photographic archive of international importance.\n\n\nThe aim was to anticipate the ongoing needs of a large and growing body of users, while creating a building that will be a cultural landmark and symbol of renewal. The library is located in a new park at the heart of Eastside, where park-related activities will draw people into the library and library events will animate the park. The main pedestrian route from the city passes through the site, assuming the form of a great galleria between the library and a separate block planned to house a broad range of community and cultural activities. An oversailing canopy spreads across the building, supported on structural ‘trees’ and topped by a ‘sky park’.\n\n\nThe roof protects the south façade, as well as creating a powerful form that defines the urban presence of the library. The reference library occupies the three upper floors, with lending and children’s libraries, exhibition spaces, foyers and auditorium below. Reading rooms and offices are placed around the edge of the building where they benefit from views of the park, with stacks and archives at the centre where they benefit from secure, climate controlled conditions.\n\nAfter a change in administration in 2006, an alternative scheme was pursued by the incoming Council.",
+  "dimensions": [
+    {
+      "elementId": "web:grossInternalArea",
+      "label": "Gross Internal Area",
+      "value": "35,000m²"
+    }
+  ],
+  "companies": [
+    {
+      "elementId": "web:structuralEngineer",
+      "label": "Structural Engineer",
+      "value": "Arup"
+    },
+    {
+      "elementId": "web:servicesEngineer",
+      "label": "Services Engineer",
+      "value": "BDSP Partnership"
+    },
+    {
+      "elementId": "web:quantitySurveyor",
+      "label": "Quantity Surveyor",
+      "value": "Gleeds"
+    }
+  ]
+}

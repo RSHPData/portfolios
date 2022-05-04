@@ -1,0 +1,57 @@
+{
+  "type": "Project",
+  "id": "03340",
+  "notes": "Not Published",
+  "serializeDate": "26th April 2022 16:51:36",
+  "serialized": 1650991896385,
+  "serializedBy": "Steve Reeve",
+  "title": "Buena Vista",
+  "description": "The practice generated a new model for a mixed community of living, working and leisure, accommodating a centre for excellence in media, e-business and bio sciences.",
+  "date": "2000",
+  "client": "JTC Singapore",
+  "location": "Singapore",
+  "longLat": "103.790880 / 1.305246",
+  "typologies": [
+    "Masterplanning"
+  ],
+  "team": [
+    "Laurie Abbott",
+    "Stuart Blower",
+    "James Finestone",
+    "Marco Goldschmied",
+    "Lennart Grut",
+    "Dennis Ho",
+    "Marcus Lee",
+    "Richard Rogers",
+    "Marita Schnepper",
+    "Katie Sipthorp",
+    "Craig Williams",
+    "John Young",
+    "Nicholas Zervoglos"
+  ],
+  "partners": [
+    "Lennart Grut",
+    "Laurie Abbott",
+    "Marco Goldschmied"
+  ],
+  "overview": "The practice generated a new model for a mixed community of living, working and leisure, accommodating a centre for excellence in media, e-business and bio sciences. This flexible strategic plan was designed to allow for incremental growth, including an expanding and integrated transport system.\n\n\nThe scheme’s 4 million m² of multi-use space encompasses five neighbourhoods surrounding a central eco-park. This cool lung for the community provides leisure and amenity for the inhabitants as an antidote to the hot and humid climate, as well as an opportunity for water recycling.\n\n\nThe ambition was to create a live web-enabled development model that gives designers, local authorities and citizens a simple and informative feedback on a wide variety of planning issues – environmental, transport, cost etc.",
+  "dimensions": [
+    {
+      "elementId": "web:area",
+      "label": "Area",
+      "value": "4 million m²"
+    }
+  ],
+  "companies": [
+    {
+      "elementId": "web:servicesEngineer",
+      "label": "Services Engineer",
+      "value": "Battle McCarthy"
+    },
+    {
+      "elementId": "web:trafficEngineer",
+      "label": "Traffic Engineer",
+      "value": "Arup"
+    }
+  ]
+}

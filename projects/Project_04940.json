@@ -1,0 +1,94 @@
+{
+  "type": "Project",
+  "id": "04940",
+  "notes": "Not Published",
+  "serializeDate": "26th April 2022 17:06:51",
+  "serialized": 1650992811881,
+  "serializedBy": "Steve Reeve",
+  "title": "CB1 Cambridge Station",
+  "description": "The historic university city of Cambridge attracts over 4.6 million visitors every year – second only to London in the UK. A significant proportion of these visitors arrive by train.",
+  "date": "2004-2009",
+  "client": "Ashwell Property Group plc",
+  "location": "Cambridge, UK",
+  "longLat": "0.137096 / 52.194324",
+  "typologies": [
+    "Masterplanning"
+  ],
+  "team": [
+    "Ed Butler",
+    "Katarzyna Ciechanowska",
+    "Mark Darbon",
+    "Mark Gorton",
+    "Angela Gates",
+    "Maria Hadjincolaou",
+    "Tracy Meller",
+    "Andrew Morris",
+    "Alastair Parvin",
+    "Carmen Pena",
+    "Sam Postel",
+    "Georgina Robledo",
+    "Richard Rogers",
+    "Peter Ryan",
+    "Thomas Weber",
+    "Andy Young"
+  ],
+  "partners": [
+    "Andrew Morris",
+    "Mark Darbon"
+  ],
+  "overview": "The historic university city of Cambridge attracts over 4.6 million visitors every year – second only to London in the UK. A significant proportion of these visitors arrive by train. However, the area around Cambridge railway station had seen no meaningful or integrated development proposals for nearly half a century and had fallen into a state of some decline.\n\nRogers Stirk Harbour + Partners was appointed by Ashwell Property Group to design a masterplan incorporating around 158,000 m² (1.7 million ft²) of mixed-use development on a ‘gateway’ site adjacent to the railway station in Cambridge.\n\n\nThe proposal includes a major new transport interchange, 58,000 m² (625,000 ft²) of residential space (including 1,250 student accommodation units for Anglia Ruskin University and affordable housing), 54,000 m² (580,000 ft²) of grade A office space, a 120 bed hotel and a high quality mix of leisure, retail and restaurant space.\n\nThis masterplan was intended to give an important regeneration boost to Cambridge while also helping to address the Government’s demands for more housing provision across the South East and East of England. It follows a ‘European’ approach to development, creating a development where people can work, live, shop and socialise in their neighbourhood, encouraging a sense of belonging and pride and improving the quality of life of local people.\n\n\nPlanning approval was given in October 2008 to a scheme which aimed to meet the Council’s expectations for a much-needed transport interchange, while balancing Ashwell’s own commercial expectations of the site. The site is now being built out broadly in accordance with the masterplan, by a number of developers.",
+  "dimensions": [
+    {
+      "elementId": "web:siteArea",
+      "label": "Site Area",
+      "value": "9.9 ha"
+    }
+  ],
+  "companies": [
+    {
+      "elementId": "web:landscapeArchitect",
+      "label": "Landscape Architect",
+      "value": "Robert Myers Associates"
+    },
+    {
+      "elementId": "web:planningConsultant",
+      "label": "Planning Consultant",
+      "value": "Savills Hepher Dixon"
+    },
+    {
+      "elementId": "web:transportConsultant",
+      "label": "Transport Consultant",
+      "value": "Mott MacDonald"
+    },
+    {
+      "elementId": "web:historicBuildingsAndAreasSpe",
+      "label": "Historic Buildings and Areas Specialist",
+      "value": "QuBE Planning Ltd"
+    },
+    {
+      "elementId": "web:environmentalImpactConsultan",
+      "label": "Environmental Impact Consultant",
+      "value": "DTZ"
+    },
+    {
+      "elementId": "web:publicConsultation",
+      "label": "Public Consultation",
+      "value": "Camargue"
+    },
+    {
+      "elementId": "web:archaeologyConstultant",
+      "label": "Archaeology Constultant",
+      "value": "Cambridge Archaeology Unit"
+    },
+    {
+      "elementId": "web:ecologicalConsultant",
+      "label": "Ecological Consultant",
+      "value": "RPS"
+    },
+    {
+      "elementId": "web:sustainabilityConsultant",
+      "label": "Sustainability Consultant",
+      "value": "Enviros"
+    }
+  ]
+}

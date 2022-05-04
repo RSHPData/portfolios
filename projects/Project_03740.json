@@ -1,0 +1,60 @@
+{
+  "type": "Project",
+  "id": "03740",
+  "notes": "Not Published",
+  "serializeDate": "26th April 2022 16:55:26",
+  "serialized": 1650992126236,
+  "serializedBy": "Steve Reeve",
+  "title": "Almada Eastern Riverside",
+  "description": "Rogers Stirk Harbour + Partners was commissioned to devise a masterplan for a 115-hectare site encompassing extensive former dockyards and a part of Almada’s conurbation along a two-kilometre stretch of river frontage.",
+  "date": "2002-2010",
+  "client": "Municipal de Almada",
+  "location": "Almada, Portugal",
+  "longLat": "-9.145054 / 38.684582",
+  "typologies": [
+    "Masterplanning"
+  ],
+  "team": [
+    "Benjamin Darras",
+    "Lennart Grut",
+    "Dennis Ho"
+  ],
+  "partners": [
+    "Lennart Grut"
+  ],
+  "overview": "Rogers Stirk Harbour + Partners (RSHP) was commissioned to devise a masterplan for a 115-hectare site encompassing extensive former dockyards and a part of Almada’s conurbation along a two-kilometre stretch of river frontage. The location is an outstanding topographic feature of the Tagus Estuary, important in terms of geography, history, economy and environment. The historic centre of Lisbon lies to the north of the site across the estuary, while to the south is an extensive nature reserve.\n\n\nThe masterplan envisages an employment-led mix of uses, leisure and cultural activities while retaining a large allocation of residential use. Densities ranging from 800,000m² to 1.5 million m² are planned, depending on the implementation of the proposed Metro link to Lisbon.\n\n\nThe masterplan’s initial phase focuses on a transport strategy for the Almada area to reduce dependence on the car. This includes extending the proposed MST (tram), a Metro link from Lisbon, the expansion of an existing ferry terminal, and the creation of a river taxi service – strengthening existing connections with Lisbon and with the eastern Seixal area.",
+  "dimensions": [
+    {
+      "elementId": "web:area",
+      "label": "Area",
+      "value": "115 hectares"
+    }
+  ],
+  "companies": [
+    {
+      "elementId": "web:co-architect",
+      "label": "Co-Architect",
+      "value": "Santa-Rita Arquitectos LDA"
+    },
+    {
+      "elementId": "web:structuralEngineer",
+      "label": "Structural Engineer",
+      "value": "WS Atkins"
+    },
+    {
+      "elementId": "web:servicesEngineer",
+      "label": "Services Engineer",
+      "value": "WS Atkins"
+    },
+    {
+      "elementId": "web:quantitySurveyor",
+      "label": "Quantity Surveyor",
+      "value": "WS Atkins"
+    },
+    {
+      "elementId": "web:landscapeArchitect",
+      "label": "Landscape Architect",
+      "value": "WS Atkins"
+    }
+  ]
+}

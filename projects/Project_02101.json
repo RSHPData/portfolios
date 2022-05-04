@@ -1,0 +1,85 @@
+{
+  "type": "Project",
+  "id": "02101",
+  "notes": "Not Published",
+  "serializeDate": "27th April 2022 14:06:06",
+  "serialized": 1651068366121,
+  "serializedBy": "Steve Reeve",
+  "title": "Montevetro",
+  "description": "The Montevetro high-end residential project occupies a prime site fronting the River Thames, formerly occupied by the old Hovis flour mill, and faces west towards Cheyne Walk, Chelsea.",
+  "date": "1994-2000",
+  "client": "Taylor Woodrow Construction",
+  "location": "London, UK",
+  "longLat": "-0.17490 / 51.47725",
+  "constructionCost": "£ 38 000 000",
+  "typologies": [
+    "Residential"
+  ],
+  "team": [
+    "Maxine Campbell",
+    "Maurice Brennan",
+    "Andy Bryce",
+    "Mike Davies",
+    "Mike Fairbrass",
+    "Marco Goldschmied",
+    "Amo Kalsi",
+    "Annette Main",
+    "Richard Rogers",
+    "Graham Stirk",
+    "Daniel Wright"
+  ],
+  "partners": [
+    "Andrew Morris",
+    "Mark Darbon"
+  ],
+  "overview": "The Montevetro high-end residential project occupies a prime site fronting the River Thames, formerly occupied by the old Hovis flour mill, and faces west towards Cheyne Walk, Chelsea.\n\nOn the south-western corner of the site stands the Grade I listed St Mary’s Church. The building comprises 103 apartments with one, two, three and four-bed units (including roof-top penthouses) ranging from 93 m² to 232 m². The site also provides parking spaces for 170 cars and integral leisure facilities.\n\n\nThe diagonal alignment creates a landscaped setting for St Mary’s Church within a new public park. Views of the church have been enhanced and the river walk extended through the site forming a continuous route between Wandsworth and Battersea bridges. Aligned on a north-south axis overlooking the River Thames, the apartments are organised into five connected blocks, stepping up towards the river away from St. Mary’s Church from four to 20 storeys, ensuring that all flats enjoy river views to the west. The blocks are connected by four distinct lift towers providing rhythm to the east façade and access to all of the apartments, avoiding the need for corridors. Access to the building, as well as to residents’ car parking and a leisure centre, are located to the east of the building. The west façade is punctuated by balconies accessed from living areas and kitchens.",
+  "dimensions": [
+    {
+      "elementId": "XLA0uo9bikCZClyA6d8vjQ",
+      "label": "Floors",
+      "value": "20"
+    },
+    {
+      "elementId": "web:siteArea",
+      "label": "Site Area",
+      "value": "7 725 m²"
+    },
+    {
+      "elementId": "web:grossFloorArea",
+      "label": "Gross Floor Area",
+      "value": "25 000 m²"
+    }
+  ],
+  "companies": [
+    {
+      "elementId": "web:co-architect",
+      "label": "Co-Architect",
+      "value": "Hurley Robertson Associates"
+    },
+    {
+      "elementId": "web:structuralEngineer",
+      "label": "Structural Engineer",
+      "value": "Waterman Partnership"
+    },
+    {
+      "elementId": "web:servicesEngineer",
+      "label": "Services Engineer",
+      "value": "DSSR"
+    },
+    {
+      "elementId": "web:quantitySurveyor",
+      "label": "Quantity Surveyor",
+      "value": "WT Partnership"
+    },
+    {
+      "elementId": "web:landscapeArchitect",
+      "label": "Landscape Architect",
+      "value": "Townshend Landscape Architects"
+    },
+    {
+      "elementId": "web:contractor",
+      "label": "Contractor",
+      "value": "Taylor Woodrow Construction Ltd"
+    }
+  ]
+}

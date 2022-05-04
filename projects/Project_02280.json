@@ -1,0 +1,60 @@
+{
+  "type": "Project",
+  "id": "02280",
+  "notes": "Not Published",
+  "serializeDate": "26th April 2022 16:43:12",
+  "serialized": 1650991392901,
+  "serializedBy": "Steve Reeve",
+  "title": "Saitama Arena",
+  "description": "RSHP's proposal for a landmark arena for Saitama - close to Tokyo - was developed for a high-profile international competition.",
+  "date": "1994-1995",
+  "client": "Saitama Prefecture",
+  "location": "Saitama, Japan",
+  "constructionCost": "£335,000,000",
+  "typologies": [
+    "Sport & Arenas"
+  ],
+  "team": [
+    "Laurie Abbott",
+    "Mike Davies",
+    "Marco Goldschmied",
+    "Lennart Grut",
+    "Dennis Ho",
+    "Chun Jiang",
+    "Paul Johnson",
+    "Naruhiro Kuaroshima",
+    "James Leathem",
+    "Nick Malby",
+    "Richard Paul",
+    "Richard Rogers",
+    "Neil Southard",
+    "Ben Warner",
+    "John Young"
+  ],
+  "partners": [
+    "Lennart Grut",
+    "Laurie Abbott"
+  ],
+  "leaders": [
+    "Ben Warner"
+  ],
+  "overview": "RSHP's proposal for a landmark arena for Saitama - close to Tokyo - was developed for a high-profile international competition. The arena project was part of a masterplan intended to transform the city from a dormitory of the capital, on the route of the Bullet Train, into a significant regional centre.\n\nThe Saitama stadium had to be a flexible building where four or five events could take place at the same time. Exhibitions and trade shows had to be catered for as well as sports and leisure events. The client was looking for at least 1,000 days per year usage. The arena was not an international stadium but a facility primarily for the local community.\n\nRSHP’s approach to the design was to create a flexible, adaptable container to accommodate a mix of activities.The site was very challenging with bordering main-line train services.An early move in the design process was to make the building a clear rectangle, with subsidiary structures housing catering and conference facilities. Flexibility was a key requirement of the brief, with the internal spaces capable of being reconfigured to seat anything from 5,000 to 40,000 spectators at a wide variety of events.\n\n\nRSHP's submission was developed in collaboration with engineers Arup and a team of Japanese consultants to provide a dramatic masted roof structure which would extend over the whole space, independent of the seating stands, so that the internal arrangement of the arena could be configured to suit the needs of a wide range of simultaneous events. The 'very simple' roof containing the internal spaces was supported on four 90-metre-tall steel columns. The steel roof structure hung on cables from these columns. Service and circulation cores were dispersed to the perimeter. Within the enclosure there would be scope for many configurations of use, with flexible seating that could be swiftly removed or installed.\n\nTwo levels of parking were provided at basement level. The services strategy of the project was tailored to the flexible, multi-use brief. The environmental systems were designed to respond easily to the incremental growth of the spaces in use to minimize energy consumption.\n\n\nThe arena was to be the focus of an urban renewal project with a new city square surrounded by retail development.The public space at Saitama extended inside the building creating a seamless connection between the new piazza and the arena with echoes of the Pompidou in Paris.\n\n“The client was keen to ensure that the building would have wide and varied usage. Most arenas have a typical annual usage of no more than 30 days - our scheme, through its potential for multiple subdivisions, offered up to 1,000 days per annum:”nbsp;Laurie Abbott",
+  "dimensions": [],
+  "companies": [
+    {
+      "elementId": "web:servicesEngineer",
+      "label": "Services Engineer",
+      "value": "Fujita Construction"
+    },
+    {
+      "elementId": "web:quantitySurveyor",
+      "label": "Quantity Surveyor",
+      "value": "Fujita Construction"
+    },
+    {
+      "elementId": "web:structuralEngineer",
+      "label": "Structural Engineer",
+      "value": "Arup"
+    }
+  ]
+}
