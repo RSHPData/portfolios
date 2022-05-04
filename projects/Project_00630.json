@@ -1,0 +1,74 @@
+{
+  "type": "Project",
+  "id": "00630",
+  "notes": "Not Published",
+  "serializeDate": "26th April 2022 16:16:52",
+  "serialized": 1650989812350,
+  "serializedBy": "Steve Reeve",
+  "title": "Marseille Provence Airport",
+  "description": "Marseille Provence airport is located between Marseille and Aix-en-Provence on an inland lake which was the site of the first flight by a flying boat.",
+  "date": "1989-1992",
+  "client": "Aéroport Marseille Provence",
+  "location": "Marseilles, France",
+  "longLat": "5.22181 / 43.44185",
+  "typologies": [
+    "Transport"
+  ],
+  "team": [
+    "Peter Barber",
+    "Pierre Botschi",
+    "Tim Colquhoun",
+    "Mike Davies",
+    "Pascale Gibon",
+    "Marco Goldschmeid",
+    "Lennart Grut",
+    "Enrique Hermosa-Lera",
+    "Oliver Kühn",
+    "Swantje Kühn",
+    "Michael McNamara",
+    "Andrew Partridge",
+    "Gregoris Patsalosavvis",
+    "Kim Quazi",
+    "Richard Rogers",
+    "John Smith",
+    "John Young"
+  ],
+  "partners": [
+    "John Young"
+  ],
+  "overview": "Marseille Provence airport is located between Marseille and Aix-en-Provence on an inland lake which was the site of the first flight by a flying boat.\n\nBetween 1934 and the 1980s, the airport was progressively developed on a piecemeal basis to meet short-term requirements. By 1988, with 4 million passengers a year, the projected rate of expansion in air traffic was such that a long-term strategy was necessary.\n\n\nRichard Rogers Partnership, in conjunction with Atelier 9/ETA, undertook a study to provide a development plan for an area of 16,000m² that would permit expansion up to 15 million passengers a year. The first phase of thisnbsp;scheme was completed in 1992, creating at the centre of the development the main check in area and administrative heart of the airport covered by large lightweight parasol structures that appear to float over the surrounding building. Once through security, passengers have a chance to orientate themselves with splendid views over the airport and surrounding hills. This linear arrangement – with arrivals and departures separated on two levels – assures great clarity and visibility of the airport functions, but also allows for future expansion. With a second terminal completed in 2006, the airport is now France’s fourth busiest passenger hub.",
+  "dimensions": [
+    {
+      "elementId": "web:grossFloorArea",
+      "label": "Gross Floor Area",
+      "value": "16 000 m²"
+    }
+  ],
+  "companies": [
+    {
+      "elementId": "web:structuralEngineer",
+      "label": "Structural Engineer",
+      "value": "Waterman Partnership"
+    },
+    {
+      "elementId": "web:servicesEngineer",
+      "label": "Services Engineer",
+      "value": "Hulley & Kirkwood Consulting Engineers"
+    },
+    {
+      "elementId": "web:contractor",
+      "label": "Contractor",
+      "value": "Bovis Construction Ltd"
+    },
+    {
+      "elementId": "web:acousticConsultant",
+      "label": "Acoustic Consultant",
+      "value": "Sandy Brown Associates"
+    },
+    {
+      "elementId": "web:specificationConsultant",
+      "label": "Specification Consultant",
+      "value": "Schumann Smith"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "type": "Project",
+  "id": "01530",
+  "notes": "Not Published",
+  "serializeDate": "27th April 2022 14:00:34",
+  "serialized": 1651068034896,
+  "serializedBy": "Steve Reeve",
+  "title": "Industrialised Housing",
+  "description": "Rogers’ abiding concern for the social objectives of modern architecture is reflected in this project, intended to provide large numbers of homes at a cost of one-fifth that of more conventional construction methods.",
+  "date": "1990-1992",
+  "client": "Hanssem Corporation",
+  "location": "Korea",
+  "typologies": [
+    "Residential"
+  ],
+  "team": [
+    "Laurie Abbott",
+    "Mike Davies",
+    "Stuart Forbes",
+    "Marco Goldschmied",
+    "John Lowe",
+    "Jackie Moore",
+    "Richard Paul",
+    "Richard Rogers",
+    "Andrew Wright",
+    "John Young"
+  ],
+  "partners": [
+    "Richard Rogers",
+    "Laurie Abbott"
+  ],
+  "overview": "Rogers’ abiding concern for the social objectives of modern architecture is reflected in this project, intended to provide large numbers of homes at a cost of one-fifth that of more conventional construction methods.\n\nThe basis of the project is the use of high-quality, factory-produced units on a modular system which, due to minimal connection points between one unit and the next, can be quickly assembled on site.\n\n\nHigh-performance, low-energy mechanical and electrical systems are part of an environmentally friendly programme. In addition to the normal services – such as heating, lighting and air-conditioning – the design envisaged provision of security systems, as well as communication, information and entertainment systems appropriate to 21st-century living.\n\nThe units were designed to be used in a flexible way, providing for the needs of a wide range of potential inhabitants. They can form towers or low-rise schemes, depending on the local terrain which in South Korea is often very hilly.",
+  "dimensions": [
+    {
+      "elementId": "WVvwpYIJTEuCKULdwxZ8PA",
+      "label": "Height",
+      "value": "80 m"
+    },
+    {
+      "elementId": "XLA0uo9bikCZClyA6d8vjQ",
+      "label": "Floors",
+      "value": "26"
+    },
+    {
+      "elementId": "web:unitSize",
+      "label": "Unit size",
+      "value": "27 m²"
+    }
+  ],
+  "companies": [
+    {
+      "elementId": "web:structuralEngineer",
+      "label": "Structural Engineer",
+      "value": "Arup"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "type": "Project",
+  "id": "01960",
+  "notes": "Not Published",
+  "serializeDate": "26th April 2022 16:37:40",
+  "serialized": 1650991060442,
+  "serializedBy": "Steve Reeve",
+  "title": "Europier, Heathrow Airport",
+  "description": "The new Europier at Heathrow’s Terminal 1 provided more than half a million square feet of new passenger and baggage facilities in an ongoing programme of improvements to Europe’s busiest airport building.",
+  "date": "1992-1995",
+  "client": "BAA plc",
+  "location": "London, UK",
+  "longLat": "-0.4504 / 51.47259",
+  "constructionCost": "£ 21 500 000",
+  "typologies": [
+    "Transport"
+  ],
+  "team": [
+    "Laurie Abbott",
+    "Fiona Charlesworth",
+    "Tim Colquhoun",
+    "Julian Coward",
+    "Joe Crosier",
+    "Hal Currey",
+    "Alan Davidson",
+    "Michael Davies",
+    "Mike Elkan",
+    "James Finestone",
+    "Jayne Fisher",
+    "Harvinder Gabhari",
+    "Marco Goldschmied",
+    "Jackie Hands",
+    "Stephen Harty",
+    "Jim Huffman",
+    "Amo Kalsi",
+    "Stig Larsen",
+    "Marcus Lee",
+    "Stephen Light",
+    "John Lowe",
+    "Andrew Morris",
+    "Karen Murray",
+    "Julie Parker",
+    "Liz Parr",
+    "Gregoris Patsalosavvis",
+    "Rob Peebles",
+    "James Phillips",
+    "Kim Quazi",
+    "Paul Richards",
+    "Richard Rogers",
+    "Taka Tezuka",
+    "Harriet Watson",
+    "Martin White",
+    "Megan Williams",
+    "John Young"
+  ],
+  "partners": [
+    "Mike Davies"
+  ],
+  "overview": "The new Europier at Heathrow’s Terminal 1 provided more than half a million square feet of new passenger and baggage facilities in an ongoing programme of improvements to Europe’s busiest airport building. The scheme provided passenger services to 10 aircraft stands that were previously accessed by bus. The project concept hinged around effective passenger segregation whilst providing good quality environment and facilities for both departing and arriving passengers. The pier maximised light, air and space and was designed to exploit the magnificent views across the apron and runways. The rhythms of the repetitive structure, the fully glazed facades and the unifying form of the roof made a simple statement of the basic function of the pier.\n\n\nThe building was organised as a series of shared gate lounge spaces housed in one simple unifying structure. All passengers using the pier moved through the same overall volume and all internal divisions were glazed to maximise views and passenger interest. Each pier was served by a fixed link and a mobile air bridge.\n\nThe building was consciously designed as a repetitive modular building using a maximum number of standardised industrial components including glazing, cladding, air bridges, ceiling panels, roof coverings, as well as using BAA prescribed standard products: carpet, seating, signage and desks.\n\n\nA catering and retail support area was provided for passenger convenience and each aircraft stand provided late baggage facilities. Airline support offices and plant and technical areas were all housed at apron level.\n\nTerminal 1 was closed in 2015, to make way for an expanded Terminal 2.",
+  "dimensions": [
+    {
+      "elementId": "web:grossFloorArea",
+      "label": "Gross Floor Area",
+      "value": "15 336 m²"
+    }
+  ],
+  "companies": [
+    {
+      "elementId": "web:structuralEngineer",
+      "label": "Structural Engineer",
+      "value": "Waterman Partnership"
+    },
+    {
+      "elementId": "web:servicesEngineer",
+      "label": "Services Engineer",
+      "value": "Hulley & Kirkwood"
+    },
+    {
+      "elementId": "web:acousticConsultant",
+      "label": "Acoustic Consultant",
+      "value": "Sandy Brown Associates"
+    },
+    {
+      "elementId": "web:specificationConsultant",
+      "label": "Specification Consultant",
+      "value": "Schumann Smith"
+    },
+    {
+      "elementId": "web:fireConsultant",
+      "label": "Fire Consultant",
+      "value": "Warrington Fire Research Consultancy"
+    },
+    {
+      "elementId": "web:claddingConsultant",
+      "label": "Cladding Consultant",
+      "value": "Ove Arup and Partners"
+    },
+    {
+      "elementId": "web:constructionManagers",
+      "label": "Construction Managers",
+      "value": "Bovis Construction Limited"
+    }
+  ],
+  "awards": [
+    {
+      "rowId": "1",
+      "year": "1996",
+      "award": "British Construction in Industry Award"
+    }
+  ]
+}

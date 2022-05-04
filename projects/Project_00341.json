@@ -1,0 +1,112 @@
+{
+  "type": "Project",
+  "id": "00341",
+  "notes": "Not Published",
+  "serializeDate": "26th April 2022 16:12:03",
+  "serialized": 1650989523985,
+  "serializedBy": "Steve Reeve",
+  "title": "Billingsgate Market",
+  "description": "Having completed Lloyd’s of London, the practice found that attitudes in the City of London were developing a stronger emphasis on conservation and a predilection on the part of the planners for ‘contextual’ designs where new buildings were concerned.",
+  "date": "1985-1988",
+  "client": "National Westminster Bank Plc",
+  "location": "London, UK",
+  "longLat": "-0.084072 / 51.508869",
+  "typologies": [
+    "Office"
+  ],
+  "team": [
+    "Tom Alexander",
+    "Peter Angrave",
+    "David Barlett",
+    "Pierre Botschi",
+    "John Cannon",
+    "Philip Chalmers",
+    "Tom Colquhoun",
+    "Mike Davies",
+    "Patrick Davies",
+    "Sally Draper",
+    "Marco Goldschmied",
+    "Ian Hopton",
+    "Shahab Kasmai-Tehran",
+    "Lester Korzilius",
+    "Clodagh Latimer",
+    "Mary Le Jeune",
+    "Amanda Levete",
+    "Kevin Lewenden",
+    "Avtar Lotay",
+    "John Lowe",
+    "Ernest Lowinger",
+    "Luke Lowings",
+    "Janette Mackie",
+    "Richard Marzec",
+    "Arif Mehmood",
+    "Malcolm McGowen",
+    "Natalie Moore",
+    "Frank Peacock",
+    "Mark Roche",
+    "Richard Rogers",
+    "Seth Stein",
+    "Peter Thomas",
+    "John Young"
+  ],
+  "partners": [
+    "Marco Goldschmied"
+  ],
+  "overview": "Having completed Lloyd’s of London, the practice found that attitudes in the City of London were developing a stronger emphasis on conservation and a predilection on the part of the planners for ‘contextual’ – often Post Modernist – designs where new buildings were concerned. The practice strongly favoured the retention of historic buildings of quality and agreed to advise the conservation group SAVE on its campaign to preserve the redundant Billingsgate fish market, owned by the City (which proposed to demolish it for redevelopment).\n\nIn the event, the market was retained and acquired by a major bank for conversion as a financial-services building. The client sought a large area of open dealing floor space – to which the Victorian structure was ideally suited.\n\n\nExternally, the aim was to restore lost details and to clean and repair, but to add nothing new. Inside, some changes were needed, chiefly to open up and use the huge basement vaults which entirely lacked natural light. The main floor of the market was uncompromised by the addition of the new galleries which are lightweight and structurally independent of the existing building. One of the most striking internal spaces is the former ‘haddock gallery’, which was left intact and converted for office use. Close attention was paid to detailing to ensure an immaculate junction between old and new.\n\nRogers commented on the scheme: ‘We sought harmony of modern with old in a single building’.",
+  "dimensions": [
+    {
+      "elementId": "web:grossFloorArea",
+      "label": "Gross Floor Area",
+      "value": "1 200 m²"
+    }
+  ],
+  "companies": [
+    {
+      "elementId": "web:structuralEngineer",
+      "label": "Structural Engineer",
+      "value": "Ove Arup & Partners"
+    },
+    {
+      "elementId": "web:servicesEngineer",
+      "label": "Services Engineer",
+      "value": "Ove Arup & Partners"
+    },
+    {
+      "elementId": "web:quantitySurveyor",
+      "label": "Quantity Surveyor",
+      "value": "GA Hanscomb Partnership"
+    },
+    {
+      "elementId": "web:lightingConsultant",
+      "label": "Lighting Consultant",
+      "value": "Lighting Design Partnership"
+    },
+    {
+      "elementId": "web:contractor",
+      "label": "Contractor",
+      "value": "Taylor Woodrow"
+    }
+  ],
+  "awards": [
+    {
+      "rowId": "1",
+      "year": "1990",
+      "award": "BBC Design Awards Finalist"
+    },
+    {
+      "rowId": "2",
+      "year": "1989",
+      "award": "RIBA National Award"
+    },
+    {
+      "rowId": "3",
+      "year": "1989",
+      "award": "Civic Trust Award"
+    },
+    {
+      "rowId": "4",
+      "year": "1988",
+      "award": "RIBA Regional Award"
+    }
+  ]
+}

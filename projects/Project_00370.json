@@ -1,0 +1,85 @@
+{
+  "type": "Project",
+  "id": "00370",
+  "notes": "Not Published",
+  "serializeDate": "27th April 2022 13:45:55",
+  "serialized": 1651067155043,
+  "serializedBy": "Steve Reeve",
+  "title": "Centre Commercial St Herblain",
+  "description": "The client wanted a low-cost building in record time - one which projected the dynamic retailing operation it was to contain and could at the same time be adapted to other sites.",
+  "date": "1986-1987",
+  "client": "Groupe Rhodanien de Construction",
+  "location": "Nantes, France",
+  "longLat": "-1.62682 / 47.22456",
+  "constructionCost": "£6.3 million",
+  "typologies": [
+    "Industrial"
+  ],
+  "team": [
+    "Kieran Breen",
+    "Philippa Browning",
+    "Mike Davies",
+    "Pierre Ebbo",
+    "Florian Fischotter",
+    "Marco Goldschmeid",
+    "Lennart Grut",
+    "Werner Lang",
+    "Stig Larson",
+    "Richard Rogers",
+    "Stephen Spence",
+    "John Young"
+  ],
+  "partners": [
+    "Richard Rogers"
+  ],
+  "overview": "The shopping centre at St. Herblain, near Nantes, was built to a very strict brief. The client wanted a low-cost building in record time - one which projected the dynamic retailing operation it was to contain and could at the same time be adapted to other sites. A simple and clear architectural statement was required.\n\nThe client was familiar with the <a href=\"projects/industrial/fleetguard/\">Fleetguard</a> factory and the suspended structure of Fleetguard re-emerged at St. Herblain, with a forest of slender masts giving what could have been a basic shed a genuine architectural grace. Inside, the plan is remarkably clear and well organized.\n\n\nThe Centre is entered, as at Fleetguard, by way of a steel bridge, leading into a double-height reception area. A strong use of colour adds to the appeal of the building, while exposed servicing provides visual interest inside. The lightness of the construction and the provision of generous quantities of daylight make the Centre a clear counterpoint to the typical cluttered, claustrophobic out-of-town shopping centre.\n\nAt only 21,000 m², St. Herblain is a modest masterpiece, clear and logical, achieved at low cost.",
+  "dimensions": [
+    {
+      "elementId": "web:area",
+      "label": "Area",
+      "value": "21,000 m²"
+    },
+    {
+      "elementId": "web:floorToFloorHeight",
+      "label": "Floor to floor height",
+      "value": "6.5m"
+    }
+  ],
+  "companies": [
+    {
+      "elementId": "web:co-ArchitectAtelier",
+      "label": "Co-Architect Atelier",
+      "value": "Claude Bucher"
+    },
+    {
+      "elementId": "web:structuralEngineer",
+      "label": "Structural Engineer",
+      "value": "Ove Arup & Partners, Rice Francis Ritchie, OTH Rhone-Alpes"
+    },
+    {
+      "elementId": "web:servicesEngineer",
+      "label": "Services Engineer",
+      "value": "Ove Arup & Partners/OtH"
+    },
+    {
+      "elementId": "web:quantitySurveyor",
+      "label": "Quantity Surveyor",
+      "value": "Thorne Wheatley Associates, Paris"
+    },
+    {
+      "elementId": "web:lightingConsultant",
+      "label": "Lighting Consultant",
+      "value": "Lighting Design Partnership"
+    },
+    {
+      "elementId": "web:landscapeArchitect",
+      "label": "Landscape Architect",
+      "value": "David Jarvis Associates/Dan Kiley"
+    },
+    {
+      "elementId": "web:interiorDesigner",
+      "label": "Interior Designer",
+      "value": "B & FL, Paris"
+    }
+  ]
+}

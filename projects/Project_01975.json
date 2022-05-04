@@ -1,0 +1,145 @@
+{
+  "type": "Project",
+  "id": "01975",
+  "notes": "Not Published",
+  "serializeDate": "27th April 2022 14:02:14",
+  "serialized": 1651068134479,
+  "serializedBy": "Steve Reeve",
+  "title": "Lloyd’s Register of Shipping",
+  "description": "The brief for Lloyd’s Register’s London headquarters represented a major design challenge – of building new office space on a tight urban site, in an architecturally sensitive conservation area.",
+  "date": "1993-2000",
+  "client": "Lloyd's Register",
+  "location": "London, UK",
+  "longLat": "-0.07867 / 51.51204",
+  "constructionCost": "£ 70,000,000",
+  "typologies": [
+    "Office"
+  ],
+  "team": [
+    "Ernesto Bartolini",
+    "Phil Bernard",
+    "Maxine Campbell",
+    "Marco Goldschmied",
+    "Jane Hannan",
+    "Stephen Harty",
+    "Carmel Lewin",
+    "Avtar Lotay",
+    "Stephen Light",
+    "Samantha Masters",
+    "Andrew Morris",
+    "Louise Palomba",
+    "Andrew Partridge",
+    "Richard Rogers",
+    "Graham Stirk",
+    "Guni Suri",
+    "Martin White",
+    "Adrian Williams",
+    "Andy Young"
+  ],
+  "partners": [
+    "Graham Stirk",
+    "Andrew Morris"
+  ],
+  "leaders": [
+    "Avtar Lotay"
+  ],
+  "overview": "The brief for Lloyd’s Register’s London headquarters represented a major design challenge – of building new office space on a tight urban site, in an architecturally sensitive conservation area.\n\nThe site is defined by existing buildings on two sides - including the Grade II listed 71 Fenchurch Street constructed for Lloyd’s Register in 1901 and now extensively restored and incorporated into the new headquarters. The building steps up from six to 14 storeys of office space with two basements, covering a total of 24,000 square metres. To respond to the shape of the site the new building is structured around tapered floor-plates, creating a fan-shaped grid around two atria spaces. These atria, and internal and external courtyards, allow daylight to penetrate to the heart of the building.\n\n\nClarity of architectural language is the key to this development, where the function of all constituent elements is celebrated, revealing the secrets of their manufacture and operation. Service cores are expressed as towers – two primary circulation cores face the churchyard, while secondary cores to the rear house toilets, goods lifts, staircases, and the main services risers. Highly transparent glazing offers instant legibility – people using the fully glazed wall-climber lifts and stairs animate the building’s exterior. The glazed façade forms part of an integrated cooling and heating system, which enables the building to achieve a 33 per cent reduction in carbon dioxide emissions compared with conventional air conditioning. Lloyd's Register was the first project in the UK to use chilled beams;nbsp; nbsp;nbsp;annbsp; nbsp;nbsp;energy-efficient solution for the ventilation and air conditioning of internal spaces.",
+  "concept": "The site is predominantly surrounded by existing buildings causing problems of poor aspect and access.\n\nIt is restricted by 71 Fenchurch Street (a listed building) and by the obligation to retain the facades of Coronation House and 68–70 Fenchurch Street. The development is also obliged to respect the conservation area of Lloyd’s Avenue, the churchyard, the mature existing trees and the peaceful setting. In addition, the existing public right of way passing through the site was to be retained and integrated.\n\n\nTo address the challenge of providing the required amount of new accommodation within the remaining space, three slender, tapered rectangular blocks fan out alongside two dramatic glazed atria, varying in height from six to 14 levels.\n\nThe atria, central to the design concept, allow light into and views out of the building at all levels, despite the constrictions of the site.\n\n\nMost of the proposed accommodation is contained in the two taller blocks, while the third block backs up onto the seven-storey retained facade of Coronation House. On the opposite side of the site, a rigorously detailed and uncompromisingly contemporary concrete, steel and glass facade celebrates the only point at which the building makes its presence felt on the street. Within this basic diagram, environmental considerations are optimised. The naturally ventilated atria act as buffers mediating between the internal and external climates, the narrow profile of the offices optimises access to daylight and views, and the building structure and cladding minimise cooling requirements.",
+  "design": "Following the presentation of the competition design, the proposal underwent some adjustments to take planning requirements into account and was also reviewed extensively by the client and their representatives to ensure that the proposal was commercially viable and met institutional standards.\n\nDetailed elements of the design that were borne out in the development of the concept include rigorously detailed service cores expressed as separate elements attached to the ends of the office blocks, articulating the edges of the building as it tapers into the churchyard at one end and outwards towards the river at the other. These cores contain primary circulation (lifts and fire stairs) facing the churchyard, while secondary cores on the other side contain toilets, goods lifts and staircases, as well as the main service risers.\n\n\nTo reinforce legibility for users and visitors alike, the steelwork is colour-coded – blue for the main structure, yellow for stairs, red for lifts and silver-grey for secondary elements.\n\nThe cores, like the rest of the building, have clear glazing so that the movement of the lifts and the coming and going of people on the stairs animate the exterior of the building. The top of the building is elegantly terminated by an articulated roof line made up of the core towers capped by steel-clad banks of lift motor rooms; an elegant solution to a practical necessity. The listed 71 Fenchurch Street building was reorganised to contain a new 50 seat auditorium, formal rooms for conferences and entertaining, with more office space on the upper floors and a new service core attached to the rear.\n\n\nReduced energy consumption was one of the prime objectives of the project, and the building was designed to use 30 percent less energy than a conventional office building. Included among the energy-saving systems are external solar protection, reinforced concrete soffits, and a system of chilled beams. By reducing solar heat gain inside the building and using the thermal mass of reinforced concrete, it was possible to significantly reduce cooling needs. This allowed chilled beams to be used for cooling rather than a more conventional air conditioning system.",
+  "dimensions": [
+    {
+      "elementId": "XLA0uo9bikCZClyA6d8vjQ",
+      "label": "Floors",
+      "value": "14"
+    },
+    {
+      "elementId": "web:siteArea",
+      "label": "Site Area",
+      "value": "4 160 m²"
+    },
+    {
+      "elementId": "web:grossFloorArea",
+      "label": "Gross Floor Area",
+      "value": "34 000 m²"
+    }
+  ],
+  "companies": [
+    {
+      "elementId": "web:structuralEngineer",
+      "label": "Structural Engineer",
+      "value": "Anthony Hunt Associates"
+    },
+    {
+      "elementId": "web:servicesEngineer",
+      "label": "Services Engineer",
+      "value": "Ove Arup & Partners"
+    },
+    {
+      "elementId": "web:quantitySurveyor",
+      "label": "Quantity Surveyor",
+      "value": "AYH Partnership"
+    },
+    {
+      "elementId": "web:projectManager",
+      "label": "Project Manager",
+      "value": "Richard Ellis"
+    },
+    {
+      "elementId": "web:lightingConsultant",
+      "label": "Lighting Consultant",
+      "value": "Lighting Design Partnership"
+    },
+    {
+      "elementId": "web:landscapeArchitect",
+      "label": "Landscape Architect",
+      "value": "Edward Hutchison"
+    },
+    {
+      "elementId": "web:contractor",
+      "label": "Contractor",
+      "value": "Sir Robert McAlpine & Sons Ltd"
+    },
+    {
+      "elementId": "web:planningConsultant",
+      "label": "Planning Consultant",
+      "value": "Montagu Evans"
+    },
+    {
+      "elementId": "web:fireConsultant",
+      "label": "Fire Consultant",
+      "value": "Warrington Fire Research Consultants"
+    }
+  ],
+  "awards": [
+    {
+      "rowId": "1",
+      "year": "2002",
+      "award": "World Architecture Award for Best Commercial Building in the World"
+    },
+    {
+      "rowId": "2",
+      "year": "2002",
+      "award": "Civic Trust Award"
+    },
+    {
+      "rowId": "3",
+      "year": "2002",
+      "award": "Stirling Prize Shortlist"
+    },
+    {
+      "rowId": "4",
+      "year": "2002",
+      "award": "RIBA Award"
+    },
+    {
+      "rowId": "5",
+      "year": "2001",
+      "award": "Aluminium Imagination Awards - Commendation"
+    },
+    {
+      "rowId": "6",
+      "year": "2000",
+      "award": "Concrete Society of Excellence 'Building Category'"
+    }
+  ]
+}

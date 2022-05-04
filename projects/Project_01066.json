@@ -1,0 +1,102 @@
+{
+  "type": "Project",
+  "id": "01066",
+  "notes": "Not Published",
+  "serializeDate": "27th April 2022 13:52:25",
+  "serialized": 1651067545246,
+  "serializedBy": "Steve Reeve",
+  "title": "Air Traffic Control Tower, Heathrow",
+  "description": "The commission for a new control tower at London Heathrow Airport followed on from the practice’s appointment to design the new Terminal 5 at Heathrow, and reflects the growth in traffic at Europe’s busiest airport.",
+  "date": "1987-2000",
+  "client": "BAA plc",
+  "location": "London, UK",
+  "longLat": "-0.465541 / 51.471836",
+  "constructionCost": "£50 million",
+  "typologies": [
+    "Transport"
+  ],
+  "team": [
+    "Jo-Anne Aldritt",
+    "Stephen Barrett",
+    "Natalie Clark",
+    "Mike Davies",
+    "Alan Gibson",
+    "Joseph Jamieson",
+    "Amo Kalsi",
+    "Kevin Larkin",
+    "John Lowe",
+    "Steve Martin",
+    "Richard Rogers",
+    "Andrei Saltykov",
+    "Stephen Spence",
+    "John Young"
+  ],
+  "partners": [
+    "Mike Davies"
+  ],
+  "leaders": [
+    "Stephen Barrett"
+  ],
+  "overview": "The commission for a new control tower (or visual control room) at London Heathrow Airport followed on from the practice’s appointment to design the new Terminal 5 at Heathrow, and reflects the growth in traffic at Europe’s busiest airport.\n\nThe 87m tall tower incorporates the results of intensive research into the technical requirements of the brief – this is a 24 hour a day, seven days a week facility – and into the potential for a structure that could be pre-assembled and erected on site in a short time, without disrupting the operations of the airport. The aim was equally to create an elegant and memorable building that would be a symbol of the ongoing development of Heathrow without dominating the skyline, as air traffic control demands unobstructed views of the airport and its approaches.\n\n\nThe tower provides a clear 360 degree cone of vision using tapered glass panels engineered to counter condensation and glare, and to ensure comfortable working conditions for controllers. A mass of technical equipment is accommodated at the base of the tower in a ring of space around a central daylit atrium. Located close to Terminal 3, the tower is constructed from 12 m lengths of mast, triangular in section, which provide the necessary aerodynamic profile for the shaft, which houses lifts, stairs and services risers. The whole assembly was ‘jacked up’ from the base, with the operations room (or ‘cab’) entirely pre-assembled on landside areas of the airport, and then transported at night across the runways to its final location on top of the tower.",
+  "dimensions": [
+    {
+      "elementId": "web:totalArea",
+      "label": "Total area",
+      "value": "4 050 m²"
+    }
+  ],
+  "companies": [
+    {
+      "elementId": "web:structuralEngineer",
+      "label": "Structural Engineer",
+      "value": "Arup"
+    },
+    {
+      "elementId": "web:servicesEngineer",
+      "label": "Services Engineer",
+      "value": "DSSR/ AMEC"
+    },
+    {
+      "elementId": "web:quantitySurveyor",
+      "label": "Quantity Surveyor",
+      "value": "Turner & Townsend / E C Harris"
+    },
+    {
+      "elementId": "web:lightingConsultant",
+      "label": "Lighting Consultant",
+      "value": "Speirs and Major"
+    },
+    {
+      "elementId": "web:contractor",
+      "label": "Contractor",
+      "value": "Mace/Watsons Steel/AMEC/Schmidlin"
+    },
+    {
+      "elementId": "web:constructionManager",
+      "label": "Construction Manager",
+      "value": "Mace"
+    },
+    {
+      "elementId": "web:fireConsultant",
+      "label": "Fire Consultant",
+      "value": "Warrington Fire Research"
+    },
+    {
+      "elementId": "web:facadeEngineer",
+      "label": "Façade Engineer",
+      "value": "Arup"
+    }
+  ],
+  "awards": [
+    {
+      "rowId": "1",
+      "year": "2007",
+      "award": "London RIBA Award"
+    },
+    {
+      "rowId": "2",
+      "year": "2007",
+      "award": "RIBA London Special Award"
+    }
+  ]
+}

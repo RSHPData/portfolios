@@ -1,0 +1,79 @@
+{
+  "type": "Project",
+  "id": "01750",
+  "notes": "Not Published",
+  "serializeDate": "26th April 2022 16:35:54",
+  "serialized": 1650990954414,
+  "serializedBy": "Steve Reeve",
+  "title": "Fleetguard",
+  "description": "Located in a newly designated industrial zone within a few kilometres of the town of Quimper in Brittany and adjacent to a major road, the site provides magnificent views across country towards Quimper and the south Brittany coast.",
+  "date": "1979-1981",
+  "client": "Fleetguard International Division of Cummins Engine Co / Ville de Quimper",
+  "location": "Quimper, Brittany, France",
+  "longLat": "-4.04025 / 47.98463",
+  "typologies": [
+    "Industrial"
+  ],
+  "team": [
+    "Ram Ahronov",
+    "Sally Eaton",
+    "Ian Davidson",
+    "Marco Goldschmeid",
+    "Kunumi Hayashi",
+    "Amarjit Kalsi",
+    "Sue McMillan",
+    "Richard Rogers",
+    "Richard Soundy",
+    "John Young"
+  ],
+  "partners": [
+    "Richard Rogers"
+  ],
+  "overview": "Located in a newly designated industrial zone within a few kilometres of the town of Quimper in Brittany and adjacent to a major road, the site provides magnificent views across country towards Quimper and the south Brittany coast.\n\nFleetguard specialises in manufacturing heavy duty engine filters and the new plant at Quimper was to include production lines for air, fuel and oil filters, storage facilities and administrative headquarters totalling 8,750 square metres but with a future growth potential of up to 40,000 square metres over 15 years. The highly adaptable building, capable of responding to changing needs and functions, has established the company in mainland Europe.\n\n\nThe design places great emphasis on minimising intrusion on the landscape. Surplus excavated soil has been used to create a carefully controlled landscaping scheme, relegating access roads to the perimeter of the site and segregating industrial from personnel traffic. A dynamicnbsp;suspension structure reduces both roof span and structural depth, diminishing the overall mass of the building. The external structure frees the interior roof zone for flexible services distribution, unhindered by the excessive structural depth of a conventional frame of similar span. The stairwell is enclosed in glass so that it becomes the focal point internally, linking both physically and visually the production and administrative areas.\n\n\nThe main structure consists of elements which require very little fabrication and can be joined simply. Structural connections necessary for extending the building can be made without removing existing cladding, thereby avoiding disruption to the use of the building. Total steel weight is 47kg/m², about 17% less than conventional structures of comparable bay size. The cladding is clearly articulated from the structural frame to facilitate bay by bay expansion without disruption to Fleetguard’s activities, and is separated from the roof zone by a continuous band of high-level glazing, bringing natural light into all parts of the building.",
+  "dimensions": [
+    {
+      "elementId": "web:grossFloorArea",
+      "label": "Gross Floor Area",
+      "value": "8 750 m²"
+    }
+  ],
+  "companies": [
+    {
+      "elementId": "web:structuralEngineer",
+      "label": "Structural Engineer",
+      "value": "Ove Arup & Partners"
+    },
+    {
+      "elementId": "web:quantitySurveyor",
+      "label": "Quantity Surveyor",
+      "value": "Northcroft Neighbour and Nicholson"
+    },
+    {
+      "elementId": "web:projectManager",
+      "label": "Project Manager",
+      "value": "Fleetguard International Corporation"
+    }
+  ],
+  "awards": [
+    {
+      "rowId": "1",
+      "year": "1986",
+      "award": "Premier Award for Exceptional Steel Structure, France"
+    },
+    {
+      "rowId": "2",
+      "year": "1982",
+      "award": "Premier Award for Exceptional Steel Structure, France"
+    },
+    {
+      "rowId": "3",
+      "year": "1982",
+      "award": "Concours de Plus Beaux Ouvrages de Construction Metallique"
+    },
+    {
+      "rowId": "4",
+      "year": "1982",
+      "award": "Constructa-Preis for Overall Excellence in the Field of Architecture"
+    }
+  ]
+}
