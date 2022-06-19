@@ -1,0 +1,62 @@
+{
+  "type": "Project",
+  "id": "02770",
+  "url": "health-and-science/amano-research-laboratories",
+  "serializeDate": "'2022-06-19 14:25:22.955'",
+  "serialized": 1655648722955,
+  "serializedBy": "sreeve",
+  "title": "Amano Research Laboratories",
+  "description": "In 1997, Richard Rogers Partnership and co-architects Kisho Kurokawa & Associates were approached by Amano Pharmaceutical to design a low budget building at Kakamigahara City, Gifu, to accommodate the company’s enzyme research group.",
+  "date": "1996-1999",
+  "client": "Amano Enzyme Inc.",
+  "location": "Gifu, Japan",
+  "longLat": "136.890461  / 35.426176",
+  "longitude": "136.890461 ",
+  "latitude": "35.426176",
+  "typologies": [
+    "Health & Science"
+  ],
+  "team": [
+    "Lennart Grut",
+    "Ivan Harbour",
+    "Aki Kageyama",
+    "Amo Kalsi",
+    "Richard Rogers",
+    "Ben Warner"
+  ],
+  "partners": [
+    "Ivan Harbour"
+  ],
+  "leaders": [
+    "Ben Warner"
+  ],
+  "overview": "In 1997, Richard Rogers Partnership and co-architects Kisho Kurokawa  Associates were approached by Amano Pharmaceutical to design a low budget building at Kakamigahara City, Gifu, to accommodate the company’s enzyme research group.\n\nThe building is located on the same site as the VR Techno Plaza, completed in 1998 by RRP, and includes a small research and development campus for up to ten buildings which are let to research based companies. The building for Amano Pharmaceutical, which has an area of 6,353m², incorporates not only specialised laboratories but also offices and a restaurant.\n\n\nThe building form is curved in response to its hilly site, giving a curved plan. Positioned within the context of the landscape, the building’s glass façades maximise the impressive views of the surrounding area. The roof’s steel structure is expressed externally. Rooflights following each structural bay allow natural daylight to penetrate laboratory space. As a consequence of placing the roof structure outside, the design succeeds in minimising dust in laboratory areas.\n\nInside, the laboratories are open plan, providing visual contact between lab areas and meeting rooms. Specialised booths provide accommodation for work requiring specific environmental conditions or work with toxic materials.\n\n\nBy partially sinking the building into the hillside, the resultant thermal mass considerably reduces energy consumption whilst glazed façades are protected from solar gain by external shading, resulting in a low-energy services strategy.",
+  "dimensions": [],
+  "companies": [
+    {
+      "label": "Co-Architect",
+      "value": "Kisho Kurokawa & Associates",
+      "elementId": "95e6ab6f2a6a4c40bf7191211227460f"
+    },
+    {
+      "label": "Structural Engineer",
+      "value": "Umezawa Structural Engineers",
+      "elementId": "f7dd760834e448cdb40c23d6b9d1d561"
+    },
+    {
+      "label": "Services Engineer",
+      "value": "Inuzuka Engineering Consultants",
+      "elementId": "d0cebf7528fd44f4badfd109fd5edd1f"
+    },
+    {
+      "label": "Landscape Architect",
+      "value": "Equipe Espace",
+      "elementId": "73df67cb99104786a9e54599f7aed926"
+    },
+    {
+      "label": "Contractor",
+      "value": "Takenaka",
+      "elementId": "6281f64a016c494faa29a355becfb5b7"
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "type": "Project",
+  "id": "04020",
+  "url": "office/parc-1/",
+  "serializeDate": "'2022-06-19 14:25:39.946'",
+  "serialized": 1655648739946,
+  "serializedBy": "sreeve",
+  "title": "Parc.1",
+  "description": "Parc.1 comprises two landmark office towers facing west, the luxury 326-room Fairmount Ambassador Seoul hotel at the eastern end, and, anchoring the entire site, The Hyundai Seoul retail centre.",
+  "date": "2003-2021",
+  "client": "Skylan Developments / Y22 Project Financing Investment",
+  "location": "Seoul, South Korea",
+  "longLat": "126.928436  / 37.525992",
+  "longitude": "126.928436 ",
+  "latitude": "37.525992",
+  "constructionCost": "$1.5 billion (USD)",
+  "typologies": [
+    "Office"
+  ],
+  "team": [
+    "Torsten Burkhardt",
+    "Kelly Darlington",
+    "Benjamin Darras",
+    "Mike Fairbrass",
+    "Fola Fakunmoju",
+    "Alba Fernandez",
+    "Alfonso Galan",
+    "Benjamin Garcia",
+    "Jason Garcia",
+    "Lennart Grut",
+    "Maria Hadjinicolaou",
+    "Ivan Harbour",
+    "Mimi Hawley",
+    "Dennis Ho",
+    "Jun Ito",
+    "Aki Kageyama",
+    "Masaki Kakizoe",
+    "Amo Kalsi",
+    "Sang Hoon Lee",
+    "Veronique Letellier",
+    "Jose Llerena",
+    "Steve Martin",
+    "David Merllie",
+    "Christoph Palmen",
+    "Chi Park",
+    "Carlos Parraga",
+    "Richard Paul",
+    "Leonardo Pelleriti",
+    "Barbara Perez",
+    "Richard Rogers",
+    "Andrei Saltikov",
+    "Heeri Song",
+    "Neil Southard",
+    "Stephen Spence",
+    "Simon Tonks",
+    "Yoshi Uchiyama",
+    "Laura Vega",
+    "Jinbok Wee",
+    "Adrian Williams",
+    "Nick Zergovlas",
+    "Alex Zimmermann"
+  ],
+  "partners": [
+    "Ivan Harbour",
+    "Lennart Grut",
+    "Richard Rogers"
+  ],
+  "leaders": [
+    "Steve Martin",
+    "Torsten Burkhardt",
+    "Dennis Ho",
+    "Adrian Williams",
+    "Stephen Spence"
+  ],
+  "heights": [
+    "Office 1: 318m (1043ft); Office 2: 246m (807ft); Hotel: 101m (331ft); Retail: 47m (154ft)"
+  ],
+  "overview": "Located on Yeouido island, a business and residential district alongside the Han River in Seoul, South Korea, Parc.1 comprises two landmark office towers facing west, the luxury 326-room Fairmount Ambassador Seoul hotel at the eastern end, and, anchoring the entire site, The Hyundai Seoul retail centre.\n\nThe 629, 047m² mixed-use scheme is organized to respond to views, existing city grain, pedestrian movement and massing, and is marked by its striking exterior, inspired by red columns symbolizing dignity and refinement in traditional Korean architecture.\n\n\nThe two office towers are located at the northern end of the site to take advantage of the park and river views, whilst avoiding overshadowing the three other buildings.\n\nCentral to the design, is the establishment of a series of buildings that create a hierarchy of public spaces, including plazas in front of the entrances, and tree-lined boulevards which connect the surrounding neighbourhood to urban community spaces. The scheme integrates public transport by extending public walkways and enabling direct access to the underground system.\n\n\nThe retail store, which has a total area of 89,100m² (959,064ft²), is the largest in Seoul. Its architectural features echo the pangp'aeyon, the popular Korean kite, and the 300 stores and restaurants are centred around a series of dramatic, full-height atria which allow natural light to enter the complex. Much of its space is dedicated to indoor landscaping, most notably a triple-height indoor park dotted with trees, flower plants and grasses which recreates the nearby Yeouido Park.",
+  "dimensions": [
+    {
+      "label": "Site Area",
+      "value": "46 465 m²",
+      "elementId": "bda8a3a5079246deae21da1d7492e89d"
+    },
+    {
+      "label": "Total Area",
+      "value": "629 047 m²<br>",
+      "elementId": "399a7fb5dcdb4e0290a5c08d789ddc8a"
+    }
+  ],
+  "companies": [
+    {
+      "label": "Co-architect",
+      "value": "Samoo Architects & Engineers / Siaplan Architects and Planners",
+      "elementId": "dfa2894e4fc4401eac5b24cf0f2ab1c9"
+    },
+    {
+      "label": "Structural Engineer",
+      "value": "Arup / DongYang Structural Engineers Co. Ltd",
+      "elementId": "6ef90ea59ee745b1a14a4644898344e1"
+    },
+    {
+      "label": "Services Engineer",
+      "value": "Arup / HIMEC Consultants",
+      "elementId": "9d4ca0db3d074a62a1f21781412fdf48"
+    },
+    {
+      "label": "Retail Architect",
+      "value": "Leonard Design Architects",
+      "elementId": "56b01578d9c2446ea0408102733855b4"
+    },
+    {
+      "label": "Landscape Architect",
+      "value": "Martha Schwartz Partners",
+      "elementId": "c1dbb8567a6a4006bbc5a8f9455fc5ec"
+    },
+    {
+      "label": "Cost Consultant",
+      "value": "Davis Langdon/Seah Korea",
+      "elementId": "7d7fd0b9181b406cada59ff6bbf7ce83"
+    }
+  ]
+}

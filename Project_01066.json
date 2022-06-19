@@ -1,0 +1,106 @@
+{
+  "type": "Project",
+  "id": "01066",
+  "url": "transport/air-traffic-control-tower-heathrow/",
+  "serializeDate": "'2022-06-19 14:25:00.834'",
+  "serialized": 1655648700834,
+  "serializedBy": "sreeve",
+  "title": "Air Traffic Control Tower, Heathrow",
+  "description": "The commission for a new control tower at London Heathrow Airport followed on from the practice’s appointment to design the new Terminal 5 at Heathrow, and reflects the growth in traffic at Europe’s busiest airport.",
+  "date": "1987-2000",
+  "client": "BAA plc",
+  "location": "London, UK",
+  "longLat": "-0.465541  / 51.471836",
+  "longitude": "-0.465541 ",
+  "latitude": "51.471836",
+  "constructionCost": "£50 million",
+  "typologies": [
+    "Transport"
+  ],
+  "team": [
+    "Jo-Anne Aldritt",
+    "Stephen Barrett",
+    "Natalie Clark",
+    "Mike Davies",
+    "Alan Gibson",
+    "Joseph Jamieson",
+    "Amo Kalsi",
+    "Kevin Larkin",
+    "John Lowe",
+    "Steve Martin",
+    "Richard Rogers",
+    "Andrei Saltykov",
+    "Stephen Spence",
+    "John Young"
+  ],
+  "partners": [
+    "Mike Davies"
+  ],
+  "leaders": [
+    "Stephen Barrett"
+  ],
+  "overview": "The commission for a new control tower (or visual control room) at London Heathrow Airport followed on from the practice’s appointment to design the new Terminal 5 at Heathrow, and reflects the growth in traffic at Europe’s busiest airport.\n\nThe 87m tall tower incorporates the results of intensive research into the technical requirements of the brief – this is a 24 hour a day, seven days a week facility – and into the potential for a structure that could be pre-assembled and erected on site in a short time, without disrupting the operations of the airport. The aim was equally to create an elegant and memorable building that would be a symbol of the ongoing development of Heathrow without dominating the skyline, as air traffic control demands unobstructed views of the airport and its approaches.\n\n\nThe tower provides a clear 360 degree cone of vision using tapered glass panels engineered to counter condensation and glare, and to ensure comfortable working conditions for controllers. A mass of technical equipment is accommodated at the base of the tower in a ring of space around a central daylit atrium. Located close to Terminal 3, the tower is constructed from 12 m lengths of mast, triangular in section, which provide the necessary aerodynamic profile for the shaft, which houses lifts, stairs and services risers. The whole assembly was ‘jacked up’ from the base, with the operations room (or ‘cab’) entirely pre-assembled on landside areas of the airport, and then transported at night across the runways to its final location on top of the tower.",
+  "dimensions": [
+    {
+      "label": "Total area",
+      "value": "4 050 m²",
+      "elementId": "bf63289024cc4e35852447b2b226c991"
+    }
+  ],
+  "companies": [
+    {
+      "label": "Structural Engineer",
+      "value": "Arup",
+      "elementId": "e402b063cdeb4279883b705e3a8881aa"
+    },
+    {
+      "label": "Services Engineer",
+      "value": "DSSR/ AMEC",
+      "elementId": "8854067a4e5643c1bf5c9abc1d9b265f"
+    },
+    {
+      "label": "Quantity Surveyor",
+      "value": "Turner & Townsend / E C Harris",
+      "elementId": "d8982c8357274949b360259222ff0613"
+    },
+    {
+      "label": "Lighting Consultant",
+      "value": "Speirs and Major",
+      "elementId": "1e34e1de507e47719154d049945893c0"
+    },
+    {
+      "label": "Contractor",
+      "value": "Mace/Watsons Steel/AMEC/Schmidlin",
+      "elementId": "04d1a55bc1bd4f25ab4633fef210c1f4"
+    },
+    {
+      "label": "Construction Manager",
+      "value": "Mace",
+      "elementId": "b40fb2a2d7cb4c82a586e8f07b72090a"
+    },
+    {
+      "label": "Fire Consultant",
+      "value": "Warrington Fire Research",
+      "elementId": "61ab1fc7a40c4c1fa38e87fd441ac08b"
+    },
+    {
+      "label": "Façade Engineer",
+      "value": "Arup",
+      "elementId": "995739acb2e54d04b827f64f1b391f73"
+    }
+  ],
+  "awards": [
+    {
+      "date": "2007-01-01",
+      "year": "2007",
+      "award": "London RIBA Award",
+      "rowId": "091e35cd29e24fd5908167e9874f212b"
+    },
+    {
+      "date": "2007-01-01",
+      "year": "2007",
+      "award": "RIBA London Special Award",
+      "rowId": "67D804E6736F4C83B553D0C9DDD27EDA"
+    }
+  ]
+}

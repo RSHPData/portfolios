@@ -1,0 +1,120 @@
+{
+  "type": "Project",
+  "id": "00341",
+  "url": "office/billingsgate-market",
+  "serializeDate": "'2022-06-19 14:24:49.496'",
+  "serialized": 1655648689496,
+  "serializedBy": "sreeve",
+  "title": "Billingsgate Market",
+  "description": "Having completed Lloyd’s of London, the practice found that attitudes in the City of London were developing a stronger emphasis on conservation and a predilection on the part of the planners for ‘contextual’ designs where new buildings were concerned.",
+  "date": "1985-1988",
+  "client": "National Westminster Bank Plc",
+  "location": "London, UK",
+  "longLat": "-0.084072  / 51.508869",
+  "longitude": "-0.084072 ",
+  "latitude": "51.508869",
+  "typologies": [
+    "Office"
+  ],
+  "team": [
+    "Tom Alexander",
+    "Peter Angrave",
+    "David Barlett",
+    "Pierre Botschi",
+    "John Cannon",
+    "Philip Chalmers",
+    "Tom Colquhoun",
+    "Mike Davies",
+    "Patrick Davies",
+    "Sally Draper",
+    "Marco Goldschmied",
+    "Ian Hopton",
+    "Shahab Kasmai-Tehran",
+    "Lester Korzilius",
+    "Clodagh Latimer",
+    "Mary Le Jeune",
+    "Amanda Levete",
+    "Kevin Lewenden",
+    "Avtar Lotay",
+    "John Lowe",
+    "Ernest Lowinger",
+    "Luke Lowings",
+    "Janette Mackie",
+    "Richard Marzec",
+    "Arif Mehmood",
+    "Malcolm McGowen",
+    "Natalie Moore",
+    "Frank Peacock",
+    "Mark Roche",
+    "Richard Rogers",
+    "Seth Stein",
+    "Peter Thomas",
+    "John Young"
+  ],
+  "partners": [
+    "Marco Goldschmied"
+  ],
+  "leaders": [],
+  "overview": "Having completed Lloyd’s of London, the practice found that attitudes in the City of London were developing a stronger emphasis on conservation and a predilection on the part of the planners for ‘contextual’ – often Post Modernist – designs where new buildings were concerned. The practice strongly favoured the retention of historic buildings of quality and agreed to advise the conservation group SAVE on its campaign to preserve the redundant Billingsgate fish market, owned by the City (which proposed to demolish it for redevelopment).\n\nIn the event, the market was retained and acquired by a major bank for conversion as a financial-services building. The client sought a large area of open dealing floor space – to which the Victorian structure was ideally suited.\n\n\nExternally, the aim was to restore lost details and to clean and repair, but to add nothing new. Inside, some changes were needed, chiefly to open up and use the huge basement vaults which entirely lacked natural light. The main floor of the market was uncompromised by the addition of the new galleries which are lightweight and structurally independent of the existing building. One of the most striking internal spaces is the former ‘haddock gallery’, which was left intact and converted for office use. Close attention was paid to detailing to ensure an immaculate junction between old and new.\n\nRogers commented on the scheme: ‘We sought harmony of modern with old in a single building’.",
+  "dimensions": [
+    {
+      "label": "Gross Floor Area",
+      "value": "1 200 m²",
+      "elementId": "3a50ab9a41f44477830e3bfa882e99d2"
+    }
+  ],
+  "companies": [
+    {
+      "label": "Structural Engineer",
+      "value": "Ove Arup & Partners",
+      "elementId": "d3f1c96ade0644f0af8380e670f674ee"
+    },
+    {
+      "label": "Services Engineer",
+      "value": "Ove Arup & Partners",
+      "elementId": "46d9815c4980474d9995d0f009a242e8"
+    },
+    {
+      "label": "Quantity Surveyor",
+      "value": "GA Hanscomb Partnership",
+      "elementId": "b7de715557d045b681644c579e1a5542"
+    },
+    {
+      "label": "Lighting Consultant",
+      "value": "Lighting Design Partnership",
+      "elementId": "a35853b9269c4770b78e938a81c5ce92"
+    },
+    {
+      "label": "Contractor",
+      "value": "Taylor Woodrow",
+      "elementId": "b912f2b364fc4acb993e0b8c700a7323"
+    }
+  ],
+  "awards": [
+    {
+      "date": "1990-01-01",
+      "year": "1990",
+      "award": "BBC Design Awards Finalist",
+      "rowId": "225E6860D9E548CFBD48B45640FBCD5E"
+    },
+    {
+      "date": "1989-01-01",
+      "year": "1989",
+      "award": "RIBA National Award",
+      "rowId": "EDFAF57AA6DF4971975B37AD25D1956F"
+    },
+    {
+      "date": "1989-01-01",
+      "year": "1989",
+      "award": "Civic Trust Award",
+      "rowId": "F1F5589EDC0749EBB7940578388E7969"
+    },
+    {
+      "date": "1988-01-01",
+      "year": "1988",
+      "award": "RIBA Regional Award",
+      "rowId": "465AD79D95DC474294CACE77865AC60F"
+    }
+  ],
+  "certificates": []
+}

@@ -1,0 +1,89 @@
+{
+  "type": "Project",
+  "id": "00034",
+  "url": "office/uop",
+  "serializeDate": "'2022-06-19 14:24:41.756'",
+  "serialized": 1655648681756,
+  "serializedBy": "sreeve",
+  "title": "UOP",
+  "description": "Originally designed in 1969, this highly innovative project for UOP, a development with Zip-Up principles of flexibility, low cost, minimum maintenance and energy efficient applied to an industrial structure, had remained unbuilt.",
+  "date": "1973-1974",
+  "client": "UOP Fragrances",
+  "location": "Tadworth, UK",
+  "longLat": "-0.2369871  / 51.2999717",
+  "longitude": "-0.2369871 ",
+  "latitude": "51.2999717",
+  "typologies": [
+    "Office"
+  ],
+  "team": [
+    "Sally Appleby",
+    "Rita Bormioli",
+    "Peter Flack",
+    "Marco Goldschmied",
+    "Eric Holt",
+    "Niki van Oosten",
+    "Renzo Piano",
+    "Richard Rogers",
+    "Peter Ullathorne",
+    "Neil Winder",
+    "John Young"
+  ],
+  "partners": [
+    "Richard Rogers",
+    "Renzo Piano"
+  ],
+  "leaders": [
+    "John Young"
+  ],
+  "overview": "Originally designed in 1969, this highly innovative project for UOP, a development with Zip-Up principles of flexibility, low cost, minimum maintenance and energy efficient applied to an industrial structure, had remained unbuilt.\n\nThe company later returned to Piano + Rogers with a commission to build a factory on a new site at Tadworth.\n\n\nA pragmatic approach produced what the brief demanded – a flexible, high-performance building with scope for growth and change. Internal divisions between offices, laboratories and manufacturing areas were achieved with full height, demountable glazed walls creating a feeling of spaciousness, affording long views throughout the facility and visual contact between employees working on different aspects of the company’s business. Only the stores area, containing highly flammable compounds, was hidden from view behind a two-hour fire wall. The use of large sandwich wall panels (6” thick), sealed with neoprene, on a steel frame made for rapid assembly of the basic envelope.\n\n\nThe building stood apart from the general run of industrial structures being built in Britain at this period. Its economy, generosity of space and sheer verve – the use of colour was striking – impressed and seemed to point the way towards a new industrial vernacular. The building, widely publicised, helped to establish the practice’s reputation in the field of industrial builing.",
+  "dimensions": [
+    {
+      "label": "Gross Floor Area",
+      "value": "1 700 m²",
+      "elementId": "cdb0b58d3ad94ce1b9dfbee85b43c0ce"
+    }
+  ],
+  "companies": [
+    {
+      "label": "Architect",
+      "value": "Piano + Rogers",
+      "elementId": "15340d970ea24ffeaa37e2c155d25dfe"
+    },
+    {
+      "label": "Structural Engineer",
+      "value": "Anthony Hunt Associates",
+      "elementId": "ebd94c30b6284d2fb8f3b00a53993f74"
+    },
+    {
+      "label": "Quantity Surveyor",
+      "value": "Monk Dunstone Associates",
+      "elementId": "9e35d6983d0e4505be21c736d35acfe1"
+    },
+    {
+      "label": "Landscape Architect",
+      "value": "Landscape Design Partnership",
+      "elementId": "618ad9c4b3b74d95aa8d45320ed24c02"
+    },
+    {
+      "label": "Contractor",
+      "value": "James Longley & Co. Ltd",
+      "elementId": "7a86bf88b6a949f6b17fe839157aa2e8"
+    }
+  ],
+  "awards": [
+    {
+      "date": "1975-01-01",
+      "year": "1975",
+      "award": "RIBA Regional Award Commendation",
+      "rowId": "C29E52B738B147BB8197734A78E02951"
+    },
+    {
+      "date": "1975-01-01",
+      "year": "1975",
+      "award": "British Steel Corporation Structural Steel Design Award",
+      "rowId": "fc3f993a5a424379997f2516298a5ee7"
+    }
+  ],
+  "certificates": []
+}

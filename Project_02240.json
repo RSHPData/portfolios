@@ -1,0 +1,43 @@
+{
+  "type": "Project",
+  "id": "02240",
+  "url": "masterplanning/southbank-masterplan",
+  "serializeDate": "'2022-06-19 14:25:15.678'",
+  "serialized": 1655648715678,
+  "serializedBy": "sreeve",
+  "title": "Southbank Masterplan",
+  "description": "In 1994, the practice won an international competition to revitalise the area surrounding the South Bank Arts Centre, a complex of post-war arts buildings adjacent to Leslie Martin’s Royal Festival Hall.",
+  "date": "1994",
+  "client": "South Bank Arts Centre",
+  "location": "London, UK",
+  "longLat": "-0.116689  / 51.505895",
+  "longitude": "-0.116689 ",
+  "latitude": "51.505895",
+  "constructionCost": "£70,000,000",
+  "typologies": [
+    "Masterplanning"
+  ],
+  "team": [
+    "Ivan Harbour",
+    "Amo Kalsi",
+    "Richard Rogers",
+    "Simon Smithson"
+  ],
+  "partners": [
+    "Richard Rogers"
+  ],
+  "leaders": [
+    "Simon Smithson"
+  ],
+  "overview": "In 1994, the practice won an international competition to revitalise the area surrounding the South Bank Arts Centre, a complex of post-war arts buildings adjacent to Leslie Martin’s Royal Festival Hall.\n\nThe site is bounded by the Waterloo and Hungerford bridges and close to Denys Lasdun’s National Theatre. The complex is notorious for the poor quality of its public spaces – overhead concrete walkways and empty terraces are exposed to wind and rain. The principal design objective of the practice’s scheme was to integrate the South Bank Centre into the heart of London life – opening up the centre to the river, reconstructing a pedestrian link on Hungerford Bridge, improving connections to Waterloo and upgrading performance and visitor facilities.\n\n\nThe scheme envisaged a complete regeneration of the site including the renovation of the listed Royal Festival Hall. Key to the proposal was a bold architectural gesture – a crystal palace which paid homage to Paxton’s earlier essay for the Great Exhibition of 1951. This great wave of glass and steel sheltering the Hayward Gallery, the Queen Elizabeth Hall and the Purcell Room was designed to have a marked regenerative impact on the wider South Bank neighbourhood, just as the Pompidou Centre enlivened and transformed the surrounding Marais district. The vast roof would give a unified architectural expression to the disparate buildings while increasing usable area by 300 percent; the undulating forms of the vast canopy would also assist patterns of air, driving ventilation through the non-air-conditioned volume. The bulk of the proposal, however, addressed the complexities of improved access to and support of existing venues, the expansion of new informal performance areas which would attract a far wider audience and ancillary spaces to support this, including retail areas, cafés and restaurants.\n\n\nIn the end, despite grants in excess of £10 million, the Arts Council could not agree on a strategy for the arts centre as a whole and the project was abandoned. Renovation of the RFH proceeded independently, and new pedestrian links on either side of Hungerford Bridge opened in 2003.",
+  "dimensions": [
+    {
+      "label": "Site Area",
+      "value": "40 000 m²",
+      "elementId": "d8a2fef923b7428da4c77a82ee50615f"
+    }
+  ],
+  "companies": [],
+  "awards": [],
+  "certificates": []
+}

@@ -1,0 +1,96 @@
+{
+  "type": "Project",
+  "id": "03860",
+  "url": "masterplanning/wembley-masterplan",
+  "serializeDate": "'2022-06-19 14:25:38.207'",
+  "serialized": 1655648738207,
+  "serializedBy": "sreeve",
+  "title": "Wembley Masterplan",
+  "description": "Wembley has always had a unique place in the UK’s history, hosting national events such as the British Empire Exhibition in 1924/5, the Olympics in 1948 and the World Cup Final in 1966.",
+  "date": "2003-2006",
+  "client": "Quintain",
+  "location": "London, UK",
+  "longLat": "-0.279578  / 51.556091",
+  "longitude": "-0.279578 ",
+  "latitude": "51.556091",
+  "constructionCost": "£6,000,000",
+  "typologies": [
+    "Masterplanning"
+  ],
+  "team": [
+    "Benjamin Darras",
+    "Philip Dennis",
+    "Mike Fairbrass",
+    "Tim Mason",
+    "Jon Mercer",
+    "Andrew Morris",
+    "Leonardo Pelleriti",
+    "Richard Rogers",
+    "Angela Tobin",
+    "Martin White",
+    "Daniel Wright",
+    "Elizabeth Young"
+  ],
+  "partners": [
+    "Andrew Morris",
+    "Mark Darbon"
+  ],
+  "leaders": [],
+  "overview": "Wembley has always had a unique place in the UK’s history, hosting national events such as the British Empire Exhibition in 1924/5, the Olympics in 1948 and the World Cup Final in 1966. With the construction of the new stadium in 2007, the need for a wider masterplan became critical.\n\nThe practice’s Wembley Masterplan covers 42 acres of land identified in the Mayor of London’s 2004 London Plan as an opportunity area. It is a plan for a modern, urban, people’s place with the National Stadium as its centrepiece. The plan for Wembley offers high quality, state of the art leisure, business and retail facilities, as well as a centre for work with a wide range of job opportunities. It takes advantage of the economic opportunities brought by the Stadium and the refurbished Arena and also integrates the new development with the existing town centre and surrounding community.\n\n\nKey to the scheme is the creation of a major new public route from Wembley Central Station to the Stadium and then beyond to Wembley Park Station. An important new destination on this route is Arena Square, bounded to the southeast by a new hotel and the Palace of Industry. Arena Square provides a dramatic setting for seasonal and cultural events. Intended to be in continuous use, it is a cosmopolitan place enlivened by public art, street performances and carnivals. The masterplan reinvigorates Wembley as a vibrant place during the day as well as in the evening.\n\nThe masterplan was intended to create 7,000 jobs, homes for 8,500 people including 40% affordable housing and to give over 60 percent of the site to public space, including a new boulevard on the scale of Regent’s Street, complete with restaurants, bars, leisure facilities, hotels and retail amenities.",
+  "dimensions": [
+    {
+      "label": "Site Area",
+      "value": "42 acres",
+      "elementId": "4c8165814b4f44bc85a001f6d3a9591e"
+    },
+    {
+      "label": "Gross Area",
+      "value": "493 000 m²",
+      "elementId": "e1fb3904ecc646baa996e1ad7fa28cc7"
+    }
+  ],
+  "companies": [
+    {
+      "label": "Structural Engineer",
+      "value": "Buro Happold",
+      "elementId": "53da61c3c36149efba3f3cea94476b87"
+    },
+    {
+      "label": "Services Engineer",
+      "value": "Buro Happold",
+      "elementId": "4da90a14eb1b478c8f9d59e988445962"
+    },
+    {
+      "label": "Quantity Surveyor",
+      "value": "EC Harris",
+      "elementId": "c8da5964c2924c06ac5258e29906bc18"
+    },
+    {
+      "label": "Project Manager",
+      "value": "RPS Consultants",
+      "elementId": "d562128ab5874c2db0b98e51c0921662"
+    },
+    {
+      "label": "Landscape Architect",
+      "value": "Randle Siddeley",
+      "elementId": "43906d4a85ef43e4a401d9b3178fcc1c"
+    },
+    {
+      "label": "Planning Consultant",
+      "value": "Gerald Eve / RPS Consultants",
+      "elementId": "ddbabff4e4964df4bebd855d99e7a2e9"
+    },
+    {
+      "label": "Civil Engineer",
+      "value": "Buro Happold",
+      "elementId": "98d3fe118f024215a38c4813c1719df7"
+    },
+    {
+      "label": "Transport Engineer",
+      "value": "Buro Happold",
+      "elementId": "561b931913644e41a9b5d435acd138b8"
+    }
+  ],
+  "awards": [],
+  "certificates": []
+}

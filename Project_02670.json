@@ -1,0 +1,106 @@
+{
+  "type": "Project",
+  "id": "02670",
+  "url": "retail/ashford-designer-retail-outlet",
+  "serializeDate": "'2022-06-19 14:25:22.176'",
+  "serialized": 1655648722176,
+  "serializedBy": "sreeve",
+  "title": "Ashford Designer Retail Outlet",
+  "description": "The proliferation of out-of-town retail developments on the American model is a contentious issue in Britain and in Europe generally.",
+  "date": "1996-2000",
+  "client": "BAA McArthurGlen UK Ltd",
+  "location": "Ashford, Kent, UK",
+  "longLat": "0.87768  / 51.13713",
+  "longitude": "0.87768 ",
+  "latitude": "51.13713",
+  "constructionCost": "£ 21 000 000",
+  "typologies": [
+    "Retail"
+  ],
+  "team": [
+    "Laurie Abbott",
+    "Martin Cook",
+    "Sean Daly",
+    "Mark Darbon",
+    "Mike Fairbrass",
+    "Rowena Fuller",
+    "Jane Hannan",
+    "Toby Jeavons",
+    "Tom Lacey",
+    "Catherine Martin",
+    "Tim Mason",
+    "Andrew Morris",
+    "Richard Rogers",
+    "Neil Southard",
+    "Andrew Tyley",
+    "Robert Webb",
+    "Martin White",
+    "Daniel Wright",
+    "John Young"
+  ],
+  "partners": [
+    "Andrew Morris",
+    "Mark Darbon"
+  ],
+  "leaders": [],
+  "overview": "The proliferation of out-of-town retail developments on the American model is a contentious issue in Britain and in Europe generally. This retail development at Ashford reverses the trend, occupying a prime piece of brownfield land - a former railway and engineering site - adjacent to a major public transport hub, Ashford’s International Station, with connections to the Channel Tunnel and London.\n\nIn architectural terms too, the development is innovative, eschewing the monumental and inflexible character of many recent retail schemes. Instead the single storey retail units shelter beneath a 30,000 m² high-tensile fabric roof, one kilometre in length and supported on 24 bright orange steel masts. The centre can accommodate 3,000 visitors at any one time (there are parking spaces for 1,400 cars) and includes a food court, tourist information centre and exhibition space. The design allows for future flexibility - the retail outlets can be easily relocated and reconfigured as required.\n\n\nThe distinctive tent structure is festive in spirit, unites the centre and announces itself proudly within the 30-acre site. It is undulating in form, rising to high points whose vertical masts act as counterpoints to the horizontal nature of the development and local topology. It wraps around the edge of the leaf-shaped plan and joins the northern end of the site.\n\nServicing to the retail outlet centre is accessed by a road at the rear of the retail units, which is concealed from view by the three metre-high landscaped embankment. This embankment gently slopes up to the eaves-line of the retail units providing a compositional springboard for the tented structure. To the outsider, an impression of self-containment and privacy is given for what is, in reality, an ever-changing public space.",
+  "design": "The defining element of the design is the light-weight tensile fabric roof, supported from 22 bright orange steel masts and attached to the ground by tension cables attached to circular concrete pads anchors.\n\nThe tent is undulating in form, rising to high points where the vertical steel masts act as counterpoints to the predominantly horizontal composition. The tent wraps around the leaf-shaped plan, joining at the northern end of the site. Here, pedestrians and train passengers arrive, passing a tourist information centre, a public display area, management suites and a food court. Those travelling by car arrive from the southern end of site where they gain access to the landscaped car park at the centre of the development.\n\n\nThe roof, the longest continuous tent structure in the world and covering an area of 30 square kilometres, shelters the ring of single storey units below. The units themselves, glazed on the inner face and clad in solid blue panels to the rear, are highly flexible insulated ‘boxes’. Each unit is air-conditioned with bright yellow external air handling units located on the rear of the units.\n\n\nThe boxes can be rapidly reconfigured, allowing for changing retail demands and a large number of occupants with varying requirements. This flexibility is achieved through the removal and erection of light-weight partitions and the reconfiguration of shop fronts as required. The units are serviced from the rear, directly accessible from the service road, thereby minimising interruptions to the shop fronts and removing the need to disrupt the public spaces.",
+  "concept": "The centre is designed as a ring of accommodation, looking inwards to a car park for 1,400 cars. In order to minimise the visual impact of the building, the centre is designed to sit low in the landscape.\n\n\nThe embankment, acting as a springboard for the tensile structure and concealing the service ring road, reaches up almost as far as the eaves of the tented structure. Appearing as a tented encampment on the landscape, the impression from the exterior is one of self-containment and enclosure for what is, in effect, a vibrant and busy retail development.",
+  "construction": "The roof is the longest continuous tent form in the world and required detailed study to establish how it was to be built in relation to other trades involved in the project, as well as ensuring its temporary structural stability for the duration of the construction programme.\n\nThe structural model for the roof was established by Buro Happold Engineers working in collaboration with Richard Rogers Partnership. Detailed discussions also influenced the type of cables specified and the nature of the connection details, as well as the specification for the tent-like roof material.\n\n\nThe specialist nature of the lightweight roof, a material similar to PVC, meant that the steel fabrication company became part of the team early in the design process. They were then responsible for the detailed design and fabrication for this significant part of the contract. During the construction, a team of highly trained riggers were employed as part of the tent erection team.\n\n\nThe site remediation strategy formed an important element of the construction programme, and provided a significant challenge for the contractor in terms of soil grading, washing and batching prior to the construction of the continuous landscaped berm. To avoid the cost and environmental impact of removing large quantities of material from the site, significant amounts of soil were re-used. Repetitive cladding details and modular design of the environmental systems also significantly reduced the overall cost of the project.",
+  "dimensions": [
+    {
+      "label": "Site Area",
+      "value": "30 000 m²",
+      "elementId": "06c144544ae14200b3635e2d2a8e78d4"
+    },
+    {
+      "label": "Gross Floor Area",
+      "value": "19 000 m²",
+      "elementId": "423aa9ceec3a47b881939e4ae7ab90f6"
+    }
+  ],
+  "companies": [
+    {
+      "label": "Structural Engineer",
+      "value": "Buro Happold",
+      "elementId": "b3578fcb251243b0941d97e906e1e36d"
+    },
+    {
+      "label": "Services Engineer",
+      "value": "John Brady Associates",
+      "elementId": "3c2177326b1b4e30818b1d84aad38b8a"
+    },
+    {
+      "label": "Quantity Surveyor",
+      "value": "Davis Langdon & Everest",
+      "elementId": "50635df8739643e7a29c1a55954ad2bd"
+    },
+    {
+      "label": "Lighting Consultant",
+      "value": "Lighting Design Partnership",
+      "elementId": "ab4fabb195734511aefbd93fec7501bb"
+    },
+    {
+      "label": "Landscape Architect",
+      "value": "Derek Lovejoy Partnership",
+      "elementId": "1ce51e8c0f6947c68f7e82725ecc61f6"
+    },
+    {
+      "label": "Contractor",
+      "value": "Galliford Northern, Kajima / Laing Management Joint Venture",
+      "elementId": "b0dbf303f0c54ce5af74a6e060b64909"
+    },
+    {
+      "label": "Planning Consultant",
+      "value": "Montagu Evans",
+      "elementId": "1568569bf3204fd99bb99b5e6dc51b10"
+    },
+    {
+      "label": "Civil Engineer",
+      "value": "Buro Happold / Arup",
+      "elementId": "73c3cb2dd84d414d93fa02fe505aa3eb"
+    }
+  ],
+  "awards": [],
+  "certificates": []
+}

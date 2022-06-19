@@ -1,0 +1,74 @@
+{
+  "type": "Project",
+  "id": "00503",
+  "url": "masterplanning/royal-albert-docks-retail-and-leisure-complex/",
+  "serializeDate": "'2022-06-19 14:24:55.525'",
+  "serialized": 1655648695525,
+  "serializedBy": "sreeve",
+  "title": "Royal Albert Docks Retail and Leisure Complex",
+  "description": "The ‘Royals’, the Royal Victoria, Royal Albert and King George V Docks, were the largest and most modern of London’s dock complexes and the last to close.",
+  "date": "2001",
+  "client": "Rosehaugh Stanhope Developments plc Stuart Lipton",
+  "location": "London, UK",
+  "longLat": "0.0657309  / 51.5061482",
+  "longitude": "0.0657309 ",
+  "latitude": "51.5061482",
+  "typologies": [
+    "Masterplanning"
+  ],
+  "team": [
+    "Mike Davies",
+    "Ivan Harbour Avtar Lotay",
+    "Andrew Morris",
+    "Andrew Partridge",
+    "Stephen Spence",
+    "Richard Rogers",
+    "Andrew Tyley"
+  ],
+  "partners": [
+    "Ivan Harbour",
+    "Andrew Morris"
+  ],
+  "leaders": [],
+  "overview": "The ‘Royals’, the Royal Victoria, Royal Albert and King George V Docks, were the largest and most modern of London’s dock complexes and the last to close. The last ship left the docks in 1980, leaving a vast tract of land and water (over 400 hectares) available for development. The area stretched from Barking to the Isle of Dogs, comparable to the distance between the Houses of Parliament and Tower Bridge.\n\nKey to RRP’s masterplan for the Royal Docks was the creation of an effective public transport system, in order to facilitate the creation of an area of international importance that would generate investment and employment. RRP’s design strategy also included services, landscape, development nodes and a clear public domain, alongside major commercial developments – all vital components of what would be a ‘unique water-side city’.\n\n\nInitially, only the infrastructure for this vast scheme was realised, but RRP was subsequently commissioned by developers Rosehaugh Stanhope to design a major mixeduse development along the Royal Albert Dock and adjacent to London’s City Airport.\n\nBordering the 2.5 kilometre long dock, the scheme culminated in a great glazed galleria arcing around a marina. Intended to be the most impressive shopping centre in Europe, the scheme offered a spectacular vista along the entire length of the Royals. Based on the concept of a dynamic public domain, with tented structures along the waterside housing restaurants and other leisure activities, the development was designed as the commercial magnet for the entire Royals complex but the faltering economy of the late 1980s meant that this great civic scheme was abandoned.",
+  "dimensions": [],
+  "companies": [
+    {
+      "label": "Civil Engineer",
+      "value": "Ove Arup & Partners",
+      "elementId": "65509115dd06424a88091fc4cb57da26"
+    },
+    {
+      "label": "Structural Engineer",
+      "value": "Ove Arup & Partners",
+      "elementId": "f798ea7a9b6546c08c484cdc480a62ce"
+    },
+    {
+      "label": "Construction Consultant",
+      "value": "Schal",
+      "elementId": "36189bd82d6e4a9ebb1795ca5131467a"
+    },
+    {
+      "label": "Geotechnical Engineer",
+      "value": "Ove Arup & Partners",
+      "elementId": "44fe00ad1e114c4cb57d3c8ebef286da"
+    },
+    {
+      "label": "Landscape Architect",
+      "value": "Hanna Olin Limited",
+      "elementId": "80da78b0db89421d8dbee9900f2f1108"
+    },
+    {
+      "label": "Quantity Surveyor",
+      "value": "Gardiner & Theobald",
+      "elementId": "9c42922c3b4641c8be848fb5198c9eab"
+    },
+    {
+      "label": "Retail Consultant",
+      "value": "Edward Erdman",
+      "elementId": "b51dfe41d4544f03a67a3f65c68322e0"
+    }
+  ],
+  "awards": [],
+  "certificates": []
+}

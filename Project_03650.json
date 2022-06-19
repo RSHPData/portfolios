@@ -1,0 +1,63 @@
+{
+  "type": "Project",
+  "id": "03650",
+  "url": "civic/barcelona-and-lhospitalet-law-courts",
+  "serializeDate": "'2022-06-19 14:25:34.172'",
+  "serialized": 1655648734172,
+  "serializedBy": "sreeve",
+  "title": "Barcelona & L’Hospitalet Law Courts",
+  "description": "The development, designed with co-architects Alonso Balaguer y Arquitectos Asociados, is designed to provide accommodation for the judicial bodies of Barcelona and l’Hospitalet de Llobregat.",
+  "date": "2002",
+  "client": "Generalitat de Catalunya, Regional Government of Catalunya GISA Gestió d'Infrastructures SA",
+  "location": "Barcelona, Spain",
+  "longLat": "2.124063  / 41.367509",
+  "longitude": "2.124063 ",
+  "latitude": "41.367509",
+  "typologies": [
+    "Civic"
+  ],
+  "team": [
+    "Natxo Alonso",
+    "Andy Bryce",
+    "Ronald Lammerts van Bueren",
+    "Benjamin Darras",
+    "Russell Gilchrist",
+    "Jan Güell",
+    "Mark Hallett",
+    "John McElgunn",
+    "Richard Rogers",
+    "Graham Stirk",
+    "Andrew Yek"
+  ],
+  "partners": [
+    "Graham Stirk"
+  ],
+  "leaders": [],
+  "overview": "The competition entry for a law courts complex at l’Hospitalet, a rapidly growing municipality within the Barcelona conurbation, was designed to give the city a striking new landmark that is explicitly a public building, reflecting the practice’s perennial concern for public space.\n\nThe 264,500 m² development is designed to provide accommodation for the judicial bodies of Barcelona and l’Hospitalet de Llobregat, bringing together activities formerly dispersed across 17 separate locations.\n\nThe building accommodates two clearly defined types of spaces: offices (for 15,000 people) and court rooms. Their relationship and the magnitude of the scheme (184 courtrooms) make for a highly complex organisation, with independent circulation systems for public, judges, detainees and juries.\n\n\nThe scheme offers a strong response to the surrounding city context. A series of linked buildings, varying in height from six to 16 storeys, are aligned to the existing street lines. Articulation is dictated by the differentnbsp;urban conditions at the corners of the site. An inner ring of buildings surrounds a large central landscaped amphitheatre, a contained space at the heart of the proposed scheme that offers a new north–south pedestrian link between the neighbourhoods of Santa Eulàlia and Pedrosa of l’Hospitalet. By creating a level site as the base for the complex, the scheme allows for a clear delineation of the various functions that it contains.nbsp;\n\n\nA ‘Law Galleria’ creates the central spine of activity that binds all the buildings together. The court rooms with detainee access are located in the cascading floors of the inner ring under the roof of the landscaped amphitheatre, while non-detainee courts are located in the outer ring facing the surrounding streets. Above the tiers of courts, two parallel blocks of offices enclose the central space with a central atrium allowing natural light to penetrate to the Law Galleria. The amphitheatre provides a dynamic inclined roof enclosure to the inner court tiers with circulation areas around the criminal courts, allowing natural light into the very heart of the building. Landscape and planting define the nature of this central space.",
+  "dimensions": [
+    {
+      "label": "Area",
+      "value": "264 500 m²",
+      "elementId": "a234b31d1acb4b469fe31132e792ea27"
+    }
+  ],
+  "companies": [
+    {
+      "label": "Co-Architect",
+      "value": "Alonso Balaguer y Arquitectos Asociados",
+      "elementId": "0677feec6aa644f79d15be43fd671667"
+    },
+    {
+      "label": "Structural Engineer",
+      "value": "Arup",
+      "elementId": "e4cd5ed4041e49cca295ac0df27e0ce6"
+    },
+    {
+      "label": "Services Engineer",
+      "value": "Arup",
+      "elementId": "701613c9e48c46c39e67573245087e68"
+    }
+  ],
+  "awards": [],
+  "certificates": []
+}

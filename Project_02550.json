@@ -1,0 +1,103 @@
+{
+  "type": "Project",
+  "id": "02550",
+  "url": "office/broadwick-house",
+  "serializeDate": "'2022-06-19 14:25:17.947'",
+  "serialized": 1655648717947,
+  "serializedBy": "sreeve",
+  "title": "Broadwick House",
+  "description": "The building was commissioned by a developer and stands in the Soho conservation area, where straightforwardly ‘contextual’ design had previously been the norm.",
+  "date": "1996-2002",
+  "client": "Derwent Valley Holdings plc",
+  "location": "London, UK",
+  "longLat": "-0.13515  / 51.51360",
+  "longitude": "-0.13515 ",
+  "latitude": "51.51360",
+  "constructionCost": "£ 6 900 000",
+  "typologies": [
+    "Office"
+  ],
+  "team": [
+    "Yasmin Al-Ani Spence",
+    "Maurice Brennan",
+    "Maxine Campbell",
+    "Mike Fairbrass",
+    "Stig Larsen",
+    "Annette Main",
+    "Andrew Morris",
+    "Tamiko Onozawa",
+    "Richard Rogers",
+    "Stephen Spence",
+    "Martin White",
+    "John Young"
+  ],
+  "partners": [
+    "Andrew Morris",
+    "Mark Darbon"
+  ],
+  "leaders": [
+    "Maurice Brennan",
+    "Stephen Spence"
+  ],
+  "overview": "Bespoke office buildings, like Lloyd’s of London or Lloyds Register, are often mould-breakers. The speculative development sector tends to be more cautious and certainly less likely to challenge planning constraints, which reduce the potential for innovative design. In this light, Broadwick House comes as something of a surprise.\n\nThe building was commissioned by a developer and stands in the Soho conservation area, where straightforwardly ‘contextual’ design had previously been the norm. The planning negotiations for the project were protracted but the result is a strikingly contemporary structure that enhances the neighbourhood.\n\n\nThe site is on a corner of a city block, with thoroughfares on all four sides. To the east, it abuts Berwick Street, with one of London’s best-known street markets. Neighbouring buildings range from Georgian town houses to 1960s high rise flats and 1980s Post-Modernist office blocks. Into this diverse scenario, the practice’s scheme introduces an element of calm, rationality and urbanity. By concentrating service cores on the western edge of the block, clear, well-lit and highly transparent office floors are created behind fully glazed façades. Energy efficiency is ensured with the provision of solar performance glazing, in conjunction with external shading devices and motorised blinds. Ground floor façades are set back to facilitate passage along the crowded streets – ground floor and basement areas are allocated for retail and restaurant use, whilst at the fifth floor, the building steps back to provide outdoor terraces. The most distinctive element of the scheme is the double-height space set below the great arched roof, affording spectacular views over London’s West End. The glazed lift tower on Broadwick Street is a memorable urban marker, a celebration of movement typical of Richard Rogers Partnership.\n\n\nThe upper and lower ground floors have been turned into Yauatcha, the latest project by restauranteur Alan Yau, creator of the Wagamama restaurant chain.",
+  "design": "The building is composed of ‘served’ space, consisting of the occupied floorplates, and ‘servant’ space which provides essential support to the floorplates in the form of circulation, wet areas and general services.\n\nThese elements are distinctly expressed in the architectural composition. The floorplates or ‘served’ space, are arranged as a stack of efficient, glazed volumes utilising a simple structural system to create high quality flexible office space allowing for maximum daylight penetration. The facade expresses the clear floor to ceiling glazing, the consistent 1.5 metre planning grid and the capacity to cellularise the accommodation as required.\n\n\nThe secondary services, or ‘servant’ spaces, comprised of lifts, stairs and toilets are placed on the boundary adjacent to the blank wall of neighbouring Trenchard House. The principal vertical tower, with its dramatic glazed passenger lifts, lends a strong sense of identity to the building and can be clearly seen from both the Broadwick and Berwick Street approaches. Additional service cores are expressed as distinct tower elements on Hopkins Street. All of the circulation and services are given further clarity through a system of colour-coding and elemental zoning.\n\nIn keeping with the high level of activity at ground level, especially the retail areas of the Berwick Street Market, the shops, cafes and restaurants of Broadwick Street and the nearby Carnaby Street shopping precinct, the ground level of Broadwick House is set back to allow for an increased public realm on three sides. This experience is enhanced by a high level of visibility through the ground level spaces.\n\n\nIn response to the innovative and forward-thinking environmental criteria, the building is entirely cooled by a passive chilled beam system, one of the first complete systems to be implemented in London. Overall, the building has significantly lower energy consumption compared to other similarly sized buildings. Broadwick House is also designed to enable the key environmental systems to be updated and improved, tracking technological developments over the life span of the building. A further important aspect of the environmental response is the provision of louvres and external blinds to each of the facades, which respond to localised conditions of solar gain, views, privacy and overlooking.",
+  "concept": "The building is designed as a contemporary landmark that makes a significant contribution to the Soho streetscape.\n\nThe primary driver of the architectural concept is an unprecedented level of transparency on the upper and lower ground levels, allowing previously unachievable views through the building, made possible by the fact that the island site is bounded on all four sides by public thoroughfares. The secondary focus of the concept is the large curving double-height space at the top of the building that mediates between two different urban scales. In between these two elements, is the block of clearly expressed large open floorplates that benefit from high levels of natural light from all four sides.\n\n\nIn keeping with the constraints of the Conservation Area requirements, the building mass is carefully placed to have a minimal impact on the surrounding streets, while creating an appropriate transition in scale suggested by the adjacent buildings. Adjacent to the principal corner formed by Berwick and Broadwick Streets, the tall lift tower element focuses the main building height on Broadwick Street while the curved roof structure, containing a double-height studio space commanding spectacular views across the West End, creates the transition in height through to the setback that defines the three main articulated facades that turn the site corners.",
+  "dimensions": [
+    {
+      "label": "Site Area",
+      "value": "400 m²",
+      "elementId": "848d592cc3174df5a452c70824dc6d50"
+    },
+    {
+      "label": "Gross Floor Area",
+      "value": "3 200 m²",
+      "elementId": "c1407841d7324165bbb627d6d7d646f8"
+    }
+  ],
+  "companies": [
+    {
+      "label": "Structural Engineer",
+      "value": "Ove Arup & Partners",
+      "elementId": "c25fe66253ca407fb31bec4b61a3559d"
+    },
+    {
+      "label": "Services Engineer",
+      "value": "BDSP",
+      "elementId": "19ce2eb7bf054d9198b0aeb2bbd61ce2"
+    },
+    {
+      "label": "Quantity Surveyor",
+      "value": "Davis Langdon & Everest",
+      "elementId": "b44f0975a87546b19bf42433761ac19f"
+    },
+    {
+      "label": "Project Manager",
+      "value": "Buro Four Project",
+      "elementId": "39437114167d498a81ebce0ba390dbef"
+    },
+    {
+      "label": "Contractor",
+      "value": "John Sisk & Son",
+      "elementId": "bc200270bdbb46b8ab33e916b5fbe3a4"
+    },
+    {
+      "label": "Acoustic Consultant",
+      "value": "Arup Acoustics",
+      "elementId": "65a209d32eb34f56beb28ac0bbf9e846"
+    }
+  ],
+  "awards": [
+    {
+      "date": "2003-01-01",
+      "year": "2003",
+      "award": "RIBA Award",
+      "rowId": "FC5942672EFB43DDA520C3EB016030D1"
+    },
+    {
+      "date": "2001-01-01",
+      "year": "2001",
+      "award": "Estates Gazette Architecture Award",
+      "rowId": "968CB1AF24984CA18313A4EF1DFB1343"
+    }
+  ]
+}

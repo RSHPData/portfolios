@@ -1,0 +1,179 @@
+{
+  "type": "Project",
+  "id": "01455",
+  "url": "office/chiswick-park",
+  "serializeDate": "'2022-06-19 14:25:03.752'",
+  "serialized": 1655648703752,
+  "serializedBy": "sreeve",
+  "title": "Chiswick Park",
+  "description": "The key feature of the development is the spectacular parkland forming the heart of the site. The focal point of the park is a large lake, with a canopied timber boardwalk from which the entrance to each building is arranged.",
+  "date": "1999-2016",
+  "client": "Stanhope Plc / Blackstone",
+  "location": "London, UK",
+  "longLat": "-0.27456  / 51.49498",
+  "longitude": "-0.27456 ",
+  "latitude": "51.49498",
+  "constructionCost": "£ 130,000,000",
+  "typologies": [
+    "Office"
+  ],
+  "team": [
+    "Elena Arzua Tourino",
+    "Annie Castle",
+    "Daniel Crane",
+    "John Dawson",
+    "Charles Gagnon",
+    "Pascale Gibon",
+    "Nick Hancock",
+    "Nerida Hodge",
+    "Basmah Kaki",
+    "Anja Kempa",
+    "Jose Llerena",
+    "Charles Meloy",
+    "Andrew Morris",
+    "Richard Paul",
+    "Tosan Popo",
+    "Richard Rogers",
+    "Marian San Emeterio",
+    "Neil Southard",
+    "Tomas Tvarijonas",
+    "Andrew Tyley",
+    "Christoph Wand",
+    "Matt Wilmer",
+    "Andrea Wu"
+  ],
+  "partners": [
+    "Richard Paul",
+    "Andrew Morris"
+  ],
+  "leaders": [],
+  "overview": "The key feature of the development is the spectacular parkland forming the heart of the site. The focal point of the park is a large lake, with a canopied timber boardwalk from which the entrance to each building is arranged.\n\nThe landscape is divided into an ‘inner garden’ and outer landscape areas, the former is highly detailed, while the latter is a softer, informal zone providing a park-like backdrop of native planting where green ‘fingers’ extend between the buildings, through to the perimeter car parks.\n\nChiswick Park has been developed as a place favouring people rather than vehicles. Designed for pedestrian priority (75 percent of those working at Chiswick Park arrive on foot, by bicycle, bus or train), all vehicular activity is routed around the edge of the site, to screened carparks or undercrofts beneath the buildings.\n\n\nThe design for each building is developed as ‘served’ and ‘servant’ space, in which a central core (servant) is surrounded by uninterrupted three metre-high floor to ceiling office floors (served), assisted by external escape stairs which contribute to the distinctive identity of the scheme. Full height, glazed central atria provide views out into the park and bring natural light into the office space. The depth of each building varies, as determined by the masterplan, resulting in a variety of building sizes and contributing to the richness of the scheme as a whole.\n\n\nThe facades are fully glazed to maximise views and daylight, and enclose large, unobstructed office spaces. The comprehensive energy strategy includes fixed external sunshades in the form of a canopy of louvres at roof level as well as retractable fabric blinds on the east and west facades that are operated automatically via roof-mounted light sensors. Together, these shade 90 percent of the building’s surfaces, and together with a displacement heating and cooling system and the extensive use of natural ventilation, significantly reduce the requirement for air-conditioning.",
+  "design": "The key feature of the development is the spectacular parkland forming the heart of the site. The focal point of the park is a large lake, with a canopied timber boardwalk from which the entrance to each building is arranged.\n\nThe landscape is divided into an ‘inner garden’ and outer landscape areas, the former is highly detailed, while the latter is a softer, informal zone providing a park-like backdrop of native planting where green ‘fingers’ extend between the buildings, through to the perimeter car parks.\n\nChiswick Park has been developed as a place favouring people rather than vehicles. Designed for pedestrian priority (75 percent of those working at Chiswick Park arrive on foot, by bicycle, bus or train), all vehicular activity is routed around the edge of the site, to screened carparks or undercrofts beneath the buildings.\n\n\nThe design for each building is developed as ‘served’ and ‘servant’ space, in which a central core (servant) is surrounded by uninterrupted three metre-high floor to ceiling office floors (served), assisted by external\n\nescape stairs which contribute to the distinctive identity of the scheme. Full height, glazed central atria provide views out into the park and bring natural light into the office space. The depth of each building varies, as determined by the masterplan, resulting in a variety of building sizes and contributing to the richness of the scheme as a whole.\n\n\nThe facades are fully glazed to maximise views and daylight, and enclose large, unobstructed office spaces. The comprehensive energy strategy includes fixed external sunshades in the form of a canopy of louvres at roof level as well as retractable fabric blinds on the east and west facades that are operated automatically via roof-mounted light sensors. Together, these shade 90 percent of the building’s surfaces, and together with a displacement heating and cooling system and the extensive use of natural ventilation, significantly reduce the requirement for air-conditioning.",
+  "concept": "The RSHP masterplan consists of twelve buildings with a total of 1.4 million square feet of office space, as well as parking for 1,700 cars, a health club, swimming pool, and brasserie-cafe set within a landscaped public space complete with open-air performance space and pond.\n\nThese facilities are designed to enhance the work-life balance of the occupants, supporting the concept of social sustainability. The buildings, arranged around the perimeter of the site enjoy views over the park with its central lake with three metre high waterfall, bridge and boardwalks, and extensive soft landscaped areas.\n\n\nEach building at Chiswick Park is standardised taking advantage of off-site construction technology to maximise time and cost benefits. This approach reflects Stanhope’s conviction that a very high quality, distinctive and flexible development can be achieved using standardised components and built to conform to tight commercial constraints. To this end, the office buildings contain highly flexible space that can be configured in open plan or cellular form. Each floor plate can also be let as a single tenancy or as multiple tenancies split into divisions of two, three or four separate, fully independent tenancies.",
+  "dimensions": [
+    {
+      "label": "Site Area",
+      "value": "33 acres",
+      "elementId": "07b3e47b55d14eb08a75d7ae81b7a7b2"
+    },
+    {
+      "label": "Gross Floor Area",
+      "value": "185 000 m²",
+      "elementId": "abad552e378e45c1b2f5385df6713f87"
+    }
+  ],
+  "companies": [
+    {
+      "label": "Structural Engineer",
+      "value": "Arup",
+      "elementId": "00efac58ebf047408a5442d178d21461"
+    },
+    {
+      "label": "Services Engineer",
+      "value": "Arup",
+      "elementId": "0cc2626069bf4f96a90983dc4410d944"
+    },
+    {
+      "label": "Quantity Surveyor",
+      "value": "EC Harris / Mott Green & Wall",
+      "elementId": "59d620e3d719405693b31d744000b002"
+    },
+    {
+      "label": "Landscape Architect",
+      "value": "W8 Landscape Architects and Urban Planners / Charles Funke Associates",
+      "elementId": "eb603238e68c4f64b2f5f8d66ad576d6"
+    },
+    {
+      "label": "Contractor",
+      "value": "Lend Lease",
+      "elementId": "1999853836204683a5fd13d1b63280d1"
+    },
+    {
+      "label": "Planning Consultant",
+      "value": "Lendlease",
+      "elementId": "064553810cd14dad99c37ac144fc350e"
+    },
+    {
+      "label": "Letting Agents",
+      "value": "Jones Lang La Salle & PDF Savills",
+      "elementId": "10c0a47bbf8d482291fce569498e7f9b"
+    },
+    {
+      "label": "Facade Consultant",
+      "value": "Josef Gartner",
+      "elementId": "246c3e311b01474d99136e57e7dae582"
+    },
+    {
+      "label": "Fire Consultant",
+      "value": "Exova",
+      "elementId": "612f92d9202e49c490b316e9050a1346"
+    },
+    {
+      "label": "Access Consultant",
+      "value": "David Bonnet Associates",
+      "elementId": "381762d5d19742fc9cd8388f2073f19f"
+    },
+    {
+      "label": "Infrastructure",
+      "value": "Arup",
+      "elementId": "3f5d745f8a864cfe9aebb8625697d51b"
+    }
+  ],
+  "awards": [
+    {
+      "date": "2012-01-01",
+      "year": "2012",
+      "award": "UK's 50 Best Workplaces",
+      "rowId": "24a40227c48d4e15903e4217cb7f75dd"
+    },
+    {
+      "date": "2011-01-01",
+      "year": "2011",
+      "award": "UK's 50 Best Workplaces",
+      "rowId": "ccb8581537c94dd8a137287b63fc6fa1"
+    },
+    {
+      "date": "2010-01-01",
+      "year": "2010",
+      "award": "UK's 50 Best Workplaces",
+      "rowId": "37b371591dc942de88932500aae35e55"
+    },
+    {
+      "date": "2009-01-01",
+      "year": "2009",
+      "award": "UK's 50 Best Workplaces",
+      "rowId": "3a94cc6205884e38acd7bfd8315f6815"
+    },
+    {
+      "date": "2008-01-01",
+      "year": "2008",
+      "award": "UK's 50 Best Workplaces",
+      "rowId": "e4b38e61bca94ccb928c68a6ae6f3144"
+    },
+    {
+      "date": "2007-01-01",
+      "year": "2007",
+      "award": "UK's 50 Best Workplaces",
+      "rowId": "082f50ed09d44706a97185ced29d09ac"
+    },
+    {
+      "date": "2006-01-01",
+      "year": "2006",
+      "award": "OAS (Office Agents Society) Best Speculative Building Outside Central London: Building 5",
+      "rowId": "9D8438D71A794847A668575D269F5D3F"
+    },
+    {
+      "date": "2003-01-01",
+      "year": "2003",
+      "award": "RIBA Award",
+      "rowId": "C1D712793A994A3AAEE4F6A5D31BC771"
+    }
+  ],
+  "certificates": [
+    {
+      "authority": "BREEAM",
+      "rating": "Excellent (Buildings 6, 7, 8, 9)",
+      "rowId": "1"
+    }
+  ]
+}

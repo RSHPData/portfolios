@@ -1,0 +1,78 @@
+{
+  "type": "Project",
+  "id": "00374",
+  "url": "industrial/reuters-data-centre/",
+  "serializeDate": "'2022-06-19 14:24:53.555'",
+  "serialized": 1655648693555,
+  "serializedBy": "sreeve",
+  "title": "Reuters Data Centre",
+  "description": "This 28,000m² building was intended as the first phase of a speculative office scheme set around a 19th-century restored graving dock near the Isle of Dogs.",
+  "date": "1987-1992",
+  "client": "Rosehaugh Stanhope Developments plc / Reuters",
+  "location": "London, UK",
+  "longLat": "-0.003375  / 51.506938",
+  "longitude": "-0.003375 ",
+  "latitude": "51.506938",
+  "typologies": [
+    "Industrial"
+  ],
+  "team": [
+    "Mike Davies",
+    "Ivan Harbour",
+    "Amo Kalsi",
+    "John Lowe",
+    "Andrew Morris",
+    "Robert Peebles",
+    "Richard Rogers",
+    "Graham Stirk",
+    "Martin White",
+    "John Young"
+  ],
+  "partners": [
+    "John Young"
+  ],
+  "leaders": [
+    "Ivan Harbour",
+    "Graham Stirk",
+    "Andrew Morris"
+  ],
+  "overview": "This 28,000m² building was intended as the first phase of a speculative office scheme set around a 19th-century restored graving dock near the Isle of Dogs. In the event, the other three phases of the development were not built. Phase 1 was pre-let as a ‘shell-and-core’ building to the news agency Reuters, for use as a secure data centre. The practice was also commissioned to design a separate restaurant/recreation block close to the old dockside.\n\nThe building is used for processing data and a high degree of artificial servicing was required. The internal space is divided between offices and plant rooms full of computers. Scope for rearranging the spaces and bringing in heavy machinery had to be built into the scheme.\n\n\nAn interchangeable cladding system of solid and glazed panels reflects the flexibility of the interior. To maintain flexibility, lifts and staircases are concentrated in perimeter towers. Main plant is placed at roof level and services are distributed downwards through internal cores. Cranes are made into features and colour used to denote the various functions. Though essentially a ‘functional’ building – rigorous, economical and rational – constructed to a strict time schedule, Since the building opened, it has undergone a number of refits as both technology has changed and alternative uses are housed. The strength of the building is in its enduring ability to change to meet contemporary demands.",
+  "dimensions": [
+    {
+      "label": "Gross Floor Area",
+      "value": "28,000 m²",
+      "elementId": "c404d75ae0c34c05bbbc87517ccf2472"
+    }
+  ],
+  "companies": [
+    {
+      "label": "Structural Engineer",
+      "value": "Arup",
+      "elementId": "e608c342cd13466798230a41b41f246c"
+    },
+    {
+      "label": "Services Engineer",
+      "value": "Jaros, Baum & Bolles",
+      "elementId": "8a2088c4b33244628e3c99a076c537d0"
+    },
+    {
+      "label": "Quantity Surveyor",
+      "value": "V J Mendoza",
+      "elementId": "37cb98de8b9e43a0a7bc048b3c02b569"
+    },
+    {
+      "label": "Contractor",
+      "value": "Bovis Construction Ltd",
+      "elementId": "093135eb5cc549c5b5bde699d3744a1a"
+    }
+  ],
+  "awards": [
+    {
+      "date": "1993-01-01",
+      "year": "1993",
+      "award": "RIBA National Award",
+      "rowId": "07D7CF1F0CAE41B7A56518E08DEDB3BC"
+    }
+  ],
+  "certificates": []
+}

@@ -1,0 +1,87 @@
+{
+  "type": "Project",
+  "id": "01750",
+  "url": "industrial/fleetguard",
+  "serializeDate": "'2022-06-19 14:25:07.178'",
+  "serialized": 1655648707178,
+  "serializedBy": "sreeve",
+  "title": "Fleetguard",
+  "description": "Located in a newly designated industrial zone within a few kilometres of the town of Quimper in Brittany and adjacent to a major road, the site provides magnificent views across country towards Quimper and the south Brittany coast.",
+  "date": "1979-1981",
+  "client": "Fleetguard International Division of Cummins Engine Co / Ville de Quimper",
+  "location": "Quimper, Brittany, France",
+  "longLat": "-4.04025  / 47.98463",
+  "longitude": "-4.04025 ",
+  "latitude": "47.98463",
+  "typologies": [
+    "Industrial"
+  ],
+  "team": [
+    "Ram Ahronov",
+    "Sally Eaton",
+    "Ian Davidson",
+    "Marco Goldschmeid",
+    "Kunumi Hayashi",
+    "Amarjit Kalsi",
+    "Sue McMillan",
+    "Richard Rogers",
+    "Richard Soundy",
+    "John Young"
+  ],
+  "partners": [
+    "Richard Rogers"
+  ],
+  "leaders": [],
+  "overview": "Located in a newly designated industrial zone within a few kilometres of the town of Quimper in Brittany and adjacent to a major road, the site provides magnificent views across country towards Quimper and the south Brittany coast.\n\nFleetguard specialises in manufacturing heavy duty engine filters and the new plant at Quimper was to include production lines for air, fuel and oil filters, storage facilities and administrative headquarters totalling 8,750 square metres but with a future growth potential of up to 40,000 square metres over 15 years. The highly adaptable building, capable of responding to changing needs and functions, has established the company in mainland Europe.\n\n\nThe design places great emphasis on minimising intrusion on the landscape. Surplus excavated soil has been used to create a carefully controlled landscaping scheme, relegating access roads to the perimeter of the site and segregating industrial from personnel traffic. A dynamicnbsp;suspension structure reduces both roof span and structural depth, diminishing the overall mass of the building. The external structure frees the interior roof zone for flexible services distribution, unhindered by the excessive structural depth of a conventional frame of similar span. The stairwell is enclosed in glass so that it becomes the focal point internally, linking both physically and visually the production and administrative areas.\n\n\nThe main structure consists of elements which require very little fabrication and can be joined simply. Structural connections necessary for extending the building can be made without removing existing cladding, thereby avoiding disruption to the use of the building. Total steel weight is 47kg/m², about 17% less than conventional structures of comparable bay size. The cladding is clearly articulated from the structural frame to facilitate bay by bay expansion without disruption to Fleetguard’s activities, and is separated from the roof zone by a continuous band of high-level glazing, bringing natural light into all parts of the building.",
+  "dimensions": [
+    {
+      "label": "Gross Floor Area",
+      "value": "8 750 m²",
+      "elementId": "1e4c09c360dd498aa465d953e296eee2"
+    }
+  ],
+  "companies": [
+    {
+      "label": "Structural Engineer",
+      "value": "Ove Arup & Partners",
+      "elementId": "b33ffee01c2749628df73e569a3b00cb"
+    },
+    {
+      "label": "Quantity Surveyor",
+      "value": "Northcroft Neighbour and Nicholson",
+      "elementId": "c7f0b02aacda4c7891c9017bf7b02f93"
+    },
+    {
+      "label": "Project Manager",
+      "value": "Fleetguard International Corporation",
+      "elementId": "0652373e171c4c2482833c22af99414e"
+    }
+  ],
+  "awards": [
+    {
+      "date": "1986-01-01",
+      "year": "1986",
+      "award": "Premier Award for Exceptional Steel Structure, France",
+      "rowId": "27eea69c51f349b7ac021aeab7786f06"
+    },
+    {
+      "date": "1982-01-01",
+      "year": "1982",
+      "award": "Premier Award for Exceptional Steel Structure, France",
+      "rowId": "2921D4D013A24F51BE53CCBE938A0CD1"
+    },
+    {
+      "date": "1982-01-01",
+      "year": "1982",
+      "award": "Concours de Plus Beaux Ouvrages de Construction Metallique",
+      "rowId": "6881df4cf8cf4b429bff883ecb2d32e8"
+    },
+    {
+      "date": "1982-01-01",
+      "year": "1982",
+      "award": "Constructa-Preis for Overall Excellence in the Field of Architecture",
+      "rowId": "98bef2d820f24145ab8b68ee697093c7"
+    }
+  ],
+  "certificates": []
+}
