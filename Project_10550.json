@@ -1,0 +1,83 @@
+{
+  "type": "Project",
+  "id": "10550",
+  "url": "masterplanning/gare-de-lyon",
+  "serializeDate": "'2022-06-19 14:26:28.798'",
+  "serialized": 1655648788798,
+  "serializedBy": "sreeve",
+  "title": "Gare de Lyon",
+  "description": "Located in the 12th district of Paris near the town hall, along the Gare de Lyon station and the Bercy railway station, the Gare de Lyon - Daumesnil sector is bounded by the streets of Rambouillet-Charolais, Boulevard de Bercy, and the major railway artery serving the station.",
+  "date": "2014-",
+  "client": "Espaces Ferroviaires",
+  "location": "Paris, France",
+  "longLat": "2.385568  / 48.841619",
+  "longitude": "2.385568 ",
+  "latitude": "48.841619",
+  "typologies": [
+    "Masterplanning"
+  ],
+  "team": [
+    "Akhil Bakhda",
+    "Alessandro Blasucci",
+    "Stephen Barrett",
+    "Nicola Carnevali",
+    "Isabelle David",
+    "Mike Davies",
+    "Elisabeth Du Souich",
+    "Daniel Holmes",
+    "Alex Kitching",
+    "Theo Pagnon",
+    "Katarzyna Penar",
+    "Amabel Richardson",
+    "Helene Van Zon."
+  ],
+  "partners": [
+    "Stephen Barrett",
+    "Lennart Grut"
+  ],
+  "leaders": [
+    "Nicola Carnevali"
+  ],
+  "overview": "Located in the 12th district of Paris near the town hall, along the Gare de Lyon station and the Bercy railway station, the Gare de Lyon - Daumesnil sector is bounded by the streets of Rambouillet-Charolais, Boulevard de Bercy, and the major railway artery serving the station.\n\nThe site comprises 6 hectares of former railway infrastructure, some of which will be preserved and restored in situ, while others will be removed entirely. La Société Nationale Espaces Ferroviaires, (a branch of French national railways) wishes to develop the land which is freed up by this streamlining of operations to create a new mixed-use neighbourhood in this prime location.\n\nThe strategy developed by the team led by Rogers Stirk Harbour + Partners, (RSHP), aims to create a smooth, legible transition between the level of the rail corridor and the city - presently separated by a significant height difference. The masterplan connects the new neighbourhood to the existing urban fabric, and creates housing and offices distributed along a generous new corridor of public green space.\n\n\nRather than turning its back on the adjoining infrastructure, the project celebrates the dynamic spectacle of the trains that animates one of France’s busiest rail arteries.\n\nThe linear park that RSHP proposes generates value, establishes a fluid interface between the station and the Boulevard de Bercy to the south, connecting the public transport offering in this part of Paris, with new pedestrian and cycling links. The significant new public space that is created anchors activities along a new green corridor encouraging social exchange as well as ecological biodiversity (an echo of the existing Promenade Plantée nearby).\n\nThe park also establishes a buffer zone between the two phases of the project which are being delivered in such a way as to ensure that the servicing of the trains at one of Europe’s busiest stations is not disrupted.\n\n\nThe neighbourhood is conceived as a series of urban sequences:\n\nThe part located to the north of the site, with its emphasis on commercial and office activities, delivers density within close proximity of the Gare de Lyon station (served by urban, suburban, national and international rail networks). It is centred around many urban spaces framed by restored and re-imagined industrial buildings, recognising the site’s history and safeguarding its architectural, semi-industrial heritage.\n\nTo the south, the project proposes a porous inhabited verge to the rail corridor that varies along its length. The deliberately permeable massing of the buildings aims to optimise sun to the public spaces while also creating a filter to noise and prevailing winds, anticipating future transformations of the urban fabric as well as ensuring that existing residents living near the development are treated with sensitivity. Where there are openings onto the existing rail corridor, these offer distant views onto a rare opening within the dense urban fabric of central Paris.",
+  "dimensions": [
+    {
+      "label": "Site Surface Area",
+      "value": "6 Hectares",
+      "elementId": "caf23898945149acbbe899c321a5d52a"
+    },
+    {
+      "label": "Scheme",
+      "value": "100,000 m² (45,000 housing, 45,000 offices, retail and a school)",
+      "elementId": "78fe82d497c640e2b0b0a47859475373"
+    }
+  ],
+  "companies": [
+    {
+      "label": "Lead Architect and Urbanist",
+      "value": "Rogers Stirk Harbour + Partners",
+      "elementId": "3f70411912d4448fb1ce32f67aca11d8"
+    },
+    {
+      "label": "Co-Architect",
+      "value": "Tolila + Gilliland Atelier d-Architecture",
+      "elementId": "90a2bf4225b44e7a92886538b188e520"
+    },
+    {
+      "label": "Landscape Architect",
+      "value": "Michel Desvigne Paysagiste",
+      "elementId": "bfa88d0f28114b44b5698e1454e18ad7"
+    },
+    {
+      "label": "Urban Engineering",
+      "value": "Ingérop",
+      "elementId": "b2c3d49a24324b08bfd6260cc7e5a524"
+    },
+    {
+      "label": "Sustainability Consultant",
+      "value": "Frank Boutté Consultants",
+      "elementId": "bb44e4bbf5874c699016317dfb6f9ff3"
+    }
+  ],
+  "awards": [],
+  "certificates": []
+}

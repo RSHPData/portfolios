@@ -1,0 +1,130 @@
+{
+  "type": "Project",
+  "id": "11490",
+  "url": "civic/hammersmith-and-fulham-civic-campus/",
+  "serializeDate": "'2022-06-19 14:26:43.543'",
+  "serialized": 1655648803543,
+  "serializedBy": "sreeve",
+  "title": "Hammersmith & Fulham Civic Campus",
+  "description": "RSHP has designed a new, high-quality Civic Campus to replace the existing Hammersmith & Fulham Town Hall extension and the adjacent large cinema site, located at the West of King Street in Hammersmith Town Centre.",
+  "date": "2017-",
+  "client": "Hammersmith & Fulham Council, A2Dominion",
+  "location": "London, UK",
+  "longLat": "-0.23417  / 51.49167",
+  "longitude": "-0.23417 ",
+  "latitude": "51.49167",
+  "constructionCost": "£160m",
+  "typologies": [
+    "Civic"
+  ],
+  "team": [
+    "Tadashi Arai",
+    "Richard Breen",
+    "Jon Garmendia",
+    "Migena Hadziu",
+    "Kyle Hyde",
+    "Janos Katona",
+    "Dzidzor Kwaku",
+    "Virginia Moreno",
+    "Ben Morgan Jones",
+    "Bridget Munro",
+    "Joseph Park",
+    "Maria Taboada",
+    "Suzan Ucmaklioglu",
+    "Jai Watts"
+  ],
+  "partners": [
+    "Ivan Harbour",
+    "Andrew Morris"
+  ],
+  "leaders": [
+    "Mark Rintoul",
+    "Andrew Partridge"
+  ],
+  "overview": "RSHP has designed a new, high-quality Civic Campus to replace the existing Hammersmith  Fulham Town Hall extension and the adjacent large cinema site, located at the West of King Street in Hammersmith Town Centre. This ‘ruthlessly inclusive’ zero-harm scheme at the heart of Hammersmith’s community will breathe new life into the King Street area and reinvent the concept of the Town Hall to make it exciting and relevant for the people it serves.\n\nThe mixed-use development, including a contemporary intervention to the existing Grade II-listed Town Hall building, creates a welcoming, open and accessible community hub with flexible office and start-up workspaces and 204 residential dwellings offering 52% shared ownership and social rent homes for local people. All the architecture and materials are of the same quality regardless of tenure.\n\n\nThe scheme also provides homework space for young people, a new cinema and orchestra performance space, a public roof-top bar and café, public art gallery, and a new public square connecting with the riverside.\n\nRSHP’s Civic Campus project includes cutting-edge sustainable technology in its design. Extensive stakeholder engagement throughout all project stages demonstrates the community focus of the scheme, consulting closely with residents through a range of methods. One of the council priorities is “doing things with residents, not to them.” This innovative community engagement, through the Town Hall Commission and Disabled People’s Commission and attendants of the public exhibitions, led to planning and listed building consent by unanimous vote at committee with no public objections.\n\n\nAccessibility issues were raised before plans were submitted ‒ and robust, time and cost-effective solutions found early in the process. This unusual approach should be adopted in all major development projects.\n\nThe campus is set for completion in April 2023, with demolitions in progress and preparation for construction (RIBA stage 5) starting at the end of September 2020.",
+  "dimensions": [
+    {
+      "label": "Site Area",
+      "value": "17,628 m²",
+      "elementId": "787ad1054fbb477bbfd95cf7ecd739fc"
+    }
+  ],
+  "companies": [
+    {
+      "label": "Co-Architect",
+      "value": "Heritage Architect - Purcell",
+      "elementId": "65b028f6e62041fb90dca00e1d02b2bf"
+    },
+    {
+      "label": "Contractor",
+      "value": "Ardmore",
+      "elementId": "d7656779c03e472eb5efd8f3809244c0"
+    },
+    {
+      "label": "Structural Engineer",
+      "value": "Meinhardt",
+      "elementId": "ebbaf40bd3834740a1debb6796f420c2"
+    },
+    {
+      "label": "Landscape Architect",
+      "value": "Gillespies",
+      "elementId": "5b97e3ac10b3465fa81dc6c49a2328aa"
+    },
+    {
+      "label": "Services Engineer",
+      "value": "AECOM, Silver EMS",
+      "elementId": "407408b4492c4e18b66dbd7e0514f479"
+    },
+    {
+      "label": "Lighting Consultant",
+      "value": "Speirs + Major",
+      "elementId": "39a4a1c8a0d94466b5002e24eab69773"
+    },
+    {
+      "label": "Branding",
+      "value": "Pentagram",
+      "elementId": "9c514be5c0654627aecbacae563feb27"
+    },
+    {
+      "label": "Project Manager",
+      "value": "Silver DCC and Inner Circle Consulting",
+      "elementId": "a22a17e1c9724f1ea5b8b389baffedde"
+    },
+    {
+      "label": "Cost Consultant",
+      "value": "Silver DCC",
+      "elementId": "7932df2e4e374f9cb8ac5ffde2b1f6bf"
+    },
+    {
+      "label": "Planning Consultant",
+      "value": "Barton Wilmore",
+      "elementId": "246ae25eb94448a4ada287aff31b6c90"
+    },
+    {
+      "label": "Fire Consultant",
+      "value": "Fire Surgery",
+      "elementId": "7fd07a10ba8f4ca0bca06c13a6a9ef72"
+    }
+  ],
+  "awards": [
+    {
+      "date": "2020-01-01",
+      "year": "2020",
+      "award": "NLA Finalist Mixing Catergory",
+      "rowId": "24834ea8743644c483a229973dc087cc"
+    },
+    {
+      "date": "2020-01-01",
+      "year": "2020",
+      "award": "Highly Commended Stakeholder Engagement in Planning (Development management) Planning Awards",
+      "rowId": "db6bbd2836564aceb292535afd82937a"
+    },
+    {
+      "date": "2020-01-01",
+      "year": "2020",
+      "award": "Winner People’s Choice Award NLA New London Awards",
+      "rowId": "86a2c99f747b40dca9b40e9ba65d6f26"
+    }
+  ],
+  "certificates": []
+}

@@ -1,0 +1,50 @@
+{
+  "type": "Project",
+  "id": "05500",
+  "url": "masterplanning/grand-paris",
+  "serializeDate": "'2022-06-19 14:25:58.293'",
+  "serialized": 1655648758293,
+  "serializedBy": "sreeve",
+  "title": "Grand Paris",
+  "description": "The practice was invited by the French President to study ‘Grand Paris’ looking at the future of the French capital as an integrated metropolitan region.",
+  "date": "2008-2013",
+  "client": "Ministry of Culture and Communication",
+  "location": "Paris, France",
+  "longLat": "2.32114  / 48.86545",
+  "longitude": "2.32114 ",
+  "latitude": "48.86545",
+  "typologies": [
+    "Masterplanning"
+  ],
+  "team": [
+    "Jo-Anne Aldritt",
+    "Stephen Barrett",
+    "Kelly Darlington",
+    "Mike Davies",
+    "Mike Fairbrass",
+    "Henry Fletcher",
+    "Tobi Frenzen",
+    "Michael Hughes",
+    "Maria Hadjinicolaou",
+    "Jon Mercer",
+    "Richard Rogers",
+    "Valentina Vescovi"
+  ],
+  "partners": [
+    "Mike Davies"
+  ],
+  "leaders": [
+    "Stephen Barrett"
+  ],
+  "overview": "The practice was invited by the French President to study ‘Grand Paris’ looking at the future of the French capital as an integrated metropolitan region. A team comprising RSHP, the London School of Economics and Arup was commissioned to address the key social and environmental challenges facing Grand Paris in the 21st century.\n\nAs part of an integrated approach to public transport, the team proposed a series of circumferential metro lines linking strengthened poly centres in the Parisian suburbs and reinforcing the existing public transport network. New ‘metropolitan armatures’ were also proposed, to be constructed over the divisive and inaccessible urban canyons formed by the existing rail lines and housing integrated infrastructure. These would link the centre of the city to the suburbs and also create lateral routes between previously separated neighbourhoods.\n\n\nRSHP continues to work directly with the French Government to develop a more humane, responsive and ecologically sensitive Paris for the 21st Century.\n\n<strong>10 Principles for Metropolitan Paris</strong>",
+  "dimensions": [],
+  "companies": [
+    {
+      "label": "Team",
+      "value": "London School of Economics, Arup",
+      "elementId": "912927d7d3c646369541d13ce424175e"
+    }
+  ],
+  "awards": [],
+  "certificates": []
+}

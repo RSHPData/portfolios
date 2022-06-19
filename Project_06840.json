@@ -1,0 +1,57 @@
+{
+  "type": "Project",
+  "id": "06840",
+  "serializeDate": "'2022-06-19 14:26:17.578'",
+  "serialized": 1655648777578,
+  "serializedBy": "sreeve",
+  "title": "Cambridge Judge Business School",
+  "description": "Cambridge Jude Business School was an extension of the Old Addenbrooke’s Hospital building, which was a Grade II listed building, to consolidate the teaching facilities of the school on the Addenbrooke's site.\nIt was an Invited Competition for an Outline Masterplan - RSHP was 1 of 4 teams",
+  "date": "2013",
+  "client": "University of Cambridge",
+  "location": "Cambridge",
+  "typologies": [
+    "Education"
+  ],
+  "team": [
+    "Ainhoa Abreu diaz",
+    "Andrew Morris",
+    "Andrew Yek",
+    "Anja Kempa",
+    "Graham Stirk",
+    "Louise Palomba",
+    "Tracy Meller",
+    "Vidal Fernandez Diez"
+  ],
+  "partners": [
+    "Graham Stirk",
+    "Tracy Meller"
+  ],
+  "leaders": [
+    "Louise Palomba"
+  ],
+  "overview": "The Cambridge Judge Business School competition of 2013 was a requirement to increase the teaching facilities and conference accommodation of Cambridge University’s business school.\nRSHP’s approach was a masterplan strategy which attempted to maximise the development potential of the site - over and above the areas in the statement of requirements - to maximize flexibility for the school and its expansion programme. RSHP believed it was possible to centralize the school accommodation around the Addenbroookes Hospital building, and not rely upon accommodating facilities in more peripheral buildings. It proposed a series ofnbsp; buildings that could discretely connect it into the existing building, maintaining its prominence at the heart of the school which is central to both its functionality and its identity.\nPhase 1a was the creation of purpose-built facilities provided in a new Executive Education facility connected to the main Addenbrookes atrium. Phase 1b would extend the Executive Education facility, providing a new library and connection to the redeveloped Keynes House -nbsp; which would provide bespoke research and teaching accommodation and a possible independent entrance to the Executive Education facility. A landscaped courtyard would unify the existing and proposed buildings. In Phase 2 the research facilities provided in Phase 1b would be expanded and a standalone conference facility would be created.",
+  "dimensions": [
+    {
+      "label": "Area",
+      "value": "5300m2",
+      "elementId": "EfxoR81QLEOR77yvGkD7SQ"
+    }
+  ],
+  "companies": [
+    {
+      "label": "Competition Winner",
+      "value": "Stanton Williams",
+      "elementId": "deltek:competitionWinner"
+    },
+    {
+      "label": "Structural Engineer",
+      "value": "Arup",
+      "elementId": "84UDywKO00iMFsZWZenV0g"
+    },
+    {
+      "label": "Landscape Architect",
+      "value": "Gillespies",
+      "elementId": "r4PfzPkyCUCiPhyXgqw6Ng"
+    }
+  ]
+}

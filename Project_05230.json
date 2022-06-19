@@ -1,0 +1,60 @@
+{
+  "type": "Project",
+  "id": "05230",
+  "url": "office/1201-k-street",
+  "serializeDate": "'2022-06-19 14:25:54.415'",
+  "serialized": 1655648754415,
+  "serializedBy": "sreeve",
+  "title": "1201 K Street",
+  "description": "This state-of-the-art 12-storey speculative office building in Washington DC, with a four-star restaurant at ground level was conceived to maximise daylight, views, connectivity and employee interaction.",
+  "date": "2006",
+  "client": "The JBG Companies",
+  "location": "Washington D.C., USA",
+  "longLat": "-77.028392  / 38.902890",
+  "longitude": "-77.028392 ",
+  "latitude": "38.902890",
+  "typologies": [
+    "Office"
+  ],
+  "team": [
+    "Dennis Austin",
+    "Kelly Darlington",
+    "Mike Fairbrass",
+    "Ivan Harbour",
+    "Ed Hiscock",
+    "Lennart Grut",
+    "Adrian King",
+    "Tim Mason",
+    "Jon Mercer",
+    "Alison Oktay",
+    "Katie Owens",
+    "Richard Rogers",
+    "Laura Salisbury",
+    "James Stopps",
+    "Elizabeth Young"
+  ],
+  "partners": [
+    "Ivan Harbour",
+    "Lennart Grut"
+  ],
+  "overview": "This state-of-the-art 12-storey speculative office building in Washington DC, with a four-star restaurant at ground level was conceived to maximise daylight, views, connectivity and employee interaction.\n\nThe building’s massing is divided into three areas: the ‘galleria’, the ‘office plate’, and the ‘slot’, each with its own legible structural system.\n\nSituated on a corner site, a neighbouring building imposes an easement to the site. This requires the new building to be built at a certain distance from the existing one, stipulating a series of ‘set-offs’ in the building’s upper levels. The easement requirement is resolved by the design of a galleria, expressed as glass exhibition spaces and mezzanines. The entry galleria is designed for multiple tenancies, employing the use of skylobbies as a way of creating memorable reception areas for key tenants. At ground level the public realm is enhanced by a fully-landscaped entrance, accessed by a glass bridge over a low-level landscaped plaza, shared by the office and restaurant. A unique multiple-height space at the top of the galleria forms an ‘iconic statement’ with views to Franklin Park.\n\n\nTenant flexibility is critical to the design concept, directly informing the internal clarity of the building. The concept resists placing the core at the building’s centre; instead, it is situated to one side, next to the easement setoff –creating a full, unobstructed office floor plate and giving flexibility in fit-out and organisation. To enhance the building’s flexibility further, connectivity between floors is introduced by way of a defined central area. Known as the ‘soft zone’, this area is comprised of small, removable pre-cast concrete planks, allowing a series of atria to be developed throughout the height of the building.\n\nThe lifts are separated from the building’s floor plate, adjoining the easement set-off, and bringing natural light to the lift core and egress stairs: The slot. This ‘good neighbour’ approach of separating the new and existing buildings permits shared natural light between the buildings, and goes beyond a literal interpretation of the easement, treating it as a positive factor rather than a negative restriction.",
+  "dimensions": [
+    {
+      "label": "Gross Area",
+      "value": "23 750 m²",
+      "elementId": "079f5bfa376d404f9f68ea333bfaeaef"
+    }
+  ],
+  "companies": [
+    {
+      "label": "Structural Engineer",
+      "value": "SK&A Associates",
+      "elementId": "122be238d287409bb8f2e5863274b85a"
+    },
+    {
+      "label": "Services Engineer",
+      "value": "Buro Happold New York",
+      "elementId": "086b1c91ada24821884d8724901e929e"
+    }
+  ]
+}

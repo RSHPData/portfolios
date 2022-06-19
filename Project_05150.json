@@ -1,0 +1,87 @@
+{
+  "type": "Project",
+  "id": "05150",
+  "url": "residential/private-residence-singapore",
+  "serializeDate": "'2022-06-19 14:25:53.758'",
+  "serialized": 1655648753758,
+  "serializedBy": "sreeve",
+  "title": "Private Residence, Singapore",
+  "description": "Rogers Stirk Harbour + Partners was approached by a private client to design a large family home on a site located in one of Singapore’s most exclusive residential areas.",
+  "date": "2005-2010",
+  "location": "Singapore",
+  "longLat": "103.821796  / 1.311977",
+  "longitude": "103.821796 ",
+  "latitude": "1.311977",
+  "typologies": [
+    "Residential"
+  ],
+  "partners": [
+    "Lennart Grut",
+    "Laurie Abbott"
+  ],
+  "overview": "Rogers Stirk Harbour + Partners was approached by a private client to design a large family home on a site located in one of Singapore’s most exclusive residential areas.\n\nThe original brief was for a group of buildings within a garden setting including the main family home, swimming pool and small guest house/pavilion. However, as the project evolved and the family expanded, the guest house accommodation grew to become a substantial five-bedroom, 650 m² home in its own right; a smaller third dwelling of 120 m² was subsequently added. The three homes – interconnected via an outdoor lounge and swimming pool area – are set within extensive landscaped tropical gardens.\n\nThe masterplan organises the buildings along the rear boundaries of the site so they appear to ‘nestle’ within the landscape. The main house is situated along the highest part of the site – there is a 10-metre change in levels from the rear of the site to the street frontage – and is two storeys plus a large basement area. A double-height entrance foyer leads visitors into the lower and upper levels of the main house, offering tree-top views onto the landscaped gardens and terraced areas below, as well as panoramic views of Singapore’s skyline.\n\n\nThe modular design of the buildings is organised according to a very clear linear expression based on a 4.5 m structural grid. The plans are simple and rational; the large open plan living, entertaining, and sleeping areas are all arranged to face the central garden, maximising views, while each is organised so that privacy between the buildings is maintained. Western and Asian kitchens, bathrooms and service and staff facilities are located to the rear boundary edges of the property.\n\nThe buildings are primarily steel-framed structures with concrete shear infill walls, where required. The main house stability system is anchored by the lift and stair core which provides lateral stability. The principal façades are full-height aluminium framed glass. These maximise internal views across the site.\n\nThe main house establishes the language for the rest of the pavilions. It is characterised by large roof overhangs, cantilevered upper floors, limestone-clad retaining wall structures and predominantly glass façades. Each pavilion is different in its own right yet connected by the use of structure, materials and form. The lines of the earth-retaining structures extend away from the buildings into the landscape establishing both a visual and physical connection between the buildings.",
+  "dimensions": [
+    {
+      "label": "Main House",
+      "value": "1 500 m²",
+      "elementId": "b0ff538a1ff8433f96029dd9f64a4796"
+    },
+    {
+      "label": "Pavilion 1",
+      "value": "1 650 m²",
+      "elementId": "15000b7470fe42b38948585f0902c79d"
+    },
+    {
+      "label": "Pavilion 2",
+      "value": "120 m²",
+      "elementId": "ea705e5a2f494e85b59dddcb87ac677f"
+    },
+    {
+      "label": "Site Area",
+      "value": "6 070 m²",
+      "elementId": "3b1a796f3c144019ac45905154d34de8"
+    }
+  ],
+  "companies": [
+    {
+      "label": "Co-Architect",
+      "value": "Architects 61",
+      "elementId": "ef5a0f0e88b54d52af2282943c381a11"
+    },
+    {
+      "label": "Structural Engineer",
+      "value": "Buro Happold and MSE",
+      "elementId": "100a4ab6c46f4f7a86252191b01084dc"
+    },
+    {
+      "label": "Services Engineer",
+      "value": "Bescon Consulting Engineers",
+      "elementId": "5bfef0edc0304d1c82d004b7af2d5e47"
+    },
+    {
+      "label": "Project Manager",
+      "value": "Como Holdings",
+      "elementId": "bbf409cee2a7410cbfbf90b1cd858af5"
+    },
+    {
+      "label": "Lighting Consultant",
+      "value": "Isometrix",
+      "elementId": "c7e3e86f4e4549b8b8ab67c3b70b2a64"
+    },
+    {
+      "label": "Landscape Architect",
+      "value": "One Degree North",
+      "elementId": "10aeda4754f24fdd91acaf4499a0b6f1"
+    },
+    {
+      "label": "Contractor",
+      "value": "Daiwa Engineering & Construction",
+      "elementId": "998ef69d0c3d41a98623955ed5f26eaf"
+    },
+    {
+      "label": "Interior Design",
+      "value": "Kathryn Kng",
+      "elementId": "7908d469ddc04fb283f99f40c967a223"
+    }
+  ]
+}

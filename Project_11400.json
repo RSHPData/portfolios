@@ -1,0 +1,55 @@
+{
+  "type": "Project",
+  "id": "11400",
+  "url": "health-and-science/global-clinic",
+  "serializeDate": "'2022-06-19 14:26:41.908'",
+  "serialized": 1655648801908,
+  "serializedBy": "sreeve",
+  "title": "Global Clinic",
+  "description": "The Global Clinic has been developed to meet the urgent need to provide flexible, robust structures for delivering healthcare in emergency situations and remote locations all over the world, where tents prove too flimsy and shipping containers too difficult to transport.",
+  "date": "2017-2018",
+  "client": "Doctors of the World/Wellcome Collection",
+  "location": "Deployable",
+  "longLat": "-0.1348145  / 51.5259774",
+  "longitude": "-0.1348145 ",
+  "latitude": "51.5259774",
+  "typologies": [
+    "Health & Science"
+  ],
+  "team": [
+    "Lennart Grut",
+    "Ben Morgan Jones",
+    "Christophe Dembinski",
+    "Vicki Macgregor",
+    "Andrew Partridge"
+  ],
+  "partners": [
+    "Lennart Grut"
+  ],
+  "leaders": [
+    "Andrew Partridge"
+  ],
+  "overview": "The Global Clinic has been developed to meet the urgent need to provide flexible, robust structures for delivering healthcare in emergency situations and remote locations all over the world, where tents prove too flimsy and shipping containers too difficult to transport.\n\nA typical mobile clinic is 17 sq m (height 3.2m x width 3.5m x depth 6.8m) which includes a treatment area and a sheltered waiting space with mobile phone charge facilities. The system can be adapted to provide treatment pods in various sizes from 8.5 sq m to 17 sq m. With ease of deployment one of the main criteria of the design, the process in which each clinic is built was made simple and flexible. Each clinic is made of locally sourced materials where available with all the kit-of-part files able to be sent via email or via a USB stick to reduce the costs and increase efficiency.\n\n\nThe clinic building is made from plywood and constructed by a CNC (computer numerical control) machine, which is both adaptable and strong. The frame can be erected within a half-day by people unskilled in construction without the use of special tools or working at height.\n\nEasy to transport and build, these structures hold the potential to be the temporary health clinic of the future.\n\nA 1:1 prototype of the Global Clinic was sponsored by the Wellcome Collection in London to form part of their ‘Living with Buildings’ exhibition in 2018.",
+  "design": "The mobile health clinic is a 1:1 architectural project that was developed in close consultation with humanitarian charity, Doctors of the World. A typical mobile clinic is 17 sq m (height 3.2m x width 3.5m x depth 6.8m) which includes a treatment area and a sheltered waiting space with mobile phone charge facilities. The system can be adapted to provide treatment pods in various sizes from 8.5 sq m to 17 sq m. With ease of deployment one of the main criteria of the design, the clinic was designed to be simple and flexible.\n\n\nEach clinic is made of locally sourced materials where available. The structure is made of plywood which can be assembled as a flexible kit-of-parts. The kit-of-parts can either be sourced and cut locally or transported as a flat-pack depending on the technologies available in different countries.\n\nThermal massing will be adaptive to the local area. The fabrics used to provide shelter are the best environmental options available. The system can provide some clinical units which can be developed to be permanent.",
+  "construction": "The structure is formed form a reciprocal frame or ‘lamella’ of plywood cut on a three-axis CNC, the cutting patterns and driving code for which can be tailored for each deployment. The choice of material and fabrication method is a deliberate acknowledgement of the possibility for fabrication local to the site of deployment at local industrial centres; plywood and three-axis CNC routers are commonplace internationally and can be controlled from emailed machine code.\n\nThe structural frame uses the CNC manufactured plywood connected in a series of pegged mortice and tenon connections, reminiscent of traditional carpentry connections. The entire structural frame is free from metal connection or site applied glue.\n\n\nThe frame can be erected within a half-day by people unskilled in construction without the use of special tools or working at height.\n\nFuture maintenance, modification, repair or disassembly is simply achieved with common wood working tools.\n\nThe structural frame concept is integral with the function of the space internally, potentially incorporating storage space and furniture where desirable.",
+  "dimensions": [],
+  "companies": [
+    {
+      "label": "Structural Engineer",
+      "value": "BuroHappold Engineering",
+      "elementId": "6a04ca2a4e26493d9bc8654dc7666cf2"
+    },
+    {
+      "label": "Services Engineer",
+      "value": "ChapmanBDSP",
+      "elementId": "faa4b62c0e804ae687df503c7b075bec"
+    },
+    {
+      "label": "Creative Services",
+      "value": "Stage One",
+      "elementId": "e86310315e78467ba3972688d5aa7290"
+    }
+  ],
+  "awards": [],
+  "certificates": []
+}

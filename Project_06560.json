@@ -1,0 +1,85 @@
+{
+  "type": "Project",
+  "id": "06560",
+  "url": "residential/merano",
+  "serializeDate": "'2022-06-19 14:26:12.188'",
+  "serialized": 1655648772188,
+  "serializedBy": "sreeve",
+  "title": "Merano",
+  "description": "Located on the Albert Embankment of London’s River Thames, opposite the Tate Britain and within sight of the Houses of Parliament, Merano offers a high quality, mixed-use development, including apartments, offices and a café.",
+  "date": "2011-2018",
+  "client": "St James Group Limited",
+  "location": "London, UK",
+  "longLat": "-0.12253  / 51.48996",
+  "longitude": "-0.12253 ",
+  "latitude": "51.48996",
+  "typologies": [
+    "Residential"
+  ],
+  "team": [
+    "John Dent",
+    "Tobi Frenzen",
+    "Gianmaria Givanni",
+    "Toby Jeavons",
+    "Anja Kempa",
+    "Stephen Light",
+    "Andrew Morris",
+    "Richard Rogers",
+    "Annabel Rootes",
+    "Graham Stirk",
+    "Andrew Yek"
+  ],
+  "partners": [
+    "Graham Stirk",
+    "Andrew Morris"
+  ],
+  "leaders": [
+    "Stephen Light"
+  ],
+  "heights": [
+    "85 m"
+  ],
+  "floors": [
+    "28"
+  ],
+  "overview": "Located on the Albert Embankment of London’s River Thames, opposite the Tate Britain and within sight of the Houses of Parliament, Merano offers a high quality, mixed-use development, including apartments, offices and a café. The three stepped bays that make up the building are in contrast to the existing monotonous ‘wall’ of dilapidated developments that occupy this area.\n\nAt the base of the building, a four-storey public space offers access through to Vauxhall Pleasure Gardens via Tinworth Street and to a café at ground floor level. The height of this public space echoes that of the neighbouring Rose pub a local landmark and part of the Albert Embankment conservation area. The design has a strong visual presence along the riverfront and acts as a gateway to east Lambeth as well as a natural gathering space overlooking Albert Embankment Gardens.\n\n\nThe east–west orientation of the site dictated the layout of the apartments. By placing the vertical circulation core in the centre of the eastern elevation, bedrooms and winter gardens can be placed either side of it to benefit from morning sunlight and living spaces, on the western side of the building, can enjoy views of the river and sunsets in the evening. The different uses of space within the building are arranged vertically: commercial office spaces occupy the three floors above the café and public piazza and 46 dwellings (a mix of private and affordable units) take up the upper levels.\n\nThe structure of the building is a simple concrete frame with steel bracing used to provide stability. This allows for the east and west façades to be primarily glass, creating a lightweight, transparent envelope, and enables open and flexible floor plates. Balconies and winter gardens are formed of a lightweight steel structure with colour applied to the soffits and flank walls, which brighten the exterior in contrast to the building’s monochromatic surroundings.",
+  "dimensions": [
+    {
+      "label": "Gross Floor Area",
+      "value": "7 100 m²",
+      "elementId": "43815cf4e0b4434d862a5ecb9a73575f"
+    }
+  ],
+  "companies": [
+    {
+      "label": "Co-Architect",
+      "value": "EPR",
+      "elementId": "9453d68cdc8c43f58d2989be86cc678b"
+    },
+    {
+      "label": "Structural Engineer",
+      "value": "Ramboll",
+      "elementId": "d2ffad6850ca494ca866701eae5bb2fa"
+    },
+    {
+      "label": "Landscape Architect",
+      "value": "Gillespies LLP",
+      "elementId": "468431bdbb3c4bc58faca83e7d5868ef"
+    }
+  ],
+  "awards": [
+    {
+      "date": "2019-01-01",
+      "year": "2019",
+      "award": "RIBA London Award",
+      "rowId": "981b7493d80044ffa474e127f5a872f6"
+    },
+    {
+      "date": "2019-01-01",
+      "year": "2019",
+      "award": "RIBA National Award",
+      "rowId": "ac82623e55fd4b2c91fa959a6452bb56"
+    }
+  ],
+  "certificates": []
+}
