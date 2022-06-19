@@ -1,16 +1,18 @@
 {
   "type": "Project",
   "id": "10460",
-  "notes": "Not Published",
-  "serializeDate": "26th April 2022 17:34:25",
-  "serialized": 1650994465564,
-  "serializedBy": "Steve Reeve",
+  "url": "masterplanning/madrid-nuevo-norte-mnn/",
+  "serializeDate": "'2022-06-19 14:26:28.104'",
+  "serialized": 1655648788104,
+  "serializedBy": "sreeve",
   "title": "Madrid Nuevo Norte, MNN",
   "description": "The objective of this ambitious project is to close a major split in the city where the railway alignment running north out of Madrid divides the city in two.",
   "date": "2017-ongoing",
   "client": "Distrito Castellana Norte (BBVA-San Jose)",
   "location": "Madrid, Spain",
-  "longLat": "-3.679528 / 40.479161",
+  "longLat": "-3.679528  / 40.479161",
+  "longitude": "-3.679528 ",
+  "latitude": "40.479161",
   "constructionCost": "Construction Investment Estimate 6 Billion Euro",
   "typologies": [
     "Masterplanning"
@@ -44,31 +46,33 @@
   "concept": "The site’s proximity to the ‘El Pardo’ nature reserve area offers a unique opportunity to create a new CBD within easy reach of an area of natural beauty.\n\nMadrid comprises a mosaic of distinctive and varied neighbourhoods. This project aims to encourage the natural extension of each neighbourhood toward the site, rejecting the conventional development patterns of recent years where new, self-contained neighbourhoods are constructed independently and in isolation of the existing urban fabric.\n\n\nThe plan includes the extension of ‘Paseo Castellana.’ This is the major structuring device for Madrid and the city’s principal public transportation corridor. As the name suggests, the ‘Paseo Castellana’ was conceived as a promenade but over the centuries it has been extended to the point where the northernmost portions are now, in effect, a major vehicular highway.\n\nOur plans call for its extension north of the M30 (the Madrid innermost ring road) as a green boulevard where the presence of traffic is greatly diminished, in effect returning Castellana to the original concept of the ‘Paseo.’ This new green spine will connect with the El Pardo nature reserves, one of Madrid’s best kept secrets, thus linking two key symbols of the city; The Prado and El Pardo.\n\n\nMadrid is in the process of a radical shift in the mobility strategy with increased restrictions being placed on the circulation of traffic to the historic centre. Our vision for the rejuvenation of Castellana as a ‘Paseo de Paseos’ for Madrid and for Spain, is timely and could well assume the role of talisman as the city explores plans of a more sustainable mobility strategy.",
   "dimensions": [
     {
-      "elementId": "web:siteArea",
       "label": "Site Area",
-      "value": "230 Ha"
+      "value": "230 Ha",
+      "elementId": "bf862ad9c4c44a7096582fc6f684858a"
     },
     {
-      "elementId": "web:buildableArea",
       "label": "Buildable Area",
-      "value": "2 700 000 m²"
+      "value": "2 700 000 m²",
+      "elementId": "ee206b0f3bc649468549937f1c3285a2"
     }
   ],
   "companies": [
     {
-      "elementId": "web:servicesEngineer",
       "label": "Services Engineer",
-      "value": "BuroHappold Engineering"
+      "value": "BuroHappold Engineering",
+      "elementId": "b51f883229234cefb102c190b747f27f"
     },
     {
-      "elementId": "web:landscapeArchitect",
       "label": "Landscape Architect",
-      "value": "Grant Associates"
+      "value": "Grant Associates",
+      "elementId": "68319a4b175743bdbeae8a37375d0fea"
     },
     {
-      "elementId": "web:contractor",
       "label": "Contractor",
-      "value": "DCN"
+      "value": "DCN",
+      "elementId": "e06ccc0daf52466a80191a1c1af1babc"
     }
-  ]
+  ],
+  "awards": [],
+  "certificates": []
 }

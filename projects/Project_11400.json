@@ -1,16 +1,18 @@
 {
   "type": "Project",
   "id": "11400",
-  "notes": "Not Published",
-  "serializeDate": "26th April 2022 17:39:33",
-  "serialized": 1650994773200,
-  "serializedBy": "Steve Reeve",
+  "url": "health-and-science/global-clinic",
+  "serializeDate": "'2022-06-19 14:26:41.908'",
+  "serialized": 1655648801908,
+  "serializedBy": "sreeve",
   "title": "Global Clinic",
   "description": "The Global Clinic has been developed to meet the urgent need to provide flexible, robust structures for delivering healthcare in emergency situations and remote locations all over the world, where tents prove too flimsy and shipping containers too difficult to transport.",
   "date": "2017-2018",
   "client": "Doctors of the World/Wellcome Collection",
   "location": "Deployable",
-  "longLat": "-0.1348145 / 51.5259774",
+  "longLat": "-0.1348145  / 51.5259774",
+  "longitude": "-0.1348145 ",
+  "latitude": "51.5259774",
   "typologies": [
     "Health & Science"
   ],
@@ -33,19 +35,21 @@
   "dimensions": [],
   "companies": [
     {
-      "elementId": "web:structuralEngineer",
       "label": "Structural Engineer",
-      "value": "BuroHappold Engineering"
+      "value": "BuroHappold Engineering",
+      "elementId": "6a04ca2a4e26493d9bc8654dc7666cf2"
     },
     {
-      "elementId": "web:servicesEngineer",
       "label": "Services Engineer",
-      "value": "ChapmanBDSP"
+      "value": "ChapmanBDSP",
+      "elementId": "faa4b62c0e804ae687df503c7b075bec"
     },
     {
-      "elementId": "web:creativeServices",
       "label": "Creative Services",
-      "value": "Stage One"
+      "value": "Stage One",
+      "elementId": "e86310315e78467ba3972688d5aa7290"
     }
-  ]
+  ],
+  "awards": [],
+  "certificates": []
 }

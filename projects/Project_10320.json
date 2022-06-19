@@ -1,16 +1,18 @@
 {
   "type": "Project",
   "id": "10320",
-  "notes": "Not Published",
-  "serializeDate": "26th April 2022 17:33:16",
-  "serialized": 1650994396738,
-  "serializedBy": "Steve Reeve",
+  "url": "transport/mexico-city-airport",
+  "serializeDate": "'2022-06-19 14:26:25.173'",
+  "serialized": 1655648785173,
+  "serializedBy": "sreeve",
   "title": "Mexico City Airport",
   "description": "More than just an airport, the scheme is envisaged as the first component of a city masterplan and a catalyst for urban regeneration.",
   "date": "2014",
   "client": "ASA",
   "location": "Mexico City, Mexico",
-  "longLat": "-99.072001 / 19.436971",
+  "longLat": "-99.072001  / 19.436971",
+  "longitude": "-99.072001 ",
+  "latitude": "19.436971",
   "typologies": [
     "Transport"
   ],
@@ -55,49 +57,49 @@
   "leaders": [
     "Andrew Tyley"
   ],
+  "heights": [
+    "26m"
+  ],
   "overview": "“More than just an airport, the scheme is envisaged as the first component of a city masterplan and a catalyst for urban regeneration”\n\nLegoRogers’ vision for the New Mexico City Airport puts the people of Mexico at its heart. More than just an airport, the scheme is envisaged as the first component of a city masterplan and a catalyst for urban regeneration, connecting local communities to new transport links and knitting the airport into the wider urban fabric.\n\nThe unique, sculptural design creates an architectural ‘front door’ for Mexico, offering a distinct visual identity that speaks specifically of the people and the place. A zócalo (public square) at the main entrance greets visitors and brings the public realm directly into the airport by providing spaces for people to meet and interact, creating an environment as welcoming to family and friends as it is to passengers.\n\n\nThis smooth transition from city to airport continues into the main building – an original and uplifting structure with a high ceiling and soaring, light-filled halls that complement the building’s generous public forecourt. The layout is based around two focal points, or patios, at each end of a series of main piers, or aseos (public boulevards), which contain the waiting lounges, boarding gates and landscaped spaces. This simple arrangement mirrors the city’s beautiful sequence of streets and squares, with additional external patios replicating its public gardens where passengers can plane spot and wait to travel.\n\nColour supports clear and intuitive wayfinding within the terminal: international passengers turn left; transborder passengers turn right; and domestic passengers move straight ahead through a separate, but linked, check-in hall. Walking distances are never more than 400 metres to the gates and this ease of orientation is enhanced by the modular structure that creates a visual link through the various spaces and offers an equality of experience for both arriving and departing passengers.",
   "dimensions": [
     {
-      "elementId": "WVvwpYIJTEuCKULdwxZ8PA",
-      "label": "Height",
-      "value": "26m"
-    },
-    {
-      "elementId": "web:grossArea",
       "label": "Gross Area",
-      "value": "448 000 m²"
+      "value": "448 000 m²",
+      "elementId": "ce71e8c25a7447829362a5941458a766"
     }
   ],
   "companies": [
     {
-      "elementId": "web:architect",
       "label": "Architect",
-      "value": "LegoRogers"
+      "value": "LegoRogers",
+      "elementId": "fbc9776411984c30a730ec8d77aa5d35"
     },
     {
-      "elementId": "web:structuralEngineer",
       "label": "Structural Engineer",
-      "value": "Schlaich Bergermann und Partner"
+      "value": "Schlaich Bergermann und Partner",
+      "elementId": "8fe5ed31d3fe434ea0ecf75956ba7e82"
     },
     {
-      "elementId": "web:airportEngineering",
       "label": "Airport Engineering",
-      "value": "Stantec"
+      "value": "Stantec",
+      "elementId": "4b229ee588f64caa9a035c6e04d85a35"
     },
     {
-      "elementId": "web:baggageHandling",
       "label": "Baggage Handling",
-      "value": "BNP"
+      "value": "BNP",
+      "elementId": "f1d860012cac451ea209adffbeb0facc"
     },
     {
-      "elementId": "web:aPMDesign",
       "label": "APM Design",
-      "value": "Lea + Elliott"
+      "value": "Lea + Elliott",
+      "elementId": "bd8dcfc4d7bc406fa8296b2b2d774ce6"
     },
     {
-      "elementId": "web:wayfinding",
       "label": "Wayfinding",
-      "value": "Mijksenaar"
+      "value": "Mijksenaar",
+      "elementId": "8a1b1aac1788421ba64e4d5d2782a195"
     }
-  ]
+  ],
+  "awards": [],
+  "certificates": []
 }

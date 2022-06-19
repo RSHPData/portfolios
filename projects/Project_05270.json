@@ -1,16 +1,18 @@
 {
   "type": "Project",
   "id": "05270",
-  "notes": "Not Published",
-  "serializeDate": "27th April 2022 14:53:12",
-  "serialized": 1651071192215,
-  "serializedBy": "Steve Reeve",
+  "url": "office/3-world-trade-center",
+  "serializeDate": "'2022-06-19 14:25:55.101'",
+  "serialized": 1655648755101,
+  "serializedBy": "sreeve",
   "title": "3 World Trade Center",
   "description": "The architectural concept for 3 World Trade Center was realised as part of the wider context of the WTC masterplan, and represents a resolution of the varying requirements of the New York Port Authority and the client, Silverstein Properties.",
   "date": "2006-2018",
   "client": "Silverstein Properties Inc.",
   "location": "New York, USA",
-  "longLat": "-74.01145 / 40.71110",
+  "longLat": "-74.01145  / 40.71110",
+  "longitude": "-74.01145 ",
+  "latitude": "40.71110",
   "constructionCost": "$900 million",
   "typologies": [
     "Office"
@@ -60,76 +62,76 @@
   "leaders": [
     "Tosan Popo"
   ],
+  "heights": [
+    "330m"
+  ],
   "overview": "Tower 3 at 175 Greenwich Street is located at the heart of the revitalised World Trade Center site in New York.\n\nThe brief called for the design of a new commercial skyscraper to deliver a total of 2.5million sq ft (above ground area) designed within the guidelines of the previously developed Studio Libeskind masterplan for the site.\n\n3 World Trade Center is bound by Greenwich Street to the West, Church Street to the East, Dey Street to the North and Cortlandt Street to the South, and positioned opposite the WTC Memorial and Cultural Center, at the heart of the cluster of buildings which surround the memorial site. The brief for 3 World Trade Center outlined the building’s function as the site’s commercial core and aimed to address the issue of balancing retail and office space, while also complementing and acknowledging the WTC Memorial.\n\n\nTower 3 has an orthogonal relationship to the main space between the Memorial water pools and to further complement this relationship, the central zone of the building reduces in mass as it rises towards the sky. The effect is a stepped profile which accentuates the building’s verticality, relative to the memorial site and is sympathetic to the height and position of the neighbouring buildings.\n\nThe design includes five trading floors, 53 office floors (totalling 2.5 million sq ft (232,255 m²)) of above ground area, five retail levels, and eight mechanical floors which serve trading and office floors, 44 passenger lifts and two principal stairwells. The lower section of Tower 3 – the ‘podium building’ – contains the tower’s retail element and the trading floors, and the upper levels hold the office space. The streetscape is activated by retail façades enabling free-flowing movement of shoppers between five levels of retail, three above ground and two below, served by two lifts and four stairwells.\n\n\nTo maximise sustainability in terms of the building’s day-to-day functioning, similar ‘green design’ features as those included in the design of 7 World Trade Center have been incorporated. The design team ensured energy use and costs were significantly reduced compared to typical Manhattan office buildings, and has achieved ‘Gold’ Certification for Leadership in Energy and Environmental Design from the U.S. Green Buildings Council.",
-  "concept": "In May 2006 Silverstein Properties commissioned Rogers Stirk Harbour + Partners to design a commercial office tower located within the World Trade Center site including retail, trading floors and office accommodation.\n\nRSHP delivered the concept design within a four month period coinciding with the 5 year anniversary of the 9/11 terrorist attack on the World Trade Center site. A public presentation was held on 7 September 2006 exhibiting the design intention for RSHP’s Tower 3, as part of wider scheme for the site including Towers 2 and 4.\n\nTo achieve this demanding timescale, Silverstein Properties established a task force office located on the 25 floor of Tower 7 World Trade Center, which would form a platform for the coordination and integration of the design both with the Port Authority, other design architects, and the consultant team.\n\n\nUpon winning the masterplan competition, Studio Libeskind, in collaboration with the LMDC, developed a series of design guidelines which were to shape the future redevelopment of the site. Whilst these guidelines were never formally adopted, the spirit contained within this framework formed the basis upon which the design architects for all three towers evolved their conceptual designs.\n\nThe design guidelines established the parcel configuration for each of the buildings, set out the boundary constraints and also the vertical envelope in which the tower was to be positioned. Tower 3’s position is offset relative to Tower 4 due to the close proximity across Cortlandt Street resulting in the face of the two buildings standing only 41 ft apart.",
   "design": "The initial brief issued by Silverstein Properties was to develop an overall commercial development of 2.8 million sq ft with an above grade area of approximately 2.5 million sq ft. Of this, a target of 2.1 million sq ft of commercial office space had to be accommodated in both large trading floors located within the podium section of the building as well as typical office floors within the tower. The brief demanded the building to be integrated with the infrastructure below grade forming the entire “Eastern Bath Tub” that connected Tower 3 with the PATH terminal and Towers 2 and 4.\n\nThe areas below grade include retail and public concourses serving the Transportation Hub located between Towers 2 and 3. Additional basements below accommodate truck loading docks for each tower, a port bus parking area and associated car parking provision with the lowest basement level primarily allocated for mechanical and support functions.\n\nThe siting of Tower 3 commands a central position within the ensemble of the five towers as they cascade down in height towards the south away from Tower 1.\n\nThe strategic position of Tower 3 places the tower on the central axis between the two water pools in the Memorial Park. This strong axial relationship combined with its main address in an East-West orientation became a strong driving force for the massing of the building.\n\nThe building has been broken down in scale into three parallel planes. The central component of these three elements falls on the central axis of the Memorial Park and naturally establishes the primary emphasis, and the adjacent North and South planes become subservient to this central zone reinforcing its verticality.\n\nThe position of the setbacks aims to achieve variability in floor plate sizes and address the proximity of Tower 3 and Tower 4.\n\nWhilst offering variability in floor plate sizes, the setback to the South also create a greater distance between Tower 3 and 4, opening up the high level views at the top of the building. On the North side, the proximity to Tower 2 is far greater and so the “shoulder” rises to a greater height in support of the central zone.\n\n\nTower 3 is defined by its stainless steel-clad exterior frame and unique load-sharing system of k-shaped bracing in the corners. Through their location on the outside of the structure, the bracing accentuates the central volume of the building and provides human scale of grain and texture to the external façade. The use of these external steel load sharing “K” brace allows all corners of the tower to be column free which provides wider, unimpeded panoramic views for the occupants of the office levels.\n\nThe main lobby is located along the full length of the Greenwich Street elevation and encloses the lobby along three sides by a 60ft high cable-net glazed façade. The building’s central core is positioned closer to the Church Street frontage giving more space for the triple height lobby onto Greenwich Street. The core contains all passenger and freight elevators along with their dedicated circulation serving the tower above.\n\nAt the western end of the core eight lifts are housed and dedicated to serve the trading floors in the podium levels. Within the main body of the core, five groups of lifts serve the office levels above: two groups of eight lifts, one group of six lifts, and two groups of seven lifts - one of which serves the highest zone of the tower. Also contained in the core are four large freight elevators serving the trading floors and the office levels, and two additional large freight elevators dedicated to service the retail levels above and below grade.\n\nAt the South West corner of the lobby, a triple height atrium gives public access to the retail areas above and below ground as well as to the PATH Transit hall via the retail concourse in the basement level. Two glass panoramic elevators are combined with escalators and positioned within the glazed atrium bringing natural daylight into the lower levels of retail.\n\n\nThe retail at ground level, located in the remaining areas surrounding the core, has direct street frontage along Dey Street, Church Street and Cortlandt Street. Cortlandt Street and Dey Street are landscaped pedestrianised areas forming part of the active public realm to promote pedestrian permeability from the existing eastern City fabric through to the Memorial.\n\nPositioned above the Port Mechanical floor are five trading floors, each with a gross area of 70,000sq ft. These floors, at 20ft floor to floor, provide large and relatively column free space.\n\nWithin the tower there are 53 office levels at 13 ft 6 in floor to floor. In principle due to the articulation of the tower’s mass these can be broken down into three gross floor plate sizes ranging from 36,000 to 25,000 sq ft providing mainly 45ft lease spans.\n\nThe tower features three outdoor terraces located Levels 17, 60 and 76.Located 935ft above street level, the 76 floor terrace is the tallest outdoor office terrace in Manhattan. The 60th floor terrace is positioned 718ft above street level, and the 17th floor at 205ft above street level. In total there is 11,000 sq ft of outdoor, fully-landscaped space with a lush garden environment for it’s tenants.",
+  "concept": "In May 2006 Silverstein Properties commissioned Rogers Stirk Harbour + Partners to design a commercial office tower located within the World Trade Center site including retail, trading floors and office accommodation.\n\nRSHP delivered the concept design within a four month period coinciding with the 5 year anniversary of the 9/11 terrorist attack on the World Trade Center site. A public presentation was held on 7 September 2006 exhibiting the design intention for RSHP’s Tower 3, as part of wider scheme for the site including Towers 2 and 4.\n\nTo achieve this demanding timescale, Silverstein Properties established a task force office located on the 25 floor of Tower 7 World Trade Center, which would form a platform for the coordination and integration of the design both with the Port Authority, other design architects, and the consultant team.\n\n\nUpon winning the masterplan competition, Studio Libeskind, in collaboration with the LMDC, developed a series of design guidelines which were to shape the future redevelopment of the site. Whilst these guidelines were never formally adopted, the spirit contained within this framework formed the basis upon which the design architects for all three towers evolved their conceptual designs.\n\nThe design guidelines established the parcel configuration for each of the buildings, set out the boundary constraints and also the vertical envelope in which the tower was to be positioned. Tower 3’s position is offset relative to Tower 4 due to the close proximity across Cortlandt Street resulting in the face of the two buildings standing only 41 ft apart.",
   "construction": "The building’s central core is constructed of the slip-formed concrete and perimeter steel floorplate with composite steelwork decking fabricated by Owens Steelwork from South Carolina, totalling 27,000 tonnes. The facades are modulated on a 10ft unit within the podium and 5ft within the tower and fabricated by Permasteelisa Group in a number of the fabrication plants both in the US and internationally. There are over 10,000 curtain wall units within the project.\n\nAt the ground floor level, the lobby façade has been designed to a high performance level using a laminated cable net glass construction engineered in collaboration with Gartner from Germany.\n\n\nThe elevator contract for the supply of all movement systems came from Schindler where fabrication occurred both within the US and Germany.\n\nThe topping out ceremony of the Tower’s main frame was on 23 June 2016. The practical completion and opening ceremony took place on 11 June 2018.",
   "dimensions": [
     {
-      "elementId": "WVvwpYIJTEuCKULdwxZ8PA",
-      "label": "Height",
-      "value": "330m"
-    },
-    {
-      "elementId": "web:siteArea",
       "label": "Site Area",
-      "value": "60,000 ft² (5,574m²)"
+      "value": "60,000 ft² (5,574m²)",
+      "elementId": "7e46ea52eba8475cafb10c41123d4a93"
     },
     {
-      "elementId": "web:grossInternalArea",
       "label": "Gross Internal Area",
-      "value": "2.8 million ft² ( 260,129m²)"
+      "value": "2.8 million ft² ( 260,129m²)",
+      "elementId": "83bf525a08c1401eb68173d5dda03d2d"
     },
     {
-      "elementId": "web:netLettableArea",
       "label": "Net Lettable Area",
-      "value": "2.1 million ft² (195,096m²)"
+      "value": "2.1 million ft² (195,096m²)",
+      "elementId": "dfb1dc9c191c4c1cb83958dab26d6028"
     }
   ],
   "companies": [
     {
-      "elementId": "web:architectOfRecord",
       "label": "Architect of Record",
-      "value": "Adamson Associates"
+      "value": "Adamson Associates",
+      "elementId": "cbcc94e114e64c02aedee3242014d1a4"
     },
     {
-      "elementId": "web:structuralEngineer",
       "label": "Structural Engineer",
-      "value": "WSP Cantor Seinuk"
+      "value": "WSP Cantor Seinuk",
+      "elementId": "db49efd6073541f995d08310d6bbdd08"
     },
     {
-      "elementId": "web:servicesEngineer",
       "label": "Services Engineer",
-      "value": "Jaros Baum & Bolles"
+      "value": "Jaros Baum & Bolles",
+      "elementId": "535ff7a5257e4668ab75bc63dad4a23d"
     },
     {
-      "elementId": "web:dynamicLoadingConsultants",
       "label": "Dynamic Loading Consultants",
-      "value": "Weidlinger Associates Incorporated"
+      "value": "Weidlinger Associates Incorporated",
+      "elementId": "a05b167e9fad49079c99def6c88bc4eb"
     },
     {
-      "elementId": "web:securityConsultants",
       "label": "Security Consultants",
-      "value": "Ducibella Vanter & Santore"
-    }
-  ],
-  "certificates": [
-    {
-      "rowId": "1",
-      "authority": "LEED",
-      "rating": "Gold"
+      "value": "Ducibella Vanter & Santore",
+      "elementId": "10ec90eeb6d5499ca980b0c245f9209a"
     }
   ],
   "awards": [
     {
-      "rowId": "1",
+      "date": "2020-01-01",
       "year": "2020",
-      "award": "Nominated International High Rise Awards"
+      "award": "Nominated International High Rise Awards",
+      "rowId": "7a44788fbbf34702a245608a0dbd70b2"
     },
     {
-      "rowId": "2",
+      "date": "2019-01-01",
       "year": "2019",
-      "award": "The American Architecture Award"
+      "award": "The American Architecture Award",
+      "rowId": "273C07EB1A6C4C1CB3A8C295F827A33D"
+    }
+  ],
+  "certificates": [
+    {
+      "authority": "LEED",
+      "rating": "Gold",
+      "rowId": "1"
     }
   ]
 }

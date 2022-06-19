@@ -1,16 +1,18 @@
 {
   "type": "Project",
   "id": "06180",
-  "notes": "Not Published",
-  "serializeDate": "26th April 2022 17:18:27",
-  "serialized": 1650993507383,
-  "serializedBy": "Steve Reeve",
+  "url": "masterplanning/bercy-charenton",
+  "serializeDate": "'2022-06-19 14:26:08.167'",
+  "serialized": 1655648768167,
+  "serializedBy": "sreeve",
   "title": "Bercy Charenton",
   "description": "In 2010, following a public competition and bid, RSHP was selected by the City of Paris as master planners for the 63 hectare Bercy Charenton site in Paris.",
   "date": "2009-2019",
   "client": "Ville de Paris, Direction de l’urbanisme",
   "location": "Paris, France",
-  "longLat": "2.395946 / 48.828805",
+  "longLat": "2.395946  / 48.828805",
+  "longitude": "2.395946 ",
+  "latitude": "48.828805",
   "typologies": [
     "Masterplanning"
   ],
@@ -32,13 +34,16 @@
     "Stephen Barrett",
     "Mike Davies"
   ],
+  "leaders": [],
   "overview": "In 2010, following a public competition and bid, RSHP was selected by the City of Paris as master planners for the 63 hectare Bercy Charenton site in Paris.\n\nThe vast site is occupied by mainline rail, rail support services, maintenance functions and derelict areas. The site is completely fractured by major infrastructure barriers, dramatic level changes and flanked by France’s busiest motorway interchange and by the riverside expressway.\n\nThe principal challenge of the masterplan is to create a strategic overview of the entire area and define the development potential of the site.\n\n\nRSHP formed a multi-disciplinary team to explore the possible insertion of one million square metres of mixed urban development on the site. The population of the site is estimated to be 15,000 inhabitants, but increases to 50,000 daily as a result of an influx of commuters. The team includes three architects and urbanists, specialist road and rail engineers and ecology, landscape and also a financial group advising between the team and the client.\n\nThe key challenges of the site are to create a major urban linkage between the communities of Bercy and Charenton - currently isolated from each other - and to create a development vision which turns the site from an industrial landscape into a new and integrated piece of city fabric.\n\n\nRSHP is the coordinating masterplanner and principal representative of the multi-disciplinary design team.\n\nThis enormous project - one of the largest in the Paris region - is a metropolitan challenge and includes an understanding and practical involvement in issues of governance and the forging of a common intent between previously isolated city administrations.\n\nUrban sustainability is a key priority of the development with an emphasis on green linkage, walking  cycling routes and forming a major new public space. The project includes creches, three new shcools, a college and new sports facilities.",
   "dimensions": [
     {
-      "elementId": "web:siteArea",
       "label": "Site Area",
-      "value": "63 Hectares"
+      "value": "63 Hectares",
+      "elementId": "bdb47fc0252c4b7886b20bd4819e37ae"
     }
   ],
-  "companies": []
+  "companies": [],
+  "awards": [],
+  "certificates": []
 }

@@ -1,15 +1,16 @@
 {
   "type": "Project",
   "id": "12815",
-  "notes": "Not Published",
-  "serializeDate": "27th April 2022 16:33:55",
-  "serialized": 1651077235670,
-  "serializedBy": "Steve Reeve",
+  "serializeDate": "'2022-06-19 14:26:54.220'",
+  "serialized": 1655648814220,
+  "serializedBy": "sreeve",
   "title": "Shenzhen HongKong Plaza",
   "date": "2021",
   "client": "Qianhai Holdings Co,. Ltd",
   "location": "Shenzhen",
-  "longLat": "0.00000 / 0.00000",
+  "longLat": "0.00000  / 0.00000",
+  "longitude": "0.00000 ",
+  "latitude": "0.00000",
   "typologies": [
     "Mixed Use"
   ],
@@ -55,9 +56,9 @@
   "dimensions": [],
   "companies": [
     {
-      "elementId": "deltek:contact",
       "label": "Contact",
-      "value": "Rocco Design Architects Associates Ltd"
+      "value": "Rocco Design Architects Associates Ltd",
+      "elementId": "deltek:contact"
     }
   ]
 }

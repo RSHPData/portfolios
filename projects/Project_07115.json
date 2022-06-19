@@ -1,16 +1,18 @@
 {
   "type": "Project",
   "id": "07115",
-  "notes": "Not Published",
-  "serializeDate": "26th April 2022 17:28:50",
-  "serialized": 1650994130525,
-  "serializedBy": "Steve Reeve",
+  "url": "culture-and-leisure/richard-rogers-ra-inside-out",
+  "serializeDate": "'2022-06-19 14:26:18.231'",
+  "serialized": 1655648778231,
+  "serializedBy": "sreeve",
   "title": "Richard Rogers RA: Inside Out",
   "description": "Throughout his career, Rogers’ creations have been shaped by political, social and ethical concerns, as well as popular culture, technology, art and urbanism.",
   "date": "2013",
   "client": "Royal Academy of Arts",
   "location": "Royal Academy of Arts, London, UK",
-  "longLat": "-0.139282 / 51.508821",
+  "longLat": "-0.139282  / 51.508821",
+  "longitude": "-0.139282 ",
+  "latitude": "51.508821",
   "typologies": [
     "Culture & Leisure"
   ],
@@ -40,19 +42,21 @@
   "dimensions": [],
   "companies": [
     {
-      "elementId": "web:exhibitionDesign",
       "label": "Exhibition Design",
-      "value": "Ab Rogers Design"
+      "value": "Ab Rogers Design",
+      "elementId": "c61f84201d514f6baa6603a4eca77f97"
     },
     {
-      "elementId": "web:designGraphic",
       "label": "Design Graphic",
-      "value": "Graphic Thought Facility"
+      "value": "Graphic Thought Facility",
+      "elementId": "7e7aae1f694d431dbef1e5ba01da818f"
     },
     {
-      "elementId": "web:sponsors",
       "label": "Sponsors",
-      "value": "Ferrovial Agroman, Heathrow, Laing O’Rourke, Porcelanosa"
+      "value": "Ferrovial Agroman, Heathrow, Laing O’Rourke, Porcelanosa",
+      "elementId": "31e42183b0174ed1a4549ad773cbb93a"
     }
-  ]
+  ],
+  "awards": [],
+  "certificates": []
 }

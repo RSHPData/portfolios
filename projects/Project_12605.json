@@ -1,16 +1,18 @@
 {
   "type": "Project",
   "id": "12605",
-  "notes": "Not Published",
-  "serializeDate": "27th April 2022 16:30:56",
-  "serialized": 1651077056509,
-  "serializedBy": "Steve Reeve",
+  "url": "industrial/horse-soldier-farms",
+  "serializeDate": "'2022-06-19 14:26:52.836'",
+  "serialized": 1655648812836,
+  "serializedBy": "sreeve",
   "title": "Horse Soldier Farms",
   "description": "Horse Soldier Farms is a bourbon distillery complex and visitor resort in Somerset, Kentucky, USA",
   "date": "2020 -",
   "client": "American Freedom Distillery, LLC",
   "location": "Kentucky, USA",
-  "longLat": "-84.6376738560819 / 37.030419631500905",
+  "longLat": "-84.6376738560819  / 37.030419631500905",
+  "longitude": "-84.6376738560819 ",
+  "latitude": "37.030419631500905",
   "typologies": [
     "Industrial"
   ],
@@ -40,51 +42,51 @@
   "overview": "Horse Soldier Farms is a 227-acre masterplan, overlooking Lake Cumberland in Somerset, Kentucky, USA.\n\nAt the heart of the site is a bourbon distillery and production facility, comprising maturation warehouses, a bottling facility and finished logistics warehouse, which will produce between 3-5 million gallons of bourbon annually.\n\nThe distillery reflects the historic 12 Horse Soldiers story, including 12 fermentation vessels that circle the 54-foot column still. The Stillhouse is also articulated as an array of 12 inclined structural elements, reminiscent of the staves of a whiskey barrel under construction.\n\n\nThe inverse of the Stillhouse geometry is expressed in the form of an enclosed water garden called ‘The Everyday Heroes Gallery’. At the centre of this space is a replica of the Horse Soldier monument found near Ground Zero. When read together the two elements of the Stillhouse and the memorial water garden pay homage to the Twin Towers.\n\nThe primary built structures are simple long and low horizontal buildings, inspired by the traditional agricultural vernacular of barns and warehouses in Kentucky. These dominant forms, set amongst the undulating natural landscape, reinforce the salient lines and geometries of the site.\n\n\nBlack in colour, the warehouses and distillery echo the county’s traditional tobacco barns and provide a simple palette, which, along with the lush green landscape and accents of colour, are pertinent to the brand.\n\nA retail park, chapel, event centre, equestrian centre, community rooms, and health and wellness opportunities will welcome the estimated 200,000 annual visitors.\n\nA 60-room lodge complex with spa, will invite veterans, locals and bourbon connoisseurs to stay and reflect for longer.",
   "dimensions": [
     {
-      "elementId": "web:OYYt4GRsFEatt9fn87g7ag",
       "label": "Site Area",
-      "value": "227 acres<br>"
+      "value": "227 acres<br>",
+      "elementId": "059b45d1e6d14be8a72fdeb53222ca0e"
     }
   ],
   "companies": [
     {
-      "elementId": "web:sr5TbaIE00uiVkR1JH088Q",
       "label": "Architect of Record",
-      "value": "EOP Architects"
+      "value": "EOP Architects",
+      "elementId": "24b51ec00ec846029ded3d174db1f9f7"
     },
     {
-      "elementId": "web:wDi4kivAGECSDZ0bdivAZg",
       "label": "Structural Engineer",
-      "value": "Brown + Kubican"
+      "value": "Brown + Kubican",
+      "elementId": "b5c0efb241c74199b53b6fd5a8f17b31"
     },
     {
-      "elementId": "web:1RoNaU1K2EuNyoCZNGso2Q",
       "label": "Process Engineer",
-      "value": "VITOK"
+      "value": "VITOK",
+      "elementId": "ef20d4ba8fc84419b5aed047e3424865"
     },
     {
-      "elementId": "web:/9dHuOGsr0KWSYLY44PCyg",
       "label": "MEP Engineer",
-      "value": "CMTA, Inc."
+      "value": "CMTA, Inc.",
+      "elementId": "3856c3d84b85475295757e7ffacafb5e"
     },
     {
-      "elementId": "web:Bgr0Dq6JAk+u1t481Mzhog",
       "label": "Landscape and Civil Engineer",
-      "value": "Carman"
+      "value": "Carman",
+      "elementId": "7ca8614f0bf044109e79635dbf77bd24"
     },
     {
-      "elementId": "web:zeVauxcfm0a5PRQDiTmw3A",
       "label": "Experiential Design",
-      "value": "BRC Imagination Arts"
+      "value": "BRC Imagination Arts",
+      "elementId": "3cb346579661433d9dabd0300cee8047"
     },
     {
-      "elementId": "web:35y88kCkuU6liCV8o51/gw",
       "label": "Facilities Management",
-      "value": "CRM Companies"
+      "value": "CRM Companies",
+      "elementId": "704e998a82304b82bf7ca7e298dcb332"
     },
     {
-      "elementId": "web:3n5AJ05VI0eiAhBaNxzJig",
       "label": "Contractor",
-      "value": "D.W. Wilburn, Inc."
+      "value": "D.W. Wilburn, Inc.",
+      "elementId": "245dc662b7f54a69bc0f2c111973cb58"
     }
   ]
 }

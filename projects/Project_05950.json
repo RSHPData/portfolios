@@ -1,16 +1,18 @@
 {
   "type": "Project",
   "id": "05950",
-  "notes": "Not Published",
-  "serializeDate": "26th April 2022 17:17:01",
-  "serialized": 1650993421177,
-  "serializedBy": "Steve Reeve",
+  "url": "residential/the-river-one/",
+  "serializeDate": "'2022-06-19 14:26:04.642'",
+  "serialized": 1655648764642,
+  "serializedBy": "sreeve",
   "title": "The River ONE",
   "description": "Located on the banks of Hangzhou Bay, two stepped towers mark the southwest corner of the Chinese city of Ningbo’s newest district, created as part of a 2008 masterplan.",
   "date": "2009-under construction",
   "client": "Hongtai Group",
   "location": "Ningbo, China",
-  "longLat": "121.607199 / 29.861021",
+  "longLat": "121.607199  / 29.861021",
+  "longitude": "121.607199 ",
+  "latitude": "29.861021",
   "constructionCost": "£130,000,000",
   "typologies": [
     "Residential"
@@ -41,51 +43,51 @@
   "leaders": [
     "Ben Warner"
   ],
+  "heights": [
+    "150 m"
+  ],
   "overview": "Located on the banks of Hangzhou Bay, two stepped towers mark the southwest corner of the Chinese city of Ningbo’s newest district, created as part of a 2008 masterplan. The pair of 152-metre- (500-foot-) high residential towers straddle the entrance to the bay.\n\nEach building comprises 150 units, ranging in size from one to six bedrooms, and includes penthouses, duplexes and maisonettes. A double-height entrance to the first tower links the apartments with a health club and spa located in an adjoining pavilion. At ground level, a new south-facing quayside has been created as a focus for residents and visitors.\n\n\nAround the perimeter of the towers, a steel bracing system provides the structural flexibility required in the event of an earthquake. By placing this structure on the outside, the structural walls do not dictate the plan layout, giving flexibility to the interiors.\n\nThe design of both buildings features two wings, connected by a central concrete core, giving strength and creating dramatic entrance lobbies for each apartment floor. Large windows make the most of natural light and balconies are placed on the outer corners of each of the wings, to take advantage of the views.\n\n\nThe towers are significantly taller than the surrounding buildings and are oriented to take full advantage of excellent views of the main city, the mountains and the new river basin. The plan uses a north–south linear core to create buildings that are composed of two sides or wings. This gives clarity to the buildings’ form by connecting them to the waterfront and old city to the west and the masterplan to the east. Each wing has large sky balconies at each corner, further taking advantage of the views and adding to the richness and variety of space provided.\n\nThe design is made up of a number of distinct architectural components: the primary diagonal stability frame of the towers, the external lift cores and structural concrete floor plates, the entrance lobbies and public realm. Together, they provide a logical clear and legible form, with a human-scale grain. A gym, potential retail and dining on the waterfront and restaurant on the 22nd floor ensure activity to attract people to the public space.",
   "dimensions": [
     {
-      "elementId": "WVvwpYIJTEuCKULdwxZ8PA",
-      "label": "Height",
-      "value": "150 m"
-    },
-    {
-      "elementId": "web:siteArea",
       "label": "Site Area",
-      "value": "3 748 m² + 3 584 m²"
+      "value": "3 748 m² + 3 584 m²",
+      "elementId": "72fe7bbc76364b0b86d512c27b49ae88"
     },
     {
-      "elementId": "web:area",
       "label": "Area",
-      "value": "40 000 m² + 40 000 m²"
+      "value": "40 000 m² + 40 000 m²",
+      "elementId": "44537c5b55a343c483cb4e1b19cfbcea"
     }
   ],
   "companies": [
     {
-      "elementId": "web:co-architect",
       "label": "Co-Architect",
-      "value": "Ningbo LDI"
+      "value": "Ningbo LDI",
+      "elementId": "adef032a50634cb6b698fef3baefc72e"
     },
     {
-      "elementId": "web:structuralEngineer",
       "label": "Structural Engineer",
-      "value": "Arup"
+      "value": "Arup",
+      "elementId": "e46693845ff24c7e8330ad6b762bd543"
     },
     {
-      "elementId": "web:landscapeArchitect",
       "label": "Landscape Architect",
-      "value": "Gillespies"
+      "value": "Gillespies",
+      "elementId": "71e7166256e04bc58c4f79841531d49b"
     },
     {
-      "elementId": "web:engineeringServices",
       "label": "Engineering Services",
-      "value": "Ningbo LDI"
+      "value": "Ningbo LDI",
+      "elementId": "11b34eb3331648129ad5439bf2a8339c"
     }
   ],
   "awards": [
     {
-      "rowId": "1",
+      "date": "2018-01-01",
       "year": "2018",
-      "award": "Qianjiang Cup Award - Qianjiang Cup for Quality Engineering Award"
+      "award": "Qianjiang Cup Award - Qianjiang Cup for Quality Engineering Award",
+      "rowId": "5b2499866d1d46e6942d67741b9b056d"
     }
-  ]
+  ],
+  "certificates": []
 }

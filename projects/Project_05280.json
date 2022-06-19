@@ -1,16 +1,17 @@
 {
   "type": "Project",
   "id": "05280",
-  "notes": "Not Published",
-  "serializeDate": "27th April 2022 14:53:39",
-  "serialized": 1651071219515,
-  "serializedBy": "Steve Reeve",
+  "url": "residential/chelsea-barracks",
+  "serializeDate": "'2022-06-19 14:25:56.075'",
+  "serialized": 1655648756075,
+  "serializedBy": "sreeve",
   "title": "Chelsea Barracks",
   "description": "Rogers Stirk Harbour + Partners (RSHP) was commissioned to develop a proposal for the redevelopment of the former Chelsea Barracks site in London.",
   "date": "2006",
-  "client": "Candy & Candy",
   "location": "London, UK",
-  "longLat": "-0.152518 / 51.488354",
+  "longLat": "-0.152518  / 51.488354",
+  "longitude": "-0.152518 ",
+  "latitude": "51.488354",
   "typologies": [
     "Residential"
   ],

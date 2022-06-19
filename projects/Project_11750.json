@@ -1,69 +1,86 @@
 {
   "type": "Project",
   "id": "11750",
-  "notes": "Not Published",
-  "serializeDate": "2nd May 2022 16:07:06",
-  "serialized": 1651507626785,
-  "serializedBy": "Steve Reeve",
-  "title": "No title",
+  "url": "office/kingboard-qianhai-tower",
+  "serializeDate": "'2022-06-19 14:26:46.472'",
+  "serialized": 1655648806472,
+  "serializedBy": "sreeve",
+  "title": "Kingboard Qianhai Tower",
   "description": "Kingboard Headquarter Tower is located within the new Qianhai masterplan neighbouring Hong Kong and Shenzhen.",
-  "date": "2018",
-  "client": "Kingboard Qianhai Technologies (Shenzhen) Co LTD",
-  "location": "Qianhai Shenzhen",
+  "date": "2018 - under construction",
+  "client": "Kingboard Holdings",
+  "location": "Shenzhen, China",
+  "longLat": "113.897242  / 22.538522",
+  "longitude": "113.897242 ",
+  "latitude": "22.538522",
   "typologies": [
-    "Mixed Use"
+    "Office"
   ],
   "team": [
+    "Richard Black",
+    "Nandi Han",
+    "James Leathem",
+    "Pei Yi Lin",
+    "Jose Roldan",
+    "Marco Tessaro",
     "Adeline Wee",
-    "Alejandro Terron",
-    "Alessandro Blasucci",
     "Alexandria Fu",
     "Andrew Tyley",
-    "Ann Miller",
     "Anna Au",
     "Ben Goble",
-    "Ben Warner",
-    "Bonnie Han",
     "Carlos Gonzalez",
-    "Chiara Baiocco",
     "Chris Trundle",
-    "Christophe Dembinski",
-    "Dan Rogers",
     "David Kennedy",
-    "Ed Hiscock",
     "Elizabeth Low",
-    "Giulio Asso",
-    "Gizem Muhtaroglu",
-    "Hannah Carline",
     "Harjinder Singh",
-    "Hechang Chen",
-    "Heidi Gillett",
-    "Ivan Harbour",
     "James Bradford",
     "James Leathem",
     "Jose Roldan",
-    "Katarzyna Penar",
-    "Kelly Darlington",
-    "Lennart Grut",
-    "Luca D'Amico",
     "Lu-Min Guo",
-    "Marco Tessaro",
-    "Matthew Jackson",
-    "Nandi Han",
-    "Nazli Ozseker",
-    "Pei-Yi Lin",
-    "Richard Black",
-    "Richard Paul",
-    "Sim Yee Lee",
-    "Simon Davis",
-    "Siyang Yu",
-    "Taylor Huggins",
-    "Thomas Olliver",
-    "Tom Jones",
-    "Torsten Burkhardt",
-    "Vajini Pannila",
-    "Woojin Kim"
+    "Matthew Jackson"
   ],
-  "dimensions": [],
-  "companies": []
+  "partners": [
+    "Richard Paul",
+    "Ben Warner",
+    "Lennart Grut"
+  ],
+  "leaders": [
+    "Richard Paul"
+  ],
+  "heights": [
+    "232m"
+  ],
+  "floors": [
+    "47"
+  ],
+  "overview": "Kingboard Headquarter Tower is located within the new Qianhai masterplan neighbouring Hong Kong and Shenzhen. Qianhai Bay is part of a comprehensive masterplan for a new urban development zone that will provide accommodation for increasing industry.\n\nThe site has a primary aspect onto Menghai Avenue which will become the main artery of the masterplan with dedicated green spaces to the north of the plot. The tower responds to this public axis by aligning the primary façade along it, forming a public space between the tower lobby and green corridor.\n\n\nThe core is positioned to the east to minimise overlooking between buildings and promote views along the green corridor of Menghai Avenue and across to Qianhai Bay. The asymmetric core and services allow the office floorplates to be a clear, regular area of 45m x 30m. By having this flexibility at the heart of the floor, many plan configurations are possible that can be adapted for any tenant’s need and can also be suited to multiple tenants on a single floor.\n\nThe structural strategy works in parallel with the architectural concept to maximise the open office floorplate. This is achieved by positioning elements of the primary steel structure outside of the north and south façade and suspending the office floors from the trusses positioned every 11 levels, significantly reducing the size of the structural elements on each typical office level.\n\n\nThe expressed structure and rear core bring articulation and shadows to the tower that help to break down the scale of its 230m height. This expression also provides a level of clarity and legibility to the organisation of both structure and function.\n\nSkygarden levels provide external amenity space throughout the height of the tower, forming a break in the massing between each 9 typical office levels. Each of the low, mid- and high-rise lift banks have access to a dedicated skygarden, offering all staff an informal space to work, socialise or rest. These areas are designed to provide a deep landscaping zone that will allow for a rich, natural garden that will receive the afternoon sun.",
+  "dimensions": [
+    {
+      "label": "Total Gross Floor Area",
+      "value": "85 000 m²<br>",
+      "elementId": "ba6465715cf54ace83ff4d9832a5e515"
+    }
+  ],
+  "companies": [
+    {
+      "label": "Structural Engineer",
+      "value": "Arup",
+      "elementId": "7a6eccdc0ca84693ae4c71dd4fe79da5"
+    },
+    {
+      "label": "Services Engineer",
+      "value": "Arup",
+      "elementId": "4159c594e697425798cf2a449e1cf2d7"
+    },
+    {
+      "label": "Cost Consultant",
+      "value": "Arcadis",
+      "elementId": "ffc70b16a65d48b28f466fd35f3b29bb"
+    },
+    {
+      "label": "Fire Consultant",
+      "value": "Arup",
+      "elementId": "7e07e1ef3306481db64e5db183ba629f"
+    }
+  ]
 }

@@ -1,16 +1,18 @@
 {
   "type": "Project",
   "id": "05710",
-  "notes": "Not Published",
-  "serializeDate": "26th April 2022 17:16:51",
-  "serialized": 1650993411074,
-  "serializedBy": "Steve Reeve",
+  "url": "residential/riverlight",
+  "serializeDate": "'2022-06-19 14:26:03.759'",
+  "serialized": 1655648763759,
+  "serializedBy": "sreeve",
   "title": "Riverlight",
   "description": "Riverlight transforms a triangular, five-acre industrial estate – close to Battersea Power Station on the south bank of the River Thames – into a residential-led mixed use development.",
   "date": "2009-2016",
   "client": "St James Group Limited",
   "location": "London, UK",
-  "longLat": "-0.13915 / 51.48232",
+  "longLat": "-0.13915  / 51.48232",
+  "longitude": "-0.13915 ",
+  "latitude": "51.48232",
   "constructionCost": "£200,000,000",
   "typologies": [
     "Residential"
@@ -32,80 +34,80 @@
   "leaders": [
     "Stephen Light"
   ],
+  "floors": [
+    "20"
+  ],
   "overview": "Riverlight transforms a triangular, five-acre industrial estate – close to Battersea Power Station on the south bank of the River Thames – into a residential-led mixed use development, creating a transition between the large footprints of the power station and the smaller residential developments to the east.\n\nThe scheme includes 813 homes, underground parking, crèche, restaurants, bars, a food store and other retail spaces. It incorporates a river walk and landscaping to take full advantage of its location and create attractive public spaces for the local community. The development is made up of six buildings, arranged in a rising-form composition, ranging in height from 12 to 20 storeys and giving the development a varied skyline. Around 60 per cent of the scheme is designated as public open space.\n\n\nThe architectural expression takes its cue from the former industrial warehouse buildings that lined the river. The language is of simple robust structures which emphasise their construction. Buildings are divided into three distinct zones: top, middle, and base. Top levels are lightweight, two-storey structures with gull-wing roofs; mid levels are represented as concrete floors expressed every two storeys, with intermediate floors expressed as lightweight steel balconies.\n\n\nIn landscape terms, each area of the development is conceived as having its own distinct character. The newly created river walk – slightly raised to allow views over the river wall to the Thames – brings a 17m-wide boulevard to a previously underused part of the waterfront. Commercial and community uses at street level – including restaurants, bars and cafés arranged around the dock inlet, as well as a food store, crèche and business suite – attract visitors onto the site and animate the public areas of the scheme.",
-  "concept": "The brief for this project was to create a mixed-use development of the highest quality – incorporating residential, commercial and hotel uses – whilst providing an active retail frontage along Nine Elms Lane and a dock inlet, as well as new pedestrian links to the waterfront. In the early 19th century, this part of the river was made up of a number of small wharves and docks, gradually replaced over time by other industrial uses. However, in recent years, the site had been used as a delivery depot.\n\nThe site is roughly triangular and is located at a point where Nine Elms Lane diverges from its parallel relationship with the River Thames and runs inland.\n\nIt is bounded by the river to the north, Nine Elms Lane to the south and Cringle/Kirtling Streets to the west. Key features of the site and the surrounding area include: protected industrial wharves to both east and west which limit opportunities for wider connections to the river walk; a redundant industrial concrete pier serving a river boat community of approximately 20 moorings with access across the site; a dock inlet a limited number of semi-mature trees on the river frontage.\n\nRSHP’s site response aims to achieve a simple arrangement of 18m-wide buildings – appropriate to residential and hotel uses – which are perpendicular to the river, pier and dock inlet and parallel to the Kirtling Street boundary.\n\n\nThe scheme manifestsnbsp;a contemporary architectural language that creates its own rhythm, articulation and colouration to define its unique character and relationship to its riverside context, whilst avoiding monolithic frontages and the overshadowing of neighbouring developments.\n\nThe north/south orientation of the buildings maximises visual and physical permeability across the site, opening up a series of linear courtyards onto the river and introducing a green aspect onto Nine Elms Lane. The buildings alter subtly in proportion across the site – from west to east – from larger to smaller plan form. They are arranged in a rising-form composition, ranging in height from 12 to 20 storeys and giving the development a varied skyline. The spaces between the buildings and the river walk receive generous sunlight. This is maximised by modelling the promontories to open up the ends of courtyards between buildings, thereby allowing light to reach deep into the site and onto the river walk.\n\n\nThe architectural expression takes its cue from the former industrial warehouse buildings that lined the river in previous centuries. The language is of simple robust structures which give emphasis to their construction. Buildings are divided into three distinct zones: top; middle; and base. Top levels are lightweight, two-storey structures with gull-wing roofs; mid levels are represented as concrete floors expressed every two storeys, with intermediate floors expressed as lightweight steel balconies. The prow ends are articulated as a series of steel hangers supporting the large end cantilevers. The leading edges of the building are an open-jointed, panelised rain screen reminiscent of timber board construction.\n\nThe Riverlight scheme forms a key component in the regeneration and restructuring of Nine Elms in response to the aims of the Vauxhall/Nine Elms/Battersea opportunity area within the London Plan and is the first site in Nine Elms to be developed as part of this process.",
   "design": "All six buildings are oriented north/south and are of varying lengths, filling the site and defining all major boundaries. The accommodation is generally organised east/west as simple orthogonal spaces served by a series of independent vertical circulation towers.The cores are conceived as glazed lift enclosures creating counterpoints that interrupt the simplicity of the main linear façades.\n\nIn landscape terms, each area of the development is conceived as having its own distinct character. The public areas are treated as a revealed river bed with a series of soft, pebble-like forms, while the private courtyards form calm green spaces with heavy tree planting and water gardens. The newly-created river walk – slightly raised to allow views over the river wall to the Thames – brings a 17m-wide boulevard to a previously underused part of the waterfront.\n\nA proposed pocket park adjacent to the dock inlet will provide a generous area of public realm with a mixture of soft and hard landscaping.\n\nThe buildings are organised to accommodate a wide variety of apartments based on two essential types: one-bed apartments with living and bedroom areas wrapped around a single terrace; and two-bed apartments in which the master bedroom shares an additional terrace area divided from the neighbouring two-bed unit.\n\n\nThe arrangement seeks to maximise views and sunlight to each dwelling. The apartments – typically single aspect – are organised as east or west facing and typically grouped as five units per core, minimising corridor lengths.\n\nThe systematic nature of the proposals and the scale of the development (comprising 752 units) offered RSHP an opportunity to use colour as a means of providing individual identity to buildings, where a graphic coding would assist in way-finding. However, the approach sought to avoid the indiscriminate use of colour which might easily date the development whilst being mindful of the fact that colour might have a variable impact with distance – more muted at long range but emphasised more strongly within the development itself at close range. As a result, colour has been used to emphasise secondary elements such as the underside and leading edges of intermediate steel balconies and guide rails to lift units.",
+  "concept": "The brief for this project was to create a mixed-use development of the highest quality – incorporating residential, commercial and hotel uses – whilst providing an active retail frontage along Nine Elms Lane and a dock inlet, as well as new pedestrian links to the waterfront. In the early 19th century, this part of the river was made up of a number of small wharves and docks, gradually replaced over time by other industrial uses. However, in recent years, the site had been used as a delivery depot.\n\nThe site is roughly triangular and is located at a point where Nine Elms Lane diverges from its parallel relationship with the River Thames and runs inland.\n\nIt is bounded by the river to the north, Nine Elms Lane to the south and Cringle/Kirtling Streets to the west. Key features of the site and the surrounding area include: protected industrial wharves to both east and west which limit opportunities for wider connections to the river walk; a redundant industrial concrete pier serving a river boat community of approximately 20 moorings with access across the site; a dock inlet a limited number of semi-mature trees on the river frontage.\n\nRSHP’s site response aims to achieve a simple arrangement of 18m-wide buildings – appropriate to residential and hotel uses – which are perpendicular to the river, pier and dock inlet and parallel to the Kirtling Street boundary.\n\n\nThe scheme manifestsnbsp;a contemporary architectural language that creates its own rhythm, articulation and colouration to define its unique character and relationship to its riverside context, whilst avoiding monolithic frontages and the overshadowing of neighbouring developments.\n\nThe north/south orientation of the buildings maximises visual and physical permeability across the site, opening up a series of linear courtyards onto the river and introducing a green aspect onto Nine Elms Lane. The buildings alter subtly in proportion across the site – from west to east – from larger to smaller plan form. They are arranged in a rising-form composition, ranging in height from 12 to 20 storeys and giving the development a varied skyline. The spaces between the buildings and the river walk receive generous sunlight. This is maximised by modelling the promontories to open up the ends of courtyards between buildings, thereby allowing light to reach deep into the site and onto the river walk.\n\n\nThe architectural expression takes its cue from the former industrial warehouse buildings that lined the river in previous centuries. The language is of simple robust structures which give emphasis to their construction. Buildings are divided into three distinct zones: top; middle; and base. Top levels are lightweight, two-storey structures with gull-wing roofs; mid levels are represented as concrete floors expressed every two storeys, with intermediate floors expressed as lightweight steel balconies. The prow ends are articulated as a series of steel hangers supporting the large end cantilevers. The leading edges of the building are an open-jointed, panelised rain screen reminiscent of timber board construction.\n\nThe Riverlight scheme forms a key component in the regeneration and restructuring of Nine Elms in response to the aims of the Vauxhall/Nine Elms/Battersea opportunity area within the London Plan and is the first site in Nine Elms to be developed as part of this process.",
   "dimensions": [
     {
-      "elementId": "XLA0uo9bikCZClyA6d8vjQ",
-      "label": "Floors",
-      "value": "20"
-    },
-    {
-      "elementId": "web:siteArea",
       "label": "Site Area",
-      "value": "2.2 ha"
+      "value": "2.2 ha",
+      "elementId": "27ee1248cdc346ff9ac121c7d45b7cc6"
     },
     {
-      "elementId": "web:netResidentialArea",
       "label": "Net Residential Area",
-      "value": "98 015 m²"
+      "value": "98 015 m²",
+      "elementId": "6c23c1e11ba14fd1900020d8abb06cc4"
     }
   ],
   "companies": [
     {
-      "elementId": "web:co-architect",
       "label": "Co-Architect",
-      "value": "EPR"
+      "value": "EPR",
+      "elementId": "ef74ea0453114ef6aa5b573a53bb7707"
     },
     {
-      "elementId": "web:structuralEngineer",
       "label": "Structural Engineer",
-      "value": "Ramboll"
+      "value": "Ramboll",
+      "elementId": "e68857e9ffc241f2a840a0cff66f27b5"
     },
     {
-      "elementId": "web:servicesEngineer",
       "label": "Services Engineer",
-      "value": "Hoare Lea"
+      "value": "Hoare Lea",
+      "elementId": "ce66bc5bf2554c64bb7b4b42469cb38b"
     },
     {
-      "elementId": "web:landscapeArchitect",
       "label": "Landscape Architect",
-      "value": "Gillespies LLP"
+      "value": "Gillespies LLP",
+      "elementId": "4d008179b67d4eba989ba55c5b0f2ded"
     },
     {
-      "elementId": "web:contractor",
       "label": "Contractor",
-      "value": "St James Group"
+      "value": "St James Group",
+      "elementId": "35a9303d0adf45e2a3f0cd259c5d78dc"
     },
     {
-      "elementId": "web:planningConsultant",
       "label": "Planning Consultant",
-      "value": "TP Bennett"
+      "value": "TP Bennett",
+      "elementId": "dc83873b56064071bb8de9242e8742e8"
     },
     {
-      "elementId": "web:townscapeConsultant",
       "label": "Townscape Consultant",
-      "value": "Montagu Evans"
-    }
-  ],
-  "certificates": [
-    {
-      "rowId": "v5iGIGQ3ZU+1bsDgblYVPw",
-      "authority": "BREEAM",
-      "rating": "Very Good"
+      "value": "Montagu Evans",
+      "elementId": "ce31446e4b774652957b39f48e9312a0"
     }
   ],
   "awards": [
     {
-      "rowId": "1",
+      "date": "2018-01-01",
       "year": "2018",
-      "award": "RIBA National Award"
+      "award": "RIBA National Award",
+      "rowId": "8880040203F8446C8DB08CCBE7A89B7F"
     },
     {
-      "rowId": "2",
+      "date": "2018-01-01",
       "year": "2018",
-      "award": "RIBA London Award"
+      "award": "RIBA London Award",
+      "rowId": "32158AE2F5E344F286E9B5971F743356"
+    }
+  ],
+  "certificates": [
+    {
+      "authority": "BREEAM",
+      "rating": "Very Good",
+      "rowId": "v5iGIGQ3ZU+1bsDgblYVPw"
     }
   ]
 }

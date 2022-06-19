@@ -1,16 +1,18 @@
 {
   "type": "Project",
   "id": "10140",
-  "notes": "Not Published",
-  "serializeDate": "27th April 2022 15:12:39",
-  "serialized": 1651072359269,
-  "serializedBy": "Steve Reeve",
+  "url": "transport/pudong-airport-satellite",
+  "serializeDate": "'2022-06-19 14:26:20.325'",
+  "serialized": 1655648780325,
+  "serializedBy": "sreeve",
   "title": "Pudong Airport Satellite",
   "description": "Rogers Stirk Harbour + Partners’ proposal implements a petal-like modular roof system, which complements the existing Terminal’s design, and an inspirational balance of economy and function.",
   "date": "2013",
   "client": "Shanghai Pudong Airport Authority",
   "location": "Shanghai, China",
-  "longLat": "121.807618 / 31.148283",
+  "longLat": "121.807618  / 31.148283",
+  "longitude": "121.807618 ",
+  "latitude": "31.148283",
   "typologies": [
     "Transport"
   ],
@@ -38,14 +40,14 @@
   "dimensions": [],
   "companies": [
     {
-      "elementId": "web:co-architect",
       "label": "Co-Architect",
-      "value": "ECADI"
+      "value": "ECADI",
+      "elementId": "2b8ef7e474ba48a5bc4de89f62001333"
     },
     {
-      "elementId": "web:retailPlanning",
       "label": "Retail Planning",
-      "value": "Design Solutions"
+      "value": "Design Solutions",
+      "elementId": "24b99a11eeaa47f987d84f05c8ed62a5"
     }
   ]
 }

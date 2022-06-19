@@ -1,10 +1,10 @@
 {
   "type": "Project",
   "id": "10270",
-  "notes": "Not Published",
-  "serializeDate": "27th April 2022 15:20:10",
-  "serialized": 1651072810971,
-  "serializedBy": "Steve Reeve",
+  "url": "residential/prouvé-house",
+  "serializeDate": "'2022-06-19 14:26:24.406'",
+  "serialized": 1655648784406,
+  "serializedBy": "sreeve",
   "title": "Prouvé House",
   "description": "Galerie Patrick Seguin commissioned RSHP to adapt a design for a ‘6m x 6m Demountable House’ by the self-taught French architect and designer Jean Prouvé, modernising it for use as a holiday home.",
   "date": "2013-2015",
@@ -27,9 +27,9 @@
   "overview": "Galerie Patrick Seguin commissioned RSHP to adapt a design for a ‘6m x 6m Demountable House’ by the self-taught French architect and designer Jean Prouvé, modernising it for use as a holiday home.\n\nThe 6x6 house is an important example of Prouvé’s ‘constructional philosophy’ of architecture based on an aesthetic of functionality and fabrication. Made entirely of wood and metal, it could be transported and dismantled easily and was first built to re-house war victims in the Lorraine region of France in 1944. Components were shipped directly to bomb-devastated villages where they could be assembled by two people in a day to provide much needed shelter for the homeless.\n\nRSHP’s adaptation adds living facilities incorporated into external bathroom and kitchen pods as well as service trolleys providing drinking water, heating and solar-powered electricity. Adding the pods to the perimeter of the original building maintains and respects the flexibility of the original internal layout. The trolleys ensure the house has an independent supply of water and energy so it can be autonomous in any environment.\n\n\nRSHP’s design replaces six of the original wooden panels to provide a link bridge connection to each pod and an entrance made up for four glazed panels that bring light into the main living space and open onto a new external decking platform. The decking is controlled through a counter balance system so it can be lowered for use as an outdoor space or raised to act as a shutter. In the spirit of with the original design, all components can be manually assembled and dismantled easily on site and different panel locations can be configured to suit specific locations.\n\nThe RSHP adaptation was designed to be showcased at Art Basel 2015 before transferring to an outdoor setting. As well as a new holiday retreat, it has potential to become a blueprint for future transportable and demountable refugee housing in keeping with Prouvé’s original vision.",
   "dimensions": [
     {
-      "elementId": "web:internalArea",
       "label": "Internal Area",
-      "value": "44m²"
+      "value": "44m²",
+      "elementId": "5e72fa4288734a29828f659cade3ce57"
     }
   ],
   "companies": []

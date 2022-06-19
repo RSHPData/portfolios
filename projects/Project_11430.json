@@ -1,16 +1,18 @@
 {
   "type": "Project",
   "id": "11430",
-  "notes": "Not Published",
-  "serializeDate": "26th April 2022 17:39:41",
-  "serialized": 1650994781819,
-  "serializedBy": "Steve Reeve",
+  "url": "mixed-use/parcs-en-scène-thiais",
+  "serializeDate": "'2022-06-19 14:26:42.778'",
+  "serialized": 1655648802778,
+  "serializedBy": "sreeve",
   "title": "Parcs en Scène, Thiais",
   "description": "The Parcs en Scène project is a mixed-use masterplan and development located on a challenging site near Orly Airport in Paris.",
   "date": "2017-",
   "client": "Linkcity, Ile-de-France SAS",
   "location": "Paris, France",
-  "longLat": "2.370664 / 48.746413",
+  "longLat": "2.370664  / 48.746413",
+  "longitude": "2.370664 ",
+  "latitude": "48.746413",
   "typologies": [
     "Mixed Use"
   ],
@@ -40,26 +42,26 @@
   "overview": "The Parcs en Scène project is a mixed-use masterplan and development located on a challenging site near Orly Airport in Paris. Selected following a competition as part of the “Inventons la Métropole” (or Inventing the Metropolis) initiative in 2017, the proposed masterplan is structured by a tracery of linear green fingers that follow the imprint of the disused rail lines that permeate the site, many of which have been re-appropriated by vegetation.\n\nIn Sector 1 where Rogers Stirk Harbour + Partners are the lead designers, the project includes 130,000 m² of mixed-use development principally made up of housing, hostels, hotels, student and sheltered accommodation as well as a school. In addition, a new digital hub that will include a 2500 seat e-sport arena will anchor the amenity offer on the site. This new auditorium flexibly accommodates events at a variety of scales to form a key part of a digital, virtual and creative industries cluster: Training and teaching spaces, rental accommodation for start-ups, a hotel, restaurants and retail, as well as a climbing wall and virtual reality arcade, are incorporated within this single building, strategically located on a key pedestrian route that connects the station at Pont de Rungis with the Belle Épine shopping centre. The “Scène Digitale” building also serves to signal the presence of the new quarter, bounding one edge of a new square that terminates the green axis that structures the masterplan.\n\n\nWith the extension of Line 14 of the Paris Metro and the construction of the Grand Paris Express line, the new neighbourhood will be exceptionally well connected by public transport, now only 20 minutes from central Paris. The design of the district favours walking and cycling, with vehicular traffic excluded from the large public space that constitutes the heart of the neighbourhood.\n\nCurrently occupied by dispersed warehouse buildings and extremely difficult to navigate on foot, the Parcs en Scène project at Thiais represents not only a challenge, but also a tremendous opportunity: The masterplan transforms a site formerly dominated by heavy infrastructure into a well-connected, permeable and intimate green district. Following an exploration of how urban and semi-urban lifestyles will evolve, the masterplan places an emphasis on the well-being of its residents, offering immediate access to a wide variety of public and private outdoor spaces. Large expanses of greenery permeate the neighbourhood, creating visual continuity throughout, as well as biodiversity. The new “habitats” that are proposed encourage participation and the shared use of communal space.\n\n\nThe masterplan seeks to deliver a coherent framework for the buildings that will emerge on the site. A common language and simple palette of materials is proposed, tying the neighbourhood together. However, each and every building is different in size, massing and proportion. Building heights vary across the site, generating transitions that offer a variety of situations according to setting, orientation and the relationship with open space. In this way, one finds diversity of experience across what is a development that is significant in scale. The buildings respond to the way the sun tracks across the neighbourhood, providing shade where needed whilst also optimizing daylight to both gardens and residents, shielding open space from the prevailing winds and, where required, screening the heart of the site the presence of the rail tracks and motorway that bound the site to the north and south.\n\n“Structured by a tracery of linear green fingers that follow the imprint of the disused rail lines that permeate the site, Parcs en Scène will be an open, green, liveable neighbourhood where once there was only warehousing and large infrastructure.”nbsp;- Stephen Barrett",
   "dimensions": [
     {
-      "elementId": "web:6AEuF3dNXEKqOkfmsvKDcg",
       "label": "Site Area",
-      "value": "300 000 m²"
+      "value": "300 000 m²",
+      "elementId": "be9f532947cb46cf9b4da9c4fc8170b0"
     }
   ],
   "companies": [
     {
-      "elementId": "web:6Ic1LP6jnk2BVyIjTKKHEA",
       "label": "Co-Architect",
-      "value": "Tolila+Gilliland"
+      "value": "Tolila+Gilliland",
+      "elementId": "84c988788f5b4d808859b56f4535aee2"
     },
     {
-      "elementId": "web:YiXuiRQl+k6yEd4hGZn9Bg",
       "label": "Landscape Architect",
-      "value": "BASELAND"
+      "value": "BASELAND",
+      "elementId": "5cf8293e28c048799bc29009f5c6529e"
     },
     {
-      "elementId": "web:nGZ1UCcu6EKBr1uUZPHzSQ",
       "label": "Planning Consultant",
-      "value": "Cultiver La Ville"
+      "value": "Cultiver La Ville",
+      "elementId": "b72f91a2e1af462dbd9144b559e5bf2d"
     }
   ]
 }

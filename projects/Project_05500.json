@@ -1,16 +1,18 @@
 {
   "type": "Project",
   "id": "05500",
-  "notes": "Not Published",
-  "serializeDate": "27th April 2022 16:29:18",
-  "serialized": 1651076958200,
-  "serializedBy": "Steve Reeve",
+  "url": "masterplanning/grand-paris",
+  "serializeDate": "'2022-06-19 14:25:58.293'",
+  "serialized": 1655648758293,
+  "serializedBy": "sreeve",
   "title": "Grand Paris",
   "description": "The practice was invited by the French President to study ‘Grand Paris’ looking at the future of the French capital as an integrated metropolitan region.",
   "date": "2008-2013",
   "client": "Ministry of Culture and Communication",
   "location": "Paris, France",
-  "longLat": "2.32114 / 48.86545",
+  "longLat": "2.32114  / 48.86545",
+  "longitude": "2.32114 ",
+  "latitude": "48.86545",
   "typologies": [
     "Masterplanning"
   ],
@@ -38,9 +40,11 @@
   "dimensions": [],
   "companies": [
     {
-      "elementId": "web:team",
       "label": "Team",
-      "value": "London School of Economics, Arup"
+      "value": "London School of Economics, Arup",
+      "elementId": "912927d7d3c646369541d13ce424175e"
     }
-  ]
+  ],
+  "awards": [],
+  "certificates": []
 }

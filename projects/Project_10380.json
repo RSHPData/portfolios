@@ -1,16 +1,18 @@
 {
   "type": "Project",
   "id": "10380",
-  "notes": "Not Published",
-  "serializeDate": "26th April 2022 17:33:25",
-  "serialized": 1650994405631,
-  "serializedBy": "Steve Reeve",
+  "url": "office/international-quarter-london",
+  "serializeDate": "'2022-06-19 14:26:25.904'",
+  "serialized": 1655648785904,
+  "serializedBy": "sreeve",
   "title": "International Quarter London",
   "description": "International Quarter London is a joint venture between Lend Lease and London Continental Railways to create a thriving business quarter at the heart of London’s newest metropolitan area, Stratford City, E20.",
   "date": "2014-ongoing",
   "client": "Lend Lease and London Continental Railways",
   "location": "London, UK",
-  "longLat": "-0.009296 / 51.541224",
+  "longLat": "-0.009296  / 51.541224",
+  "longitude": "-0.009296 ",
+  "latitude": "51.541224",
   "constructionCost": "£2.1 billion",
   "typologies": [
     "Office"
@@ -62,58 +64,59 @@
   "overview": "International Quarter London is a joint venture between Lend Lease and London Continental Railways to create a thriving business quarter at the heart of London’s newest metropolitan area, Stratford City, E20. As well as new homes and community facilities, International Quarter London provides approximately 4,000,000 ft² of work space along with retail and a hotel, creating 25,000 jobs.\n\nThe commercial space is spread across two sites, North and South, and designed around the core values of promoting health and wellbeing in the workplace. RSHP has created a masterplan for both sites, including a design framework that enables buildings of different sizes and configurations to be created using the same basic components. This ‘kit-of-parts’ approach provides overall design coherence whilst allowing scope for the development of individual building identities as well as flexibility to adapt to specific tenant requirements.\n\n\nAll commercial buildings offer activity and variety at lower levels to create a vibrant public realm, whilst higher levels read as a composition of large elements when seen from distance. Natural daylight, views, connectivity and open spaces are all key considerations in the masterplan, which also includes 32,000 ft² of shops and restaurants as well as 350 new homes together with community facilities.\n\nIn addition to the masterplan, RSHP is also responsible for the design of individual office buildings on site. Building S5, which will form the new home of the Financial Conduct Authority, provides 515,000 ft² net internal office space over 20 storeys of flexible, open plan floorplates. Each floor plate is between 20,000 and 30,000 ft², wrapped around a perimeter atrium and split into three-storey high ‘villages’. This arrangement maximises horizontal and vertical connectivity and creates a vibrant hub at the heart of the building.\n\n\nBuilding S6, into which TfL will move, is the smaller of the two buildings, rising to 11 storeys and providing 265,000 ft² net internal office spaces, designed using the same principle of large open floor plates and central atrium. The two buildings form the enclosure of a significant new public space to be known as International Square where retail and ancillary accommodation at ground level enliven the public realm.",
   "dimensions": [
     {
-      "elementId": "web:totalArea",
       "label": "Total Area",
-      "value": "371 000  m²"
+      "value": "371 000  m²",
+      "elementId": "beee7c8bd5be4c9f9dafb652c0d7e9da"
     },
     {
-      "elementId": "web:buildingS5",
       "label": "Building S5",
-      "value": "48 000  m² NIA"
+      "value": "48 000  m² NIA",
+      "elementId": "6d3bf9d500c843c58f71278c97c0414e"
     },
     {
-      "elementId": "web:buildingS6",
       "label": "Building S6",
-      "value": "24 619 m² NIA"
+      "value": "24 619 m² NIA",
+      "elementId": "4ea3f0d89e5d4b65abbc3b8ce0425999"
     }
   ],
   "companies": [
     {
-      "elementId": "web:structuralEngineer",
       "label": "Structural Engineer",
-      "value": "Arup / Ramboll"
+      "value": "Arup / Ramboll",
+      "elementId": "08f421f179334b029a0e6ded9f02e709"
     },
     {
-      "elementId": "web:servicesEngineer",
       "label": "Services Engineer",
-      "value": "Hoare Lea"
+      "value": "Hoare Lea",
+      "elementId": "d21784ab6656420a9284e8e4d24f35f9"
     },
     {
-      "elementId": "web:landscapeArchitect",
       "label": "Landscape Architect",
-      "value": "Gustafson Porter"
+      "value": "Gustafson Porter",
+      "elementId": "35831768e10b48e38e53c9154276c63f"
     },
     {
-      "elementId": "web:contractor",
       "label": "Contractor",
-      "value": "Lend Lease"
+      "value": "Lend Lease",
+      "elementId": "cd93b9b5819f45b3b1d20f655b1a9c1f"
     }
   ],
+  "awards": [],
   "certificates": [
     {
-      "rowId": "1",
       "authority": "BREEAM",
-      "rating": "Outstanding (S9)"
+      "rating": "Outstanding (S9)",
+      "rowId": "1"
     },
     {
-      "rowId": "2",
       "authority": "BREEAM",
-      "rating": "Excellent (S5)"
+      "rating": "Excellent (S5)",
+      "rowId": "2"
     },
     {
-      "rowId": "3",
       "authority": "BREEAM",
-      "rating": "Excellent (S6)"
+      "rating": "Excellent (S6)",
+      "rowId": "3"
     }
   ]
 }

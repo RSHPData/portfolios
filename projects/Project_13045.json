@@ -1,14 +1,15 @@
 {
   "type": "Project",
   "id": "13045",
-  "notes": "Not Published",
-  "serializeDate": "27th April 2022 10:30:01",
-  "serialized": 1651055401963,
-  "serializedBy": "Steve Reeve",
+  "serializeDate": "'2022-06-19 14:26:55.567'",
+  "serialized": 1655648815567,
+  "serializedBy": "sreeve",
   "title": "14A Konstitucijos Ave",
   "client": "Lords LB Asset Management",
   "location": "Vilnius",
-  "longLat": "0.00000 / 0.00000",
+  "longLat": "0.00000  / 0.00000",
+  "longitude": "0.00000 ",
+  "latitude": "0.00000",
   "typologies": [
     "Office"
   ],
@@ -27,9 +28,9 @@
   "dimensions": [],
   "companies": [
     {
-      "elementId": "deltek:consultant",
       "label": "Consultant",
-      "value": "Buro Happold"
+      "value": "Buro Happold",
+      "elementId": "deltek:consultant"
     }
   ]
 }

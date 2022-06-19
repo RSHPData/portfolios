@@ -1,16 +1,18 @@
 {
   "type": "Project",
   "id": "06360",
-  "notes": "Not Published",
-  "serializeDate": "26th April 2022 17:24:53",
-  "serialized": 1650993893572,
-  "serializedBy": "Steve Reeve",
+  "url": "transport/hong-kong-zhuhai-macao-bridge-hong-kong-port-passenger-clearance-building/",
+  "serializeDate": "'2022-06-19 14:26:09.943'",
+  "serialized": 1655648769943,
+  "serializedBy": "sreeve",
   "title": "Hong Kong-Zhuhai-Macao Bridge Hong Kong Port - Passenger Clearance Building",
   "description": "The Hong Kong-Zhuhai-Macao Bridge provides new strategic connections between Zhuhai, Macao and Hong Kong.",
   "date": "2010-2018",
   "client": "Highways Department Government",
   "location": "Hong Kong",
-  "longLat": "113.9543183 / 22.316883",
+  "longLat": "113.9543183  / 22.316883",
+  "longitude": "113.9543183 ",
+  "latitude": "22.316883",
   "typologies": [
     "Transport"
   ],
@@ -29,59 +31,67 @@
     "Andrew Tyley",
     "Lennart Grut"
   ],
+  "leaders": [],
   "overview": "The Hong Kong-Zhuhai-Macao Bridge provides new strategic connections between Zhuhai, Macao and Hong Kong. The bridge will foster the flow of people, goods, capital and information and improve the overall connectivity of the Greater Bay Area. The bridge improves transport connectivity within the Greater Bay Area, and greatly reduces travelling time between Hong Kong and other Greater Bay Area cities.\n\nThe PCB is built on a new 150-hectare artificial island reclaimed from the open waters to the north-east of Hong Kong International Airport (HKIA) and will benefit from the proximity to the HKIA’s transport links, including the SkyPier Ferry Terminal, and the MTR’s Airport Express and Tung Chung line. It is the new crossing point over the boundary between Hong Kong, Zhuhai and Macao and the facilities will serve as a gateway for all those passing through it. The building provides a unique opportunity to give Hong Kong an architectural ‘front door’ which celebrates travel, surrounded by water with views to a natural skyline of evergreen mountains and hills.\n\n\nThe PCB will be constantly filled with movement; buses arriving and leaving the public transport interchange, and visitors and residents waiting to gain immigration clearance completed. Careful thought has therefore been put into how users will move around the site. The simple, clear circulation through the facility and the undulating flow of surrounding waters is reinforced by the waveform roof, enhancing legibility and providing intuitive wayfinding. The movement through the building is punctuated with full height canyons allowing natural daylight to penetrate all levels of the building and ensuring there is a visual connection to the linear roof form to further reinforce clarity of wayfinding.\n\n\nThe elegant modular roof form ideally lent itself to offsite pre-fabrication and has enabled an efficient construction process achieving a very high level of quality. The project is environmentally friendly, aiming to meet the highest standards for new developments and utilise innovative green technologies. The building opened to the public on 24 October 2018.",
-  "concept": "The 98,570sq.m Passenger Clearance Building is built on a 150-hectare man-made island, reclaimed from the open waters to the north-east of the Hong Kong International Airport. The land was formerly part of the ocean at the coastline where the Chek Lap Kok Airport is situated. A ring was formed around the island to dredge up sand deposits from the bed to create the artificial island.\n\n\nThe site is located directly beneath the flight path and emergency flight descent zone into Hong Kong, which ultimately affected the height restrictions to which the building could rise.\n\nThe brief asked for a passenger terminal facility almost exactly like an airport, with arrivals, immigration and departure zones.\n\n\nPassengers from Hong Kong depart at the upper level, and arrivals from China come through at ground level, with a varying 6-7m height between the two levels. This development was required to support immigration functions, along with police support functions, in the form of offices which were to be located on the perimeter of the building.",
   "design": "The concepts of spiritualisation and nature are deeply embedded in the culture of Hong Kong and at the heart of the scheme is the symbolic nature of crossing a boundary. This is expressed by linear water pools which run through the inside and outside of the building and emulate the flow of travellers as they pass over water from one territory to another. The trees planted within these pools, and the full-height canyons that separate these areas of water, also echo the evergreen mountainous backdrop which forms the natural skyline, as well as offering a moment of tranquillity to pause and reflect.\n\nThe building is sheltered by a 300 metre-long, 200-metre wide wave-form roof; the structure of which is composed of steel-work with the building zoned into a series of structured bays, supported by a casting system with arms that hold up the structure and span 36m by 18m. The exterior material of this standing seam roof construction is composed of aluminium ribs within the roof covering, and the facades are all double-glazed, supported on a series of bow-string tresses that span 16m vertically between the floor and the roof. The roof lights filter natural light into the building, whilst keeping the heat of the sun out and enabling passengers to move through dappled natural sunlight and shadow. The water pools and landscape also bring travellers closer to nature whilst providing a psychological and physical source of cooling.\n\n\nThe iconic roof also reinforces the simple, clear circulation throughout the building and enhances legibility and wayfinding. The movement of the interior follows a flow of three processes: the first floorplate is the immigration section which is an entirely open, vast hall with manned counters and e-gates; a bridge crosses over one of the pools of water to the red and green customs areas which occupy the second floorplate - this idea of moving travellers over bridges was conceived with the intention to channel people into a more directed flow which can be easily observed at immigration stages. The next canyon over water leads to the main departure floors on the third floorplate which also houses retail, information, and direction to the coaches.\n\n\nThe Departure Hall is on the first floor, and the Arrival Hall is on the ground floor. These grand halls are visually connected by four imposing 200-metre-long voids with reflecting pools that further reinforce wayfinding as travellers move effortlessly through the procedures of Arrival, Immigration, Customs, and Departure. The movement through the building is punctuated by overhead spans and the canyons which allow the penetration of natural daylight to all levels of the building, ensuring that there is a visual connection to the linear roof form. This enables the building to serve as a new 'front door' to Hong Kong which celebrates travel and the beauty of the surrounding landscape.",
+  "concept": "The 98,570sq.m Passenger Clearance Building is built on a 150-hectare man-made island, reclaimed from the open waters to the north-east of the Hong Kong International Airport. The land was formerly part of the ocean at the coastline where the Chek Lap Kok Airport is situated. A ring was formed around the island to dredge up sand deposits from the bed to create the artificial island.\n\n\nThe site is located directly beneath the flight path and emergency flight descent zone into Hong Kong, which ultimately affected the height restrictions to which the building could rise.\n\nThe brief asked for a passenger terminal facility almost exactly like an airport, with arrivals, immigration and departure zones.\n\n\nPassengers from Hong Kong depart at the upper level, and arrivals from China come through at ground level, with a varying 6-7m height between the two levels. This development was required to support immigration functions, along with police support functions, in the form of offices which were to be located on the perimeter of the building.",
   "construction": "The modular structure of the roof lends itself to large-scale offsite prefabrication, as do the building, roads, and overall site construction. This enabled an efficient construction process and achieved a very high level of quality.\n\n\nThe roof was broken down into 90 pieces – 45 main roof shell pieces and 45 stitch pieces. 'Kalzip' - the aluminium roof and wall-cladding system; the anodized aluminium baffles and tree structure were all fabricated in Zhuhai and transported over by ship.\n\n\nA special dock was created on the side of the island and loaded onto a low –loader transport system. These were navigated around the island and jacked up onto the tops of the onsite columns by strand jack, a process which was time efficient: the entire roof was erected in just over nine months.",
   "dimensions": [
     {
-      "elementId": "web:area",
       "label": "Area",
-      "value": "98 570 m²"
+      "value": "98 570 m²",
+      "elementId": "ab6c19b89f114e02ad9b97d00061e4ad"
     }
   ],
   "companies": [
     {
-      "elementId": "web:co-architect",
       "label": "Co-Architect",
-      "value": "Aedas"
+      "value": "Aedas",
+      "elementId": "8891652d4760495eb0642a2ff0223341"
     },
     {
-      "elementId": "web:engineers",
       "label": "Engineers",
-      "value": "AECOM"
+      "value": "AECOM",
+      "elementId": "33b149fa61d744a99366e22d129fd695"
     }
   ],
   "awards": [
     {
-      "rowId": "1",
+      "date": "2020-01-01",
       "year": "2020",
-      "award": "Best Public Service Architecture Asia Pacific - International Property Awards"
+      "award": "Best Public Service Architecture Asia Pacific - International Property Awards",
+      "rowId": "f18aa010c2414f52a1511580ca9bafa6"
     },
     {
-      "rowId": "2",
+      "date": "2020-01-01",
       "year": "2020",
-      "award": "The Chicago Athenaeum International Architecture Award"
+      "award": "The Chicago Athenaeum International Architecture Award",
+      "rowId": "9971cd7f9af3481e95ab1bce947fb90b"
     },
     {
-      "rowId": "3",
+      "date": "2020-01-01",
       "year": "2020",
-      "award": "MIPIM Awards finalist - Best Industrial & Logistics Development"
+      "award": "MIPIM Awards finalist - Best Industrial & Logistics Development",
+      "rowId": "d55af333bf0748ddb097c6b7849ffb89"
     },
     {
-      "rowId": "4",
+      "date": "2020-01-01",
       "year": "2020",
-      "award": "HKIA Annual Awards - Merit Award in the Industrial/Transport/Utility category"
+      "award": "HKIA Annual Awards - Merit Award in the Industrial/Transport/Utility category",
+      "rowId": "ae1c519e6a184006870ca1bbd2abb764"
     },
     {
-      "rowId": "5",
+      "date": "2019-01-01",
       "year": "2019",
-      "award": "WAF Shortlist for Completed Buildings: Transport"
+      "award": "WAF Shortlist for Completed Buildings: Transport",
+      "rowId": "a8428f1a199a44f5b7b5957ea8aa0e9c"
     },
     {
-      "rowId": "6",
+      "date": "2019-01-01",
       "year": "2019",
-      "award": "Hong Kong Institution of Engineers Awards - Grand Award for Structural Excellence"
+      "award": "Hong Kong Institution of Engineers Awards - Grand Award for Structural Excellence",
+      "rowId": "5865eaf9f8d7462e9f58eb5b5f70863f"
     }
-  ]
+  ],
+  "certificates": []
 }

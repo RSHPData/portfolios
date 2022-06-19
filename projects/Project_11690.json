@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "11690",
   "url": "residential/marian-place-bethnal-green",
-  "serializeDate": "'2022-06-17 09:38:26.527'",
-  "serialized": 1655458706527,
+  "serializeDate": "'2022-06-19 14:26:45.03'",
+  "serialized": 1655648805003,
   "serializedBy": "sreeve",
   "title": "Marian Place Bethnal Green",
   "description": ".",
@@ -59,75 +59,69 @@
     "Graham Stirk"
   ],
   "heights": [
-    "Building A - 47.485m / 155.79ft",
-    "Building B - 32.625m / 107.021ft",
-    "Building C - 45.225m / 148.37ft",
-    "Building D - 38.925m / 127.70ft",
-    "Building E - 23.175m / 76.03ft"
+    "Building A - 47.485m / 155.79ft Building B - 32.625m / 107.021ft  Building C - 45.225m / 148.37ft  Building D - 38.925m / 127.70ft  Building E - 23.175m / 76.03ft"
   ],
   "floors": [
-    "6",
-    "13"
+    "6-13"
   ],
   "overview": "Marian Place Bethnal Green will celebrate the unique industrial character of a London gasholder site, providing 555 new private and affordable homes; new spaces for jobs, socialising and leisure, and 1.75 acres of public open space and landscaping - all of which will be framed by Regent’s Canal and identified by the retention of the two existing iconic gasholder frames.\n\nThe scheme comprises 5 faceted buildings ranging from 6 – 13 storeys, which, in addition to the high-quality new homes, will provide 4,182sqm of flexible non-residential floorspace.\n\n\nGasholders no.2 and no.5 will be dismantled, refurbished, and reinstated to create a strong architectural narrative driven by an understanding of the industrial heritage of the site.\n\nResidential apartments will benefit from uninterrupted views of the landscape, the existing gasholder frames, Regent’s Canal, and mid and long-distance views between and beyond neighbouring buildings. Separating accommodation into five buildings will maximise visual and pedestrian permeability through the site.\n\n\nThe scheme will unify the townscape condition and generate new cross-site links to join neighbouring areas. This physical reintegration of the site into the surrounding area will permit the site adjacencies to naturally grow as well as developing Regent’s Canal’s substantial frontage, making it publicly accessible.",
   "dimensions": [
     {
       "label": "Site Area",
       "value": "4.53 acres",
-      "elementId": "web:p/OkLavKu0CDUT+f0rDpeg"
+      "elementId": "e8968dd341144397869ed2a4833b7ff0"
     },
     {
       "label": "Net Residential Area",
       "value": "38,400m2 (net sellable area)<br>",
-      "elementId": "web:jvDEAd4R5USUe7Cj4QON2w"
+      "elementId": "11598f36e0ea4b1e86cac214916bb607"
     }
   ],
   "companies": [
     {
       "label": "Structural Engineer",
       "value": "WSP",
-      "elementId": "web:5n0z3SzXj02lmOVDpC+6nw"
+      "elementId": "b313e2a5afdc4a6186e9bbad56df751d"
     },
     {
       "label": "MEP",
       "value": "WSP",
-      "elementId": "web:d7+bYTDnX02rr4pqCgKA4A"
+      "elementId": "49e22a931eb84ed5afa1b669e0cb1f8f"
     },
     {
       "label": "Planning Consultant",
       "value": "Montagu Evans",
-      "elementId": "web:yL3lZIaY7UKMwgD430WogQ"
+      "elementId": "fcd9531a87f64d2783f5a6dd6b18cb52"
     },
     {
       "label": "Ecology Consultant",
       "value": "Ecology Solutions",
-      "elementId": "web:zPLgbnfrK0qRvRWp8xfdVQ"
+      "elementId": "78ff4345d95e43308262a42bba33cb6b"
     },
     {
       "label": "Transport Consultant",
       "value": "TPP",
-      "elementId": "web:TW2ui5z4d0uMWQlKt2zkTQ"
+      "elementId": "9284985385b84b3a87e026c160f24082"
     },
     {
       "label": "Engineering Consultant",
       "value": "WSP",
-      "elementId": "web:ya2JQMxuD0GSs/KFDUB6fw"
+      "elementId": "67d3d7162ab347329467870983f022a4"
     },
     {
       "label": "Right to Light Consultant",
       "value": "Point 2",
-      "elementId": "web:5RxbVhXQWE6hvWP0pjiBSg"
+      "elementId": "ab0baf5de16e4e0791fdc2b2a85eddaa"
     },
     {
       "label": "Landscape Architect",
       "value": "Gillespies",
-      "elementId": "web:kLbrev3x80ir8gfZNGpKmw"
+      "elementId": "7c4a0b72be83412083a150616149f4c4"
     },
     {
       "label": "Architecture and Heritage consultant",
       "value": "Tavernor Consultancy",
-      "elementId": "web:f+X1tmIZ806iz9cUceXqPg"
+      "elementId": "72754bb7ee9846e2aae69d35c96a9a90"
     }
-  ],
-  "awards": []
+  ]
 }
