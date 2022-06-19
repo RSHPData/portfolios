@@ -1,16 +1,18 @@
 {
   "type": "Project",
   "id": "03370",
-  "notes": "Not Published",
-  "serializeDate": "26th April 2022 16:52:42",
-  "serialized": 1650991962778,
-  "serializedBy": "Steve Reeve",
+  "url": "masterplanning/silvertown-docks",
+  "serializeDate": "'2022-06-19 14:25:29.601'",
+  "serialized": 1655648729601,
+  "serializedBy": "sreeve",
   "title": "Silvertown Docks",
   "description": "This masterplan is based on key principles set out in ‘Towards an Urban Renaissance’, the report published by the Urban Task Force.",
   "date": "2001",
   "client": "Capital & Provident Regeneration Ltd",
   "location": "London, UK",
-  "longLat": "0.0277766 / 51.5042426",
+  "longLat": "0.0277766  / 51.5042426",
+  "longitude": "0.0277766 ",
+  "latitude": "51.5042426",
   "typologies": [
     "Masterplanning"
   ],
@@ -55,34 +57,36 @@
   "dimensions": [],
   "companies": [
     {
-      "elementId": "web:projectManager",
       "label": "Project Management",
-      "value": "George Wimpey plc"
+      "value": "George Wimpey plc",
+      "elementId": "ec4e933a63704a309b741313022bf11b"
     },
     {
-      "elementId": "web:leadDeveloper",
       "label": "Lead Developer",
-      "value": "George Wimpey plc/ Countryside Properties plc/Capital and Provident Regeneration Ltd"
+      "value": "George Wimpey plc/ Countryside Properties plc/Capital and Provident Regeneration Ltd",
+      "elementId": "463e6d5b262c42bfa3fb62a2b9613163"
     },
     {
-      "elementId": "web:costConsultant",
       "label": "Cost Consultant",
-      "value": "Martin Associates"
+      "value": "Martin Associates",
+      "elementId": "d4f21be8c64d4bdfbc9a46c54623e6d3"
     },
     {
-      "elementId": "web:engineeringConsultant",
       "label": "Engineering Consultant",
-      "value": "WSP Group plc"
+      "value": "WSP Group plc",
+      "elementId": "f04cd91f2a6848afa722411552edb05e"
     },
     {
-      "elementId": "web:infrastructureConsultant",
       "label": "Infrastructure Consultant",
-      "value": "WSP Group plc"
+      "value": "WSP Group plc",
+      "elementId": "4d4ad425299441e79bf762326016b4a5"
     },
     {
-      "elementId": "web:environmentalConsultant",
       "label": "Environmental Engineering",
-      "value": "Richard Hodkinson Consultancy"
+      "value": "Richard Hodkinson Consultancy",
+      "elementId": "137223a9ac0f45359f6834cb93d4b7c7"
     }
-  ]
+  ],
+  "awards": [],
+  "certificates": []
 }

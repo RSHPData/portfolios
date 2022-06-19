@@ -1,16 +1,18 @@
 {
   "type": "Project",
   "id": "00512",
-  "notes": "Not Published",
-  "serializeDate": "26th April 2022 16:15:30",
-  "serialized": 1650989730328,
-  "serializedBy": "Steve Reeve",
+  "url": "civic/tokyo-forum/",
+  "serializeDate": "'2022-06-19 14:24:56.930'",
+  "serialized": 1655648696930,
+  "serializedBy": "sreeve",
   "title": "Tokyo Forum",
   "description": "The Tokyo Forum competition entry produced ‘an urban people’s meeting place’ which could have been one of the practice’s greatest buildings.",
   "date": "1990",
   "client": "Mitsubishi Estate Co., Ltd",
   "location": "Tokyo, Japan",
-  "longLat": "139.764284 / 35.676721",
+  "longLat": "139.764284  / 35.676721",
+  "longitude": "139.764284 ",
+  "latitude": "35.676721",
   "typologies": [
     "Civic"
   ],
@@ -36,23 +38,26 @@
   "partners": [
     "Graham Stirk"
   ],
+  "leaders": [],
   "overview": "The Tokyo Forum competition entry produced ‘an urban people’s meeting place’ which could have been one of the practice’s greatest buildings. The competition called for a huge cultural and conference centre, with auditoria and exhibition space in the commercial heart of Tokyo, close to the Imperial Palace.\n\nThe proposal aimed to distill a complex brief within a simple enclosure. The controlled, introverted environment typically required for auditoria was placed within three great airborne, flexible containers – shining steel shells providing super-graphic legibility to the served spaces. The sculpted ground mass provides the forum for a vibrant public realm made up of three linked piazzas, partially sheltered by the overhead auditoria, which accommodate exhibition spaces, cafés, restaurants, information centres, studios and shops in one animated, continuous urban landscape. Great glazed escalators take people through the open space between the piazzas and up to the suspended auditoria and roof-level gardens. The entire scheme was conceived as a continuous public realm through which people could move horizontally, vertically and diagonally.\n\n\nThe practice wanted to recapture the spirit of the Centre Pompidou, but with a new radicalism of expression and sheer structural daring, appropriate to the dynamic life of Tokyo. The very concept of a ‘building’ is challenged. The main spaces are suspended in a huge steel frame, like giant pieces of sculpture (the largest auditorium could accommodate up to 10,000 people), with services and means of circulation slotted between them. The space underneath is a focus for public life, a precious commodity in a famously crowded city.",
   "dimensions": [],
   "companies": [
     {
-      "elementId": "web:structuralEngineer",
       "label": "Structural Engineer",
-      "value": "Ove Arup & Partners"
+      "value": "Ove Arup & Partners",
+      "elementId": "30ce2eb8c83244eca088c82bc13df747"
     },
     {
-      "elementId": "web:servicesEngineer",
       "label": "Services Engineer",
-      "value": "Ove Arup & Partners"
+      "value": "Ove Arup & Partners",
+      "elementId": "1160d9602e2849ecaca1fb24ac8d353f"
     },
     {
-      "elementId": "web:acousticConsultant",
       "label": "Acoustic Consultant",
-      "value": "Arup Acoustic"
+      "value": "Arup Acoustic",
+      "elementId": "2e9aac31ffca4785b4d8ee81970b994f"
     }
-  ]
+  ],
+  "awards": [],
+  "certificates": []
 }

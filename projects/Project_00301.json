@@ -1,16 +1,18 @@
 {
   "type": "Project",
   "id": "00301",
-  "notes": "Not Published",
-  "serializeDate": "4th May 2022 16:15:54",
-  "serialized": 1651680954250,
-  "serializedBy": "Steve Reeve",
+  "url": "masterplanning/arno-masterplan",
+  "serializeDate": "'2022-06-19 14:24:47.129'",
+  "serialized": 1655648687129,
+  "serializedBy": "sreeve",
   "title": "Arno Masterplan",
   "description": "Commissioned by the City of Florence to suggest how street life in Florence could be improved, the practice’s strategic study focused on the banks of the River Arno.",
   "date": "1983-1984",
   "client": "Council of the City of Florence",
   "location": "Florence, Italy",
-  "longLat": "11.25198 / 43.76894",
+  "longLat": "11.25198  / 43.76894",
+  "longitude": "11.25198 ",
+  "latitude": "43.76894",
   "typologies": [
     "Masterplanning"
   ],
@@ -24,23 +26,26 @@
     "Mike Davies",
     "Andrew Morris"
   ],
+  "leaders": [],
   "overview": "Commissioned by the City of Florence to suggest how street life in Florence could be improved, the practice’s strategic study focused on the banks of the River Arno.\n\nCut off from city life by busy roads and anti-flood barricades, the river was increasingly used as a rubbish dump rather than a vibrant extension of the public realm.\n\nThis study proposed to revive the neglected river banks by creating an eight kilometre pedestrian promenade on one bank and a green park on the other, the promenade or passeggiata extending out into the suburbs and linking two existing parks. The new linear park was intended to complement and enhance existing public spaces, bringing people into closer contact with the River. The idea of using green linear spaces to extend and consolidate the public realm is key to many of the practice’s urban strategies, notably in London, Berlin and Shanghai.\n\n\nIn addition to making use of existing stairs (once used to board riverboats), a range of new structures was proposed, mostly lightweight and designed not to challenge the dominance of Florence’s historic buildings. At intervals along the river-walk, the practice proposed a sequence of small piers or pontoons to bring people closer to the water. The scheme also acknowledged that for a few critical weeks each year the river is in fl ood. The pedestrian bridge designed by Peter Rice could resist the fl ood waters by pivoting, lying at the bottom of the river bed rather than acting as a barrier to the fast fl owing water. This ability to identify an alternative strategy – turning a potential liability into an asset – is a characteristic of the practice’s problemsolving approach.\n\nWhile still unexecuted, this study provided the basis for Rogers’ famous proposals – presented at the ‘London as it could be’ exhibition in 1986 – for the development of the banks of the River Thames.",
   "dimensions": [],
   "companies": [
     {
-      "elementId": "web:co-architect",
       "label": "Co-Architect",
-      "value": "Claudio Cantanella"
+      "value": "Claudio Cantanella",
+      "elementId": "d4cf2d7556d049d7bd3851020c0de180"
     },
     {
-      "elementId": "web:structuralEngineer",
       "label": "Structural Engineer",
-      "value": "Peter Rice"
+      "value": "Peter Rice",
+      "elementId": "75fab96ed2a14ec682660711eb2e7ab8"
     },
     {
-      "elementId": "web:hydraulicEngineer",
       "label": "Hydraulic Engineer",
-      "value": "Enrico Bougleux"
+      "value": "Enrico Bougleux",
+      "elementId": "a92a188d820d4e67aa9e867b02d91204"
     }
-  ]
+  ],
+  "awards": [],
+  "certificates": []
 }

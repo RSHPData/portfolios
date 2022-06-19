@@ -1,16 +1,18 @@
 {
   "type": "Project",
   "id": "03740",
-  "notes": "Not Published",
-  "serializeDate": "26th April 2022 16:55:26",
-  "serialized": 1650992126236,
-  "serializedBy": "Steve Reeve",
+  "url": "masterplanning/almada-eastern-riverside",
+  "serializeDate": "'2022-06-19 14:25:37.070'",
+  "serialized": 1655648737070,
+  "serializedBy": "sreeve",
   "title": "Almada Eastern Riverside",
   "description": "Rogers Stirk Harbour + Partners was commissioned to devise a masterplan for a 115-hectare site encompassing extensive former dockyards and a part of Almada’s conurbation along a two-kilometre stretch of river frontage.",
   "date": "2002-2010",
   "client": "Municipal de Almada",
   "location": "Almada, Portugal",
-  "longLat": "-9.145054 / 38.684582",
+  "longLat": "-9.145054  / 38.684582",
+  "longitude": "-9.145054 ",
+  "latitude": "38.684582",
   "typologies": [
     "Masterplanning"
   ],
@@ -22,39 +24,42 @@
   "partners": [
     "Lennart Grut"
   ],
+  "leaders": [],
   "overview": "Rogers Stirk Harbour + Partners (RSHP) was commissioned to devise a masterplan for a 115-hectare site encompassing extensive former dockyards and a part of Almada’s conurbation along a two-kilometre stretch of river frontage. The location is an outstanding topographic feature of the Tagus Estuary, important in terms of geography, history, economy and environment. The historic centre of Lisbon lies to the north of the site across the estuary, while to the south is an extensive nature reserve.\n\n\nThe masterplan envisages an employment-led mix of uses, leisure and cultural activities while retaining a large allocation of residential use. Densities ranging from 800,000m² to 1.5 million m² are planned, depending on the implementation of the proposed Metro link to Lisbon.\n\n\nThe masterplan’s initial phase focuses on a transport strategy for the Almada area to reduce dependence on the car. This includes extending the proposed MST (tram), a Metro link from Lisbon, the expansion of an existing ferry terminal, and the creation of a river taxi service – strengthening existing connections with Lisbon and with the eastern Seixal area.",
   "dimensions": [
     {
-      "elementId": "web:area",
       "label": "Area",
-      "value": "115 hectares"
+      "value": "115 hectares",
+      "elementId": "01aab998f3ba45769b14cb5621d99aaf"
     }
   ],
   "companies": [
     {
-      "elementId": "web:co-architect",
       "label": "Co-Architect",
-      "value": "Santa-Rita Arquitectos LDA"
+      "value": "Santa-Rita Arquitectos LDA",
+      "elementId": "f16eab94459841ec9eb6582cd4ca50a6"
     },
     {
-      "elementId": "web:structuralEngineer",
       "label": "Structural Engineer",
-      "value": "WS Atkins"
+      "value": "WS Atkins",
+      "elementId": "a4dec3bd18fb4c509327f178c83b0336"
     },
     {
-      "elementId": "web:servicesEngineer",
       "label": "Services Engineer",
-      "value": "WS Atkins"
+      "value": "WS Atkins",
+      "elementId": "5a52247e7e3d4473a37613cb8787fb14"
     },
     {
-      "elementId": "web:quantitySurveyor",
       "label": "Quantity Surveyor",
-      "value": "WS Atkins"
+      "value": "WS Atkins",
+      "elementId": "b9795c3861f148ae8b276cdfe849cfb5"
     },
     {
-      "elementId": "web:landscapeArchitect",
       "label": "Landscape Architect",
-      "value": "WS Atkins"
+      "value": "WS Atkins",
+      "elementId": "ff6117cfdc40487cafa5c4120ff16bf7"
     }
-  ]
+  ],
+  "awards": [],
+  "certificates": []
 }

@@ -1,16 +1,18 @@
 {
   "type": "Project",
   "id": "00376",
-  "notes": "Not Published",
-  "serializeDate": "26th April 2022 16:14:40",
-  "serialized": 1650989680599,
-  "serializedBy": "Steve Reeve",
+  "url": "residential/rogers-house",
+  "serializeDate": "'2022-06-19 14:24:54.533'",
+  "serialized": 1655648694533,
+  "serializedBy": "sreeve",
   "title": "Rogers House",
   "description": "The house, commissioned by Richard Rogers’ parents, sits within a long and narrow wooded urban plot, opposite Wimbledon Common in South West London and adjoining a major road.",
   "date": "1968-1969",
   "client": "Dr and Mrs Rogers",
   "location": "London, UK",
-  "longLat": "-0.222387 / 51.427203",
+  "longLat": "-0.222387  / 51.427203",
+  "longitude": "-0.222387 ",
+  "latitude": "51.427203",
   "typologies": [
     "Residential"
   ],
@@ -27,46 +29,49 @@
     "Richard Rogers",
     "Su Rogers"
   ],
+  "leaders": [],
   "overview": "The house, commissioned by Richard Rogers’ parents, sits within a long and narrow wooded urban plot, opposite Wimbledon Common in South West London and adjoining a major road. It is designed to provide maximum privacy and seclusion, and consists of two separate elements facing on to an internal garden courtyard. The small unit houses the separate flat and pottery studio and acts as a sound barrier between the house and the road. Rogers describes the house as ‘a transparent tube with solid boundary walls’.\n\n\nThe steel structure is brought inside the skin to eliminate maintenance and to simplify junctions between structure and skin. Eight welded clear-span rigid portals fabricated in standard steel sections permit maximum demountability and the re-use of the enclosing envelope and internal partitions. Walls are composite panels of plastic-coated aluminium inner skins with foam plastic core and neoprene jointing system. Flexibility was a high priority and most internal partitions are moveable. Maximum sized, double-glazed, sealed units in painted steel frames have been used and glazed roofs, neoprene zipped and solar reflecting, enclose the bathrooms.\n\n\nThe house was Grade 2* listed in 2013, putting it in the top 8% of all listed buildings in England.",
   "dimensions": [
     {
-      "elementId": "web:grossFloorArea",
       "label": "Gross Floor Area",
-      "value": "257 m²"
+      "value": "257 m²",
+      "elementId": "674b3c1bffd84ca8a34c54877afa0707"
     }
   ],
   "companies": [
     {
-      "elementId": "web:projectArchitect",
       "label": "Project Architect",
-      "value": "Richard + Su Rogers"
+      "value": "Richard + Su Rogers",
+      "elementId": "7582dc5dc55e4f29b36d0af745520a92"
     },
     {
-      "elementId": "web:structuralEngineer",
       "label": "Structural Engineer",
-      "value": "Anthony Hunt Associates"
+      "value": "Anthony Hunt Associates",
+      "elementId": "04083baad43b472888f178843d262e4d"
     },
     {
-      "elementId": "web:servicesEngineer",
       "label": "Services Engineer",
-      "value": "H Bressloff Associates"
+      "value": "H Bressloff Associates",
+      "elementId": "9140f6347289488b85f5aec7d539e984"
     },
     {
-      "elementId": "web:quantitySurveyor",
       "label": "Quantity Surveyor",
-      "value": "GA Hanscomb Partnership"
+      "value": "GA Hanscomb Partnership",
+      "elementId": "9fe6b86842074f8ca7cf7c157fca999d"
     },
     {
-      "elementId": "web:landscapeArchitect",
       "label": "Landscape Architect",
-      "value": "Landscape Design Partnership"
+      "value": "Landscape Design Partnership",
+      "elementId": "bac5023bb73c42749696f8d91ecdd445"
     }
   ],
   "awards": [
     {
-      "rowId": "1",
+      "date": "1967-01-01",
       "year": "1967",
-      "award": "Represented British Architecture at Paris Biennale"
+      "award": "Represented British Architecture at Paris Biennale",
+      "rowId": "85534e03f1de4b40902756039a65d6af"
     }
-  ]
+  ],
+  "certificates": []
 }

@@ -1,16 +1,18 @@
 {
   "type": "Project",
   "id": "02900",
-  "notes": "Not Published",
-  "serializeDate": "27th April 2022 14:13:17",
-  "serialized": 1651068797878,
-  "serializedBy": "Steve Reeve",
+  "url": "office/paddington-waterside",
+  "serializeDate": "'2022-06-19 14:25:25.291'",
+  "serialized": 1655648725291,
+  "serializedBy": "sreeve",
   "title": "Paddington Waterside",
   "description": "This project is located within the masterplan for the Paddington Basin. Adjacent to Paddington Station it offers a revitalised, mixed commercial, residential and retail environment.",
   "date": "1999-2003",
   "client": "Chelsfield plc",
   "location": "London, UK",
-  "longLat": "-0.174832 / 51.518624",
+  "longLat": "-0.174832  / 51.518624",
+  "longitude": "-0.174832 ",
+  "latitude": "51.518624",
   "constructionCost": "£56,000,000",
   "typologies": [
     "Office"
@@ -36,76 +38,76 @@
   "overview": "This project is located within the masterplan for the Paddington Basin. Adjacent to Paddington Station it offers a revitalised, mixed commercial, residential and retail environment. Waterside, the corporate headquarters for Marks  Spencer, comprises 13 levels of accommodation. Large triangular floor plates provide good levels of daylight and views along the canal.\n\n\nThe building comprises served space – the main occupied floor plates – and servant spaces providing essential support allowing the office floors to function. These elements are distinctly expressed in the form of the building. Two full-height atria with circulation bridges facilitate daylight penetration and create a secondary aspect to the north of the site.\n\n\nThe secondary service elements are distinctly expressed in corner service towers, lending emphasis to the canal edge and to the main entrances from North Wharf Road. The principal circulation towers contain the main passenger lifts and give a strong dynamic identity to the development.",
   "dimensions": [
     {
-      "elementId": "web:siteArea",
       "label": "Site Area",
-      "value": "7 000 m²"
+      "value": "7 000 m²",
+      "elementId": "d9ccd4f0f8554c4096c400a657d23c57"
     },
     {
-      "elementId": "web:grossFloorArea",
       "label": "Gross Floor Area",
-      "value": "33 968 m²"
+      "value": "33 968 m²",
+      "elementId": "b8def857003641e1b41aa21a00baa83a"
     }
   ],
   "companies": [
     {
-      "elementId": "web:structuralEngineer",
       "label": "Structural Engineer",
-      "value": "Arup"
+      "value": "Arup",
+      "elementId": "ee4edb5792c243ecb64a43763f61cb38"
     },
     {
-      "elementId": "web:servicesEngineer",
       "label": "Services Engineer",
-      "value": "Arup"
+      "value": "Arup",
+      "elementId": "daacca07a5bc4ab28caba2192edbff5b"
     },
     {
-      "elementId": "web:quantitySurveyor",
       "label": "Quantity Surveyor",
-      "value": "Gardiner & Theobold"
+      "value": "Gardiner & Theobold",
+      "elementId": "4220bc3ccc414ff8825c8a19ea56e63a"
     },
     {
-      "elementId": "web:projectManager",
       "label": "Project Manager",
-      "value": "Mace"
+      "value": "Mace",
+      "elementId": "0ea88578f96d46be80d78727da84d26c"
     },
     {
-      "elementId": "web:lightingConsultant",
       "label": "Lighting Consultant",
-      "value": "Arup"
+      "value": "Arup",
+      "elementId": "120850e0836f41768b3567dcc4dc484f"
     },
     {
-      "elementId": "web:landscapeArchitect",
       "label": "Landscape Architect",
-      "value": "Gillespies"
+      "value": "Gillespies",
+      "elementId": "b0bae324094d4c3ab4e2b58ace3dfa06"
     },
     {
-      "elementId": "web:contractor",
       "label": "Contractor",
-      "value": "Carillion plc"
+      "value": "Carillion plc",
+      "elementId": "52b6886f121544f59ed7bf47d5ee2ee7"
     },
     {
-      "elementId": "web:planningConsultant",
       "label": "Planning Consultant",
-      "value": "Montagu Evans"
+      "value": "Montagu Evans",
+      "elementId": "9767545c616c47df84729f5937635116"
     },
     {
-      "elementId": "web:acousticConsultant",
       "label": "Acoustic Consultant",
-      "value": "Bickerdike Allen Partners"
+      "value": "Bickerdike Allen Partners",
+      "elementId": "4f09cde842534bbfa3180f810574cd30"
     },
     {
-      "elementId": "web:civilEngineer",
       "label": "Civil Engineer",
-      "value": "Halcrow Fox"
+      "value": "Halcrow Fox",
+      "elementId": "a182532643414317aaa88f577e9e0e41"
     },
     {
-      "elementId": "web:claddingConsultant",
       "label": "Cladding Consultant",
-      "value": "Bickerdike Allen Partners"
+      "value": "Bickerdike Allen Partners",
+      "elementId": "5546ce9ef9f246fa90287fd40f41a26b"
     },
     {
-      "elementId": "web:liftConsultant",
       "label": "Lift Consultant",
-      "value": "Arup"
+      "value": "Arup",
+      "elementId": "d5431724660f48a4b7285cc40a4a68a0"
     }
   ]
 }

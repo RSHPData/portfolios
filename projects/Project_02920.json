@@ -1,16 +1,18 @@
 {
   "type": "Project",
   "id": "02920",
-  "notes": "Not Published",
-  "serializeDate": "27th April 2022 14:14:09",
-  "serialized": 1651068849541,
-  "serializedBy": "Steve Reeve",
+  "url": "civic/rome-congress-centre",
+  "serializeDate": "'2022-06-19 14:25:25.940'",
+  "serialized": 1655648725940,
+  "serializedBy": "sreeve",
   "title": "Rome Congress Centre",
   "description": "This competition scheme was designed for a site in the EUR district of Rome, an area planned in the 1930s as a demonstration of the monumental formalism that characterised fascist urbanism.",
   "date": "1999",
   "client": "Rome Council",
   "location": "Rome, Italy",
-  "longLat": "12.326672 / 41.806287",
+  "longLat": "12.326672  / 41.806287",
+  "longitude": "12.326672 ",
+  "latitude": "41.806287",
   "typologies": [
     "Civic"
   ],
@@ -38,31 +40,31 @@
   "overview": "This competition scheme was designed for a site in the EUR district of Rome, an area planned in the 1930s as a demonstration of the monumental formalism that characterised fascist urbanism.\n\nThe scheme sets the main congress and exhibition areas in a cantilevered roof space, supported by central columns and surrounded by service towers. A wide public terrace runs around the edge of the roof, optimising views across the Rome skyline.\n\n\nBeneath the great over-sailing, timber-clad roof is a second building for offices, ticketing, restaurants, parking, shops and a hotel, its roof forming a wedge-shaped ramp of public space.\n\nThe public nature of the building is emphasised by the provision of a partially enclosed 2,000-seat amphitheatre within the lower building, alongside which runs a new pedestrian route, linking the Enrico Termi station with the existing Palazzo dei Congressi. Further shops are placed alongside this route, and around the edge of the building, to ensure an open relationship with the public domain.",
   "dimensions": [
     {
-      "elementId": "web:grossFloorArea",
       "label": "Gross Floor Area",
-      "value": "27 000 m²"
+      "value": "27 000 m²",
+      "elementId": "f8fb00b590f74d54b3f30f85e9fdf8b5"
     }
   ],
   "companies": [
     {
-      "elementId": "web:structuralEngineer",
       "label": "Structural Engineer",
-      "value": "Arup"
+      "value": "Arup",
+      "elementId": "12c555824b064d1a918be0d1701eb77d"
     },
     {
-      "elementId": "web:servicesEngineer",
       "label": "Services Engineer",
-      "value": "Arup"
+      "value": "Arup",
+      "elementId": "e3ee520d8f0649d09e086f9ef27dc936"
     },
     {
-      "elementId": "web:quantitySurveyor",
       "label": "Quantity Surveyor",
-      "value": "Hanscomb Ltd"
+      "value": "Hanscomb Ltd",
+      "elementId": "5227cdcecaec41ab93990d33455233c4"
     },
     {
-      "elementId": "web:trafficConsultant",
       "label": "Traffic Consultant",
-      "value": "Arup Transportation"
+      "value": "Arup Transportation",
+      "elementId": "8cd69d255c6f483aae44248178a50708"
     }
   ]
 }

@@ -1,16 +1,18 @@
 {
   "type": "Project",
   "id": "00509",
-  "notes": "Not Published",
-  "serializeDate": "26th April 2022 16:15:16",
-  "serialized": 1650989716400,
-  "serializedBy": "Steve Reeve",
+  "url": "office/kabuki-cho-tower",
+  "serializeDate": "'2022-06-19 14:24:56.208'",
+  "serialized": 1655648696208,
+  "serializedBy": "sreeve",
   "title": "Kabuki-Cho Tower",
   "description": "The Kabuki-cho project provides a vivid example of a response to a very specific urban context – an area of small-scale streets close to Shinjuku commercial district.",
   "date": "1987-1993",
   "client": "K-One Corporation",
   "location": "Tokyo, Japan",
-  "longLat": "139.706405 / 35.695148",
+  "longLat": "139.706405  / 35.695148",
+  "longitude": "139.706405 ",
+  "latitude": "35.695148",
   "constructionCost": "1.9 Billion Yen",
   "typologies": [
     "Office"
@@ -30,46 +32,46 @@
   "leaders": [
     "Ben Warner"
   ],
+  "floors": [
+    "12"
+  ],
   "overview": "The Kabuki-cho project provides a vivid example of a response to a very specific urban context – an area of small-scale streets close to Shinjuku commercial district. The site is extremely constrained, with daylight a precious commodity in the narrow road onto which the building fronts. Although the building is small in scale, great attention was paid to the detailing of the facade, using repetitive functional elements to define the lightweight language of the building.\n\n\nThe final scheme (after the abandonment of initial plans for a hotel) was a twelve-storey office building (two floors below ground level), its main floors canted out over a void which is infilled with a dramatic glazed roof, lighting a public basement area which contains restaurants and bars. The roof is hung off the main structure. The frame, engineered in line with local fire safety and seismic protection regulations, is a composite structure of steel and concrete. As usual, lift, stairs and other services are concentrated in a strongly modelled tower, which terminates in a viewing platform above a penthouse apartment.\n\n\nKabuki-cho demonstrates the influence of early Japanese architecture, with its elegance, translucent light and flexibility. The project is a specific response to the character of Tokyo – far more varied and intimate than is generally imagined. RRP’s technology-rooted architecture turns out to be remarkably in tune with traditional Japanese streets.",
   "dimensions": [
     {
-      "elementId": "XLA0uo9bikCZClyA6d8vjQ",
-      "label": "Floors",
-      "value": "12"
-    },
-    {
-      "elementId": "web:grossFloorArea",
       "label": "Gross Floor Area",
-      "value": "1 757 m²"
+      "value": "1 757 m²",
+      "elementId": "e0a3554b2ab448ab9e64dcae67cda064"
     }
   ],
   "companies": [
     {
-      "elementId": "web:co-architect",
       "label": "Co-Architect",
-      "value": "Architect 5"
+      "value": "Architect 5",
+      "elementId": "236dda117d1946b68336e18a2fa0acca"
     },
     {
-      "elementId": "web:structuralEngineer",
       "label": "Structural Engineer",
-      "value": "Umezawa Design Office"
+      "value": "Umezawa Design Office",
+      "elementId": "d3d75cae3cbd4ddea86630065febba3f"
     },
     {
-      "elementId": "web:servicesEngineer",
       "label": "Services Engineer",
-      "value": "ES Associates"
+      "value": "ES Associates",
+      "elementId": "d752a8d252af4652bc809efa89db62a5"
     },
     {
-      "elementId": "web:contractor",
       "label": "Contractor",
-      "value": "Kawada Industries Inc"
+      "value": "Kawada Industries Inc",
+      "elementId": "68847ce97c2f4391ab0f6d5aafc56f24"
     }
   ],
   "awards": [
     {
-      "rowId": "1",
+      "date": "1983-01-01",
       "year": "1983",
-      "award": "RIBA International Award"
+      "award": "RIBA International Award",
+      "rowId": "2654a0f11549417787720f47bf20e385"
     }
-  ]
+  ],
+  "certificates": []
 }

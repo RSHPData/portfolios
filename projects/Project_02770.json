@@ -1,16 +1,18 @@
 {
   "type": "Project",
   "id": "02770",
-  "notes": "Not Published",
-  "serializeDate": "27th April 2022 14:11:13",
-  "serialized": 1651068673960,
-  "serializedBy": "Steve Reeve",
+  "url": "health-and-science/amano-research-laboratories",
+  "serializeDate": "'2022-06-19 14:25:22.955'",
+  "serialized": 1655648722955,
+  "serializedBy": "sreeve",
   "title": "Amano Research Laboratories",
   "description": "In 1997, Richard Rogers Partnership and co-architects Kisho Kurokawa & Associates were approached by Amano Pharmaceutical to design a low budget building at Kakamigahara City, Gifu, to accommodate the company’s enzyme research group.",
   "date": "1996-1999",
   "client": "Amano Enzyme Inc.",
   "location": "Gifu, Japan",
-  "longLat": "136.890461 / 35.426176",
+  "longLat": "136.890461  / 35.426176",
+  "longitude": "136.890461 ",
+  "latitude": "35.426176",
   "typologies": [
     "Health & Science"
   ],
@@ -32,29 +34,29 @@
   "dimensions": [],
   "companies": [
     {
-      "elementId": "web:co-architect",
       "label": "Co-Architect",
-      "value": "Kisho Kurokawa & Associates"
+      "value": "Kisho Kurokawa & Associates",
+      "elementId": "95e6ab6f2a6a4c40bf7191211227460f"
     },
     {
-      "elementId": "web:structuralEngineer",
       "label": "Structural Engineer",
-      "value": "Umezawa Structural Engineers"
+      "value": "Umezawa Structural Engineers",
+      "elementId": "f7dd760834e448cdb40c23d6b9d1d561"
     },
     {
-      "elementId": "web:servicesEngineer",
       "label": "Services Engineer",
-      "value": "Inuzuka Engineering Consultants"
+      "value": "Inuzuka Engineering Consultants",
+      "elementId": "d0cebf7528fd44f4badfd109fd5edd1f"
     },
     {
-      "elementId": "web:landscapeArchitect",
       "label": "Landscape Architect",
-      "value": "Equipe Espace"
+      "value": "Equipe Espace",
+      "elementId": "73df67cb99104786a9e54599f7aed926"
     },
     {
-      "elementId": "web:contractor",
       "label": "Contractor",
-      "value": "Takenaka"
+      "value": "Takenaka",
+      "elementId": "6281f64a016c494faa29a355becfb5b7"
     }
   ]
 }

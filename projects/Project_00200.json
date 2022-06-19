@@ -1,16 +1,18 @@
 {
   "type": "Project",
   "id": "00200",
-  "notes": "Not Published",
-  "serializeDate": "4th May 2022 11:30:35",
-  "serialized": 1651663835342,
-  "serializedBy": "Steve Reeve",
+  "url": "industrial/inmos-microprocessor-factory",
+  "serializeDate": "'2022-06-19 14:24:45.770'",
+  "serialized": 1655648685770,
+  "serializedBy": "sreeve",
   "title": "Inmos Microprocessor Factory",
   "description": "The INMOS scheme began as a design for a model microchip factory, which could be built quickly (operational within a year of start on-site) in a wide variety of locations, and could be expanded or otherwise adapted without disruption to production.",
   "date": "1982-1987",
   "client": "INMOS Ltd",
   "location": "Gwent, Wales, UK",
-  "longLat": "-3.022525 / 51.565982",
+  "longLat": "-3.022525  / 51.565982",
+  "longitude": "-3.022525 ",
+  "latitude": "51.565982",
   "typologies": [
     "Industrial"
   ],
@@ -31,56 +33,62 @@
   "partners": [
     "John Young"
   ],
+  "leaders": [],
   "overview": "The INMOS scheme began as a design for a model microchip factory, which could be built quickly (operational within a year of start on-site) in a wide variety of locations, and could be expanded or otherwise adapted without disruption to production. The technical brief demanded highly controlled clinical conditions (protected from dust and vibration) for the manufacture of microprocessors, as well as conventional office space and a staff canteen.\n\n\nThe technical services run externally above a central ‘street’, supported by a steel framework from which the roof is suspended. This ‘street’ is the heart of the scheme, linking the ‘clean’ (microchip production) and the ‘dirty’ (office and support) wings of the building. Above this street, an exoskeleton of masts provides support to services and to the two wings, allowing for column-free and extendable space.\n\nOff-site fabrication allows for quick assembly, with a flexible system that allows for the use of solid, opaque or transparent panels in cladding.",
   "dimensions": [
     {
-      "elementId": "web:grossFloorArea",
       "label": "Gross Floor Area",
-      "value": "8,900 m²"
+      "value": "8,900 m²",
+      "elementId": "8fb89f8e6257471e8885b4ed1cb2ad32"
     }
   ],
   "companies": [
     {
-      "elementId": "web:structuralEngineer",
       "label": "Structural Engineer",
-      "value": "Anthony Hunt Associates"
+      "value": "Anthony Hunt Associates",
+      "elementId": "d4a28469b7764336a4c362d62f81871b"
     },
     {
-      "elementId": "web:servicesEngineer",
       "label": "Services Engineer",
-      "value": "YRM Engineers"
+      "value": "YRM Engineers",
+      "elementId": "d0693d699c7b45d5a272ca1a989eda41"
     },
     {
-      "elementId": "web:quantitySurveyor",
       "label": "Quantity Surveyor",
-      "value": "GA Hanscomb Partnership"
+      "value": "GA Hanscomb Partnership",
+      "elementId": "c7d04e408e74418f9c7d407cf3788cf3"
     },
     {
-      "elementId": "web:contractor",
       "label": "Contractor",
-      "value": "Laing Management Contracting Ltd"
+      "value": "Laing Management Contracting Ltd",
+      "elementId": "42a930f421cf424ebce084c855b1ea79"
     }
   ],
   "awards": [
     {
-      "rowId": "1",
+      "date": "1986-01-01",
       "year": "1986",
-      "award": "Constructa Preis for Overall Excellence in the Field of Architecture"
+      "award": "Constructa Preis for Overall Excellence in the Field of Architecture",
+      "rowId": "ED6ADDE627D044D0B0EB0A873E50F102"
     },
     {
-      "rowId": "2",
+      "date": "1983-01-01",
       "year": "1983",
-      "award": "Eurostructpress Award"
+      "award": "Eurostructpress Award",
+      "rowId": "7E591E5C2E7D4A7191C34ADB230F3886"
     },
     {
-      "rowId": "3",
+      "date": "1983-01-01",
       "year": "1983",
-      "award": "Financial Times 'Architecture at Work' Award Commendation"
+      "award": "Financial Times 'Architecture at Work' Award Commendation",
+      "rowId": "9578A741725B43BB828E09CE175C8FE5"
     },
     {
-      "rowId": "4",
+      "date": "1982-01-01",
       "year": "1982",
-      "award": "The Structural Steel Design Award"
+      "award": "The Structural Steel Design Award",
+      "rowId": "3AAB350633FC4F8D887F828F8034E3F4"
     }
-  ]
+  ],
+  "certificates": []
 }

@@ -1,16 +1,18 @@
 {
   "type": "Project",
   "id": "03340",
-  "notes": "Not Published",
-  "serializeDate": "26th April 2022 16:51:36",
-  "serialized": 1650991896385,
-  "serializedBy": "Steve Reeve",
+  "url": "masterplanning/buena-vista",
+  "serializeDate": "'2022-06-19 14:25:28.042'",
+  "serialized": 1655648728042,
+  "serializedBy": "sreeve",
   "title": "Buena Vista",
   "description": "The practice generated a new model for a mixed community of living, working and leisure, accommodating a centre for excellence in media, e-business and bio sciences.",
   "date": "2000",
   "client": "JTC Singapore",
   "location": "Singapore",
-  "longLat": "103.790880 / 1.305246",
+  "longLat": "103.790880  / 1.305246",
+  "longitude": "103.790880 ",
+  "latitude": "1.305246",
   "typologies": [
     "Masterplanning"
   ],
@@ -34,24 +36,27 @@
     "Laurie Abbott",
     "Marco Goldschmied"
   ],
+  "leaders": [],
   "overview": "The practice generated a new model for a mixed community of living, working and leisure, accommodating a centre for excellence in media, e-business and bio sciences. This flexible strategic plan was designed to allow for incremental growth, including an expanding and integrated transport system.\n\n\nThe scheme’s 4 million m² of multi-use space encompasses five neighbourhoods surrounding a central eco-park. This cool lung for the community provides leisure and amenity for the inhabitants as an antidote to the hot and humid climate, as well as an opportunity for water recycling.\n\n\nThe ambition was to create a live web-enabled development model that gives designers, local authorities and citizens a simple and informative feedback on a wide variety of planning issues – environmental, transport, cost etc.",
   "dimensions": [
     {
-      "elementId": "web:area",
       "label": "Area",
-      "value": "4 million m²"
+      "value": "4 million m²",
+      "elementId": "e24134c1f21f4304ba07be2acfd3c0b8"
     }
   ],
   "companies": [
     {
-      "elementId": "web:servicesEngineer",
       "label": "Services Engineer",
-      "value": "Battle McCarthy"
+      "value": "Battle McCarthy",
+      "elementId": "d1390677118e4a18b42dd653fcb013c4"
     },
     {
-      "elementId": "web:trafficEngineer",
       "label": "Traffic Engineer",
-      "value": "Arup"
+      "value": "Arup",
+      "elementId": "2ea05ed857ae400281413e5d7af7b47e"
     }
-  ]
+  ],
+  "awards": [],
+  "certificates": []
 }

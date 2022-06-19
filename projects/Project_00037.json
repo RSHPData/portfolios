@@ -1,15 +1,17 @@
 {
   "type": "Project",
   "id": "00037",
-  "notes": "Not Published",
-  "serializeDate": "4th May 2022 11:30:32",
-  "serialized": 1651663832853,
-  "serializedBy": "Steve Reeve",
+  "url": "residential/zipup-house",
+  "serializeDate": "'2022-06-19 14:24:42.455'",
+  "serialized": 1655648682455,
+  "serializedBy": "sreeve",
   "title": "ZipUp House",
   "description": "Originally designed in response to a competition for innovation in domestic architecture, the Zip-Up House, and a later development of it, Zip-Up 2, were Rogers’ first speculative exploration of what a modern house could be like.",
   "date": "1967-1969",
   "client": "DuPont",
-  "longLat": "-1.117604 / 50.695374",
+  "longLat": "-1.117604  / 50.695374",
+  "longitude": "-1.117604 ",
+  "latitude": "50.695374",
   "typologies": [
     "Residential"
   ],
@@ -28,9 +30,9 @@
   "dimensions": [],
   "companies": [
     {
-      "elementId": "web:architect",
       "label": "Architect",
-      "value": "Richard + Su Rogers"
+      "value": "Richard + Su Rogers",
+      "elementId": "78758d1a831d467b88ed7e9bb1ec87f6"
     }
   ]
 }

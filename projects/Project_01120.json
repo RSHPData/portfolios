@@ -1,16 +1,18 @@
 {
   "type": "Project",
   "id": "01120",
-  "notes": "Not Published",
-  "serializeDate": "27th April 2022 13:54:06",
-  "serialized": 1651067646314,
-  "serializedBy": "Steve Reeve",
+  "url": "civic/european-court-of-human-rights",
+  "serializeDate": "'2022-06-19 14:25:01.468'",
+  "serialized": 1655648701468,
+  "serializedBy": "sreeve",
   "title": "European Court of Human Rights",
   "description": "The European Court of Human Rights provides a landmark building for the ‘New Europe’ on a site some distance from the historic centre of the city and close to the river.",
   "date": "1989-1995",
   "client": "Conseil de l’Europe",
   "location": "Strasbourg, France",
-  "longLat": "7.77454 / 48.59700",
+  "longLat": "7.77454  / 48.59700",
+  "longitude": "7.77454 ",
+  "latitude": "48.59700",
   "constructionCost": "£ 35 000 000",
   "typologies": [
     "Civic"
@@ -47,63 +49,59 @@
   "overview": "The European Court of Human Rights provides a landmark building for the ‘New Europe’ on a site some distance from the historic centre of the city and close to the river.\n\nIn terms of considering the client’s brief for the site, the very nature of the Court’s business suggests that its premises should be welcoming and humane, while preserving an appropriate dignity. Protecting and enhancing the quality of the site was another prime objective, while economy of operations and the creation of a ‘natural’ environment were equally important.\n\n\nThe basic diagram of the scheme was tested to the limits during the design process – particularly as a result of the collapse of the Communist Bloc by the late 1980s/early 1990s – resulting in the building’s office provision growing to some 50 per cent and areas of public space by 25 per cent.\n\nThe two main departments of the European Court, the Court itself and the Commission, occupy two circular chambers at the head of the building which are clad in stainless steel with secondary structural elements picked out in bright red. The entrance hall is filled with natural light and offers visitors views across the river and the ‘tail’ of the building is divided into two parts containing offices, administration and the judges’ chambers.",
   "dimensions": [
     {
-      "elementId": "XLA0uo9bikCZClyA6d8vjQ",
-      "label": "Floors",
-      "value": "6"
-    },
-    {
-      "elementId": "web:grossFloorArea",
       "label": "Gross Floor Area",
-      "value": "28 000 m²"
+      "value": "28 000 m²",
+      "elementId": "bdcbdbb948024e55b0b32e514d169a4d"
     }
   ],
   "companies": [
     {
-      "elementId": "web:co-architect",
       "label": "Co-Architect",
-      "value": "Atelier d'Architecture Claude Bucher"
+      "value": "Atelier d'Architecture Claude Bucher",
+      "elementId": "07110ef583da4f04a3eaea12e8f93bd4"
     },
     {
-      "elementId": "web:structuralEngineer",
       "label": "Structural Engineer",
-      "value": "Ove Arup & Partners / Omnium Technique Européen"
+      "value": "Ove Arup & Partners / Omnium Technique Européen",
+      "elementId": "0697035f17624e7988d23f7db092f95d"
     },
     {
-      "elementId": "web:servicesEngineer",
       "label": "Services Engineer",
-      "value": "Ove Arup & Partners / Omnium Technique Européen"
+      "value": "Ove Arup & Partners / Omnium Technique Européen",
+      "elementId": "9e1fedae055340b2988ec8819596d4a8"
     },
     {
-      "elementId": "web:quantitySurveyor",
       "label": "Quantity Surveyor",
-      "value": "Thorne Wheatley Associates"
+      "value": "Thorne Wheatley Associates",
+      "elementId": "65dbcf57f2604b079cfababf4a33ccda"
     },
     {
-      "elementId": "web:lightingConsultant",
       "label": "Lighting Consultant",
-      "value": "Lighting Design Partnership"
+      "value": "Lighting Design Partnership",
+      "elementId": "98ce58c6510c4d2996ffa40042625769"
     },
     {
-      "elementId": "web:landscapeArchitect",
       "label": "Landscape Architect",
-      "value": "David Jarvis Associates / Dan Kiley"
+      "value": "David Jarvis Associates / Dan Kiley",
+      "elementId": "ac17488c6ee748e5aa49b05a0b8b982b"
     },
     {
-      "elementId": "web:contractor",
       "label": "Contractor",
-      "value": "Campenon Bernard SGE"
+      "value": "Campenon Bernard SGE",
+      "elementId": "c34c748c85cb44f39b079610a0be1319"
     },
     {
-      "elementId": "web:acousticConsultant",
       "label": "Acoustic Consultant",
-      "value": "Sound Research Laboratories"
+      "value": "Sound Research Laboratories",
+      "elementId": "2356ea304cb341e28d94c6165790b745"
     }
   ],
   "awards": [
     {
-      "rowId": "1",
+      "date": "2015-01-01",
       "year": "2015",
-      "award": "Architecture contemporaine remarquable"
+      "award": "Architecture contemporaine remarquable",
+      "rowId": "4b3c8db2493c4e09bab434b767a5b593"
     }
   ]
 }

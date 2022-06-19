@@ -1,16 +1,18 @@
 {
   "type": "Project",
   "id": "00350",
-  "notes": "Not Published",
-  "serializeDate": "26th April 2022 16:12:36",
-  "serialized": 1650989556975,
-  "serializedBy": "Steve Reeve",
+  "url": "industrial/tidal-basin-pumping-station/",
+  "serializeDate": "'2022-06-19 14:24:50.200'",
+  "serialized": 1655648690200,
+  "serializedBy": "sreeve",
   "title": "Tidal Basin Pumping Station",
   "description": "This bright and cheerful structure is actually a series of storm-water pumping stations, required as part of the development of London Docklands.",
   "date": "1987-1988",
   "client": "LDDC / Sir William Halcrow & Partners",
   "location": "London, UK",
-  "longLat": "0.016932 / 51.508572",
+  "longLat": "0.016932  / 51.508572",
+  "longitude": "0.016932 ",
+  "latitude": "51.508572",
   "typologies": [
     "Industrial"
   ],
@@ -32,36 +34,39 @@
     "Mike Davies",
     "Amo Kalsi"
   ],
+  "leaders": [],
   "overview": "This bright and cheerful structure is actually a series of storm-water pumping stations, required as part of the development of London Docklands.\n\nThe buildings are effectively containers for pumping machinery and therefore durability and security are the principal requirements but the practice has imbued a sense of joy into an otherwise very practical project.\n\n\nMost of the machinery is 25 m below ground level. The main structure is of blue painted concrete – one circular drum placed concentrically within the radius of another. The curtain walls of the outer circle are made of translucent polycarbonate, providing a view of the ‘keep’ within this 20th century industrial castle.\n\n\nThe form of this building was generated through the close collaboration between architect and the engineer, Halcrow  Partners. The end result clearly expresses the nature of the operations performed within, while at the same time celebrates our great Victorian engineering tradition.",
   "dimensions": [
     {
-      "elementId": "web:siteArea",
       "label": "Site Area",
-      "value": "850 m²"
+      "value": "850 m²",
+      "elementId": "ca4164d32ee24a49980300bf19bbdbb8"
     }
   ],
   "companies": [
     {
-      "elementId": "web:structuralEngineer",
       "label": "Structural Engineer",
-      "value": "Sir William Halcrow & Partners"
+      "value": "Sir William Halcrow & Partners",
+      "elementId": "4cfadc79e58c44c2b09905706818f777"
     },
     {
-      "elementId": "web:servicesEngineer",
       "label": "Services Engineer",
-      "value": "Sir William Halcrow & Partners"
+      "value": "Sir William Halcrow & Partners",
+      "elementId": "dd332226dfd2420dbb8ad0833d90d76c"
     },
     {
-      "elementId": "web:contractor",
       "label": "Contractor",
-      "value": "Nuttall"
+      "value": "Nuttall",
+      "elementId": "beac3ea02f494ecd986b80b5d5760202"
     }
   ],
   "awards": [
     {
-      "rowId": "1",
+      "date": "1992-01-01",
       "year": "1992",
-      "award": "Constructa Preis"
+      "award": "Constructa Preis",
+      "rowId": "C97336C4BA2E4208BA62A31129961BF1"
     }
-  ]
+  ],
+  "certificates": []
 }

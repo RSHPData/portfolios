@@ -1,16 +1,18 @@
 {
   "type": "Project",
   "id": "02081",
-  "notes": "Not Published",
-  "serializeDate": "26th April 2022 16:39:51",
-  "serialized": 1650991191958,
-  "serializedBy": "Steve Reeve",
+  "url": "office/vr-techno-plaza/",
+  "serializeDate": "'2022-06-19 14:25:11.785'",
+  "serialized": 1655648711785,
+  "serializedBy": "sreeve",
   "title": "VR Techno Plaza",
   "description": "The Techno Plaza is a Goverment office and laboratories built on a hilly site of 11,462 m². The landscape of the site varies but contains trees and bushes and a small stream.",
   "date": "1993-1995",
   "client": "Gifu Prefecture / VR Techno",
   "location": "Gifu, Japan",
-  "longLat": "136.888669 / 35.426848",
+  "longLat": "136.888669  / 35.426848",
+  "longitude": "136.888669 ",
+  "latitude": "35.426848",
   "constructionCost": "£27.6 million",
   "typologies": [
     "Office"
@@ -43,44 +45,44 @@
   "leaders": [
     "Ben Warner"
   ],
+  "heights": [
+    "12 m"
+  ],
   "overview": "The Techno Plaza is a Goverment office and laboratories built on a hilly site of 11,462 m². The landscape of the site varies but contains trees and bushes and a small stream.\n\nRichard Rogers Partnership prepared the initial masterplan for the VR Techno Japan complex at Gifu, producing a scheme which would accommodate about 10 buildings. The brief was to design a ‘pilot’ building promoting research into virtual reality and providing educational, communal and laboratory/office spaces as a resource for private research bodies and the general public.\n\n\nThe scheme enhances the qualities of the site, responding to its natural contours. The Techno Plaza is composed of two parts: the private office space, built in steps up the hill, and the common research and public space which crowns the hill. Both have access to planted terraces and views across the valley.\n\nThe building has an exposed concrete frame, with retaining walls and floor slabs partially buried or planted to enhance thermal mass, ensuring maximum benefit from the stable ground temperatures and discouraging rainwater run-off. Glazed façades and extensive louvering eliminate direct solar gain, as does a stainless steel-finished ventilated roof to the upper building. Air conditioning is employed to deal with the high humidity in the region.",
   "dimensions": [
     {
-      "elementId": "WVvwpYIJTEuCKULdwxZ8PA",
-      "label": "Height",
-      "value": "12 m"
-    },
-    {
-      "elementId": "web:siteArea",
       "label": "Site Area",
-      "value": "11 462 m²"
+      "value": "11 462 m²",
+      "elementId": "33d468bd0fdb48dab7df92df7f44d5d5"
     }
   ],
   "companies": [
     {
-      "elementId": "web:structuralEngineer",
       "label": "Structural Engineer",
-      "value": "Umezawa Structural Engineers"
+      "value": "Umezawa Structural Engineers",
+      "elementId": "be085ffb73fd4021ba8ff631bbe07ef8"
     },
     {
-      "elementId": "web:servicesEngineer",
       "label": "Services Engineer",
-      "value": "ES Associates"
+      "value": "ES Associates",
+      "elementId": "b0dd95abee064167945ce4c1a2f64e83"
     },
     {
-      "elementId": "web:quantitySurveyor",
       "label": "Quantity Surveyor",
-      "value": "Schal / Bovis"
+      "value": "Schal / Bovis",
+      "elementId": "3a1eb8dd658142cb8f648457221019b8"
     },
     {
-      "elementId": "web:landscapeArchitect",
       "label": "Landscape Architect",
-      "value": "Lovejoys / Equipe Espace"
+      "value": "Lovejoys / Equipe Espace",
+      "elementId": "e8972a301a85417aadbde20fd99b34b2"
     },
     {
-      "elementId": "web:contractor",
       "label": "Contractor",
-      "value": "Dainihon and Ichikawa Construction Joint Venture"
+      "value": "Dainihon and Ichikawa Construction Joint Venture",
+      "elementId": "e099f441f2ac42fa8d5498f905fe0eff"
     }
-  ]
+  ],
+  "awards": [],
+  "certificates": []
 }

@@ -1,16 +1,18 @@
 {
   "type": "Project",
   "id": "02110",
-  "notes": "Not Published",
-  "serializeDate": "26th April 2022 16:42:16",
-  "serialized": 1650991336490,
-  "serializedBy": "Steve Reeve",
+  "url": "office/tower-bridge-house",
+  "serializeDate": "'2022-06-19 14:25:13.327'",
+  "serialized": 1655648713327,
+  "serializedBy": "sreeve",
   "title": "Tower Bridge House",
   "description": "The commission for Tower Bridge House dates back to 1987, just after the completion of Lloyd’s of London.",
   "date": "1987-2005",
   "client": "Taylor Woodrow Construction",
   "location": "London, UK",
-  "longLat": "-0.07311 / 51.50854",
+  "longLat": "-0.07311  / 51.50854",
+  "longitude": "-0.07311 ",
+  "latitude": "51.50854",
   "constructionCost": "£45,000,000",
   "typologies": [
     "Office"
@@ -54,65 +56,67 @@
     "Toby Jeavons"
   ],
   "overview": "The commission for Tower Bridge House dates back to 1987, just after the completion of Lloyd’s of London. The project demonstrates the practice’s ability to draw on the lessons of Lloyd’s of London, adapting them to the requirement of the commercial market.\n\n\nThe scheme features a giant ‘window’ facing west to the Tower of London. This all-glass façade reveals the activities within, and is animated by the constantly moving lifts and escalators. A prominent tower marks the gateway to St Katharine’s Dock and Tower Bridge. The long north and south elevations of the building are strongly articulated to create a sense of depth and layering – on the south (dock) side extensive use of solar shading gives it an appropriately solid look.\n\n\nThe scheme reinforces the lower-level public realm, linking public access from Tower Hill tube station to St Katharine’s Dock. A new recessed colonnade encourages public movement past the building and on into the new development, enlivening the public space around the docks. A new public piazza with retail areas and cafés looks out over the dock basin itself.",
-  "concept": "Occupying a prominent site adjacent to the Tower of London, the new building is an important marker at the junction of East Smithfield and Tower Bridge Approach.\n\nThe building sits on the edge of the dock wall and forms part of the enclosure of the dock basin, in the same position as the Old Telford warehouses which once occupied the site.\n\n\nThe site organisation reinforces the lower level public realm. A recessed colonnade encourages public movement into the dockside area, while a public piazza provides shops and restaurants which enliven the public space along the waterfront.\n\nThe building is entered at pavement level, leading to a central atrium. There is a second entrance at Quay Level: opposite the subway leading from Tower Hill underground station.\n\n\nThe building is eight storeys high and is arranged around the central atrium, a dynamic, full-height space clearly visible from outside the building. It allows daylight to enter deep into the floorplate and provides dramatic views of the Tower and City of London beyond. The scheme offers a highly efficient and flexible plan allowing for single and multiple tenancies.",
   "design": "Between the project being commissioned in 1987 and the final completion of the building in 2005, the project underwent a number of design permutations, responding to new market conditions and developments in building technology.\n\nThe design met the client’s demands for office space of the highest quality while providing a ‘landmark’ building. Openness and transparency offer a counterpoise to the massive solidity of surrounding buildings in St Katharine’s Dock. A giant ‘window’ faces west towards the Tower of London. The glass façade reveals the atrium within. At the end of the atrium is a central core containing six wall-climber passenger lifts. The atrium is crossed by bridges arranged in a staggered formation. The floors to the lift lobbies and the bridges are formed from translucent glass panels which are lit from below.\n\n\nThe long north and south elevations of the building are strongly articulated to create a sense of depth and layering. Fully-glazed façades exploit the views of St Katharine’s Dock, the Tower of London, the City of London and the hills of Blackheath in the far distance.\n\nThe corners of the building are defined by service cores containing the escape stairs and fire lifts. These cores are particularly transparent allowing a clear view of the blue, colour-coded, steelwork and glass-walled lifts beyond.",
+  "concept": "Occupying a prominent site adjacent to the Tower of London, the new building is an important marker at the junction of East Smithfield and Tower Bridge Approach.\n\nThe building sits on the edge of the dock wall and forms part of the enclosure of the dock basin, in the same position as the Old Telford warehouses which once occupied the site.\n\n\nThe site organisation reinforces the lower level public realm. A recessed colonnade encourages public movement into the dockside area, while a public piazza provides shops and restaurants which enliven the public space along the waterfront.\n\nThe building is entered at pavement level, leading to a central atrium. There is a second entrance at Quay Level: opposite the subway leading from Tower Hill underground station.\n\n\nThe building is eight storeys high and is arranged around the central atrium, a dynamic, full-height space clearly visible from outside the building. It allows daylight to enter deep into the floorplate and provides dramatic views of the Tower and City of London beyond. The scheme offers a highly efficient and flexible plan allowing for single and multiple tenancies.",
   "dimensions": [
     {
-      "elementId": "web:area",
       "label": "Area",
-      "value": "24 000  m²"
+      "value": "24 000  m²",
+      "elementId": "f91c7cef77e541f1ac83979f355ca7a8"
     }
   ],
   "companies": [
     {
-      "elementId": "web:structuralEngineer",
       "label": "Structural Engineer",
-      "value": "Waterman Gore"
+      "value": "Waterman Gore",
+      "elementId": "1ba9dd000eef406c8d725adf92e459c5"
     },
     {
-      "elementId": "web:servicesEngineer",
       "label": "Services Engineer",
-      "value": "Waterman Gore"
+      "value": "Waterman Gore",
+      "elementId": "b7c79dca522444678fe233baf185f3c6"
     },
     {
-      "elementId": "web:quantitySurveyor",
       "label": "Quantity Surveyor",
-      "value": "Davis Langdon & Everest"
+      "value": "Davis Langdon & Everest",
+      "elementId": "fed8a04a8a7f4924a4a224aa5595afe2"
     },
     {
-      "elementId": "web:projectManager",
       "label": "Project Manager",
-      "value": "Buro Four"
+      "value": "Buro Four",
+      "elementId": "076017e7c2874def9856f0cbbdf8ac0d"
     },
     {
-      "elementId": "web:landscapeArchitect",
       "label": "Landscape Architect",
-      "value": "Richard Rogers Partnership with Charles Funke"
+      "value": "Richard Rogers Partnership with Charles Funke",
+      "elementId": "eedc5a4bcfbd45358581ebaa02521fe9"
     },
     {
-      "elementId": "web:contractor",
       "label": "Contractor",
-      "value": "Taylor Woodrow Construction"
+      "value": "Taylor Woodrow Construction",
+      "elementId": "4a97d2d95c0041d5891c7194b99753f8"
     },
     {
-      "elementId": "web:planningConsultant",
       "label": "Planning Consultant",
-      "value": "Taywood Engineering Ltd / Montagu Evans and DP9"
+      "value": "Taywood Engineering Ltd / Montagu Evans and DP9",
+      "elementId": "0c6aa3e45c1f489f830b3a672a370d5a"
     },
     {
-      "elementId": "web:acousticConsultant",
       "label": "Acoustic Consultant",
-      "value": "AAD"
+      "value": "AAD",
+      "elementId": "4785a346e7234de0a1ccd63094a1594f"
     },
     {
-      "elementId": "web:fireConsultant",
       "label": "Fire Consultant",
-      "value": "Warrington Fire Research Consultants"
+      "value": "Warrington Fire Research Consultants",
+      "elementId": "da0496defc85496d9b6d25a3bb30062e"
     },
     {
-      "elementId": "web:lettingAgent",
       "label": "Letting Agent",
-      "value": "Ingleby Trice Kennard, Jones Lang Wootton, Knight Frank"
+      "value": "Ingleby Trice Kennard, Jones Lang Wootton, Knight Frank",
+      "elementId": "1bd3f82d956741e68ec279b047b4f8b1"
     }
-  ]
+  ],
+  "awards": [],
+  "certificates": []
 }

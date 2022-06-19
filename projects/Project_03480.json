@@ -1,16 +1,18 @@
 {
   "type": "Project",
   "id": "03480",
-  "notes": "Not Published",
-  "serializeDate": "26th April 2022 16:53:04",
-  "serialized": 1650991984147,
-  "serializedBy": "Steve Reeve",
+  "url": "masterplanning/scandicci-masterplan",
+  "serializeDate": "'2022-06-19 14:25:30.323'",
+  "serialized": 1655648730323,
+  "serializedBy": "sreeve",
   "title": "Scandicci Masterplan",
   "description": "Scandicci is strategically located 10 km to the west of Florence with great potential to act as a Gateway to Florence. Its proximity to motorway A1, and the new tramline linking Scandicci with Florence.",
   "date": "2002",
   "client": "Comune di Scandicci",
   "location": "Florence, Italy",
-  "longLat": "11.182642 / 43.758337",
+  "longLat": "11.182642  / 43.758337",
+  "longitude": "11.182642 ",
+  "latitude": "43.758337",
   "constructionCost": "£400,000",
   "typologies": [
     "Masterplanning"
@@ -42,29 +44,32 @@
     "Richard Rogers",
     "Laurie Abbott"
   ],
+  "leaders": [],
   "overview": "Scandicci is strategically located 10 km to the west of Florence with great potential to act as a Gateway to Florence. Its proximity to motorway A1, and the new tramline linking Scandicci with Florence act as a catalyst to reposition Scandicci as a key Tuscan city for the 21st century.\n\nRSHP's approach to this masterplan was to view Scandicci within the wider context – not as a suburb of Florence but as a ‘destination’ within the Tuscany region. In this way Scandicci’s status is enhanced as a pivotal town linking Florence with other major hubs such as Pistoia and the Chianti area.\n\nThe scheme’s aim was to create the appropriate infrastructure and environment to attract a diversity of economic drivers and activities. By creating educational, employment and residential opportunities, daytime population increases, while strong linkages between the thriving industrial area and the urban centre will create a ‘one-stop’ business point for the surrounding area.\n\n\nThe masterplan creates a coherent, adaptable and integrated urban framework, a vibrant and compact multi-functional centre which provides high-quality communal and recreational facilities for local residents. The new development was to create new entertainment, arts and cultural events, with the aim of attracting and retaining international, regional and local visitors.\n\nBy increasing Florence University’s presence in Scandicci and regenerating the Russell Newton School complex, as well as forging new links between the fashion houses and local production facilities with the town, the scheme offers a new residential typology for young professionals and students. These links will enhance local business.\n\n\nThe masterplan takes advantage of the new tram link, to re-organise existing movement systems and improve connections within the town and the surrounding area (15 minutes by tram to Florence city centre, 25 minutes by road to Florence airport), whilst also prioritising pedestrian movement within the town.The development strategies for Scandicci are based on sustainable principles, leading the way forward in environmental control issues and the re-use of natural resources.",
   "dimensions": [
     {
-      "elementId": "web:siteArea",
       "label": "Site area",
-      "value": "200 hectares"
+      "value": "200 hectares",
+      "elementId": "d2f0045d6bd14357b368e351f4229c2d"
     }
   ],
   "companies": [
     {
-      "elementId": "web:co-architect",
       "label": "Co-Architect",
-      "value": "Ernesto Bartolini"
+      "value": "Ernesto Bartolini",
+      "elementId": "57f53b17479e412b960d24bbee27dbba"
     },
     {
-      "elementId": "web:landscapeArchitect",
       "label": "Landscape Architect",
-      "value": "Grant Associates"
+      "value": "Grant Associates",
+      "elementId": "bd45c8559ad04ade93e374e37dff2228"
     },
     {
-      "elementId": "web:environmentalConsultant",
       "label": "Environmental Consultant",
-      "value": "Grant Associates"
+      "value": "Grant Associates",
+      "elementId": "67db56aa7e7143828f9c0a5fa3fbd8d7"
     }
-  ]
+  ],
+  "awards": [],
+  "certificates": []
 }

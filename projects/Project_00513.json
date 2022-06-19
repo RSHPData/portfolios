@@ -1,16 +1,18 @@
 {
   "type": "Project",
   "id": "00513",
-  "notes": "Not Published",
-  "serializeDate": "26th April 2022 16:15:51",
-  "serialized": 1650989751218,
-  "serializedBy": "Steve Reeve",
+  "url": "culture-and-leisure/tomigaya/",
+  "serializeDate": "'2022-06-19 14:24:57.633'",
+  "serialized": 1655648697633,
+  "serializedBy": "sreeve",
   "title": "Tomigaya",
   "description": "During the so called bubble years of Tokyo’s late 1980s property boom, Japanese developers in search of exotic extras, began to import overseas architects to add cachet to their schemes.",
   "date": "1990-1992",
   "client": "K-One Corporation",
   "location": "Tokyo, Japan",
-  "longLat": "139.688817 / 35.667749",
+  "longLat": "139.688817  / 35.667749",
+  "longitude": "139.688817 ",
+  "latitude": "35.667749",
   "typologies": [
     "Culture & Leisure"
   ],
@@ -38,19 +40,21 @@
   "dimensions": [],
   "companies": [
     {
-      "elementId": "web:co-architect",
       "label": "Co-Architect",
-      "value": "Architect 5"
+      "value": "Architect 5",
+      "elementId": "0fdc3ffb662f4ed5a75e60b6a1d90f37"
     },
     {
-      "elementId": "web:structuralEngineer",
       "label": "Structural Engineer",
-      "value": "Umezawa Design Office"
+      "value": "Umezawa Design Office",
+      "elementId": "aec64acc270e4472a1f6029ca87aeec1"
     },
     {
-      "elementId": "web:servicesEngineer",
       "label": "Services Engineer",
-      "value": "ES Associates / Ove Arup & Partners"
+      "value": "ES Associates / Ove Arup & Partners",
+      "elementId": "e6d5bc4726da4fb0b5afbaa43f197861"
     }
-  ]
+  ],
+  "awards": [],
+  "certificates": []
 }
