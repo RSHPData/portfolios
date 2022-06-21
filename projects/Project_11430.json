@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "11430",
   "url": "mixed-use/parcs-en-scène-thiais",
-  "serializeDate": "'2022-06-19 14:26:42.778'",
-  "serialized": 1655648802778,
+  "serializeDate": "'2022-06-21 14:17:03.844'",
+  "serialized": 1655821023844,
   "serializedBy": "sreeve",
   "title": "Parcs en Scène, Thiais",
   "description": "The Parcs en Scène project is a mixed-use masterplan and development located on a challenging site near Orly Airport in Paris.",
@@ -44,24 +44,24 @@
     {
       "label": "Site Area",
       "value": "300 000 m²",
-      "elementId": "be9f532947cb46cf9b4da9c4fc8170b0"
+      "id": "be9f532947cb46cf9b4da9c4fc8170b0"
     }
   ],
   "companies": [
     {
       "label": "Co-Architect",
       "value": "Tolila+Gilliland",
-      "elementId": "84c988788f5b4d808859b56f4535aee2"
+      "id": "84c988788f5b4d808859b56f4535aee2"
     },
     {
       "label": "Landscape Architect",
       "value": "BASELAND",
-      "elementId": "5cf8293e28c048799bc29009f5c6529e"
+      "id": "5cf8293e28c048799bc29009f5c6529e"
     },
     {
       "label": "Planning Consultant",
       "value": "Cultiver La Ville",
-      "elementId": "b72f91a2e1af462dbd9144b559e5bf2d"
+      "id": "b72f91a2e1af462dbd9144b559e5bf2d"
     }
   ]
 }

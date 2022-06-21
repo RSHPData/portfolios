@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "06180",
   "url": "masterplanning/bercy-charenton",
-  "serializeDate": "'2022-06-19 14:26:08.167'",
-  "serialized": 1655648768167,
+  "serializeDate": "'2022-06-21 14:16:31.714'",
+  "serialized": 1655820991714,
   "serializedBy": "sreeve",
   "title": "Bercy Charenton",
   "description": "In 2010, following a public competition and bid, RSHP was selected by the City of Paris as master planners for the 63 hectare Bercy Charenton site in Paris.",
@@ -40,7 +40,7 @@
     {
       "label": "Site Area",
       "value": "63 Hectares",
-      "elementId": "bdb47fc0252c4b7886b20bd4819e37ae"
+      "id": "bdb47fc0252c4b7886b20bd4819e37ae"
     }
   ],
   "companies": [],

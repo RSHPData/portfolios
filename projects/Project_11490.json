@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "11490",
   "url": "civic/hammersmith-and-fulham-civic-campus/",
-  "serializeDate": "'2022-06-19 14:26:43.543'",
-  "serialized": 1655648803543,
+  "serializeDate": "'2022-06-21 14:17:04.498'",
+  "serialized": 1655821024498,
   "serializedBy": "sreeve",
   "title": "Hammersmith & Fulham Civic Campus",
   "description": "RSHP has designed a new, high-quality Civic Campus to replace the existing Hammersmith & Fulham Town Hall extension and the adjacent large cinema site, located at the West of King Street in Hammersmith Town Centre.",
@@ -46,64 +46,64 @@
     {
       "label": "Site Area",
       "value": "17,628 m²",
-      "elementId": "787ad1054fbb477bbfd95cf7ecd739fc"
+      "id": "787ad1054fbb477bbfd95cf7ecd739fc"
     }
   ],
   "companies": [
     {
       "label": "Co-Architect",
       "value": "Heritage Architect - Purcell",
-      "elementId": "65b028f6e62041fb90dca00e1d02b2bf"
+      "id": "65b028f6e62041fb90dca00e1d02b2bf"
     },
     {
       "label": "Contractor",
       "value": "Ardmore",
-      "elementId": "d7656779c03e472eb5efd8f3809244c0"
+      "id": "d7656779c03e472eb5efd8f3809244c0"
     },
     {
       "label": "Structural Engineer",
       "value": "Meinhardt",
-      "elementId": "ebbaf40bd3834740a1debb6796f420c2"
+      "id": "ebbaf40bd3834740a1debb6796f420c2"
     },
     {
       "label": "Landscape Architect",
       "value": "Gillespies",
-      "elementId": "5b97e3ac10b3465fa81dc6c49a2328aa"
+      "id": "5b97e3ac10b3465fa81dc6c49a2328aa"
     },
     {
       "label": "Services Engineer",
       "value": "AECOM, Silver EMS",
-      "elementId": "407408b4492c4e18b66dbd7e0514f479"
+      "id": "407408b4492c4e18b66dbd7e0514f479"
     },
     {
       "label": "Lighting Consultant",
       "value": "Speirs + Major",
-      "elementId": "39a4a1c8a0d94466b5002e24eab69773"
+      "id": "39a4a1c8a0d94466b5002e24eab69773"
     },
     {
       "label": "Branding",
       "value": "Pentagram",
-      "elementId": "9c514be5c0654627aecbacae563feb27"
+      "id": "9c514be5c0654627aecbacae563feb27"
     },
     {
       "label": "Project Manager",
       "value": "Silver DCC and Inner Circle Consulting",
-      "elementId": "a22a17e1c9724f1ea5b8b389baffedde"
+      "id": "a22a17e1c9724f1ea5b8b389baffedde"
     },
     {
       "label": "Cost Consultant",
       "value": "Silver DCC",
-      "elementId": "7932df2e4e374f9cb8ac5ffde2b1f6bf"
+      "id": "7932df2e4e374f9cb8ac5ffde2b1f6bf"
     },
     {
       "label": "Planning Consultant",
       "value": "Barton Wilmore",
-      "elementId": "246ae25eb94448a4ada287aff31b6c90"
+      "id": "246ae25eb94448a4ada287aff31b6c90"
     },
     {
       "label": "Fire Consultant",
       "value": "Fire Surgery",
-      "elementId": "7fd07a10ba8f4ca0bca06c13a6a9ef72"
+      "id": "7fd07a10ba8f4ca0bca06c13a6a9ef72"
     }
   ],
   "awards": [

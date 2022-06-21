@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "06790",
   "url": "transport/terminal-1-lyon-saint-exupéry-airport/",
-  "serializeDate": "'2022-06-19 14:26:16.940'",
-  "serialized": 1655648776940,
+  "serializeDate": "'2022-06-21 14:16:39.940'",
+  "serialized": 1655820999940,
   "serializedBy": "sreeve",
   "title": "Terminal 1, Lyon-Saint Exupéry Airport",
   "description": "The brief for the project was challenging: to extend a distinctive group of existing terminal buildings in order to provide additional stands and improved passenger facilities.",
@@ -68,39 +68,39 @@
     {
       "label": "Total Area",
       "value": "70 000 m²",
-      "elementId": "7e6af58bdd394a838654dab03ec369da"
+      "id": "7e6af58bdd394a838654dab03ec369da"
     }
   ],
   "companies": [
     {
       "label": "Co-Architect",
       "value": "Chabanne & Partenaires",
-      "elementId": "bac741ff22e846599a91212d0fb0ed5d"
+      "id": "bac741ff22e846599a91212d0fb0ed5d"
     },
     {
       "label": "Structural Engineer",
       "value": "Bouygues Bâtiment Sud Est",
-      "elementId": "5ab159a8414e447696cefc859fde7c48"
+      "id": "5ab159a8414e447696cefc859fde7c48"
     },
     {
       "label": "Mechanical Engineer",
       "value": "WSP",
-      "elementId": "430c66a926fd4bcfbd16131a88919c07"
+      "id": "430c66a926fd4bcfbd16131a88919c07"
     },
     {
       "label": "Electrical Engineer",
       "value": "CAP Ingelec",
-      "elementId": "7c0e5f972e67424bb48b6b2c67e273c3"
+      "id": "7c0e5f972e67424bb48b6b2c67e273c3"
     },
     {
       "label": "Principal Contractor",
       "value": "Bouygues Bâtiment Sud Est",
-      "elementId": "89d54f51003f49059244658b22d58e00"
+      "id": "89d54f51003f49059244658b22d58e00"
     },
     {
       "label": "Sustainability Consultant",
       "value": "Inddigo",
-      "elementId": "6d309ba1f64845fdb3b63ad27a9a2b05"
+      "id": "6d309ba1f64845fdb3b63ad27a9a2b05"
     }
   ],
   "awards": [

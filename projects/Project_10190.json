@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "10190",
   "url": "education/lse-centre-building/",
-  "serializeDate": "'2022-06-19 14:26:22.812'",
-  "serialized": 1655648782812,
+  "serializeDate": "'2022-06-21 14:16:45.794'",
+  "serialized": 1655821005794,
   "serializedBy": "sreeve",
   "title": "LSE Centre Building",
   "description": "As well as the demolition and redevelopment of a number of existing buildings on the Aldwych campus, the initial brief called for world-class architecture to match LSE’s international academic reputation.",
@@ -52,8 +52,16 @@
     "Jack Newton"
   ],
   "heights": [
-    "52.2m",
-    "52.2m"
+    {
+      "label": "52.2m",
+      "value": "52.2m",
+      "id": "0DA0208E0FB0468785AF4E"
+    },
+    {
+      "label": "52.2m",
+      "value": "52.2m",
+      "id": "4C24BC59EFAF40AC9C0B89"
+    }
   ],
   "overview": "RSHP’s design is inspired by LSE’s core values: Collaboration, Excellence and Innovation. As well as the demolition and redevelopment of a number of existing buildings on the Aldwych campus, the initial brief called for world-class architecture to match LSE’s international academic reputation. The RSHP design goes further by placing a public square at the heart of the campus, creating a new focal point and improving connectivity and wayfinding throughout the site.\n\nThe building provides simple flexible floor plans for a range of academic and department uses, allowing the creation of innovative and inspirational spaces to attract the best staff, academics and students. The design is vertically zoned with most of the public and highly serviced facilities such as the restaurant, auditorium and large lecture theatres situated at the lower levels. This facilitates natural interaction with the public realm of Houghton Street and animates the newly created LSE Square.\n\n\nOn the first and second floors, general teaching provision is accommodated and there is access to a large external terraced garden. These public and student facilities are all connected by the atrium space, which provides a dramatic and flowing circulation route between the floors with informal spaces to encourage students to come together to explore, debate and collaborate.\n\nAbove the second floor, a number of academic departments are located on flexible floorplates providing both open plan and modular accommodation. These upper levels are connected visually and physically via a dynamic stair that moves in a series of double height spaces across the façade, creating connectivity between departmental floors.\n\n\nAs part of the decision making process, a public exhibition was held during which LSE staff, students and visitors were encouraged to vote for their favourite design from the shortlist. The RSHP design won by an overwhelming margin.",
   "design": "Sustainable design is fundamental to the Centre Building- the project attains BREEAM Outstanding through a simple and robust design that combines the best elements of passive design with innovative MEP systems and controls enabling users to adapt their individual environment on the academic floors. The stepping atrium on the upper levels not only connects all social and circulation spaces within the building but also provides a large air volume which assists in the ventilation of internal deep plan areas. The brise soleil clearly visible on the facade were careful modelled and vary in depth and location depending on the exposure of different areas of the facade to solar gain.\n\nThe facade design includes a series of stepped double height voids expressed across the western facade, which address the square. The expression on the facade reflects double height internal circulation and break out spaces within the academic departments which create visual and physical connections within and between academic departments. Furthermore, the stepped voids create dynamic views of the facade, as the voids appear at top and bottom when viewed from Clare Market. The cladding design recognises the teaching areas of levels 1  2 through a double storey expression of the rainscreen cladding and solar louvres. An external terrace is located on level 1 where it helps signal the pedestrian passageway and creates a soap box for the students addressing the public square.\n\n\nThe solar shading design has been developed to maximise daylight into building, reduce number of variants and to present two different appearances when viewed from North and South. The appearance from the South when seen against the more formal context of Houghton Street is more solid and neutral in colouration, but when viewed from the north, in the setting of the square, they appear more perforate and brightly coloured. In line with the natural ventilation strategy there are several opening vents on all facades of the building to provide cross ventilation across the floorplates and provide occupants with control of their own environment. Each academic office includes a 2m wide glazed panel with top high level opening vent and a 1m solid inward opening panel which provides user control.\n\nThe grain, scale and materials of the facade along Houghton Street responds directly to the materiality and rustication of the LSE’s Old Academic Building opposite, reinstating an important pedestrian route across the campus terminating in the new public square. The horizontal banding of the limestone cladding on the lower levels of the Houghton Street block mirrors that of the Old Academic Building.\n\n\nThe superstructure of the building is expressed both internally and externally to give the building a distinct appearance. The overall superstructure system is composed of steel beams and columns, concrete cores and precast concrete floor slabs. The external cross bracing provides lateral stability to the system and is comprised of standard steel hollow sections spanning two storeys connected at all intersections via a bolted plate system in a cruciform arrangement.\n\nAll teaching spaces feature large extents of writeable walls and a learn and turn desking arrangement to prompt flexible and collaborative working; these rooms all have extensive AV equipment to support different modes of teaching including live streaming.",
@@ -63,29 +71,29 @@
     {
       "label": "Area",
       "value": "17,500 m²",
-      "elementId": "56eb13c5b1eb49bbb3650d26e2c04050"
+      "id": "56eb13c5b1eb49bbb3650d26e2c04050"
     }
   ],
   "companies": [
     {
       "label": "Structural Engineer",
       "value": "AKT",
-      "elementId": "d1b24ba2be0c4754bc0d35cdf9695813"
+      "id": "d1b24ba2be0c4754bc0d35cdf9695813"
     },
     {
       "label": "Services Engineer",
       "value": "Chapman BDSP",
-      "elementId": "63e2767294094b30b62a19524b09cce7"
+      "id": "63e2767294094b30b62a19524b09cce7"
     },
     {
       "label": "Landscape Architect",
       "value": "Gillespies",
-      "elementId": "9e106ce7777849a2bca35b9b63557e23"
+      "id": "9e106ce7777849a2bca35b9b63557e23"
     },
     {
       "label": "Fire Strategy and Acoustic Consultant",
       "value": "Hoare Lea",
-      "elementId": "bc648a09451c4e8da0676701a37b2cb2"
+      "id": "bc648a09451c4e8da0676701a37b2cb2"
     }
   ],
   "awards": [

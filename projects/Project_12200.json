@@ -1,8 +1,8 @@
 {
   "type": "Project",
   "id": "12200",
-  "serializeDate": "'2022-06-19 14:26:50.284'",
-  "serialized": 1655648810284,
+  "serializeDate": "'2022-06-21 14:17:11.055'",
+  "serialized": 1655821031055,
   "serializedBy": "sreeve",
   "title": "Fubon Renai",
   "description": "A new commercial tower located on the corner of Renai Road and Jianguo Road in Taipei, Taiwan for our clients Fubon Insurance and Fubon Securities. \nFubon Financial Holding Co. is a large financial investment holding company with numerous subsidiaries. The building will serve as the headquarters for their Property and Casualty Insurance divisions.\nThe building is 120m tall with 27000m2 GFA spread over 27 floors.",
@@ -49,10 +49,16 @@
     "Addy Lin"
   ],
   "heights": [
-    "120m"
+    {
+      "value": "120m",
+      "id": "C1DF2E2C150A4E48A07D3D"
+    }
   ],
   "floors": [
-    "29"
+    {
+      "value": "29",
+      "id": "03ABFA743F7A4C0383E8C8"
+    }
   ],
   "overview": "The project is a new commercial tower located on the corner of Renai Road and Jianguo Road in Taipei, Taiwan for our two client’s Fubon Insurance and Fubon Securities. \nTheir parent company Fubon Financial Holding Co. is a large financial investment holding company with numerous subsidiaries. The building will serve as the headquarters for their Property and Casualty Insurance divisions.\nThe site holds great significance for the current Tsai Brothers Chairmen as it is where Fubon was founded by their father. \n\nThe building addresses the two roads equally, with a gently curved NW corner to connect the two prime office elevations. A horizontal ribbon façade with articulated solar shading further binds the composition. This also provides scale and grain, and, crucial shading to the office floorplate. \nDouble height internal vertical villages animate the NW corner, providing dynamic, democratic spaces for employees to gather, collaborate and socialise. \nDiagonally opposite on the SE corner is a highly glazed and naturally ventilated circulation stair. Visually open and inviting, it encourages wellness through walking between adjacent floors, and its generous landings provide opportunity for chance encounters. \nThe other service elements of the core; lift banks, washrooms and MEP spaces unfold on either side of the corner stair and hold the South and Eastern edges of the building. \n\nThe office floorplate is defined by 9 equal squares on a 9x9m structural grid. \nOpen ceilings are proposed for the office fitout, giving maximum legibility to the structural frame and on floor servicing. \nExpressive steelwork framing defines the core within the overall eccentrically braced structural frame. \nA combination of precast concrete columns and steelwork creates an efficient structure attuned to the high seismic and wind load requirements. \n\nEach office floor provides approximately 1100m2 of GFA and 850m2 of usable office area. \n27 office floors deliver a total of approximately 27000m2 GFA within a height of 120m. \n\nAt the centre of the building height are the social spaces of canteen, gym and meeting rooms, served equally by the low rise and high rise lift banks. \n\nAt the pinnacle of the building is a special floor for the two Tsai Brother Chairmen, containing a memorial office for the Chairmen’s father and private landscaped external terrace which features several significant plants from the existing building. A green roof with photovoltaic array sits above along with centralised MEP plantroom spaces. \n\nAt the ground plane, the podium façade is setback on the diagonal, enhancing the corner address and creating a landscaped public agora beneath the tower above. \nAn entry canopy featuring LED display for public artwork and escalators animate this protected volume delivering visitors to a generous Level 2 lobby. A cafe and covered outdoor terrace provide opportunities for informal meetings and activity. \nSet within the monolithic stone podium is a retail tenancy for their Fubon bank branch, creating active street frontages, with through site connections to a sheltered pocket park and rear laneways.",
   "construction": "The Client has embarked on an Integrated Project Delivery (IPD) method of project delivery.\nDacin were appointed in a Construction Manager - Contractor (CMc) role at the end of Schematic Design to allow for early engagement on issues of schedule, cost, construction and building technology.  \nMultiple contractors will be appointed beneath the CMc. \nDemolition of the existing building commenced in late 2021 and will complete in October 2022. \nConstruction of the basement is planned from late 2022 and will complete in late 2023. \nWith above ground construction to commence in late 2023 with practical completion for the building in October 2026.",
@@ -60,84 +66,84 @@
     {
       "label": "Building Top",
       "value": "127.68m",
-      "elementId": "4LV+ykMQwEatdGmWpp1gIQ"
+      "id": "4LV+ykMQwEatdGmWpp1gIQ"
     }
   ],
   "companies": [
     {
       "label": "Cladding Consultant",
       "value": "CDC",
-      "elementId": "deltek:claddingContractor"
+      "id": "deltek:claddingContractor"
     },
     {
       "label": "Traffic Engineer",
       "value": "Easygogo",
-      "elementId": "deltek:traffic"
+      "id": "deltek:traffic"
     },
     {
       "label": "Structural Engineer",
       "value": "Hsin-Yeh Engineering Consultants Inc",
-      "elementId": "deltek:consultant"
+      "id": "deltek:consultant"
     },
     {
       "label": "Landscape Designer",
       "value": "Motif",
-      "elementId": "deltek:landscapeDesign"
+      "id": "deltek:landscapeDesign"
     },
     {
       "label": "Fire Consultant",
       "value": "Taiwan Fire Service",
-      "elementId": "deltek:fireConsultant"
+      "id": "deltek:fireConsultant"
     },
     {
       "label": "MEP Consultant",
       "value": "Techkey",
-      "elementId": "deltek:mEPConsultant"
+      "id": "deltek:mEPConsultant"
     },
     {
       "label": "Project Manager",
       "value": "Yu Tai Sheng",
-      "elementId": "deltek:projectManager"
+      "id": "deltek:projectManager"
     },
     {
       "label": "Structural Engineer - Lead",
       "value": "WEB Structures",
-      "elementId": "DTQnWGJ2VEKMAirs5wdmqQ"
+      "id": "DTQnWGJ2VEKMAirs5wdmqQ"
     },
     {
       "label": "LEED Consultant",
       "value": "ARUP",
-      "elementId": "5jo1fWxlNEaTg5E8kcJ9wA"
+      "id": "5jo1fWxlNEaTg5E8kcJ9wA"
     },
     {
       "label": "Vertical Transportation Consultant",
       "value": "ARUP",
-      "elementId": "L0BKtAHsEESrDyo1vPxoBw"
+      "id": "L0BKtAHsEESrDyo1vPxoBw"
     },
     {
       "label": "Lighting Designer",
       "value": "CMA",
-      "elementId": "GIxXjyxSv0Cnc7UnhInhnQ"
+      "id": "GIxXjyxSv0Cnc7UnhInhnQ"
     },
     {
       "label": "Executive Architect",
       "value": "HOY",
-      "elementId": "sOYcoN9g1E+a6bs8ys34TA"
+      "id": "sOYcoN9g1E+a6bs8ys34TA"
     },
     {
       "label": "General Contractor",
       "value": "Dacin",
-      "elementId": "5Jcpw3edUUSDPiJ+m6/rZw"
+      "id": "5Jcpw3edUUSDPiJ+m6/rZw"
     },
     {
       "label": "Cladding Contractor",
       "value": "SKLF",
-      "elementId": "UJ4uEde7v0qQs9ZjiALlsw"
+      "id": "UJ4uEde7v0qQs9ZjiALlsw"
     },
     {
       "label": "Steelwork Contractor",
       "value": "China Steel Corporation",
-      "elementId": "j2wOn5eaFEWv7ZJAWP/bkQ"
+      "id": "j2wOn5eaFEWv7ZJAWP/bkQ"
     }
   ],
   "certificates": [

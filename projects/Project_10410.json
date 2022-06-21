@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "10410",
   "url": "residential/place-ladywell",
-  "serializeDate": "'2022-06-19 14:26:26.606'",
-  "serialized": 1655648786606,
+  "serializeDate": "'2022-06-21 14:16:49.592'",
+  "serialized": 1655821009592,
   "serializedBy": "sreeve",
   "title": "PLACE / Ladywell",
   "description": "Rogers Stirk Harbour + Partners’ partnership with Lewisham Council to create a deployable residential development using a volumetric construction method on the site of the former Ladywell Leisure Centre, which was demolished in 2014.",
@@ -42,34 +42,34 @@
     {
       "label": "Cost of manufacture",
       "value": "£1200/m²",
-      "elementId": "b423fbb009f54e6cbeb4fa3ae23ffee1"
+      "id": "b423fbb009f54e6cbeb4fa3ae23ffee1"
     },
     {
       "label": "Total Residential GIA",
       "value": "2 050 m²",
-      "elementId": "66e4c54dd396490d8534cf0bb929332a"
+      "id": "66e4c54dd396490d8534cf0bb929332a"
     },
     {
       "label": "Total Commercial GIA",
       "value": "940m²",
-      "elementId": "3e34707f03244d828e1eb95e888c2ad3"
+      "id": "3e34707f03244d828e1eb95e888c2ad3"
     },
     {
       "label": "Total GIA",
       "value": "2 990m²",
-      "elementId": "f8f94d4cbd6d452c9a88901cabf84380"
+      "id": "f8f94d4cbd6d452c9a88901cabf84380"
     }
   ],
   "companies": [
     {
       "label": "Consultant",
       "value": "AECOM",
-      "elementId": "1030635434de40b197a9120347c07e40"
+      "id": "1030635434de40b197a9120347c07e40"
     },
     {
       "label": "Contractor",
       "value": "SIG Build",
-      "elementId": "c06c2c4b0cc547cd8e4e5d8f47b842fb"
+      "id": "c06c2c4b0cc547cd8e4e5d8f47b842fb"
     }
   ],
   "awards": [

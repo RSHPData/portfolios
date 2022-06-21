@@ -1,8 +1,8 @@
 {
   "type": "Project",
   "id": "12815",
-  "serializeDate": "'2022-06-19 14:26:54.220'",
-  "serialized": 1655648814220,
+  "serializeDate": "'2022-06-21 14:17:14.561'",
+  "serialized": 1655821034561,
   "serializedBy": "sreeve",
   "title": "Shenzhen HongKong Plaza",
   "date": "2021",
@@ -58,7 +58,7 @@
     {
       "label": "Contact",
       "value": "Rocco Design Architects Associates Ltd",
-      "elementId": "deltek:contact"
+      "id": "deltek:contact"
     }
   ]
 }

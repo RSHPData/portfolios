@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "12605",
   "url": "industrial/horse-soldier-farms",
-  "serializeDate": "'2022-06-19 14:26:52.836'",
-  "serialized": 1655648812836,
+  "serializeDate": "'2022-06-21 14:17:13.136'",
+  "serialized": 1655821033136,
   "serializedBy": "sreeve",
   "title": "Horse Soldier Farms",
   "description": "Horse Soldier Farms is a bourbon distillery complex and visitor resort in Somerset, Kentucky, USA",
@@ -44,49 +44,49 @@
     {
       "label": "Site Area",
       "value": "227 acres<br>",
-      "elementId": "059b45d1e6d14be8a72fdeb53222ca0e"
+      "id": "059b45d1e6d14be8a72fdeb53222ca0e"
     }
   ],
   "companies": [
     {
       "label": "Architect of Record",
       "value": "EOP Architects",
-      "elementId": "24b51ec00ec846029ded3d174db1f9f7"
+      "id": "24b51ec00ec846029ded3d174db1f9f7"
     },
     {
       "label": "Structural Engineer",
       "value": "Brown + Kubican",
-      "elementId": "b5c0efb241c74199b53b6fd5a8f17b31"
+      "id": "b5c0efb241c74199b53b6fd5a8f17b31"
     },
     {
       "label": "Process Engineer",
       "value": "VITOK",
-      "elementId": "ef20d4ba8fc84419b5aed047e3424865"
+      "id": "ef20d4ba8fc84419b5aed047e3424865"
     },
     {
       "label": "MEP Engineer",
       "value": "CMTA, Inc.",
-      "elementId": "3856c3d84b85475295757e7ffacafb5e"
+      "id": "3856c3d84b85475295757e7ffacafb5e"
     },
     {
       "label": "Landscape and Civil Engineer",
       "value": "Carman",
-      "elementId": "7ca8614f0bf044109e79635dbf77bd24"
+      "id": "7ca8614f0bf044109e79635dbf77bd24"
     },
     {
       "label": "Experiential Design",
       "value": "BRC Imagination Arts",
-      "elementId": "3cb346579661433d9dabd0300cee8047"
+      "id": "3cb346579661433d9dabd0300cee8047"
     },
     {
       "label": "Facilities Management",
       "value": "CRM Companies",
-      "elementId": "704e998a82304b82bf7ca7e298dcb332"
+      "id": "704e998a82304b82bf7ca7e298dcb332"
     },
     {
       "label": "Contractor",
       "value": "D.W. Wilburn, Inc.",
-      "elementId": "245dc662b7f54a69bc0f2c111973cb58"
+      "id": "245dc662b7f54a69bc0f2c111973cb58"
     }
   ]
 }

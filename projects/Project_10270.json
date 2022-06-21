@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "10270",
   "url": "residential/prouvé-house",
-  "serializeDate": "'2022-06-19 14:26:24.406'",
-  "serialized": 1655648784406,
+  "serializeDate": "'2022-06-21 14:16:47.268'",
+  "serialized": 1655821007268,
   "serializedBy": "sreeve",
   "title": "Prouvé House",
   "description": "Galerie Patrick Seguin commissioned RSHP to adapt a design for a ‘6m x 6m Demountable House’ by the self-taught French architect and designer Jean Prouvé, modernising it for use as a holiday home.",
@@ -29,7 +29,7 @@
     {
       "label": "Internal Area",
       "value": "44m²",
-      "elementId": "5e72fa4288734a29828f659cade3ce57"
+      "id": "5e72fa4288734a29828f659cade3ce57"
     }
   ],
   "companies": []

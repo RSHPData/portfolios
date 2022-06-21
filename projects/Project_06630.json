@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "06630",
   "url": "mixed-use/kunming-competition",
-  "serializeDate": "'2022-06-19 14:26:12.897'",
-  "serialized": 1655648772897,
+  "serializeDate": "'2022-06-21 14:16:36.215'",
+  "serialized": 1655820996215,
   "serializedBy": "sreeve",
   "title": "Kunming Competition",
   "description": "The Camellia development is a major mixed-use development located in the centre of Kunming’s CBD. Flanked by the Ginko Department Store and Beijing Road.",
@@ -43,21 +43,24 @@
     "Stephen Spence"
   ],
   "floors": [
-    "72"
+    {
+      "value": "72",
+      "id": "37658ECC700E4CEBBF5D40"
+    }
   ],
   "overview": "The Camellia development is a major mixed-use development located in the centre of Kunming’s CBD. Flanked by the Ginko Department Store and Beijing Road, a bustling commercial street in the city, the scheme capitalises on new levels of investment to the city’s economy by creating a centralised shopping experience with a commercial tower comprised of over 1.5million square foot of office space, alongside a residential tower offering quality apartments, all brought together by an integrated public realm.\n\nA network of modular steel frames link together floorplates of various scale and proportion to support the diverse set of functions it accommodates. Whilst the expressive structure gives nod to Kunming’s industrial heritage, the flexible framework it creates is designed with the future needs of this evolving hub in mind.\n\n\nThis landmark development is designed to take advantage of the city’s year-round mild weather, where a series of ground level parks, courtyards, roof and sky gardens define a well-connected, permeable public world along with private premises, with an aspiration to create a 24-hour living place, full of activities in daytime and evening, in an accessible, safe environment with an emphasis on well-being.\n\nThe scheme strives to be the cultivating ground for the rich diversity of native flora and fauna with active encouragement of birds creating a development that is a centre for sustainable excellence.",
   "dimensions": [
     {
       "label": "Site Area",
       "value": "56 043 m²",
-      "elementId": "05f3079d3bf547158d11688330ec7d3b"
+      "id": "05f3079d3bf547158d11688330ec7d3b"
     }
   ],
   "companies": [
     {
       "label": "Cost Consultant",
       "value": "Davis Langdon",
-      "elementId": "8d8a42922e40415a9aa4e45015c4c2fe"
+      "id": "8d8a42922e40415a9aa4e45015c4c2fe"
     }
   ],
   "awards": [],

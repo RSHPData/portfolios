@@ -1,8 +1,8 @@
 {
   "type": "Project",
   "id": "06840",
-  "serializeDate": "'2022-06-19 14:26:17.578'",
-  "serialized": 1655648777578,
+  "serializeDate": "'2022-06-21 14:16:40.615'",
+  "serialized": 1655821000615,
   "serializedBy": "sreeve",
   "title": "Cambridge Judge Business School",
   "description": "Cambridge Jude Business School was an extension of the Old Addenbrooke’s Hospital building, which was a Grade II listed building, to consolidate the teaching facilities of the school on the Addenbrooke's site.\nIt was an Invited Competition for an Outline Masterplan - RSHP was 1 of 4 teams",
@@ -34,24 +34,24 @@
     {
       "label": "Area",
       "value": "5300m2",
-      "elementId": "EfxoR81QLEOR77yvGkD7SQ"
+      "id": "EfxoR81QLEOR77yvGkD7SQ"
     }
   ],
   "companies": [
     {
       "label": "Competition Winner",
       "value": "Stanton Williams",
-      "elementId": "deltek:competitionWinner"
+      "id": "deltek:competitionWinner"
     },
     {
       "label": "Structural Engineer",
       "value": "Arup",
-      "elementId": "84UDywKO00iMFsZWZenV0g"
+      "id": "84UDywKO00iMFsZWZenV0g"
     },
     {
       "label": "Landscape Architect",
       "value": "Gillespies",
-      "elementId": "r4PfzPkyCUCiPhyXgqw6Ng"
+      "id": "r4PfzPkyCUCiPhyXgqw6Ng"
     }
   ]
 }

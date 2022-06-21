@@ -1,8 +1,8 @@
 {
   "type": "Project",
   "id": "10750",
-  "serializeDate": "'2022-06-19 14:26:35.234'",
-  "serialized": 1655648795234,
+  "serializeDate": "'2022-06-21 14:16:57.391'",
+  "serialized": 1655821017391,
   "serializedBy": "sreeve",
   "title": "Qiantan Shanghai Pudong",
   "description": "A new high end residential development located in the district of Qiantan, Pudong near the centre of Shanghai. \nFeaturing six residential towers, ranging from eight to eleven stories. \nDelivering over 25 000 m2 of GFA across 177 units.",
@@ -63,164 +63,170 @@
     "Alexandria Fu"
   ],
   "heights": [
-    "42m max"
+    {
+      "value": "42m max",
+      "id": "45CBB5764B6941C9A3CCA8"
+    }
   ],
   "floors": [
-    "8 - 11 floors (varies)"
+    {
+      "value": "8 - 11 floors (varies)",
+      "id": "68103370AE544ACC9FCB94"
+    }
   ],
   "overview": "A new high end residential development located in the district of Qiantan, Pudong near the centre of Shanghai. Located adjacent to generous riverside parklands, comprehensive sports facilities and the prestigious Wellington International School this is a highly desirable neighbourhood. \n\nThe project comprises 6 residential towers, ranging from eight to eleven stories. Dramatic glass sloped roof penthouses crown the eleven storey tower blocks, with simpler roofscapes to the shorter eight storey block buildings.  \n25 000 m2 of GFA is provided across 177 units with a variety of 2 bedroom, 3 bedroom, 3 bedroom plus study and duplex configurations. \nThe 6 buildings are sited to address the 4 street edges, creating a generous landscaped social heart to the site. \nAll units are minimum dual aspect, maximising views to the adjacent parkland and river, Southern daylight access and privacy. \n\nThe buildings feature a structural steel frame with composite deck flooring. Curtain wall cladding systems of glass, aluminium and dimensioned granite stone create a precise and restrained façade composition. Angular corner balconies hang from the primary structure offer prime promontories to the corner units and are celebrated in bright colour. Glazed and louvred balconies dress the other facades to allow full height operable glazing to all habitable rooms. The steel framed lift cores are expressed as separate towers with highly glazed link bridge connections.",
   "dimensions": [
     {
       "label": "Site Area",
       "value": "12 258 m2",
-      "elementId": "Iznz+IlQAk+09PvRD2imaQ"
+      "id": "Iznz+IlQAk+09PvRD2imaQ"
     },
     {
       "label": "Green Ratio",
       "value": "35%",
-      "elementId": "SkX4cENTm0ufRKYS1DtxPw"
+      "id": "SkX4cENTm0ufRKYS1DtxPw"
     },
     {
       "label": "Green Area",
       "value": "4 300 m2",
-      "elementId": "g3b9MpuP20KYUmtC4Y1QVg"
+      "id": "g3b9MpuP20KYUmtC4Y1QVg"
     },
     {
       "label": "Floor Area Ratio",
       "value": "2.0",
-      "elementId": "CC2ZhRiV+EmKv+lUz4x58Q"
+      "id": "CC2ZhRiV+EmKv+lUz4x58Q"
     },
     {
       "label": "Gross Floor Area (above ground)",
       "value": "25 430 m2",
-      "elementId": "dWt97OXjVUiVwVaeZWkUHA"
+      "id": "dWt97OXjVUiVwVaeZWkUHA"
     },
     {
       "label": "Gross Floor Area (below ground)",
       "value": "26 800 m2",
-      "elementId": "GPx/BI3gLkCfzelH0u/M2w"
+      "id": "GPx/BI3gLkCfzelH0u/M2w"
     },
     {
       "label": "Total Construction Area",
       "value": "52 230 m2",
-      "elementId": "OvhJ+RTmAkmTwIwf4Ph89A"
+      "id": "OvhJ+RTmAkmTwIwf4Ph89A"
     },
     {
       "label": "Parking Spaces",
       "value": "240 (all in basement)",
-      "elementId": "IY7qhtHfak+2TOZzR1uTrg"
+      "id": "IY7qhtHfak+2TOZzR1uTrg"
     },
     {
       "label": "Bike Parking",
       "value": "252",
-      "elementId": "dDYFGUFRjE2yQLJEctD7kQ"
+      "id": "dDYFGUFRjE2yQLJEctD7kQ"
     },
     {
       "label": "Total Units",
       "value": "177",
-      "elementId": "kxCP6oJevUKYs/ZxP9tJfw"
+      "id": "kxCP6oJevUKYs/ZxP9tJfw"
     },
     {
       "label": "Maximum Occupancy",
       "value": "566 people (3.2 persons per unit)",
-      "elementId": "lchSh2MiTU26FNwm4N4f/w"
+      "id": "lchSh2MiTU26FNwm4N4f/w"
     },
     {
       "label": "Total 2B Units",
       "value": "88",
-      "elementId": "wHaK5boDY0+zuNUXjuF5Dg"
+      "id": "wHaK5boDY0+zuNUXjuF5Dg"
     },
     {
       "label": "Total 3B Units",
       "value": "28",
-      "elementId": "K5WAtJjLFkap2siLqo4++w"
+      "id": "K5WAtJjLFkap2siLqo4++w"
     },
     {
       "label": "Total 3B + Study Units",
       "value": "56",
-      "elementId": "H7AxhHC25kqRhbrAWcYtVQ"
+      "id": "H7AxhHC25kqRhbrAWcYtVQ"
     },
     {
       "label": "Total Duplex Units",
       "value": "5",
-      "elementId": "jkAjjoUwLkyBadJifssSGQ"
+      "id": "jkAjjoUwLkyBadJifssSGQ"
     },
     {
       "label": "Affordable Housing Units",
       "value": "5.18%",
-      "elementId": "iRN2QU8dJE+2lsxbFJICYA"
+      "id": "iRN2QU8dJE+2lsxbFJICYA"
     },
     {
       "label": "Amenity Spaces",
       "value": "Property Management Office, Community Spaces, Security Office, Residential Committee Office",
-      "elementId": "MWeVXWsqV0OKzEZa7IRTWg"
+      "id": "MWeVXWsqV0OKzEZa7IRTWg"
     },
     {
       "label": "Civil Defence Area",
       "value": "2 970 m2",
-      "elementId": "2g0o1XzClUmLJpeLR3eG6A"
+      "id": "2g0o1XzClUmLJpeLR3eG6A"
     },
     {
       "label": "North-South Unit Orientation",
       "value": "72%",
-      "elementId": "/xU0QkjMp0KfZyC4PDoQdg"
+      "id": "/xU0QkjMp0KfZyC4PDoQdg"
     },
     {
       "label": "East-West Unit Orientation",
       "value": "28%",
-      "elementId": "ooo80f5JnkqCg30HnbxDfA"
+      "id": "ooo80f5JnkqCg30HnbxDfA"
     },
     {
       "label": "Land Cost",
       "value": "70 000 rmb/m2 approx",
-      "elementId": "F8wYImzLdk2eoGKoIMXg9A"
+      "id": "F8wYImzLdk2eoGKoIMXg9A"
     },
     {
       "label": "Construction Cost",
       "value": "100 000 rmb/m2",
-      "elementId": "DBBMtVl1XEiZyLt/1VO2rQ"
+      "id": "DBBMtVl1XEiZyLt/1VO2rQ"
     },
     {
       "label": "Sales Price (desired)",
       "value": "200 000 - 250 000 rmb/m2",
-      "elementId": "Fdb2PLKbLkO/sEUNAsUM0g"
+      "id": "Fdb2PLKbLkO/sEUNAsUM0g"
     },
     {
       "label": "Sales Price Cap (government)",
       "value": "87 500 rmb/m2",
-      "elementId": "u9y6L3G5iU2kYed71eHE3w"
+      "id": "u9y6L3G5iU2kYed71eHE3w"
     }
   ],
   "companies": [
     {
       "label": "Local/Executive Architect",
       "value": "East China Architectural Design & Research Institute Co., Ltd (ECADI)",
-      "elementId": "deltek:local/ExecutiveArchitect"
+      "id": "deltek:local/ExecutiveArchitect"
     },
     {
       "label": "Structural Engineer",
       "value": "Schlaich Bergermann Partner (SBP)",
-      "elementId": "vYRtBwdM/EeHMBAvaDuH0Q"
+      "id": "vYRtBwdM/EeHMBAvaDuH0Q"
     },
     {
       "label": "MEP",
       "value": "WSP Parsons Brinckerhoff",
-      "elementId": "DZGKFGXYTEyUdzMdYXZqgA"
+      "id": "DZGKFGXYTEyUdzMdYXZqgA"
     },
     {
       "label": "Landscape",
       "value": "Gillespies",
-      "elementId": "lv8cRPgX0U2RfngwZPGacA"
+      "id": "lv8cRPgX0U2RfngwZPGacA"
     },
     {
       "label": "Visualisations",
       "value": "ATCHAIN",
-      "elementId": "nLND3YNz1kqiINrst38rTA"
+      "id": "nLND3YNz1kqiINrst38rTA"
     },
     {
       "label": "Facade Engineer",
       "value": "ALT",
-      "elementId": "IYkcxpT3XkG0TgbrOyLeYQ"
+      "id": "IYkcxpT3XkG0TgbrOyLeYQ"
     }
   ]
 }

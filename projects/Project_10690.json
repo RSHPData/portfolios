@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "10690",
   "url": "transport/taoyuan-airport-t3",
-  "serializeDate": "'2022-06-19 14:26:31.755'",
-  "serialized": 1655648791755,
+  "serializeDate": "'2022-06-21 14:16:54.582'",
+  "serialized": 1655821014582,
   "serializedBy": "sreeve",
   "title": "Taoyuan Airport T3",
   "description": "The design for Taoyuan Terminal 3 synthesises the practice’s previous major airport experience with the specific brief.",
@@ -52,44 +52,44 @@
     {
       "label": "Gross Area",
       "value": "640 000 m²",
-      "elementId": "c21564056b50448f88b9e23e5c6d9c36"
+      "id": "c21564056b50448f88b9e23e5c6d9c36"
     }
   ],
   "companies": [
     {
       "label": "Co-Architect",
       "value": "Fei & Cheng Associates",
-      "elementId": "da00067e18a04b049e71d71a16f6fc5e"
+      "id": "da00067e18a04b049e71d71a16f6fc5e"
     },
     {
       "label": "Structural Engineer",
       "value": "CECI Engineering Consultants / Arup",
-      "elementId": "e5d948e8a7b24b00a101d8d4886f267e"
+      "id": "e5d948e8a7b24b00a101d8d4886f267e"
     },
     {
       "label": "Landscape Architect",
       "value": "Gillespies",
-      "elementId": "e10410be6e704fb88e6d333493464166"
+      "id": "e10410be6e704fb88e6d333493464166"
     },
     {
       "label": "Retail Architect",
       "value": "The Design Solution",
-      "elementId": "29010cca72ec438181600f26c6529bfe"
+      "id": "29010cca72ec438181600f26c6529bfe"
     },
     {
       "label": "Baggage Handling Consultants",
       "value": "BNP Associates",
-      "elementId": "34ec893b30c545d4bdbe33306fa1affb"
+      "id": "34ec893b30c545d4bdbe33306fa1affb"
     },
     {
       "label": "Aviation Services",
       "value": "Fraport",
-      "elementId": "9b652d5c71d44bdea756b9fdf45d46d2"
+      "id": "9b652d5c71d44bdea756b9fdf45d46d2"
     },
     {
       "label": "Transport Consultant",
       "value": "OTC",
-      "elementId": "b3f4f9375f4b49e09246243dad6ae43f"
+      "id": "b3f4f9375f4b49e09246243dad6ae43f"
     }
   ],
   "awards": [],

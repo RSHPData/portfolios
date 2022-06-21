@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "05500",
   "url": "masterplanning/grand-paris",
-  "serializeDate": "'2022-06-19 14:25:58.293'",
-  "serialized": 1655648758293,
+  "serializeDate": "'2022-06-21 14:16:22.507'",
+  "serialized": 1655820982507,
   "serializedBy": "sreeve",
   "title": "Grand Paris",
   "description": "The practice was invited by the French President to study ‘Grand Paris’ looking at the future of the French capital as an integrated metropolitan region.",
@@ -42,7 +42,7 @@
     {
       "label": "Team",
       "value": "London School of Economics, Arup",
-      "elementId": "912927d7d3c646369541d13ce424175e"
+      "id": "912927d7d3c646369541d13ce424175e"
     }
   ],
   "awards": [],

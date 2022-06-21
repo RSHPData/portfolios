@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "10380",
   "url": "office/international-quarter-london",
-  "serializeDate": "'2022-06-19 14:26:25.904'",
-  "serialized": 1655648785904,
+  "serializeDate": "'2022-06-21 14:16:48.926'",
+  "serialized": 1655821008926,
   "serializedBy": "sreeve",
   "title": "International Quarter London",
   "description": "International Quarter London is a joint venture between Lend Lease and London Continental Railways to create a thriving business quarter at the heart of London’s newest metropolitan area, Stratford City, E20.",
@@ -66,39 +66,39 @@
     {
       "label": "Total Area",
       "value": "371 000  m²",
-      "elementId": "beee7c8bd5be4c9f9dafb652c0d7e9da"
+      "id": "beee7c8bd5be4c9f9dafb652c0d7e9da"
     },
     {
       "label": "Building S5",
       "value": "48 000  m² NIA",
-      "elementId": "6d3bf9d500c843c58f71278c97c0414e"
+      "id": "6d3bf9d500c843c58f71278c97c0414e"
     },
     {
       "label": "Building S6",
       "value": "24 619 m² NIA",
-      "elementId": "4ea3f0d89e5d4b65abbc3b8ce0425999"
+      "id": "4ea3f0d89e5d4b65abbc3b8ce0425999"
     }
   ],
   "companies": [
     {
       "label": "Structural Engineer",
       "value": "Arup / Ramboll",
-      "elementId": "08f421f179334b029a0e6ded9f02e709"
+      "id": "08f421f179334b029a0e6ded9f02e709"
     },
     {
       "label": "Services Engineer",
       "value": "Hoare Lea",
-      "elementId": "d21784ab6656420a9284e8e4d24f35f9"
+      "id": "d21784ab6656420a9284e8e4d24f35f9"
     },
     {
       "label": "Landscape Architect",
       "value": "Gustafson Porter",
-      "elementId": "35831768e10b48e38e53c9154276c63f"
+      "id": "35831768e10b48e38e53c9154276c63f"
     },
     {
       "label": "Contractor",
       "value": "Lend Lease",
-      "elementId": "cd93b9b5819f45b3b1d20f655b1a9c1f"
+      "id": "cd93b9b5819f45b3b1d20f655b1a9c1f"
     }
   ],
   "awards": [],

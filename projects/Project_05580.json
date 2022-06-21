@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "05580",
   "url": "office/atrio",
-  "serializeDate": "'2022-06-19 14:28:52.02'",
-  "serialized": 1655648932002,
+  "serializeDate": "'2022-06-21 14:16:23.204'",
+  "serialized": 1655820983204,
   "serializedBy": "sreeve",
   "title": "Atrio",
   "description": "Atrio is a major mixed-use commercial development in central Bogotá comprising two towers – North and South – with a large, open public space at ground level.",
@@ -76,71 +76,74 @@
     "Carmen Peña"
   ],
   "heights": [
-    "201 and 268 metres"
+    {
+      "value": "201 and 268 metres",
+      "id": "0893C9B1FC8146149BF72F"
+    }
   ],
   "overview": "Atrio is a major mixed-use commercial development in central Bogotá comprising two towers – North and South – with a large, open public space at ground level.\n\nAt 42 floors (201 metres) and 58 floors (268 metres) high respectively, the towers provide a total of more than 250,000 m² of office space, public services and retail with up to 72,000 people expected to pass through each day.\n\nTogether with an additional 10,000 m² of public space, which constitutes two thirds of the whole site area, the development is an important step in the regeneration of the area known as Centro Internacional, bringing new business, tourism, public transport and culture to city’s former business district.\n\n\nThe project delivery is in two phases, with the first building Atrio North Tower creating more than 50,000 m² of flexible office space, 4,600 m² of public services and 1,800 m² of retail. Construction of the first phase began in December 2014 with preliminary excavations and was completed in January 2020.\n\nA significant project deliverable is effective knowledge sharing between the international and Colombian firms, and RSHP is working closely with local architectural practice El Equipo de Mazzanti to ensure skills are transferred locally.",
   "dimensions": [
     {
       "label": "Office Area",
       "value": "250 000 m²",
-      "elementId": "7c131ed113434e33b8b5f2602304300e"
+      "id": "7c131ed113434e33b8b5f2602304300e"
     },
     {
       "label": "Public space",
       "value": "10 000 m²",
-      "elementId": "db9bf84b399b449d90b951b352d4c00f"
+      "id": "db9bf84b399b449d90b951b352d4c00f"
     }
   ],
   "companies": [
     {
       "label": "Co-Architect",
       "value": "El Equipo Mazzanti",
-      "elementId": "b54c78833ec4453d98f43ffbb3f2e378"
+      "id": "b54c78833ec4453d98f43ffbb3f2e378"
     },
     {
       "label": "Structural Engineer",
       "value": "Arup",
-      "elementId": "02368b0d5d77492582e0c4e4ca029301"
+      "id": "02368b0d5d77492582e0c4e4ca029301"
     },
     {
       "label": "Services Engineer",
       "value": "Arup",
-      "elementId": "74504417dab34b3d88e4a9df982f3c7d"
+      "id": "74504417dab34b3d88e4a9df982f3c7d"
     },
     {
       "label": "Landscape Architect",
       "value": "Gillespies",
-      "elementId": "f96d315919f6412c8c212291a1f4c46f"
+      "id": "f96d315919f6412c8c212291a1f4c46f"
     },
     {
       "label": "Main Contractor",
       "value": "ARPRO - EllisDon",
-      "elementId": "af098197ed424d9c9288c3fbebb59d6a"
+      "id": "af098197ed424d9c9288c3fbebb59d6a"
     },
     {
       "label": "Planning Consultant",
       "value": "Claudia Sandoval",
-      "elementId": "4ac12b09690c4c629b5bc68a0fb0d5bd"
+      "id": "4ac12b09690c4c629b5bc68a0fb0d5bd"
     },
     {
       "label": "Lifts Engineer",
       "value": "Arup",
-      "elementId": "9212de7f1b744ccf92645e51e672e479"
+      "id": "9212de7f1b744ccf92645e51e672e479"
     },
     {
       "label": "Façade Engineer",
       "value": "Arup",
-      "elementId": "6279376a678c4cf6a9eea0b3c129388b"
+      "id": "6279376a678c4cf6a9eea0b3c129388b"
     },
     {
       "label": "Quantity Surveyor",
       "value": "Aecom",
-      "elementId": "b27b35aba9ea499a9a7ca194b374965c"
+      "id": "b27b35aba9ea499a9a7ca194b374965c"
     },
     {
       "label": "Traffic Engineer",
       "value": "Steer Davies Gleave",
-      "elementId": "25f494b87ea94ac294cd1abd3f3e5a7c"
+      "id": "25f494b87ea94ac294cd1abd3f3e5a7c"
     }
   ],
   "awards": [

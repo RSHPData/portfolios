@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "05100",
   "url": "transport/capodichino-metro-station",
-  "serializeDate": "'2022-06-19 14:25:52.159'",
-  "serialized": 1655648752159,
+  "serializeDate": "'2022-06-21 14:16:15.331'",
+  "serialized": 1655820975331,
   "serializedBy": "sreeve",
   "title": "Capodichino Metro Station",
   "description": "The extension to the city of Naples’ Metropolitana Linea 1, part of the Naples Metro system, is a showpiece development, with each station designed by an international artist or architect.",
@@ -40,44 +40,44 @@
     {
       "label": "Site Area",
       "value": "12 700 m²",
-      "elementId": "84b3c6d3e8ce47f2b635b09a02a06eef"
+      "id": "84b3c6d3e8ce47f2b635b09a02a06eef"
     }
   ],
   "companies": [
     {
       "label": "Co-Architect",
       "value": "DA Studio",
-      "elementId": "e47d615727d247309d9bb01d060224bd"
+      "id": "e47d615727d247309d9bb01d060224bd"
     },
     {
       "label": "Local  Architect",
       "value": "Smith Barracco Studio",
-      "elementId": "960dd72916914d64b9ed1199ba4e7a56"
+      "id": "960dd72916914d64b9ed1199ba4e7a56"
     },
     {
       "label": "Structural Engineer",
       "value": "Expedition / Stipe",
-      "elementId": "88b29752e6454c8fbe56cf8b251435de"
+      "id": "88b29752e6454c8fbe56cf8b251435de"
     },
     {
       "label": "Contractor",
       "value": "Astaldi - Moccia",
-      "elementId": "f6c14b403522497ab929ad0e2b737d0b"
+      "id": "f6c14b403522497ab929ad0e2b737d0b"
     },
     {
       "label": "Cost Consultant",
       "value": "Metropolitana di Napoli",
-      "elementId": "fd0cbe6b569a463f8f5b711ae160b1ac"
+      "id": "fd0cbe6b569a463f8f5b711ae160b1ac"
     },
     {
       "label": "Civil Engineer",
       "value": "Metropolitana Milanese / Stipe",
-      "elementId": "29e0961f4c5d493cb6f82ee962778691"
+      "id": "29e0961f4c5d493cb6f82ee962778691"
     },
     {
       "label": "Traffic Engineer",
       "value": "Arup",
-      "elementId": "8e3f45664950490d9dfde09e6227ea74"
+      "id": "8e3f45664950490d9dfde09e6227ea74"
     }
   ],
   "awards": [],

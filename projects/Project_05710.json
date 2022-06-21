@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "05710",
   "url": "residential/riverlight",
-  "serializeDate": "'2022-06-19 14:26:03.759'",
-  "serialized": 1655648763759,
+  "serializeDate": "'2022-06-21 14:16:27.784'",
+  "serialized": 1655820987784,
   "serializedBy": "sreeve",
   "title": "Riverlight",
   "description": "Riverlight transforms a triangular, five-acre industrial estate – close to Battersea Power Station on the south bank of the River Thames – into a residential-led mixed use development.",
@@ -35,7 +35,10 @@
     "Stephen Light"
   ],
   "floors": [
-    "20"
+    {
+      "value": "20",
+      "id": "20C6EF0341AB47EE8ADD40"
+    }
   ],
   "overview": "Riverlight transforms a triangular, five-acre industrial estate – close to Battersea Power Station on the south bank of the River Thames – into a residential-led mixed use development, creating a transition between the large footprints of the power station and the smaller residential developments to the east.\n\nThe scheme includes 813 homes, underground parking, crèche, restaurants, bars, a food store and other retail spaces. It incorporates a river walk and landscaping to take full advantage of its location and create attractive public spaces for the local community. The development is made up of six buildings, arranged in a rising-form composition, ranging in height from 12 to 20 storeys and giving the development a varied skyline. Around 60 per cent of the scheme is designated as public open space.\n\n\nThe architectural expression takes its cue from the former industrial warehouse buildings that lined the river. The language is of simple robust structures which emphasise their construction. Buildings are divided into three distinct zones: top, middle, and base. Top levels are lightweight, two-storey structures with gull-wing roofs; mid levels are represented as concrete floors expressed every two storeys, with intermediate floors expressed as lightweight steel balconies.\n\n\nIn landscape terms, each area of the development is conceived as having its own distinct character. The newly created river walk – slightly raised to allow views over the river wall to the Thames – brings a 17m-wide boulevard to a previously underused part of the waterfront. Commercial and community uses at street level – including restaurants, bars and cafés arranged around the dock inlet, as well as a food store, crèche and business suite – attract visitors onto the site and animate the public areas of the scheme.",
   "design": "All six buildings are oriented north/south and are of varying lengths, filling the site and defining all major boundaries. The accommodation is generally organised east/west as simple orthogonal spaces served by a series of independent vertical circulation towers.The cores are conceived as glazed lift enclosures creating counterpoints that interrupt the simplicity of the main linear façades.\n\nIn landscape terms, each area of the development is conceived as having its own distinct character. The public areas are treated as a revealed river bed with a series of soft, pebble-like forms, while the private courtyards form calm green spaces with heavy tree planting and water gardens. The newly-created river walk – slightly raised to allow views over the river wall to the Thames – brings a 17m-wide boulevard to a previously underused part of the waterfront.\n\nA proposed pocket park adjacent to the dock inlet will provide a generous area of public realm with a mixture of soft and hard landscaping.\n\nThe buildings are organised to accommodate a wide variety of apartments based on two essential types: one-bed apartments with living and bedroom areas wrapped around a single terrace; and two-bed apartments in which the master bedroom shares an additional terrace area divided from the neighbouring two-bed unit.\n\n\nThe arrangement seeks to maximise views and sunlight to each dwelling. The apartments – typically single aspect – are organised as east or west facing and typically grouped as five units per core, minimising corridor lengths.\n\nThe systematic nature of the proposals and the scale of the development (comprising 752 units) offered RSHP an opportunity to use colour as a means of providing individual identity to buildings, where a graphic coding would assist in way-finding. However, the approach sought to avoid the indiscriminate use of colour which might easily date the development whilst being mindful of the fact that colour might have a variable impact with distance – more muted at long range but emphasised more strongly within the development itself at close range. As a result, colour has been used to emphasise secondary elements such as the underside and leading edges of intermediate steel balconies and guide rails to lift units.",
@@ -44,49 +47,49 @@
     {
       "label": "Site Area",
       "value": "2.2 ha",
-      "elementId": "27ee1248cdc346ff9ac121c7d45b7cc6"
+      "id": "27ee1248cdc346ff9ac121c7d45b7cc6"
     },
     {
       "label": "Net Residential Area",
       "value": "98 015 m²",
-      "elementId": "6c23c1e11ba14fd1900020d8abb06cc4"
+      "id": "6c23c1e11ba14fd1900020d8abb06cc4"
     }
   ],
   "companies": [
     {
       "label": "Co-Architect",
       "value": "EPR",
-      "elementId": "ef74ea0453114ef6aa5b573a53bb7707"
+      "id": "ef74ea0453114ef6aa5b573a53bb7707"
     },
     {
       "label": "Structural Engineer",
       "value": "Ramboll",
-      "elementId": "e68857e9ffc241f2a840a0cff66f27b5"
+      "id": "e68857e9ffc241f2a840a0cff66f27b5"
     },
     {
       "label": "Services Engineer",
       "value": "Hoare Lea",
-      "elementId": "ce66bc5bf2554c64bb7b4b42469cb38b"
+      "id": "ce66bc5bf2554c64bb7b4b42469cb38b"
     },
     {
       "label": "Landscape Architect",
       "value": "Gillespies LLP",
-      "elementId": "4d008179b67d4eba989ba55c5b0f2ded"
+      "id": "4d008179b67d4eba989ba55c5b0f2ded"
     },
     {
       "label": "Contractor",
       "value": "St James Group",
-      "elementId": "35a9303d0adf45e2a3f0cd259c5d78dc"
+      "id": "35a9303d0adf45e2a3f0cd259c5d78dc"
     },
     {
       "label": "Planning Consultant",
       "value": "TP Bennett",
-      "elementId": "dc83873b56064071bb8de9242e8742e8"
+      "id": "dc83873b56064071bb8de9242e8742e8"
     },
     {
       "label": "Townscape Consultant",
       "value": "Montagu Evans",
-      "elementId": "ce31446e4b774652957b39f48e9312a0"
+      "id": "ce31446e4b774652957b39f48e9312a0"
     }
   ],
   "awards": [

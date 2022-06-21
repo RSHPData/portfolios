@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "05440",
   "url": "culture-and-leisure/marine-hotel/",
-  "serializeDate": "'2022-06-19 14:25:57.590'",
-  "serialized": 1655648757590,
+  "serializeDate": "'2022-06-21 14:16:21.534'",
+  "serialized": 1655820981534,
   "serializedBy": "sreeve",
   "title": "Marine Hotel",
   "description": "RSHP proposed the replacement of the original Marine Hotel in Salcombe – which has occupied a prime waterfront site on the cliffs above the quay since 1880 – with a contemporary, luxury hotel and a series of new residential units.",
@@ -36,24 +36,24 @@
     {
       "label": "Total development area (including underground car park)",
       "value": "13 935 m²",
-      "elementId": "476acb9a755d4cbab900432bd65bbb45"
+      "id": "476acb9a755d4cbab900432bd65bbb45"
     },
     {
       "label": "Hotel area",
       "value": "10 219 m²",
-      "elementId": "2a407c2b99fc4ab2bdbfee5bc244cf51"
+      "id": "2a407c2b99fc4ab2bdbfee5bc244cf51"
     },
     {
       "label": "Residential area",
       "value": "37 160 m²",
-      "elementId": "ebb1fe245e7041a3bb32d0de9cc717e1"
+      "id": "ebb1fe245e7041a3bb32d0de9cc717e1"
     }
   ],
   "companies": [
     {
       "label": "Structural Engineer",
       "value": "Expedition Engineering",
-      "elementId": "5ffd42038c784a8a9399332fe33c6b4d"
+      "id": "5ffd42038c784a8a9399332fe33c6b4d"
     }
   ],
   "awards": [],

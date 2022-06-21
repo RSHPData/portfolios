@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "06780",
   "url": "residential/burlington-gate",
-  "serializeDate": "'2022-06-19 14:26:15.979'",
-  "serialized": 1655648775979,
+  "serializeDate": "'2022-06-21 14:16:39.243'",
+  "serialized": 1655820999243,
   "serializedBy": "sreeve",
   "title": "Burlington Gate",
   "description": "Burlington Gate is made up of apartments and galleries, as well as a new public space in the form of an arcade that runs from Old Burlington Street to Cork Street.",
@@ -56,39 +56,39 @@
     {
       "label": "Total Area",
       "value": "12 000 m²",
-      "elementId": "0f656a7990e440019d8c4499685fd482"
+      "id": "0f656a7990e440019d8c4499685fd482"
     }
   ],
   "companies": [
     {
       "label": "Structural Engineer",
       "value": "Waterman Structures Limited",
-      "elementId": "2b994062c477468dbafba346d856ba41"
+      "id": "2b994062c477468dbafba346d856ba41"
     },
     {
       "label": "Services Engineer",
       "value": "Waterman Building Services",
-      "elementId": "6ce3a03f1abd4db793a9fe4db88ef4b0"
+      "id": "6ce3a03f1abd4db793a9fe4db88ef4b0"
     },
     {
       "label": "Contractor",
       "value": "Multiplex",
-      "elementId": "ef4c7fd527b54e19adfb8afbc8ce5cf9"
+      "id": "ef4c7fd527b54e19adfb8afbc8ce5cf9"
     },
     {
       "label": "Cost Consultant",
       "value": "Core 5",
-      "elementId": "ac71b7d53cc44adfaa7f48f1f52bca56"
+      "id": "ac71b7d53cc44adfaa7f48f1f52bca56"
     },
     {
       "label": "Planning Consultant",
       "value": "DP9",
-      "elementId": "0be6cda69d44409b955f2de6e091283a"
+      "id": "0be6cda69d44409b955f2de6e091283a"
     },
     {
       "label": "Fire Consultant",
       "value": "Waterman",
-      "elementId": "b75edbee395f40649fb5612d60bcbfd3"
+      "id": "b75edbee395f40649fb5612d60bcbfd3"
     }
   ]
 }

@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "05670",
   "url": "office/bbva-bancomer-tower/",
-  "serializeDate": "'2022-06-19 14:26:03.017'",
-  "serialized": 1655648763017,
+  "serializeDate": "'2022-06-21 14:16:26.850'",
+  "serialized": 1655820986850,
   "serializedBy": "sreeve",
   "title": "BBVA Bancomer Tower",
   "description": "A new urban landmark on the skyline of Mexico City, the tower marks the gateway to the Paseo de la Reforma from Chapultepec Park.",
@@ -72,10 +72,16 @@
     "Georgina Robledo"
   ],
   "heights": [
-    "235m"
+    {
+      "value": "235m",
+      "id": "E61D0130F2E2498F905763"
+    }
   ],
   "floors": [
-    "50"
+    {
+      "value": "50",
+      "id": "B121A8C782674BC2B3FA60"
+    }
   ],
   "overview": "A new urban landmark on the skyline of Mexico City, the tower marks the gateway to the Paseo de la Reforma from Chapultepec Park.\n\nThe BBVA Bancomer tower is the result of a collaboration between architectural practices Rogers Stirk Harbour + Partners and Legorreta +Legorreta. In bringing together their different architectural languages yet common values, they have created a building that is both contextual and distinctive.\n\nMexico City is built on an ancient dried lake and is prone to severe earthquakes so an innovative engineering approach was needed to reduce the risk of tremors. A ‘ fuse ’ was incorporated into each of the externally expressed structural beams. Its design focuses the impact of an earthquake by absorbing the shock to protect the rest of the structure. This structural solution makes the tower uniquely safe for a building of its height.\n\n\nTo combat solar gain from Mexico’s strong sunlight, a lattice façade system, (which evokes traditional screens or ‘celosias’) shades the exterior of the building allowing daylight in, and views out.\n\nThe building is based on the reinterpretation of traditional office space organisation, offering a variety of new flexible working environments for all users. Sky gardens every nine floors create outdoor space within the tower and provide meeting and break-out areas where people can enjoy spectacular views. Consequently, the architecture promotes a sense of community and interaction between staff.\n\nThe 50 storey tower provides approximately 78,800m² of prime office space for BBVA Bancomer and can accommodate approximately 4,500 employees.",
   "design": "The geometry of the exterior shading is used to create a lattice design which will protect each façade from sunlight and heat whilst optimising natural daylight. It gives the building a texture that evokes traditional lattice screens or ‘celosias’. The proposal is based on generating efficient, open floor plates in order to create a variety of working environments which are flexible and can be adapted to new ways of working. All areas will have ample daylight, great views and access to external triple-height gardens. These gardens, located on every ninth level, allow the working space to be assembled in ‘vertical villages’ and they will increase the richness and variety of the working environment. The common areas for employees such as the cafeteria (located on a terrace above the car park with spectacular views across the park), and an auditorium, are designed to encourage increased interaction and create a sense of community both among employees in the same departments and between staff in different divisions of the Bank.\n\n\nOn the ground floor, the triple-height entrance on the corner with Paseo de la Reforma will connect the retail banking operations of the building with the commercial operations which will take place on the upper floors. From the ground floor, glazed lifts facing the park will take users, both visitors and employees, to the sky lobby level. The sky lobby will act as a ‘window’ to the city and the park. Exhibitions and public events are planned to take place in the vestibule, auditorium and cafeteria.",
@@ -85,64 +91,64 @@
     {
       "label": "Site Area",
       "value": "6 620 m²",
-      "elementId": "47d2e13f6542495a91f5c6671431a5c2"
+      "id": "47d2e13f6542495a91f5c6671431a5c2"
     },
     {
       "label": "Gross Floor Area",
       "value": "188 777 m²",
-      "elementId": "f81f50d364fe42ec80a107e15a871ea3"
+      "id": "f81f50d364fe42ec80a107e15a871ea3"
     },
     {
       "label": "Office Area",
       "value": "78 800 m²<br>",
-      "elementId": "e92ba0feac314233b1cd0619c56159f4"
+      "id": "e92ba0feac314233b1cd0619c56159f4"
     }
   ],
   "companies": [
     {
       "label": "Architect",
       "value": "RSHP / LegoRogers",
-      "elementId": "beda9bdbeb8a4a918f22ff5c93683267"
+      "id": "beda9bdbeb8a4a918f22ff5c93683267"
     },
     {
       "label": "Structural Engineer",
       "value": "Arup / Colinas de Buen SA de CV",
-      "elementId": "3b44a5df9ecd41d9a1f9edf2be14a7f1"
+      "id": "3b44a5df9ecd41d9a1f9edf2be14a7f1"
     },
     {
       "label": "Plumbing Engineer",
       "value": "Arup / Garza Maldonado",
-      "elementId": "e2907c0c144749ccb262c4cfa1cdb7ef"
+      "id": "e2907c0c144749ccb262c4cfa1cdb7ef"
     },
     {
       "label": "Project Manager",
       "value": "Jones Lang LaSalle",
-      "elementId": "6b4e87a7b79b425b9bf2cb6bf9c8795a"
+      "id": "6b4e87a7b79b425b9bf2cb6bf9c8795a"
     },
     {
       "label": "Lighting Consultant",
       "value": "Fisher Marantz",
-      "elementId": "83330b1b5a0742a7a383ffe39ea26fc3"
+      "id": "83330b1b5a0742a7a383ffe39ea26fc3"
     },
     {
       "label": "Cost Consultant",
       "value": "INPROS",
-      "elementId": "68d7240848854a9f9b5ffe6d4385fb0c"
+      "id": "68d7240848854a9f9b5ffe6d4385fb0c"
     },
     {
       "label": "Electrical Engineer",
       "value": "Arup / DEC Group",
-      "elementId": "2b8f33abcf8640cbb1683c3f61073155"
+      "id": "2b8f33abcf8640cbb1683c3f61073155"
     },
     {
       "label": "HVAC Engineer",
       "value": "Arup / DYPRO",
-      "elementId": "7883d70a66c940fab72ed6948644ce45"
+      "id": "7883d70a66c940fab72ed6948644ce45"
     },
     {
       "label": "Contractor",
       "value": "Turner Marhnos",
-      "elementId": "f117eefe5eed475da1cbc45280087799"
+      "id": "f117eefe5eed475da1cbc45280087799"
     }
   ],
   "awards": [

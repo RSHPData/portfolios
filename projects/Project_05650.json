@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "05650",
   "url": "residential/one-park-taipei",
-  "serializeDate": "'2022-06-19 14:26:02.350'",
-  "serialized": 1655648762350,
+  "serializeDate": "'2022-06-21 14:16:26.155'",
+  "serialized": 1655820986155,
   "serializedBy": "sreeve",
   "title": "One Park Taipei",
   "description": "RSHP has designed two high-rise residential towers adjacent to Da-An Park in the city of Taipei. The site is located to the east side of Da-An Park along the Juanguo South Road.",
@@ -28,39 +28,39 @@
     {
       "label": "Site Area",
       "value": "63 538 m²",
-      "elementId": "34acc3e23f9842cda90a36f85c993908"
+      "id": "34acc3e23f9842cda90a36f85c993908"
     },
     {
       "label": "North Tower",
       "value": "3 748 m²",
-      "elementId": "8c7e87017943406b8e4cf369bd291461"
+      "id": "8c7e87017943406b8e4cf369bd291461"
     },
     {
       "label": "South Tower",
       "value": "4 332 m²",
-      "elementId": "0d65dfa090234c96ac1b0b6ec12473e9"
+      "id": "0d65dfa090234c96ac1b0b6ec12473e9"
     }
   ],
   "companies": [
     {
       "label": "Structural Engineer",
       "value": "Evergreen Construction",
-      "elementId": "6d36df06acd848eb97c895c4632bba3b"
+      "id": "6d36df06acd848eb97c895c4632bba3b"
     },
     {
       "label": "Services Engineer",
       "value": "Continental Engineering Consultants. Inc",
-      "elementId": "897a91ccfb584355be074d756d61a25c"
+      "id": "897a91ccfb584355be074d756d61a25c"
     },
     {
       "label": "Landscape Architect",
       "value": "Environmental Arts Design",
-      "elementId": "955ff0ceb2c647219efc7f8befaf7171"
+      "id": "955ff0ceb2c647219efc7f8befaf7171"
     },
     {
       "label": "Co-Architect",
       "value": "CT Chen Architects and Associates",
-      "elementId": "e26e9d14ba0f40749e221d6989bc0214"
+      "id": "e26e9d14ba0f40749e221d6989bc0214"
     }
   ],
   "awards": [

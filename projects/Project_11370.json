@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "11370",
   "url": "office/the-hub-30-bay-street",
-  "serializeDate": "'2022-06-19 14:26:41.140'",
-  "serialized": 1655648801140,
+  "serializeDate": "'2022-06-21 14:17:02.500'",
+  "serialized": 1655821022500,
   "serializedBy": "sreeve",
   "title": "The HUB, 30 Bay Street",
   "description": "Named for its proximity to Harbour, Union Station and Bay Street, the HUB will be one of the tallest commercial towers in downtown Toronto’s vibrant South Core neighbourhood.",
@@ -44,64 +44,70 @@
     "Georgina Robledo"
   ],
   "heights": [
-    "276 m"
+    {
+      "value": "276 m",
+      "id": "DDDB5D128AA441F99B93AA"
+    }
   ],
   "floors": [
-    "60"
+    {
+      "value": "60",
+      "id": "A3946CB2177946CAB0813D"
+    }
   ],
   "overview": "Named for its proximity to Harbour, Union Station and Bay Street, the HUB will be one of the tallest commercial towers in downtown Toronto’s vibrant South Core neighbourhood, located close to the shores of Lake Ontario and the CBD. The scheme creates a contemporary dialogue with its historical context, allowing the heritage building breathing space to coexist with a large new office tower development and maintaining integrity within the overall urban configuration.\n\nThe 1917 six-storey Toronto Harbour Commission Building currently occupies a significant portion of the site. This challenging constraint inspired the new 60-storey tower’s unique, bridge-like structure: Four pairs of mega-columns and diagonal steel hangers suspend the entire volume of the office tower up and over the existing property, allowing this high-rise to touch the ground with a minimal footprint. This structure preserves the integrity of the heritage building, but also gives way for a square centre-core tower with optimised lease spans and flexible, column-free, seemingly floating floorplates visually expressed through a clear glazed façade.\n\n\nThe cathedral-like, transparent reception space engages both public and private, offering a range of amenities with direct link to Toronto’s transport network and allowing pedestrians to flow through the building seamlessly. The surrounding ground plane features public art, interactive landscape and water features that respond to the region’s dramatic climate and respectfully embrace the heritage building, whilst creating a compelling public realm that is unique, inviting and accessible.\n\nA distinctive rooftop lantern and a number of enclosed sky gardens at the tower corners captivate the vistas of Lake Ontario, the CN tower and panoramic views across the city and beyond, whilst redefining the city’s ever-evolving skyline.\n\n\nEnvironmental credentials include a CaGBC zero carbon pilot application and striving to achieve LEED Platinum status, through the provision of district heating, deep-lake cooling technology, roof mounted photovoltaic panels and a variety of other sustainable design features to minimise the building’s environmental impact.",
   "dimensions": [
     {
       "label": "Site Area",
       "value": "78 135 ft²",
-      "elementId": "90f7be7ab1c14f3695b0ab9a0c863c25"
+      "id": "90f7be7ab1c14f3695b0ab9a0c863c25"
     },
     {
       "label": "Total Gross Floor Area",
       "value": "1 453 077 ft²",
-      "elementId": "8ed0293859104d289e0b90a81f4477f8"
+      "id": "8ed0293859104d289e0b90a81f4477f8"
     }
   ],
   "companies": [
     {
       "label": "Co-Architect",
       "value": "Adamsons Associates",
-      "elementId": "311ba148f6564378afbd40ac1997bcec"
+      "id": "311ba148f6564378afbd40ac1997bcec"
     },
     {
       "label": "Structural Engineer",
       "value": "RJC Engineers",
-      "elementId": "23c52b0fcac1467fbcdbcb9555d22805"
+      "id": "23c52b0fcac1467fbcdbcb9555d22805"
     },
     {
       "label": "Services Engineer",
       "value": "Smith + Andersen",
-      "elementId": "63a09f23c83a41b499b5bb71815bd5e7"
+      "id": "63a09f23c83a41b499b5bb71815bd5e7"
     },
     {
       "label": "Landscape Architect",
       "value": "Gillespies",
-      "elementId": "059bc932fe9f4342aeb54bd8973022e2"
+      "id": "059bc932fe9f4342aeb54bd8973022e2"
     },
     {
       "label": "Contractor",
       "value": "EllisDon",
-      "elementId": "082051b310304bcd9a33f39a22a0aa7e"
+      "id": "082051b310304bcd9a33f39a22a0aa7e"
     },
     {
       "label": "Planning Consultant",
       "value": "Urban Strategies",
-      "elementId": "a420b551e060434ba0fbf9e9ca041496"
+      "id": "a420b551e060434ba0fbf9e9ca041496"
     },
     {
       "label": "Development Manager",
       "value": "Andrew O'Neill",
-      "elementId": "104e227cf02843da9c0d6be860e5322e"
+      "id": "104e227cf02843da9c0d6be860e5322e"
     },
     {
       "label": "Fire Consultant",
       "value": "LMDG",
-      "elementId": "0ecc787d26104cdfb45211b4b82a3398"
+      "id": "0ecc787d26104cdfb45211b4b82a3398"
     }
   ],
   "awards": [],

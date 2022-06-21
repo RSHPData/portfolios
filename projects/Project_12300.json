@@ -1,8 +1,8 @@
 {
   "type": "Project",
   "id": "12300",
-  "serializeDate": "'2022-06-19 14:26:52.150'",
-  "serialized": 1655648812150,
+  "serializeDate": "'2022-06-21 14:17:12.468'",
+  "serialized": 1655821032468,
   "serializedBy": "sreeve",
   "title": "Guiwan Apartment Towers",
   "client": "Shenzhen Qianhai Construction  Investment Holding Co.,Ltd.",
@@ -60,7 +60,7 @@
     {
       "label": "Competitor",
       "value": "Zaha Hadid Architects",
-      "elementId": "deltek:competitor"
+      "id": "deltek:competitor"
     }
   ]
 }

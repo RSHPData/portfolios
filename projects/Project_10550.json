@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "10550",
   "url": "masterplanning/gare-de-lyon",
-  "serializeDate": "'2022-06-19 14:26:28.798'",
-  "serialized": 1655648788798,
+  "serializeDate": "'2022-06-21 14:16:51.762'",
+  "serialized": 1655821011762,
   "serializedBy": "sreeve",
   "title": "Gare de Lyon",
   "description": "Located in the 12th district of Paris near the town hall, along the Gare de Lyon station and the Bercy railway station, the Gare de Lyon - Daumesnil sector is bounded by the streets of Rambouillet-Charolais, Boulevard de Bercy, and the major railway artery serving the station.",
@@ -43,39 +43,39 @@
     {
       "label": "Site Surface Area",
       "value": "6 Hectares",
-      "elementId": "caf23898945149acbbe899c321a5d52a"
+      "id": "caf23898945149acbbe899c321a5d52a"
     },
     {
       "label": "Scheme",
       "value": "100,000 m² (45,000 housing, 45,000 offices, retail and a school)",
-      "elementId": "78fe82d497c640e2b0b0a47859475373"
+      "id": "78fe82d497c640e2b0b0a47859475373"
     }
   ],
   "companies": [
     {
       "label": "Lead Architect and Urbanist",
       "value": "Rogers Stirk Harbour + Partners",
-      "elementId": "3f70411912d4448fb1ce32f67aca11d8"
+      "id": "3f70411912d4448fb1ce32f67aca11d8"
     },
     {
       "label": "Co-Architect",
       "value": "Tolila + Gilliland Atelier d-Architecture",
-      "elementId": "90a2bf4225b44e7a92886538b188e520"
+      "id": "90a2bf4225b44e7a92886538b188e520"
     },
     {
       "label": "Landscape Architect",
       "value": "Michel Desvigne Paysagiste",
-      "elementId": "bfa88d0f28114b44b5698e1454e18ad7"
+      "id": "bfa88d0f28114b44b5698e1454e18ad7"
     },
     {
       "label": "Urban Engineering",
       "value": "Ingérop",
-      "elementId": "b2c3d49a24324b08bfd6260cc7e5a524"
+      "id": "b2c3d49a24324b08bfd6260cc7e5a524"
     },
     {
       "label": "Sustainability Consultant",
       "value": "Frank Boutté Consultants",
-      "elementId": "bb44e4bbf5874c699016317dfb6f9ff3"
+      "id": "bb44e4bbf5874c699016317dfb6f9ff3"
     }
   ],
   "awards": [],

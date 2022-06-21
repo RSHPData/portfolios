@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "06510",
   "url": "transport/beijing-new-international-airport",
-  "serializeDate": "'2022-06-19 14:26:11.502'",
-  "serialized": 1655648771502,
+  "serializeDate": "'2022-06-21 14:16:34.870'",
+  "serialized": 1655820994870,
   "serializedBy": "sreeve",
   "title": "Beijing New International Airport",
   "description": "Rogers Stirk Harbour + Partners’ inspiration for the Beijing New Airport stems from the philosophy that sustainable architecture can transform space through order, scale and beauty.",
@@ -50,34 +50,34 @@
     {
       "label": "Gross Area",
       "value": "700 000 m²",
-      "elementId": "6254b7fec0924029ac1ce63bf37d17f2"
+      "id": "6254b7fec0924029ac1ce63bf37d17f2"
     }
   ],
   "companies": [
     {
       "label": "Structural Engineer",
       "value": "Arup",
-      "elementId": "8c2c036161384600b391c0b4f6df348d"
+      "id": "8c2c036161384600b391c0b4f6df348d"
     },
     {
       "label": "Services Engineer",
       "value": "Arup",
-      "elementId": "68ec8b58b8f4484fb40847d5cf60536c"
+      "id": "68ec8b58b8f4484fb40847d5cf60536c"
     },
     {
       "label": "Landscape Architect",
       "value": "Gillespies LLP",
-      "elementId": "cf271b5d42a14ee1be0bce019440e6c0"
+      "id": "cf271b5d42a14ee1be0bce019440e6c0"
     },
     {
       "label": "Airport Planning",
       "value": "Arup",
-      "elementId": "4d8d9f03c5054239b0e7a4a3834c77db"
+      "id": "4d8d9f03c5054239b0e7a4a3834c77db"
     },
     {
       "label": "Retail Planning",
       "value": "Design Solutions",
-      "elementId": "0f9c7805a29c4e118eb8fb1ca614566c"
+      "id": "0f9c7805a29c4e118eb8fb1ca614566c"
     }
   ]
 }

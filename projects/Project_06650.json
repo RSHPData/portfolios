@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "06650",
   "url": "culture-and-leisure/the-richard-rogers-drawing-gallery",
-  "serializeDate": "'2022-06-19 14:26:13.669'",
-  "serialized": 1655648773669,
+  "serializeDate": "'2022-06-21 14:16:36.940'",
+  "serialized": 1655820996940,
   "serializedBy": "sreeve",
   "title": "The Richard Rogers’ Drawing Gallery",
   "description": "The gallery is located within Château La Coste, a 200-hectare site (of which 130 hectares are devoted to vineyards) housing a unique mixture of contemporary art.",
@@ -42,44 +42,44 @@
     {
       "label": "Site Area",
       "value": "120m²",
-      "elementId": "a9b72cc87a694d99b872a273b763fbdd"
+      "id": "a9b72cc87a694d99b872a273b763fbdd"
     }
   ],
   "companies": [
     {
       "label": "Co-Architect",
       "value": "Demaria Architecture",
-      "elementId": "c511737a5cd740b285f0bfad6a5c7ab7"
+      "id": "c511737a5cd740b285f0bfad6a5c7ab7"
     },
     {
       "label": "Structural Engineer",
       "value": "LANG Engineering Consultancy, ATES",
-      "elementId": "9ea6ea9ede92455bb841baa1c8154a8f"
+      "id": "9ea6ea9ede92455bb841baa1c8154a8f"
     },
     {
       "label": "Specialist Engineer",
       "value": "Hasson Engineering Solutions",
-      "elementId": "07d14111e6a94eacbd71a77474f3d1f5"
+      "id": "07d14111e6a94eacbd71a77474f3d1f5"
     },
     {
       "label": "Steelwork Fabrication and Erection",
       "value": "Bysteel",
-      "elementId": "4837cd38adb5424d890d6d8804a0a215"
+      "id": "4837cd38adb5424d890d6d8804a0a215"
     },
     {
       "label": "External Envelope",
       "value": "Bysteel FS",
-      "elementId": "9860e58ccea54079af198b542f52980a"
+      "id": "9860e58ccea54079af198b542f52980a"
     },
     {
       "label": "Internal Fit-Out",
       "value": "SCEA Château La Coste, IDME France, ACM France",
-      "elementId": "e9c8791dbce34af5acd6247016bf4903"
+      "id": "e9c8791dbce34af5acd6247016bf4903"
     },
     {
       "label": "Project Manager",
       "value": "Rainey+Best",
-      "elementId": "39d753067a934fa4adca6250848cc86a"
+      "id": "39d753067a934fa4adca6250848cc86a"
     }
   ],
   "awards": [],

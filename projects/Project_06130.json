@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "06130",
   "url": "health-and-science/cancer-centre-at-guys-hospital",
-  "serializeDate": "'2022-06-19 14:26:07.419'",
-  "serialized": 1655648767419,
+  "serializeDate": "'2022-06-21 14:16:30.790'",
+  "serialized": 1655820990790,
   "serializedBy": "sreeve",
   "title": "Cancer Centre at Guy’s Hospital",
   "description": "The Cancer Centre at Guy’s brings together all oncology services from across Guy’s and St Thomas hospital, integrating research and treatment services within the same building.",
@@ -53,10 +53,16 @@
     "Steve Martin"
   ],
   "heights": [
-    "60m"
+    {
+      "value": "60m",
+      "id": "0489EB4238534045818F1E"
+    }
   ],
   "floors": [
-    "14"
+    {
+      "value": "14",
+      "id": "7326401A1A674C29891401"
+    }
   ],
   "overview": "The Cancer Centre at Guy’s brings together all oncology services from across Guy’s and St Thomas hospital, integrating research and treatment services within the same building.\n\nAt a city scale, the 14-storey height of the building provides a transition from the 300-metre (1,000-foot) height of Renzo Piano’s the Shard and the hospital’s Tower Wing to the lower rise areas to the south and defines a new gateway to the Guy’s campus.\n\nThe building is made up of a number of stacked ‘villages’ each relating to a particular patient need – chemotherapy, radiotherapy or the one-stop clinic – and each with their own distinct identity. In addition, there is a double-height welcome area at the base of the building and private suites at the top.\n\n\nBy breaking up the functions of the building into two, three or four-storey chunks, a human scale is created for each of the care villages, making orientation easier. Visitors exit the lift at their desired section and enter into the ‘village square’ – a non-clinical space which includes a planted external balcony as well as informal seating and relaxation areas for patients waiting for consultations, appointments or results. Patients then navigate to consultation and treatment rooms via stairs and lifts within each village.\n\nThe treatment areas are efficient, ergonomic, functional and safe, in order to maximise clinical gain and patient care. Across the centre the focus is on improving the user experience, providing patients and staff with views and light, making a series of inclusive spaces with straightforward way-finding and patient-centred facilities.\n\n\nThe building is designed to actively support change in clinical and accommodation needs over time. Flexibility and adaptability are key parts of the design, structure and services strategy.",
   "design": "The balance between care and treatment is fundamental to the successful design of the Cancer Centre at Guy’s Hospital. By breaking up the building into villages, a human scale is created; patients feel they are being treated within two- or three-storey villages rather than a less personal fourteen-storey tower. The second-floor balcony defines a double-height welcome and reception area at ground level, relating to the scale of the street and nearby buildings.\n\nAbove the welcome area are the radiotherapy, one-stop and chemotherapy villages. Typically, radiotherapy facilities would be located at basement level in a lightless environment, in the Cancer Centre they have been placed above ground as part of the normal life of the building, with their associated areas afforded views and natural light. This also minimises the basement area required for the Centre and allows the remains of a Roman boat, found during excavations, to remain in situ.\n\n\nThe chemotherapy village includes a research floor for King’s College London. This allows complete integration of research and treatment, with a large proportion of patients being involved in clinical trials and giving the Cancer Centre both a national and global significance in the treatment of cancer. The one-stop village is the top-most of the three care villages and brings diagnostic and outpatient facilities together allowing patients to have a consultation and a range of investigations in a single visit. A private patients unit across the top-most floors completes the building.\n\n\nMany recent developments in the London Bridge area have included new public spaces. As part of this transformation the southern end of Great Maze Pond has been redesigned to be an inviting public space that integrates the hospital with its neighbourhood, with more generous pedestrian areas, trees, benches and cycle parking.",
@@ -66,34 +72,34 @@
     {
       "label": "Gross Floor Area",
       "value": "20,000 m²<br>",
-      "elementId": "8632a92f93f8436f9698b64c6ca32dc2"
+      "id": "8632a92f93f8436f9698b64c6ca32dc2"
     }
   ],
   "companies": [
     {
       "label": "Co-Architect",
       "value": "Stantec",
-      "elementId": "25f7baa021304884aa8b8ec41fafd506"
+      "id": "25f7baa021304884aa8b8ec41fafd506"
     },
     {
       "label": "Structural Engineer",
       "value": "Arup",
-      "elementId": "e1d0b290390146bb99e7a9ef0409be6f"
+      "id": "e1d0b290390146bb99e7a9ef0409be6f"
     },
     {
       "label": "Services Engineer",
       "value": "Arup",
-      "elementId": "a6acd3e604844763b66bdf9f5f15f4ea"
+      "id": "a6acd3e604844763b66bdf9f5f15f4ea"
     },
     {
       "label": "Contractor",
       "value": "Laing O’Rourke",
-      "elementId": "dbcd26fb13bb46b3b677432941386dc8"
+      "id": "dbcd26fb13bb46b3b677432941386dc8"
     },
     {
       "label": "Clinical Strategies",
       "value": "Jackie Churchward-Cardiff",
-      "elementId": "814c50e4cd4240e39902cc1943fcfc40"
+      "id": "814c50e4cd4240e39902cc1943fcfc40"
     }
   ],
   "awards": [

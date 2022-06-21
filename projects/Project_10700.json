@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "10700",
   "url": "culture-and-leisure/international-spy-museum",
-  "serializeDate": "'2022-06-19 14:26:32.766'",
-  "serialized": 1655648792766,
+  "serializeDate": "'2022-06-21 14:16:55.241'",
+  "serialized": 1655821015241,
   "serializedBy": "sreeve",
   "title": "International Spy Museum",
   "description": "The International Spy Museum forms part of RSHP’s masterplan for L’Enfant Plaza in Washington DC, and creates a new home for the privately-owned Spy Museum originally located in a 19th Century building in Penn Quarter.",
@@ -52,39 +52,39 @@
     {
       "label": "Area",
       "value": "24 750 sqft (2300 m²)<br>",
-      "elementId": "778ef876d83a466c970b5b9f6530c0ad"
+      "id": "778ef876d83a466c970b5b9f6530c0ad"
     }
   ],
   "companies": [
     {
       "label": "Co-Architect",
       "value": "Hickok Cole Architects",
-      "elementId": "d997845fbc6b44a4917923ad4090d669"
+      "id": "d997845fbc6b44a4917923ad4090d669"
     },
     {
       "label": "Structural Engineer",
       "value": "SK&A MD",
-      "elementId": "443a0f6a5184452eb2ea00eaf5a95a7c"
+      "id": "443a0f6a5184452eb2ea00eaf5a95a7c"
     },
     {
       "label": "Landscape Architect",
       "value": "Michael Vergason Landscape Architects Ltd",
-      "elementId": "ec6dfe8739674c2abd18135023858800"
+      "id": "ec6dfe8739674c2abd18135023858800"
     },
     {
       "label": "Client Representative",
       "value": "The JBG Companies",
-      "elementId": "bcb0f747e49746149366ede8acb4d43d"
+      "id": "bcb0f747e49746149366ede8acb4d43d"
     },
     {
       "label": "Exhibition Design",
       "value": "Gallagher & Associates",
-      "elementId": "dd469bdbb3a94a8cba49ba3638afea08"
+      "id": "dd469bdbb3a94a8cba49ba3638afea08"
     },
     {
       "label": "Facade Engineer",
       "value": "Eckersley O’Callaghan",
-      "elementId": "40c436c1594c433c866a144db44845d2"
+      "id": "40c436c1594c433c866a144db44845d2"
     }
   ],
   "awards": [

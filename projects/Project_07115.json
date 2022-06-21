@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "07115",
   "url": "culture-and-leisure/richard-rogers-ra-inside-out",
-  "serializeDate": "'2022-06-19 14:26:18.231'",
-  "serialized": 1655648778231,
+  "serializeDate": "'2022-06-21 14:16:41.336'",
+  "serialized": 1655821001336,
   "serializedBy": "sreeve",
   "title": "Richard Rogers RA: Inside Out",
   "description": "Throughout his career, Rogers’ creations have been shaped by political, social and ethical concerns, as well as popular culture, technology, art and urbanism.",
@@ -44,17 +44,17 @@
     {
       "label": "Exhibition Design",
       "value": "Ab Rogers Design",
-      "elementId": "c61f84201d514f6baa6603a4eca77f97"
+      "id": "c61f84201d514f6baa6603a4eca77f97"
     },
     {
       "label": "Design Graphic",
       "value": "Graphic Thought Facility",
-      "elementId": "7e7aae1f694d431dbef1e5ba01da818f"
+      "id": "7e7aae1f694d431dbef1e5ba01da818f"
     },
     {
       "label": "Sponsors",
       "value": "Ferrovial Agroman, Heathrow, Laing O’Rourke, Porcelanosa",
-      "elementId": "31e42183b0174ed1a4549ad773cbb93a"
+      "id": "31e42183b0174ed1a4549ad773cbb93a"
     }
   ],
   "awards": [],

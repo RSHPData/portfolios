@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "06360",
   "url": "transport/hong-kong-zhuhai-macao-bridge-hong-kong-port-passenger-clearance-building/",
-  "serializeDate": "'2022-06-19 14:26:09.943'",
-  "serialized": 1655648769943,
+  "serializeDate": "'2022-06-21 14:16:33.361'",
+  "serialized": 1655820993361,
   "serializedBy": "sreeve",
   "title": "Hong Kong-Zhuhai-Macao Bridge Hong Kong Port - Passenger Clearance Building",
   "description": "The Hong Kong-Zhuhai-Macao Bridge provides new strategic connections between Zhuhai, Macao and Hong Kong.",
@@ -40,19 +40,19 @@
     {
       "label": "Area",
       "value": "98 570 m²",
-      "elementId": "ab6c19b89f114e02ad9b97d00061e4ad"
+      "id": "ab6c19b89f114e02ad9b97d00061e4ad"
     }
   ],
   "companies": [
     {
       "label": "Co-Architect",
       "value": "Aedas",
-      "elementId": "8891652d4760495eb0642a2ff0223341"
+      "id": "8891652d4760495eb0642a2ff0223341"
     },
     {
       "label": "Engineers",
       "value": "AECOM",
-      "elementId": "33b149fa61d744a99366e22d129fd695"
+      "id": "33b149fa61d744a99366e22d129fd695"
     }
   ],
   "awards": [

@@ -1,8 +1,8 @@
 {
   "type": "Project",
   "id": "11060",
-  "serializeDate": "'2022-06-19 14:26:37.491'",
-  "serialized": 1655648797491,
+  "serializeDate": "'2022-06-21 14:16:59.562'",
+  "serialized": 1655821019562,
   "serializedBy": "sreeve",
   "title": "Landmark Building",
   "date": "2016",
@@ -37,10 +37,16 @@
     "Will Jefferies"
   ],
   "heights": [
-    "77 m"
+    {
+      "value": "77 m",
+      "id": "833E3240EC4F452AB57384"
+    }
   ],
   "floors": [
-    "22"
+    {
+      "value": "22",
+      "id": "21BDF3BDFCC74B3E9C432D"
+    }
   ],
   "overview": "nbsp;",
   "dimensions": [],
@@ -48,52 +54,52 @@
     {
       "label": "Engineering",
       "value": "Buro Happold",
-      "elementId": "deltek:engineering"
+      "id": "deltek:engineering"
     },
     {
       "label": "Planning Consultant",
       "value": "DP9",
-      "elementId": "deltek:planningConsultant"
+      "id": "deltek:planningConsultant"
     },
     {
       "label": "Consultant",
       "value": "Tavernor Consultancy",
-      "elementId": "deltek:consultant"
+      "id": "deltek:consultant"
     },
     {
       "label": "Quantity Surveyor",
       "value": "Rider Levett Bucknall",
-      "elementId": "deltek:quantitySurveyor"
+      "id": "deltek:quantitySurveyor"
     },
     {
       "label": "Rights of Light",
       "value": "GIA",
-      "elementId": "deltek:rightsOfLight"
+      "id": "deltek:rightsOfLight"
     },
     {
       "label": "Landscape Design",
       "value": "Gillespies",
-      "elementId": "deltek:landscapeDesign"
+      "id": "deltek:landscapeDesign"
     },
     {
       "label": "Architect",
       "value": "Grimshaw",
-      "elementId": "deltek:architect"
+      "id": "deltek:architect"
     },
     {
       "label": "PR Consultant",
       "value": "London Communications Agency",
-      "elementId": "deltek:pRConsultant"
+      "id": "deltek:pRConsultant"
     },
     {
       "label": "Structural Engineer",
       "value": "Walsh Associates",
-      "elementId": "deltek:structuralEngineer"
+      "id": "deltek:structuralEngineer"
     },
     {
       "label": "Vertical Transportation",
       "value": "TUV SUD Ltd",
-      "elementId": "deltek:verticalTransportation"
+      "id": "deltek:verticalTransportation"
     }
   ]
 }

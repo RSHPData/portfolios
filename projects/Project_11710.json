@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "11710",
   "url": "placemaking/urban-living-room-in-qianhai",
-  "serializeDate": "'2022-06-19 14:26:45.665'",
-  "serialized": 1655648805665,
+  "serializeDate": "'2022-06-21 14:17:06.485'",
+  "serialized": 1655821026485,
   "serializedBy": "sreeve",
   "title": "Urban Living Room in Qianhai",
   "description": "The project is the winning competition design to create the ‘Urban Living Room’ masterplan in the heart of Qianhai.",
@@ -36,24 +36,24 @@
     {
       "label": "Site Area",
       "value": "2,322,500 m²",
-      "elementId": "c4296349b5194fb583b6474860cd2fc3"
+      "id": "c4296349b5194fb583b6474860cd2fc3"
     }
   ],
   "companies": [
     {
       "label": "Structural Engineer",
       "value": "BuroHappold Engineering",
-      "elementId": "9443afbf425f45fe8e2f9dcb477fc4df"
+      "id": "9443afbf425f45fe8e2f9dcb477fc4df"
     },
     {
       "label": "Landscape Architect",
       "value": "Gillespies",
-      "elementId": "d5059f643e144d4ba1616d9483c34e51"
+      "id": "d5059f643e144d4ba1616d9483c34e51"
     },
     {
       "label": "Sustainablity",
       "value": "BuroHappold Engineering",
-      "elementId": "d60bcdcc7c99428aaaefac0222b8e200"
+      "id": "d60bcdcc7c99428aaaefac0222b8e200"
     }
   ]
 }

@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "06740",
   "url": "office/425-park-avenue",
-  "serializeDate": "'2022-06-19 14:26:14.311'",
-  "serialized": 1655648774311,
+  "serializeDate": "'2022-06-21 14:16:37.635'",
+  "serialized": 1655820997635,
   "serializedBy": "sreeve",
   "title": "425 Park Avenue",
   "description": "Just two blocks away from Mies van der Rohe’s iconic Seagram Building, RSHP’s design for 425 Park Avenue is a contemporary homage to New York’s rich heritage of skyscrapers, setting a course for the next chapter in their illustrious story.",
@@ -48,14 +48,14 @@
     {
       "label": "Area",
       "value": "570 677 ft²",
-      "elementId": "1d7630bace37402e802d529d5197045a"
+      "id": "1d7630bace37402e802d529d5197045a"
     }
   ],
   "companies": [
     {
       "label": "Structural Engineer",
       "value": "Arup",
-      "elementId": "112378ffe2044b61a59502b8946144da"
+      "id": "112378ffe2044b61a59502b8946144da"
     }
   ]
 }

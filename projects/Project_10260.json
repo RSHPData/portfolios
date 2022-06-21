@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "10260",
   "url": "residential/ycube",
-  "serializeDate": "'2022-06-19 14:26:23.702'",
-  "serialized": 1655648783702,
+  "serializeDate": "'2022-06-21 14:16:46.551'",
+  "serialized": 1655821006551,
   "serializedBy": "sreeve",
   "title": "Y:Cube",
   "description": "The Y:Cube units are 26m² one-bed studios, for single occupancy, that arrive on site as self-contained units. Each unit is constructed in the factory with all the services already incorporated.",
@@ -41,34 +41,34 @@
     {
       "label": "Gross Floor Area",
       "value": "1 640 m²",
-      "elementId": "e763d8af6d77458c87b4a9ee5d7ada6d"
+      "id": "e763d8af6d77458c87b4a9ee5d7ada6d"
     },
     {
       "label": "Single Unit Area",
       "value": "26 m²",
-      "elementId": "ce9d8eda9c184a0e95d3e95e457442e4"
+      "id": "ce9d8eda9c184a0e95d3e95e457442e4"
     }
   ],
   "companies": [
     {
       "label": "Services Engineer",
       "value": "AECOM",
-      "elementId": "0628980e5a524e3ea6fdc1c9bea9b14d"
+      "id": "0628980e5a524e3ea6fdc1c9bea9b14d"
     },
     {
       "label": "Project Manager",
       "value": "AECOM",
-      "elementId": "03cc468bd09e43b5a7468c59815438d2"
+      "id": "03cc468bd09e43b5a7468c59815438d2"
     },
     {
       "label": "Landscape Architect",
       "value": "Landform",
-      "elementId": "38343fe974124fc8a70302b83a38734b"
+      "id": "38343fe974124fc8a70302b83a38734b"
     },
     {
       "label": "Contractor",
       "value": "SIG Build",
-      "elementId": "3abd09b6212e4e4d9d63f683a0da6f71"
+      "id": "3abd09b6212e4e4d9d63f683a0da6f71"
     }
   ],
   "awards": [

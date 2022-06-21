@@ -1,8 +1,8 @@
 {
   "type": "Project",
   "id": "13045",
-  "serializeDate": "'2022-06-19 14:26:55.567'",
-  "serialized": 1655648815567,
+  "serializeDate": "'2022-06-21 14:17:16.104'",
+  "serialized": 1655821036104,
   "serializedBy": "sreeve",
   "title": "14A Konstitucijos Ave",
   "client": "Lords LB Asset Management",
@@ -30,7 +30,7 @@
     {
       "label": "Consultant",
       "value": "Buro Happold",
-      "elementId": "deltek:consultant"
+      "id": "deltek:consultant"
     }
   ]
 }

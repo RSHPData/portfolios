@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "06070",
   "url": "civic/st-lawrence-market-north",
-  "serializeDate": "'2022-06-19 14:26:05.416'",
-  "serialized": 1655648765416,
+  "serializeDate": "'2022-06-21 14:16:29.251'",
+  "serialized": 1655820989251,
   "serializedBy": "sreeve",
   "title": "St Lawrence Market North",
   "description": "St Lawrence Market North will combine courtrooms, offices and a large market hall as part of the St Lawrence complex.",
@@ -33,29 +33,29 @@
     {
       "label": "Gross Floor Area",
       "value": "20 000 m²",
-      "elementId": "1e2313637a8240b188ea45a7389034f2"
+      "id": "1e2313637a8240b188ea45a7389034f2"
     },
     {
       "label": "Market",
       "value": "4 000 m²",
-      "elementId": "cc30002506b64a8bbffd95cb00526a68"
+      "id": "cc30002506b64a8bbffd95cb00526a68"
     },
     {
       "label": "Offices",
       "value": "4 000 m²",
-      "elementId": "faf7afbc2d3b457c91c72646f892aaa5"
+      "id": "faf7afbc2d3b457c91c72646f892aaa5"
     },
     {
       "label": "Courts",
       "value": "3 000 m²",
-      "elementId": "88cd33616b5c4f02927eb4a73d77ef02"
+      "id": "88cd33616b5c4f02927eb4a73d77ef02"
     }
   ],
   "companies": [
     {
       "label": "Co-Architect",
       "value": "Adamson Associates",
-      "elementId": "670d3b232eb84ab69c92d6d3fcecca24"
+      "id": "670d3b232eb84ab69c92d6d3fcecca24"
     }
   ]
 }
