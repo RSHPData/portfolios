@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "01975",
   "url": "office/lloyds-register-of-shipping/",
-  "serializeDate": "'2022-06-19 14:25:10.271'",
-  "serialized": 1655648710271,
+  "serializeDate": "'2022-06-21 14:15:34.515'",
+  "serialized": 1655820934515,
   "serializedBy": "sreeve",
   "title": "Lloyd’s Register of Shipping",
   "description": "The brief for Lloyd’s Register’s London headquarters represented a major design challenge – of building new office space on a tight urban site, in an architecturally sensitive conservation area.",
@@ -46,7 +46,10 @@
     "Avtar Lotay"
   ],
   "floors": [
-    "14"
+    {
+      "value": "14",
+      "id": "95CC22225DC7470BA6E1A6"
+    }
   ],
   "overview": "The brief for Lloyd’s Register’s London headquarters represented a major design challenge – of building new office space on a tight urban site, in an architecturally sensitive conservation area.\n\nThe site is defined by existing buildings on two sides - including the Grade II listed 71 Fenchurch Street constructed for Lloyd’s Register in 1901 and now extensively restored and incorporated into the new headquarters. The building steps up from six to 14 storeys of office space with two basements, covering a total of 24,000 square metres. To respond to the shape of the site the new building is structured around tapered floor-plates, creating a fan-shaped grid around two atria spaces. These atria, and internal and external courtyards, allow daylight to penetrate to the heart of the building.\n\n\nClarity of architectural language is the key to this development, where the function of all constituent elements is celebrated, revealing the secrets of their manufacture and operation. Service cores are expressed as towers – two primary circulation cores face the churchyard, while secondary cores to the rear house toilets, goods lifts, staircases, and the main services risers. Highly transparent glazing offers instant legibility – people using the fully glazed wall-climber lifts and stairs animate the building’s exterior. The glazed façade forms part of an integrated cooling and heating system, which enables the building to achieve a 33 per cent reduction in carbon dioxide emissions compared with conventional air conditioning. Lloyd's Register was the first project in the UK to use chilled beams;nbsp; nbsp;nbsp;annbsp; nbsp;nbsp;energy-efficient solution for the ventilation and air conditioning of internal spaces.",
   "design": "Following the presentation of the competition design, the proposal underwent some adjustments to take planning requirements into account and was also reviewed extensively by the client and their representatives to ensure that the proposal was commercially viable and met institutional standards.\n\nDetailed elements of the design that were borne out in the development of the concept include rigorously detailed service cores expressed as separate elements attached to the ends of the office blocks, articulating the edges of the building as it tapers into the churchyard at one end and outwards towards the river at the other. These cores contain primary circulation (lifts and fire stairs) facing the churchyard, while secondary cores on the other side contain toilets, goods lifts and staircases, as well as the main service risers.\n\n\nTo reinforce legibility for users and visitors alike, the steelwork is colour-coded – blue for the main structure, yellow for stairs, red for lifts and silver-grey for secondary elements.\n\nThe cores, like the rest of the building, have clear glazing so that the movement of the lifts and the coming and going of people on the stairs animate the exterior of the building. The top of the building is elegantly terminated by an articulated roof line made up of the core towers capped by steel-clad banks of lift motor rooms; an elegant solution to a practical necessity. The listed 71 Fenchurch Street building was reorganised to contain a new 50 seat auditorium, formal rooms for conferences and entertaining, with more office space on the upper floors and a new service core attached to the rear.\n\n\nReduced energy consumption was one of the prime objectives of the project, and the building was designed to use 30 percent less energy than a conventional office building. Included among the energy-saving systems are external solar protection, reinforced concrete soffits, and a system of chilled beams. By reducing solar heat gain inside the building and using the thermal mass of reinforced concrete, it was possible to significantly reduce cooling needs. This allowed chilled beams to be used for cooling rather than a more conventional air conditioning system.",
@@ -55,59 +58,59 @@
     {
       "label": "Site Area",
       "value": "4 160 m²",
-      "elementId": "f8b0917ffe364c168a7963829be44fa1"
+      "id": "f8b0917ffe364c168a7963829be44fa1"
     },
     {
       "label": "Gross Floor Area",
       "value": "34 000 m²",
-      "elementId": "0d91db9fad734182a78d66e254e85bf8"
+      "id": "0d91db9fad734182a78d66e254e85bf8"
     }
   ],
   "companies": [
     {
       "label": "Structural Engineer",
       "value": "Anthony Hunt Associates",
-      "elementId": "3446c0b439aa446caacf5355f26e1ede"
+      "id": "3446c0b439aa446caacf5355f26e1ede"
     },
     {
       "label": "Services Engineer",
       "value": "Ove Arup & Partners",
-      "elementId": "310c6eea278d479c8b1900fe91ce8fe2"
+      "id": "310c6eea278d479c8b1900fe91ce8fe2"
     },
     {
       "label": "Quantity Surveyor",
       "value": "AYH Partnership",
-      "elementId": "e56315345d3c4d5788307656adfaad47"
+      "id": "e56315345d3c4d5788307656adfaad47"
     },
     {
       "label": "Project Manager",
       "value": "Richard Ellis",
-      "elementId": "049aa430a7ff4ffeb422c27c59fc8f23"
+      "id": "049aa430a7ff4ffeb422c27c59fc8f23"
     },
     {
       "label": "Lighting Consultant",
       "value": "Lighting Design Partnership",
-      "elementId": "22e4c244a43e4ac3accd6c4bf8709ac9"
+      "id": "22e4c244a43e4ac3accd6c4bf8709ac9"
     },
     {
       "label": "Landscape Architect",
       "value": "Edward Hutchison",
-      "elementId": "62a98e33d5314f4bb361d74af8fafbaa"
+      "id": "62a98e33d5314f4bb361d74af8fafbaa"
     },
     {
       "label": "Contractor",
       "value": "Sir Robert McAlpine & Sons Ltd",
-      "elementId": "e8eebcd573724443b109ca63c2f06aa4"
+      "id": "e8eebcd573724443b109ca63c2f06aa4"
     },
     {
       "label": "Planning Consultant",
       "value": "Montagu Evans",
-      "elementId": "d0c4e883057a456aaa16198f8be793c5"
+      "id": "d0c4e883057a456aaa16198f8be793c5"
     },
     {
       "label": "Fire Consultant",
       "value": "Warrington Fire Research Consultants",
-      "elementId": "5ffce8d3935548239a0ad4baa53b25c3"
+      "id": "5ffce8d3935548239a0ad4baa53b25c3"
     }
   ],
   "awards": [

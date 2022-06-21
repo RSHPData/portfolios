@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "01750",
   "url": "industrial/fleetguard",
-  "serializeDate": "'2022-06-19 14:25:07.178'",
-  "serialized": 1655648707178,
+  "serializeDate": "'2022-06-21 14:15:31.628'",
+  "serialized": 1655820931628,
   "serializedBy": "sreeve",
   "title": "Fleetguard",
   "description": "Located in a newly designated industrial zone within a few kilometres of the town of Quimper in Brittany and adjacent to a major road, the site provides magnificent views across country towards Quimper and the south Brittany coast.",
@@ -37,24 +37,24 @@
     {
       "label": "Gross Floor Area",
       "value": "8 750 m²",
-      "elementId": "1e4c09c360dd498aa465d953e296eee2"
+      "id": "1e4c09c360dd498aa465d953e296eee2"
     }
   ],
   "companies": [
     {
       "label": "Structural Engineer",
       "value": "Ove Arup & Partners",
-      "elementId": "b33ffee01c2749628df73e569a3b00cb"
+      "id": "b33ffee01c2749628df73e569a3b00cb"
     },
     {
       "label": "Quantity Surveyor",
       "value": "Northcroft Neighbour and Nicholson",
-      "elementId": "c7f0b02aacda4c7891c9017bf7b02f93"
+      "id": "c7f0b02aacda4c7891c9017bf7b02f93"
     },
     {
       "label": "Project Manager",
       "value": "Fleetguard International Corporation",
-      "elementId": "0652373e171c4c2482833c22af99414e"
+      "id": "0652373e171c4c2482833c22af99414e"
     }
   ],
   "awards": [

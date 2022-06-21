@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "02815",
   "url": "transport/transbay-transit-center",
-  "serializeDate": "'2022-06-19 14:25:23.667'",
-  "serialized": 1655648723667,
+  "serializeDate": "'2022-06-21 14:15:47.368'",
+  "serialized": 1655820947368,
   "serializedBy": "sreeve",
   "title": "Transbay Transit Center",
   "description": "San Francisco is one of the few major US cities that has managed to avoid the large scale decay of central areas, the sprawl of the suburbs and dependence on the private car as a means of transport, with the consequent erosion of city life.",
@@ -35,34 +35,34 @@
     {
       "label": "Transit Centre",
       "value": "960 000 ft²",
-      "elementId": "305174e523254f28b05ecde8358cf34f"
+      "id": "305174e523254f28b05ecde8358cf34f"
     },
     {
       "label": "Tower",
       "value": "1 500 000 ft²",
-      "elementId": "2e2e1d71c8c74a87aea9f5cb22ab9ad4"
+      "id": "2e2e1d71c8c74a87aea9f5cb22ab9ad4"
     }
   ],
   "companies": [
     {
       "label": "Co-Architect",
       "value": "SMWM / AAI Architects Inc",
-      "elementId": "5f94235c0ffa4cfd93c5b0a89eafa74e"
+      "id": "5f94235c0ffa4cfd93c5b0a89eafa74e"
     },
     {
       "label": "Structural Engineer",
       "value": "Arup",
-      "elementId": "4e92b7970e074312863eeac18abaf260"
+      "id": "4e92b7970e074312863eeac18abaf260"
     },
     {
       "label": "Landscape Architect",
       "value": "Olin Partnership",
-      "elementId": "aff4760fae22424cb5fb363720f231f3"
+      "id": "aff4760fae22424cb5fb363720f231f3"
     },
     {
       "label": "Developers",
       "value": "Forest City Development / MacFarlane Partners",
-      "elementId": "c41e3c4e062d47b19163ee6f3f0941a7"
+      "id": "c41e3c4e062d47b19163ee6f3f0941a7"
     }
   ],
   "awards": [],

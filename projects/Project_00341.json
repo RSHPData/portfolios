@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "00341",
   "url": "office/billingsgate-market",
-  "serializeDate": "'2022-06-19 14:24:49.496'",
-  "serialized": 1655648689496,
+  "serializeDate": "'2022-06-21 14:15:16.330'",
+  "serialized": 1655820916330,
   "serializedBy": "sreeve",
   "title": "Billingsgate Market",
   "description": "Having completed Lloyd’s of London, the practice found that attitudes in the City of London were developing a stronger emphasis on conservation and a predilection on the part of the planners for ‘contextual’ designs where new buildings were concerned.",
@@ -60,34 +60,34 @@
     {
       "label": "Gross Floor Area",
       "value": "1 200 m²",
-      "elementId": "3a50ab9a41f44477830e3bfa882e99d2"
+      "id": "3a50ab9a41f44477830e3bfa882e99d2"
     }
   ],
   "companies": [
     {
       "label": "Structural Engineer",
       "value": "Ove Arup & Partners",
-      "elementId": "d3f1c96ade0644f0af8380e670f674ee"
+      "id": "d3f1c96ade0644f0af8380e670f674ee"
     },
     {
       "label": "Services Engineer",
       "value": "Ove Arup & Partners",
-      "elementId": "46d9815c4980474d9995d0f009a242e8"
+      "id": "46d9815c4980474d9995d0f009a242e8"
     },
     {
       "label": "Quantity Surveyor",
       "value": "GA Hanscomb Partnership",
-      "elementId": "b7de715557d045b681644c579e1a5542"
+      "id": "b7de715557d045b681644c579e1a5542"
     },
     {
       "label": "Lighting Consultant",
       "value": "Lighting Design Partnership",
-      "elementId": "a35853b9269c4770b78e938a81c5ce92"
+      "id": "a35853b9269c4770b78e938a81c5ce92"
     },
     {
       "label": "Contractor",
       "value": "Taylor Woodrow",
-      "elementId": "b912f2b364fc4acb993e0b8c700a7323"
+      "id": "b912f2b364fc4acb993e0b8c700a7323"
     }
   ],
   "awards": [

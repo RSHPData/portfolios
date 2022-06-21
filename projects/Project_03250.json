@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "03250",
   "url": "mixed-use/las-arenas",
-  "serializeDate": "'2022-06-19 14:25:27.271'",
-  "serialized": 1655648727271,
+  "serializeDate": "'2022-06-21 14:15:51.578'",
+  "serialized": 1655820951578,
   "serializedBy": "sreeve",
   "title": "Las Arenas",
   "description": "The Las Arenas bullring formally re-opened to the public on 25 March 2011 as a major new mixed-use leisure, entertainment and office complex.",
@@ -46,7 +46,10 @@
     "James Leathem"
   ],
   "floors": [
-    "5"
+    {
+      "value": "5",
+      "id": "4B6EAD5E190F46039D4ED6"
+    }
   ],
   "overview": "The Las Arenas bullring formally re-opened to the public on 25 March 2011 as a major new mixed-use leisure, entertainment and office complex. The historic bullring, built at the end of the 19th century, fell largely into disuse during the 1970s due to the declining popularity of bull fighting in Catalonia. However, the strong civic and cultural role which the building played in the life of Barcelona over nearly a century led to a decision by the city council not to demolish the façade. The design has created an open and accessible entrance to the new building at street level. In addition, an adjacent building – the ‘Eforum’ – provides retail and restaurants at ground and first-floor levels, with four levels of offices above.\n\n\nThe approach has involved the most advanced architectural and engineering technologies to re-establish the original building as a visually striking landmark for the city. The most spectacular aspect of the intervention is the inclusion of a 100-metre-diameter habitable ‘dish’ with a 76-metre- diameter domed roof, floating over the façade of the bullring and structurally independent from it to cover the various activities taking place below. This ‘plaza in the sky’ incorporates large terraces around the perimeter with space for cafés and restaurants with stunning views over the city. New plazas are also created at street level to provide connections with the existing metro station and neighbouring Parc Joan Miró. The development links strongly to the nearby Fira de Barcelona – a key European business exhibition venue attracting 3.5 million visitors annually– and the neighbouring districts of Eixample and Sants-Montjuic.\n\n\nRSHP set out to re-establish Las Arenas as a 21st century landmark for the city. This involved retaining the entire existing façade as well as re-integrating what had become an isolated traffic island into the city fabric. The design includes a new leisure and retail development within this façade, and has also created significant areas of public realm both in the new dome structure – with its 360-degree roof terrace rising above the existing wall – and at the surrounding street level, which will help to revitalise this part of Barcelona.",
   "design": "The design is based on a series of separate and complementary structural systems which allows a variety of activities and user requirements to take place on different levels inside the building.\n\nThe roof and the giant dish are supported on huge pylons, with services and circulation, such as escalators and stairways, accommodated in a cross shaped area and defined by the four raked pylon structures.\n\nThe dish supports the cupola/dome, creating an open and flexible space. Its columns travel down to ground level within the four atria; bridges, lifts, escalators and walkways either pass through these columns or on either side of them. This also allows for an open, column-free space at level 4 and removes the need for any structural members to pass through the cinema spaces below at levels 2 and 3. These cinema spaces are formed by large steel cantilevered boxes that effectively constitute a separate, self-contained structural system within the building and rest on a concrete base at level 2.\n\n\nFrom level 2 downwards, a more conventional concrete column and floor slab construction has been used for the retail areas. The design of the column layout has provided the spaces required by the client for different retail zones; these columns continue into the four levels of car park below, creating a logical layout for vehicle access and parking.\n\nAdditional, separate structural systems support the existing façade of the historic bullring (providing maintenance, fire escape, services and access gantries) and the adjacent Eforum, which connects with the retail at ground level and also with the car park and basement ramps. Between the bullring façade and the Eforum is a services spine and large goods lifts, with other services for the bullring complex placed on the roof of the Eforum.\n\n\nThe 96-metre diameter roof dome is finished with a beige plastic coating. This complements the adjacent roofscape and also helps to reduce glare from reflected sunlight. The relatively shallow dome rises only ten metres from its perimeter to the centre. While this geometry is structurally challenging, with its susceptibility to buckling and large deflections, the dimensions were non-negotiable, having to keep within an envelope agreed during the initial planning consent. The maximum crown height was fixed to reduce the visual impact of the roof from a nearby historical fountain.",
@@ -56,54 +59,54 @@
     {
       "label": "Gross Floor Area",
       "value": "105 816 m²",
-      "elementId": "28665b7594e34f6f8e4d7c2d9df67e27"
+      "id": "28665b7594e34f6f8e4d7c2d9df67e27"
     },
     {
       "label": "Bullring",
       "value": "46 973 m²",
-      "elementId": "cf2f5064660f415da7667d6a6317d5b7"
+      "id": "cf2f5064660f415da7667d6a6317d5b7"
     }
   ],
   "companies": [
     {
       "label": "Co-Architect",
       "value": "Alonso Balaguer y Arquitectos Asociados",
-      "elementId": "4273dd9cf0d4416380bf383ba22edc54"
+      "id": "4273dd9cf0d4416380bf383ba22edc54"
     },
     {
       "label": "Structural Engineer",
       "value": "Expedition Engineering and BOMA",
-      "elementId": "6fbae5357825499bbcf4fec9d98b726e"
+      "id": "6fbae5357825499bbcf4fec9d98b726e"
     },
     {
       "label": "Services Engineer",
       "value": "BDSP and JG",
-      "elementId": "92066d23198b408abec186b7c8212767"
+      "id": "92066d23198b408abec186b7c8212767"
     },
     {
       "label": "Quantity Surveyor",
       "value": "TG3",
-      "elementId": "f0e0522422e64261a899a291cf1ac0f3"
+      "id": "f0e0522422e64261a899a291cf1ac0f3"
     },
     {
       "label": "Project Manager",
       "value": "Bovis",
-      "elementId": "2861070e43ef45e382b3c41ff4da93fd"
+      "id": "2861070e43ef45e382b3c41ff4da93fd"
     },
     {
       "label": "Contractor",
       "value": "Dragados",
-      "elementId": "1d3bec27f3124f958762447cdbfcb7a2"
+      "id": "1d3bec27f3124f958762447cdbfcb7a2"
     },
     {
       "label": "Acoustic Consultant",
       "value": "BDSP and Audioscan",
-      "elementId": "3adf591acd954686b68d278a5b337e4b"
+      "id": "3adf591acd954686b68d278a5b337e4b"
     },
     {
       "label": "Existing Facade Consultant",
       "value": "Expedition Engineering and BOMA",
-      "elementId": "162980ad633b4b779902f8cda7da81f1"
+      "id": "162980ad633b4b779902f8cda7da81f1"
     }
   ],
   "awards": [

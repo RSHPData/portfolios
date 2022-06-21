@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "02670",
   "url": "retail/ashford-designer-retail-outlet",
-  "serializeDate": "'2022-06-19 14:25:22.176'",
-  "serialized": 1655648722176,
+  "serializeDate": "'2022-06-21 14:15:45.818'",
+  "serialized": 1655820945818,
   "serializedBy": "sreeve",
   "title": "Ashford Designer Retail Outlet",
   "description": "The proliferation of out-of-town retail developments on the American model is a contentious issue in Britain and in Europe generally.",
@@ -51,54 +51,54 @@
     {
       "label": "Site Area",
       "value": "30 000 m²",
-      "elementId": "06c144544ae14200b3635e2d2a8e78d4"
+      "id": "06c144544ae14200b3635e2d2a8e78d4"
     },
     {
       "label": "Gross Floor Area",
       "value": "19 000 m²",
-      "elementId": "423aa9ceec3a47b881939e4ae7ab90f6"
+      "id": "423aa9ceec3a47b881939e4ae7ab90f6"
     }
   ],
   "companies": [
     {
       "label": "Structural Engineer",
       "value": "Buro Happold",
-      "elementId": "b3578fcb251243b0941d97e906e1e36d"
+      "id": "b3578fcb251243b0941d97e906e1e36d"
     },
     {
       "label": "Services Engineer",
       "value": "John Brady Associates",
-      "elementId": "3c2177326b1b4e30818b1d84aad38b8a"
+      "id": "3c2177326b1b4e30818b1d84aad38b8a"
     },
     {
       "label": "Quantity Surveyor",
       "value": "Davis Langdon & Everest",
-      "elementId": "50635df8739643e7a29c1a55954ad2bd"
+      "id": "50635df8739643e7a29c1a55954ad2bd"
     },
     {
       "label": "Lighting Consultant",
       "value": "Lighting Design Partnership",
-      "elementId": "ab4fabb195734511aefbd93fec7501bb"
+      "id": "ab4fabb195734511aefbd93fec7501bb"
     },
     {
       "label": "Landscape Architect",
       "value": "Derek Lovejoy Partnership",
-      "elementId": "1ce51e8c0f6947c68f7e82725ecc61f6"
+      "id": "1ce51e8c0f6947c68f7e82725ecc61f6"
     },
     {
       "label": "Contractor",
       "value": "Galliford Northern, Kajima / Laing Management Joint Venture",
-      "elementId": "b0dbf303f0c54ce5af74a6e060b64909"
+      "id": "b0dbf303f0c54ce5af74a6e060b64909"
     },
     {
       "label": "Planning Consultant",
       "value": "Montagu Evans",
-      "elementId": "1568569bf3204fd99bb99b5e6dc51b10"
+      "id": "1568569bf3204fd99bb99b5e6dc51b10"
     },
     {
       "label": "Civil Engineer",
       "value": "Buro Happold / Arup",
-      "elementId": "73c3cb2dd84d414d93fa02fe505aa3eb"
+      "id": "73c3cb2dd84d414d93fa02fe505aa3eb"
     }
   ],
   "awards": [],

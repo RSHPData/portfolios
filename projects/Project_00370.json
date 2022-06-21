@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "00370",
   "url": "industrial/centre-commercial-st-herblain/",
-  "serializeDate": "'2022-06-19 14:24:52.896'",
-  "serialized": 1655648692896,
+  "serializeDate": "'2022-06-21 14:15:17.808'",
+  "serialized": 1655820917808,
   "serializedBy": "sreeve",
   "title": "Centre Commercial St Herblain",
   "description": "The client wanted a low-cost building in record time - one which projected the dynamic retailing operation it was to contain and could at the same time be adapted to other sites.",
@@ -39,49 +39,49 @@
     {
       "label": "Area",
       "value": "21,000 m²",
-      "elementId": "9b8002d77ea14e588dcaf3e50bf661a9"
+      "id": "9b8002d77ea14e588dcaf3e50bf661a9"
     },
     {
       "label": "Floor to floor height",
       "value": "6.5m",
-      "elementId": "26652a9489c94c3da283bdede9717f00"
+      "id": "26652a9489c94c3da283bdede9717f00"
     }
   ],
   "companies": [
     {
       "label": "Co-Architect Atelier",
       "value": "Claude Bucher",
-      "elementId": "f6b87e5371834b8a8d6661886eadcb3f"
+      "id": "f6b87e5371834b8a8d6661886eadcb3f"
     },
     {
       "label": "Structural Engineer",
       "value": "Ove Arup & Partners, Rice Francis Ritchie, OTH Rhone-Alpes",
-      "elementId": "99b63d5e8ac34beba02bb9925857389b"
+      "id": "99b63d5e8ac34beba02bb9925857389b"
     },
     {
       "label": "Services Engineer",
       "value": "Ove Arup & Partners/OtH",
-      "elementId": "0c7e9efa09094e03adcf1d35e9f33318"
+      "id": "0c7e9efa09094e03adcf1d35e9f33318"
     },
     {
       "label": "Quantity Surveyor",
       "value": "Thorne Wheatley Associates, Paris",
-      "elementId": "a574238c71ff47ec86cdf2f7a139eac0"
+      "id": "a574238c71ff47ec86cdf2f7a139eac0"
     },
     {
       "label": "Lighting Consultant",
       "value": "Lighting Design Partnership",
-      "elementId": "62465c1d3caf450694feed4a71326a85"
+      "id": "62465c1d3caf450694feed4a71326a85"
     },
     {
       "label": "Landscape Architect",
       "value": "David Jarvis Associates/Dan Kiley",
-      "elementId": "c8aa4d7979134c709a71f09deeb03e28"
+      "id": "c8aa4d7979134c709a71f09deeb03e28"
     },
     {
       "label": "Interior Designer",
       "value": "B & FL, Paris",
-      "elementId": "d4c3e01288f24ab9a9422d0b83e9f144"
+      "id": "d4c3e01288f24ab9a9422d0b83e9f144"
     }
   ]
 }

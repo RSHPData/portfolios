@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "01455",
   "url": "office/chiswick-park",
-  "serializeDate": "'2022-06-19 14:25:03.752'",
-  "serialized": 1655648703752,
+  "serializeDate": "'2022-06-21 14:15:28.508'",
+  "serialized": 1655820928508,
   "serializedBy": "sreeve",
   "title": "Chiswick Park",
   "description": "The key feature of the development is the spectacular parkland forming the heart of the site. The focal point of the park is a large lake, with a canopied timber boardwalk from which the entrance to each building is arranged.",
@@ -54,69 +54,69 @@
     {
       "label": "Site Area",
       "value": "33 acres",
-      "elementId": "07b3e47b55d14eb08a75d7ae81b7a7b2"
+      "id": "07b3e47b55d14eb08a75d7ae81b7a7b2"
     },
     {
       "label": "Gross Floor Area",
       "value": "185 000 m²",
-      "elementId": "abad552e378e45c1b2f5385df6713f87"
+      "id": "abad552e378e45c1b2f5385df6713f87"
     }
   ],
   "companies": [
     {
       "label": "Structural Engineer",
       "value": "Arup",
-      "elementId": "00efac58ebf047408a5442d178d21461"
+      "id": "00efac58ebf047408a5442d178d21461"
     },
     {
       "label": "Services Engineer",
       "value": "Arup",
-      "elementId": "0cc2626069bf4f96a90983dc4410d944"
+      "id": "0cc2626069bf4f96a90983dc4410d944"
     },
     {
       "label": "Quantity Surveyor",
       "value": "EC Harris / Mott Green & Wall",
-      "elementId": "59d620e3d719405693b31d744000b002"
+      "id": "59d620e3d719405693b31d744000b002"
     },
     {
       "label": "Landscape Architect",
       "value": "W8 Landscape Architects and Urban Planners / Charles Funke Associates",
-      "elementId": "eb603238e68c4f64b2f5f8d66ad576d6"
+      "id": "eb603238e68c4f64b2f5f8d66ad576d6"
     },
     {
       "label": "Contractor",
       "value": "Lend Lease",
-      "elementId": "1999853836204683a5fd13d1b63280d1"
+      "id": "1999853836204683a5fd13d1b63280d1"
     },
     {
       "label": "Planning Consultant",
       "value": "Lendlease",
-      "elementId": "064553810cd14dad99c37ac144fc350e"
+      "id": "064553810cd14dad99c37ac144fc350e"
     },
     {
       "label": "Letting Agents",
       "value": "Jones Lang La Salle & PDF Savills",
-      "elementId": "10c0a47bbf8d482291fce569498e7f9b"
+      "id": "10c0a47bbf8d482291fce569498e7f9b"
     },
     {
       "label": "Facade Consultant",
       "value": "Josef Gartner",
-      "elementId": "246c3e311b01474d99136e57e7dae582"
+      "id": "246c3e311b01474d99136e57e7dae582"
     },
     {
       "label": "Fire Consultant",
       "value": "Exova",
-      "elementId": "612f92d9202e49c490b316e9050a1346"
+      "id": "612f92d9202e49c490b316e9050a1346"
     },
     {
       "label": "Access Consultant",
       "value": "David Bonnet Associates",
-      "elementId": "381762d5d19742fc9cd8388f2073f19f"
+      "id": "381762d5d19742fc9cd8388f2073f19f"
     },
     {
       "label": "Infrastructure",
       "value": "Arup",
-      "elementId": "3f5d745f8a864cfe9aebb8625697d51b"
+      "id": "3f5d745f8a864cfe9aebb8625697d51b"
     }
   ],
   "awards": [

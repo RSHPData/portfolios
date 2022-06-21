@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "04200",
   "url": "transport/r9-station",
-  "serializeDate": "'2022-06-19 14:25:41.713'",
-  "serialized": 1655648741713,
+  "serializeDate": "'2022-06-21 14:16:05.034'",
+  "serialized": 1655820965034,
   "serializedBy": "sreeve",
   "title": "R9 Station",
   "description": "This station serves Kaohsiung’s popular Central Park and the Datong shopping district on the new ‘Red’ line of the underground system.",
@@ -44,29 +44,29 @@
     {
       "label": "Building Area",
       "value": "14 300 m²",
-      "elementId": "a3bd7594297746578311e6fb3d1a9802"
+      "id": "a3bd7594297746578311e6fb3d1a9802"
     }
   ],
   "companies": [
     {
       "label": "Co-Architect",
       "value": "Resource Engineering Service, Inc.",
-      "elementId": "293f44d308ed4de8bd808e2f40f2dc20"
+      "id": "293f44d308ed4de8bd808e2f40f2dc20"
     },
     {
       "label": "Structural Engineer",
       "value": "Structured Environment",
-      "elementId": "46418dc2080940dab8417bf2cf5395fd"
+      "id": "46418dc2080940dab8417bf2cf5395fd"
     },
     {
       "label": "Services Engineer",
       "value": "Resource Engineering Service, Inc.",
-      "elementId": "66842fa1dfae4e5e91e8d3c762586f24"
+      "id": "66842fa1dfae4e5e91e8d3c762586f24"
     },
     {
       "label": "Contractor",
       "value": "Far Eastern Construction Co. Ltd. Pan Asia Corporation Iwata Chizaki Inc.",
-      "elementId": "d49878ca99504f759085078a67d6d695"
+      "id": "d49878ca99504f759085078a67d6d695"
     }
   ]
 }

@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "03650",
   "url": "civic/barcelona-and-lhospitalet-law-courts",
-  "serializeDate": "'2022-06-19 14:25:34.172'",
-  "serialized": 1655648734172,
+  "serializeDate": "'2022-06-21 14:15:58.763'",
+  "serialized": 1655820958763,
   "serializedBy": "sreeve",
   "title": "Barcelona & L’Hospitalet Law Courts",
   "description": "The development, designed with co-architects Alonso Balaguer y Arquitectos Asociados, is designed to provide accommodation for the judicial bodies of Barcelona and l’Hospitalet de Llobregat.",
@@ -38,24 +38,24 @@
     {
       "label": "Area",
       "value": "264 500 m²",
-      "elementId": "a234b31d1acb4b469fe31132e792ea27"
+      "id": "a234b31d1acb4b469fe31132e792ea27"
     }
   ],
   "companies": [
     {
       "label": "Co-Architect",
       "value": "Alonso Balaguer y Arquitectos Asociados",
-      "elementId": "0677feec6aa644f79d15be43fd671667"
+      "id": "0677feec6aa644f79d15be43fd671667"
     },
     {
       "label": "Structural Engineer",
       "value": "Arup",
-      "elementId": "e4cd5ed4041e49cca295ac0df27e0ce6"
+      "id": "e4cd5ed4041e49cca295ac0df27e0ce6"
     },
     {
       "label": "Services Engineer",
       "value": "Arup",
-      "elementId": "701613c9e48c46c39e67573245087e68"
+      "id": "701613c9e48c46c39e67573245087e68"
     }
   ],
   "awards": [],

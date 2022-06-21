@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "01570",
   "url": "masterplanning/potsdamer-platz",
-  "serializeDate": "'2022-06-19 14:25:06.521'",
-  "serialized": 1655648706521,
+  "serializeDate": "'2022-06-21 14:15:30.817'",
+  "serialized": 1655820930817,
   "serializedBy": "sreeve",
   "title": "Potsdamer Platz",
   "description": "The brief required a masterplan to transform a million square metres of urban wasteland into a dynamic living space and major traffic inter-change, incorporating a mixed-use development.",
@@ -49,19 +49,19 @@
     {
       "label": "Site Area",
       "value": "100 hectares",
-      "elementId": "2f5536c1d1af4c1a92ffe32f9c5a1350"
+      "id": "2f5536c1d1af4c1a92ffe32f9c5a1350"
     }
   ],
   "companies": [
     {
       "label": "Structural Engineer",
       "value": "Ove Arup & Partners",
-      "elementId": "0cfee65e5ca149e78acefa0b148d5ac0"
+      "id": "0cfee65e5ca149e78acefa0b148d5ac0"
     },
     {
       "label": "Services Engineer",
       "value": "Ove Arup & Partners",
-      "elementId": "721730c59c04416daa09950c797235d8"
+      "id": "721730c59c04416daa09950c797235d8"
     }
   ],
   "awards": [],

@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "01065",
   "url": "transport/terminal-5-heathrow-airport/",
-  "serializeDate": "'2022-06-19 14:24:59.974'",
-  "serialized": 1655648699974,
+  "serializeDate": "'2022-06-21 14:15:24.703'",
+  "serialized": 1655820924703,
   "serializedBy": "sreeve",
   "title": "Terminal 5, Heathrow Airport",
   "description": "Rogers Stirk Harbour + Partners won the competition for Terminal 5 at Heathrow Airport in 1989. The terminal became operational in March 2008, after being officially opened by Queen Elizabeth II.",
@@ -127,10 +127,16 @@
     "Steve Martin"
   ],
   "heights": [
-    "40 m"
+    {
+      "value": "40 m",
+      "id": "2BEE6DE10A9E4D0E806CD9"
+    }
   ],
   "floors": [
-    "5"
+    {
+      "value": "5",
+      "id": "7DEC1941F2F2477097B7E4"
+    }
   ],
   "overview": "Rogers Stirk Harbour + Partners won the competition for Terminal 5 (T5) at Heathrow Airport in 1989. The terminal became operational in March 2008, after being officially opened by Queen Elizabeth II.\n\nThe original competition scheme evolved during the 1990s, shaped by changing requirements, including a dramatic reduction in site area and different security needs.\n\n\nThe built scheme for the main terminal offers an unencumbered, long-span ‘envelope’ – developed with Arup – with a flexibility of internal space conceptually similar to that of the practice’s much earlier design for the Pompidou Centre in Paris. Departure and arrivals areas, check-in desks, commercial space, retail, offices, passenger lounges, back-up and other facilities are all contained within freestanding steel-framed structures inside the building and can be dismantled and reconfigured as future needs change. The built, multi-level scheme is contained beneath an elegant, curved floating roof, supported by slim columns at the perimeter edges to provide the required highly flexible and visually dramatic internal space. In this scheme, passengers depart and arrive in a terminal building which offers generous spaces and fine views across the airport.\n\n\nAs well as the design of the main terminal building, RSHP was also responsible for the design of two satellites and Heathrow’s new control tower, which became operational in early 2007. The main terminal, its satellite buildings, and the new control tower are all part of a wider T5 campus development that includes a landscaped motorway link from the M25, the creation of two new open rivers from previously culverted channels under the airport, the construction of more than a square kilometre of taxi-ways and aircraft stands, three rail stations (for the Piccadilly line, Heathrow Express, and overland rail), an airside track transit system, and an airside road tunnel connecting directly to Heathrow’s central terminal area.",
   "design": "One of the major differences between the original scheme and the final design is that the site area had been significantly reduced from about 2.5 square kilometres (1 square mile or the size of Hyde Park) to about 0.5 square kilometres (0.2 square miles). The public enquiry insisted that the site should be compressed into a very compact area and while in many ways this was seen as a design advantage, it none the less presented a significant logistical challenge. The compact nature of the Terminal 5 plan is striking in comparison to other international airports. Its footprint relatively constrained rather than being spread out across the landscape.\n\nMajor landscaping was undertaken on and around the site to rehabilitate the Colne Valley area, in which the building sits. This included the preservation and enhancement of two rivers on the site. The buildings are energy efficient for their type and include louvres to shade the east, west and south façades, and laminated glass to insulate against aircraft noise.\n\n\nAnother major change was that the rail link was moved from below the building to outside, where it forms part of a new interchange piazza. Due to the relocated rail link, the forecourt, with its pick-up and drop-off zone in front of the building, was moved to the carpark buildings and replaced with the interchange piazza . The interchange at Terminal 5 gives the building a great ‘front door’ and a sense of welcome and departure with significant presence and quality.\n\nThe design for the roof was simplified from the original concept to address crucial issues of cost, buildability and flexibility. The end solution consists of a tied, or bowstring, arch supported high above the concourse on inclined structural columns to keep the interior space free of columns, maximising layout flexibility and cost-effectiveness.\n\nThe client, contractor and design team were co-located on site since the project’s inception to facilitate the high degree of collaboration necessary for the resolution of a project as complex as Terminal 5.\n\n\nIn addition to the terminal, ancillary components of the development include two satellite buildings, a hotel, considerable underground infrastructure including a six-platform station, a heavy rail track for potential international connections, a coach and bus station, short term parking facilities and a new spur road from the M25 motorway. A light rail system known as the Track Transit System links the terminal buildings and driverless trains (the Automated People Mover) will transport passengers between the terminal and its satellites.\n\nThe use of digital information in this project was crucial to ensuring the accuracy of patterns for casting and the need to work to tolerances of one millimetre or less. The project demonstrates the importance of dimensional data when producing castings using lasers or water jets. This gave the design team more control over the quality of the final product and resulted in less wastage of materials. It also allowed rapid prototyping for solving problems throughout the design process.",
@@ -140,44 +146,44 @@
     {
       "label": "Gross Floor Area",
       "value": "465 000 m²",
-      "elementId": "5b534c8f98b8443aa9f9a00bc869cd4b"
+      "id": "5b534c8f98b8443aa9f9a00bc869cd4b"
     },
     {
       "label": "Site Area",
       "value": "260 ha",
-      "elementId": "c71d7b64748f4b278c4f79e2c17a7a4c"
+      "id": "c71d7b64748f4b278c4f79e2c17a7a4c"
     }
   ],
   "companies": [
     {
       "label": "Co-Architect",
       "value": "Pascal + Watson (production) / Chapman Taylor (retail) / HOK (rail systems) / YRM (BA/BAA liaison)",
-      "elementId": "e1578b3202f04e198f0a93143ebe63be"
+      "id": "e1578b3202f04e198f0a93143ebe63be"
     },
     {
       "label": "Structural Engineer",
       "value": "Arup",
-      "elementId": "0331dcc545f041e99379cd9f115ecc2c"
+      "id": "0331dcc545f041e99379cd9f115ecc2c"
     },
     {
       "label": "Services Engineer",
       "value": "DSSR / Arup",
-      "elementId": "c2331198e9bc4cdc9d5323239be63bc2"
+      "id": "c2331198e9bc4cdc9d5323239be63bc2"
     },
     {
       "label": "Contractor",
       "value": "Laing O’Rourke / Mace / Balfour Beaty / AMEC / Severfield-Rowan",
-      "elementId": "720e56c80ea444359e26e225125dcc95"
+      "id": "720e56c80ea444359e26e225125dcc95"
     },
     {
       "label": "Civil Engineer",
       "value": "Mott McDonald",
-      "elementId": "406db1cb6c7341af9f660e7053ecde42"
+      "id": "406db1cb6c7341af9f660e7053ecde42"
     },
     {
       "label": "Construction Management",
       "value": "BAA",
-      "elementId": "47dde8e1dcf44155b69c738d0bd63321"
+      "id": "47dde8e1dcf44155b69c738d0bd63321"
     }
   ],
   "awards": [

@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "01960",
   "url": "transport/europier-heathrow-airport",
-  "serializeDate": "'2022-06-19 14:25:09.598'",
-  "serialized": 1655648709598,
+  "serializeDate": "'2022-06-21 14:15:33.827'",
+  "serialized": 1655820933827,
   "serializedBy": "sreeve",
   "title": "Europier, Heathrow Airport",
   "description": "The new Europier at Heathrow’s Terminal 1 provided more than half a million square feet of new passenger and baggage facilities in an ongoing programme of improvements to Europe’s busiest airport building.",
@@ -64,44 +64,44 @@
     {
       "label": "Gross Floor Area",
       "value": "15 336 m²",
-      "elementId": "a67608f455424032a5886e7e26cea580"
+      "id": "a67608f455424032a5886e7e26cea580"
     }
   ],
   "companies": [
     {
       "label": "Structural Engineer",
       "value": "Waterman Partnership",
-      "elementId": "9a0090cb00c243a9a6920bd095cbbe2a"
+      "id": "9a0090cb00c243a9a6920bd095cbbe2a"
     },
     {
       "label": "Services Engineer",
       "value": "Hulley & Kirkwood",
-      "elementId": "85d62b7063264f54853568b0cfb9599c"
+      "id": "85d62b7063264f54853568b0cfb9599c"
     },
     {
       "label": "Acoustic Consultant",
       "value": "Sandy Brown Associates",
-      "elementId": "4eba0cda69b24aa6b5562a26bc8de507"
+      "id": "4eba0cda69b24aa6b5562a26bc8de507"
     },
     {
       "label": "Specification Consultant",
       "value": "Schumann Smith",
-      "elementId": "19f009d321974934bb88248fae75aed2"
+      "id": "19f009d321974934bb88248fae75aed2"
     },
     {
       "label": "Fire Consultant",
       "value": "Warrington Fire Research Consultancy",
-      "elementId": "678ff03d2e9741548a81608e41e3cfc1"
+      "id": "678ff03d2e9741548a81608e41e3cfc1"
     },
     {
       "label": "Cladding Consultant",
       "value": "Ove Arup and Partners",
-      "elementId": "444380253cdf4a0981caad2cf4719c9e"
+      "id": "444380253cdf4a0981caad2cf4719c9e"
     },
     {
       "label": "Construction Managers",
       "value": "Bovis Construction Limited",
-      "elementId": "dd590b458ccd46cfb1ec4a8e1d6170ea"
+      "id": "dd590b458ccd46cfb1ec4a8e1d6170ea"
     }
   ],
   "awards": [

@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "02930",
   "url": "culture-and-leisure/hesperia-hotel/",
-  "serializeDate": "'2022-06-19 14:25:26.589'",
-  "serialized": 1655648726589,
+  "serializeDate": "'2022-06-21 14:15:50.615'",
+  "serialized": 1655820950615,
   "serializedBy": "sreeve",
   "title": "Hesperia Hotel",
   "description": "The Hesperia Hotel and Conference Centre forms a new landmark in the rapidly developing urban centre of L’Hospitalet, Catalonia’s second largest city with 240,000 inhabitants.",
@@ -40,7 +40,10 @@
     "Andrew Partridge"
   ],
   "heights": [
-    "30 storeys"
+    {
+      "value": "30 storeys",
+      "id": "B7C92B1FECD14541B7985E"
+    }
   ],
   "overview": "The Hesperia Hotel and Conference Centre forms a new landmark in the rapidly developing urban centre of L’Hospitalet, Catalonia’s second largest city with 240,000 inhabitants.\n\nThe brownfield site is 10km west of Barcelona, flanking la Gran Via, a motorway which leads out to the airport and is to be transformed into an attractive boulevard – and a gateway to Barcelona. Fast traffic will be contained in a sunken section, making local traffic the only traffic at street level. The possibility of decking over the sunken section offers the potential for a sequence of vibrant new public piazzas.\n\n\nThe design for the scheme places lift and service towers at the edge of the building as ‘servant spaces’, with the lower floors of the 30-storey tower devoted to public spaces within an open and transparent ‘container’. The scheme comprises a 304-room five-star hotel, a 3,000 m² conference centre accommodating 1,800 people, a 500-seat auditorium, 1,500 m² headquarters for the Hesperia company and a 4,500 m² sports club, with a swimming pool and gym. A public square extends below the tower connecting it to the adjacent low-rise buildings. One of the restaurants is housed in a striking glazed ‘dish’ located at roof level.\n\nDetailed design work started in September 2000. The project was completed in early 2006, and was formally opened at a ceremony in June 2006.",
   "design": "The tower is divided into an upper and a lower zone. The lower levels accommodate offices and restaurants, with an open plan arrangement to facilitate flexibility. The upper part of the tower accommodates the hotel, with all rooms commanding spectacular views.\n\nThe major programmatic functions within the design are architecturally expressed through the separation and articulation of each element. The hotel rooms are contained within a floating block, with a gridded facade identifying each room. Below the hotel block, the lower levels of commercial space are identified as a series of double-height floors incorporating mezzanine levels, behind large expanses of clear glazing.\n\n\nAt the lower levels, the expressed structure, consisting of 30 metre-high post-tensioned concrete columns, serves to visually lift the hotel element, while lending an appropriate sense of scale to the composition as a whole. The service elements are separated from the main form of the tower, forming a slender vertical element attached to the short end of the block. These contain two cores, public and private, as well as emergency stairs and service risers. The atrium is topped by a 45 degree glazed roof to identify the entrance to the building as well as creating a dramatic enclosed public space at the base of the building.\n\nThe interior fit out is being carried out by Hesperia’s own house architects and follows their corporate style.",
@@ -50,44 +53,44 @@
     {
       "label": "Hotel GIA",
       "value": "14,000 m²",
-      "elementId": "6397d5af80a04200aa5531e7521d285a"
+      "id": "6397d5af80a04200aa5531e7521d285a"
     },
     {
       "label": "Sports Club GIA",
       "value": "5,900 m²",
-      "elementId": "27fae217bdee4f63bab7a0aff351a8fe"
+      "id": "27fae217bdee4f63bab7a0aff351a8fe"
     },
     {
       "label": "Conference Centre GIA",
       "value": "4,500 m²",
-      "elementId": "cb73aa530f1e4722b64824f2c6ffd750"
+      "id": "cb73aa530f1e4722b64824f2c6ffd750"
     },
     {
       "label": "Site Area ( including Park)",
       "value": "50,000 m²",
-      "elementId": "7c903c6dd7454f64a801589be0150060"
+      "id": "7c903c6dd7454f64a801589be0150060"
     }
   ],
   "companies": [
     {
       "label": "Structural Engineer",
       "value": "Buro Happold/Obiol, Moya y Asociados, Brufau y Asociados",
-      "elementId": "9169d31810074d1eaaad1ca545fe0747"
+      "id": "9169d31810074d1eaaad1ca545fe0747"
     },
     {
       "label": "Services Engineer",
       "value": "BDSP/J G y Asociados",
-      "elementId": "f1da425745584c1a9566f7a974844944"
+      "id": "f1da425745584c1a9566f7a974844944"
     },
     {
       "label": "Quantity Surveyor",
       "value": "Atkins, Faithful & Gould/G3 Tecnics",
-      "elementId": "fad49b430c284163b88b56223c052e2e"
+      "id": "fad49b430c284163b88b56223c052e2e"
     },
     {
       "label": "Contractor",
       "value": "Construcciones Castro",
-      "elementId": "5bddfbbb938943b8ac0810ea5d5f216a"
+      "id": "5bddfbbb938943b8ac0810ea5d5f216a"
     }
   ]
 }

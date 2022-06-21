@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "04980",
   "url": "office/ching-fu-group-headquarters",
-  "serializeDate": "'2022-06-19 14:25:50.214'",
-  "serialized": 1655648750214,
+  "serializeDate": "'2022-06-21 14:16:13.612'",
+  "serialized": 1655820973612,
   "serializedBy": "sreeve",
   "title": "Ching Fu Group Headquarters",
   "description": "Following a competition in early 2005, Rogers Stirk Harbour + Partners designed a new headquarters for Taiwan’s largest private shipbuilder aimed at uniting all the various activities of the group in one building.",
@@ -45,44 +45,44 @@
     {
       "label": "Site Area",
       "value": "7 123 m²",
-      "elementId": "d42fdb8184464e97808cc37148280206"
+      "id": "d42fdb8184464e97808cc37148280206"
     },
     {
       "label": "Gross Floor Area",
       "value": "25 178 m²",
-      "elementId": "c31621f1ac824a3198b66fcfd66a9fff"
+      "id": "c31621f1ac824a3198b66fcfd66a9fff"
     }
   ],
   "companies": [
     {
       "label": "Co-Architect",
       "value": "HOYA Architects & Associates",
-      "elementId": "2a2c5db8b723492bb47e7feb0a73d8ac"
+      "id": "2a2c5db8b723492bb47e7feb0a73d8ac"
     },
     {
       "label": "Structural Engineer",
       "value": "Supertech Consultants International",
-      "elementId": "715f16e2393a43a184199e66fddf83e4"
+      "id": "715f16e2393a43a184199e66fddf83e4"
     },
     {
       "label": "Services Engineer",
       "value": "Co-Young Engineering Consultants, Inc.",
-      "elementId": "65d74f13f5204a9a96cf629ead5f8f8f"
+      "id": "65d74f13f5204a9a96cf629ead5f8f8f"
     },
     {
       "label": "Lighting Consultant",
       "value": "CWI Lighting design",
-      "elementId": "00588aabbfce452fb691bffa121cc3e4"
+      "id": "00588aabbfce452fb691bffa121cc3e4"
     },
     {
       "label": "Contractor",
       "value": "Fu Tsu Construction Co., Ltd.",
-      "elementId": "958cdc12999943f59548efbeb6353fb4"
+      "id": "958cdc12999943f59548efbeb6353fb4"
     },
     {
       "label": "Façade Engineering",
       "value": "Bright Curtain Metal Co., Ltd.",
-      "elementId": "51944af3f5594a7886a42d459ec3ca94"
+      "id": "51944af3f5594a7886a42d459ec3ca94"
     }
   ]
 }

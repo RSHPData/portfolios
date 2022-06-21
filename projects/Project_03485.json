@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "03485",
   "url": "mixed-use/scandicci-nuovo-centro-civico",
-  "serializeDate": "'2022-06-19 14:25:30.987'",
-  "serialized": 1655648730987,
+  "serializeDate": "'2022-06-21 14:15:55.406'",
+  "serialized": 1655820955406,
   "serializedBy": "sreeve",
   "title": "Scandicci Nuovo Centro Civico",
   "description": "Located at the gates of Florence, halfway between Casellina and the old town of Scandicci, the Nuovo Centro Civico is a new town centre designed by RSHP in collaboration with dastudio.",
@@ -43,44 +43,44 @@
     {
       "label": "Site Area",
       "value": "26 000 m²",
-      "elementId": "3a3f7398a49b4672884d5cb3d84f03e2"
+      "id": "3a3f7398a49b4672884d5cb3d84f03e2"
     },
     {
       "label": "Gross Floor Area",
       "value": "15 000 m²",
-      "elementId": "4ca8c8d3a2684c05920b747ed52cfa65"
+      "id": "4ca8c8d3a2684c05920b747ed52cfa65"
     }
   ],
   "companies": [
     {
       "label": "Co-Architect",
       "value": "dastudio",
-      "elementId": "8e54a174ea5044dcb2a7188952c8422d"
+      "id": "8e54a174ea5044dcb2a7188952c8422d"
     },
     {
       "label": "Structural Engineer",
       "value": "Politecnica",
-      "elementId": "575b5c3dc83a4c54be868707bfe3b1b9"
+      "id": "575b5c3dc83a4c54be868707bfe3b1b9"
     },
     {
       "label": "Services Engineer",
       "value": "Politecnica",
-      "elementId": "413ae2500292466c9fb8d22b1fc54f77"
+      "id": "413ae2500292466c9fb8d22b1fc54f77"
     },
     {
       "label": "Quantity Surveyor",
       "value": "Studio Associato Zingoni",
-      "elementId": "de9c17100de14864990bf866ca76301d"
+      "id": "de9c17100de14864990bf866ca76301d"
     },
     {
       "label": "Landscape Architect",
       "value": "Erika Skabar",
-      "elementId": "0bf294afcc054de6a3f57b35260daf27"
+      "id": "0bf294afcc054de6a3f57b35260daf27"
     },
     {
       "label": "Contractor",
       "value": "CMSA",
-      "elementId": "eba15bf7fdc0452e982ddcd800166d92"
+      "id": "eba15bf7fdc0452e982ddcd800166d92"
     }
   ],
   "awards": [

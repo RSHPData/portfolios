@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "00340",
   "url": "industrial/linn-products",
-  "serializeDate": "'2022-06-19 14:24:48.500'",
-  "serialized": 1655648688500,
+  "serializeDate": "'2022-06-21 14:15:15.643'",
+  "serialized": 1655820915643,
   "serializedBy": "sreeve",
   "title": "Linn Products",
   "description": "The essence of this scheme is a flexible plan devised to suit the needs of a highly-automated audio equipment manufacturer.",
@@ -24,29 +24,29 @@
     {
       "label": "Site Area",
       "value": "4 270 m²",
-      "elementId": "caadc9800ace46199d393c202fd30cae"
+      "id": "caadc9800ace46199d393c202fd30cae"
     }
   ],
   "companies": [
     {
       "label": "Structural Engineer",
       "value": "Ove Arup and Partners",
-      "elementId": "a52be7dd1df641fc93366a8b0d62938f"
+      "id": "a52be7dd1df641fc93366a8b0d62938f"
     },
     {
       "label": "Services Engineer",
       "value": "YRM Engineers",
-      "elementId": "c8710e14a4eb4e2f87a605c15b6de38a"
+      "id": "c8710e14a4eb4e2f87a605c15b6de38a"
     },
     {
       "label": "Quantity Surveyor",
       "value": "GA Hanscomb Partnership",
-      "elementId": "37f621c83de54b79a873ff3a9e44d714"
+      "id": "37f621c83de54b79a873ff3a9e44d714"
     },
     {
       "label": "Contractor",
       "value": "Balfour Beatty",
-      "elementId": "abc3924019464083985f28994947650f"
+      "id": "abc3924019464083985f28994947650f"
     }
   ],
   "awards": [

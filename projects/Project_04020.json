@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "04020",
   "url": "office/parc-1/",
-  "serializeDate": "'2022-06-21 12:28:30.510'",
-  "serialized": 1655814510510,
+  "serializeDate": "'2022-06-21 14:16:03.524'",
+  "serialized": 1655820963524,
   "serializedBy": "sreeve",
   "title": "Parc.1",
   "description": "Parc.1 comprises two landmark office towers facing west, the luxury 326-room Fairmount Ambassador Seoul hotel at the eastern end, and, anchoring the entire site, The Hyundai Seoul retail centre.",
@@ -73,54 +73,70 @@
     "Stephen Spence"
   ],
   "heights": [
-    "Office 1: 318m (1043ft)",
-    "Office 2: 246m (807ft);",
-    "Hotel: 101m (331ft);",
-    "Retail: 47m (154ft)"
+    {
+      "label": "Office 1",
+      "value": "318m (1043ft)",
+      "id": "5B95ED9468AB4279851458"
+    },
+    {
+      "label": "Office 2",
+      "value": "246m (807ft)",
+      "id": "463dc36aaefa485ea39aa1699bb28829"
+    },
+    {
+      "label": "Hotel",
+      "value": "101m (331ft)",
+      "id": "089656f153704e519cb29418ea9fd553"
+    },
+    {
+      "label": "Retail",
+      "value": "47m (154ft)",
+      "id": "fce68c32a82a44a9aab070436bb22983"
+    }
   ],
   "overview": "Located on Yeouido island, a business and residential district alongside the Han River in Seoul, South Korea, Parc.1 comprises two landmark office towers facing west, the luxury 326-room Fairmount Ambassador Seoul hotel at the eastern end, and, anchoring the entire site, The Hyundai Seoul retail centre.\n\nThe 629, 047m² mixed-use scheme is organized to respond to views, existing city grain, pedestrian movement and massing, and is marked by its striking exterior, inspired by red columns symbolizing dignity and refinement in traditional Korean architecture.\n\n\nThe two office towers are located at the northern end of the site to take advantage of the park and river views, whilst avoiding overshadowing the three other buildings.\n\nCentral to the design, is the establishment of a series of buildings that create a hierarchy of public spaces, including plazas in front of the entrances, and tree-lined boulevards which connect the surrounding neighbourhood to urban community spaces. The scheme integrates public transport by extending public walkways and enabling direct access to the underground system.\n\n\nThe retail store, which has a total area of 89,100m² (959,064ft²), is the largest in Seoul. Its architectural features echo the pangp'aeyon, the popular Korean kite, and the 300 stores and restaurants are centred around a series of dramatic, full-height atria which allow natural light to enter the complex. Much of its space is dedicated to indoor landscaping, most notably a triple-height indoor park dotted with trees, flower plants and grasses which recreates the nearby Yeouido Park.",
   "dimensions": [
     {
       "label": "Site Area",
       "value": "46 465 m²",
-      "elementId": "bda8a3a5079246deae21da1d7492e89d"
+      "id": "bda8a3a5079246deae21da1d7492e89d"
     },
     {
       "label": "Total Area",
       "value": "629 047 m²<br>",
-      "elementId": "399a7fb5dcdb4e0290a5c08d789ddc8a"
+      "id": "399a7fb5dcdb4e0290a5c08d789ddc8a"
     }
   ],
   "companies": [
     {
       "label": "Co-architect",
       "value": "Samoo Architects & Engineers / Siaplan Architects and Planners",
-      "elementId": "dfa2894e4fc4401eac5b24cf0f2ab1c9"
+      "id": "dfa2894e4fc4401eac5b24cf0f2ab1c9"
     },
     {
       "label": "Structural Engineer",
       "value": "Arup / DongYang Structural Engineers Co. Ltd",
-      "elementId": "6ef90ea59ee745b1a14a4644898344e1"
+      "id": "6ef90ea59ee745b1a14a4644898344e1"
     },
     {
       "label": "Services Engineer",
       "value": "Arup / HIMEC Consultants",
-      "elementId": "9d4ca0db3d074a62a1f21781412fdf48"
+      "id": "9d4ca0db3d074a62a1f21781412fdf48"
     },
     {
       "label": "Retail Architect",
       "value": "Leonard Design Architects",
-      "elementId": "56b01578d9c2446ea0408102733855b4"
+      "id": "56b01578d9c2446ea0408102733855b4"
     },
     {
       "label": "Landscape Architect",
       "value": "Martha Schwartz Partners",
-      "elementId": "c1dbb8567a6a4006bbc5a8f9455fc5ec"
+      "id": "c1dbb8567a6a4006bbc5a8f9455fc5ec"
     },
     {
       "label": "Cost Consultant",
       "value": "Davis Langdon/Seah Korea",
-      "elementId": "7d7fd0b9181b406cada59ff6bbf7ce83"
+      "id": "7d7fd0b9181b406cada59ff6bbf7ce83"
     }
   ]
 }

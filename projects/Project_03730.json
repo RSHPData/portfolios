@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "03730",
   "url": "culture-and-leisure/birmingham-city-library/",
-  "serializeDate": "'2022-06-19 14:25:36.105'",
-  "serialized": 1655648736105,
+  "serializeDate": "'2022-06-21 14:16:00.369'",
+  "serialized": 1655820960369,
   "serializedBy": "sreeve",
   "title": "Birmingham City Library",
   "description": "The new Library of Birmingham was envisaged as a major cultural and educational resource and a potent engine for urban regeneration. The library, replacing a 1960s building, is located in Birmingham’s Eastside, a neighbourhood previously isolated by a motorway that later became the subject of radical redevelopment proposals.",
@@ -41,24 +41,24 @@
     {
       "label": "Gross Internal Area",
       "value": "35,000m²",
-      "elementId": "3a836193d6af4def89e7b88acb098bd5"
+      "id": "3a836193d6af4def89e7b88acb098bd5"
     }
   ],
   "companies": [
     {
       "label": "Structural Engineer",
       "value": "Arup",
-      "elementId": "be49f6d100814e508e9daaf5d0094c1b"
+      "id": "be49f6d100814e508e9daaf5d0094c1b"
     },
     {
       "label": "Services Engineer",
       "value": "BDSP Partnership",
-      "elementId": "cace5f0e6e0b499dbe4355e19b6835bb"
+      "id": "cace5f0e6e0b499dbe4355e19b6835bb"
     },
     {
       "label": "Quantity Surveyor",
       "value": "Gleeds",
-      "elementId": "1b29eccb5094459cb10e0185df8ac207"
+      "id": "1b29eccb5094459cb10e0185df8ac207"
     }
   ],
   "awards": [],

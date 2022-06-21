@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "00509",
   "url": "office/kabuki-cho-tower",
-  "serializeDate": "'2022-06-19 14:24:56.208'",
-  "serialized": 1655648696208,
+  "serializeDate": "'2022-06-21 14:15:21.04'",
+  "serialized": 1655820921004,
   "serializedBy": "sreeve",
   "title": "Kabuki-Cho Tower",
   "description": "The Kabuki-cho project provides a vivid example of a response to a very specific urban context – an area of small-scale streets close to Shinjuku commercial district.",
@@ -33,36 +33,39 @@
     "Ben Warner"
   ],
   "floors": [
-    "12"
+    {
+      "value": "12",
+      "id": "0381FD20AD8D4F6B974CEC"
+    }
   ],
   "overview": "The Kabuki-cho project provides a vivid example of a response to a very specific urban context – an area of small-scale streets close to Shinjuku commercial district. The site is extremely constrained, with daylight a precious commodity in the narrow road onto which the building fronts. Although the building is small in scale, great attention was paid to the detailing of the facade, using repetitive functional elements to define the lightweight language of the building.\n\n\nThe final scheme (after the abandonment of initial plans for a hotel) was a twelve-storey office building (two floors below ground level), its main floors canted out over a void which is infilled with a dramatic glazed roof, lighting a public basement area which contains restaurants and bars. The roof is hung off the main structure. The frame, engineered in line with local fire safety and seismic protection regulations, is a composite structure of steel and concrete. As usual, lift, stairs and other services are concentrated in a strongly modelled tower, which terminates in a viewing platform above a penthouse apartment.\n\n\nKabuki-cho demonstrates the influence of early Japanese architecture, with its elegance, translucent light and flexibility. The project is a specific response to the character of Tokyo – far more varied and intimate than is generally imagined. RRP’s technology-rooted architecture turns out to be remarkably in tune with traditional Japanese streets.",
   "dimensions": [
     {
       "label": "Gross Floor Area",
       "value": "1 757 m²",
-      "elementId": "e0a3554b2ab448ab9e64dcae67cda064"
+      "id": "e0a3554b2ab448ab9e64dcae67cda064"
     }
   ],
   "companies": [
     {
       "label": "Co-Architect",
       "value": "Architect 5",
-      "elementId": "236dda117d1946b68336e18a2fa0acca"
+      "id": "236dda117d1946b68336e18a2fa0acca"
     },
     {
       "label": "Structural Engineer",
       "value": "Umezawa Design Office",
-      "elementId": "d3d75cae3cbd4ddea86630065febba3f"
+      "id": "d3d75cae3cbd4ddea86630065febba3f"
     },
     {
       "label": "Services Engineer",
       "value": "ES Associates",
-      "elementId": "d752a8d252af4652bc809efa89db62a5"
+      "id": "d752a8d252af4652bc809efa89db62a5"
     },
     {
       "label": "Contractor",
       "value": "Kawada Industries Inc",
-      "elementId": "68847ce97c2f4391ab0f6d5aafc56f24"
+      "id": "68847ce97c2f4391ab0f6d5aafc56f24"
     }
   ],
   "awards": [

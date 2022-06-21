@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "02081",
   "url": "office/vr-techno-plaza/",
-  "serializeDate": "'2022-06-19 14:25:11.785'",
-  "serialized": 1655648711785,
+  "serializeDate": "'2022-06-21 14:15:36.122'",
+  "serialized": 1655820936122,
   "serializedBy": "sreeve",
   "title": "VR Techno Plaza",
   "description": "The Techno Plaza is a Goverment office and laboratories built on a hilly site of 11,462 m². The landscape of the site varies but contains trees and bushes and a small stream.",
@@ -46,41 +46,44 @@
     "Ben Warner"
   ],
   "heights": [
-    "12 m"
+    {
+      "value": "12 m",
+      "id": "3E2FBF46E0DC482C926240"
+    }
   ],
   "overview": "The Techno Plaza is a Goverment office and laboratories built on a hilly site of 11,462 m². The landscape of the site varies but contains trees and bushes and a small stream.\n\nRichard Rogers Partnership prepared the initial masterplan for the VR Techno Japan complex at Gifu, producing a scheme which would accommodate about 10 buildings. The brief was to design a ‘pilot’ building promoting research into virtual reality and providing educational, communal and laboratory/office spaces as a resource for private research bodies and the general public.\n\n\nThe scheme enhances the qualities of the site, responding to its natural contours. The Techno Plaza is composed of two parts: the private office space, built in steps up the hill, and the common research and public space which crowns the hill. Both have access to planted terraces and views across the valley.\n\nThe building has an exposed concrete frame, with retaining walls and floor slabs partially buried or planted to enhance thermal mass, ensuring maximum benefit from the stable ground temperatures and discouraging rainwater run-off. Glazed façades and extensive louvering eliminate direct solar gain, as does a stainless steel-finished ventilated roof to the upper building. Air conditioning is employed to deal with the high humidity in the region.",
   "dimensions": [
     {
       "label": "Site Area",
       "value": "11 462 m²",
-      "elementId": "33d468bd0fdb48dab7df92df7f44d5d5"
+      "id": "33d468bd0fdb48dab7df92df7f44d5d5"
     }
   ],
   "companies": [
     {
       "label": "Structural Engineer",
       "value": "Umezawa Structural Engineers",
-      "elementId": "be085ffb73fd4021ba8ff631bbe07ef8"
+      "id": "be085ffb73fd4021ba8ff631bbe07ef8"
     },
     {
       "label": "Services Engineer",
       "value": "ES Associates",
-      "elementId": "b0dd95abee064167945ce4c1a2f64e83"
+      "id": "b0dd95abee064167945ce4c1a2f64e83"
     },
     {
       "label": "Quantity Surveyor",
       "value": "Schal / Bovis",
-      "elementId": "3a1eb8dd658142cb8f648457221019b8"
+      "id": "3a1eb8dd658142cb8f648457221019b8"
     },
     {
       "label": "Landscape Architect",
       "value": "Lovejoys / Equipe Espace",
-      "elementId": "e8972a301a85417aadbde20fd99b34b2"
+      "id": "e8972a301a85417aadbde20fd99b34b2"
     },
     {
       "label": "Contractor",
       "value": "Dainihon and Ichikawa Construction Joint Venture",
-      "elementId": "e099f441f2ac42fa8d5498f905fe0eff"
+      "id": "e099f441f2ac42fa8d5498f905fe0eff"
     }
   ],
   "awards": [],

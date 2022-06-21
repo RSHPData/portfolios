@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "04990",
   "url": "office/campus-palmas-altas",
-  "serializeDate": "'2022-06-19 14:25:51.139'",
-  "serialized": 1655648751139,
+  "serializeDate": "'2022-06-21 14:16:14.536'",
+  "serialized": 1655820974536,
   "serializedBy": "sreeve",
   "title": "Campus Palmas Altas",
   "description": "Campus Palmas Altas is a new model for an energy efficient business park for Abengoa in the South of Spain.",
@@ -76,49 +76,49 @@
     {
       "label": "GFA (including parking)",
       "value": "96 000 m²",
-      "elementId": "37259cbfdcdb4141b5b62fd1f8cc50c5"
+      "id": "37259cbfdcdb4141b5b62fd1f8cc50c5"
     }
   ],
   "companies": [
     {
       "label": "Co-Architect",
       "value": "Vidal y Asociados arquitectos",
-      "elementId": "a7a2483aa33849a1ba42ce839eb29614"
+      "id": "a7a2483aa33849a1ba42ce839eb29614"
     },
     {
       "label": "Structural Engineer",
       "value": "Arup",
-      "elementId": "6a2f856d4ae449b19e068708d01d4d83"
+      "id": "6a2f856d4ae449b19e068708d01d4d83"
     },
     {
       "label": "Services Engineer",
       "value": "Arup",
-      "elementId": "f2052a395f0c457cb1697f72f272d78e"
+      "id": "f2052a395f0c457cb1697f72f272d78e"
     },
     {
       "label": "Project Manager",
       "value": "Bovis Lend Lease",
-      "elementId": "e3501c8c31564689861cd6b2bb37fc08"
+      "id": "e3501c8c31564689861cd6b2bb37fc08"
     },
     {
       "label": "Landscape Architect",
       "value": "Maria Medina / Estudio 28",
-      "elementId": "f46e6a5d0ece493fb7f99a706cab0c8d"
+      "id": "f46e6a5d0ece493fb7f99a706cab0c8d"
     },
     {
       "label": "Cost Consultant",
       "value": "D-Fine",
-      "elementId": "735a8cc1864343ad8ec7efde65a927d8"
+      "id": "735a8cc1864343ad8ec7efde65a927d8"
     },
     {
       "label": "Client Cost Constultant",
       "value": "Gleeds",
-      "elementId": "019125f1146d4205b231b5ae18594fbf"
+      "id": "019125f1146d4205b231b5ae18594fbf"
     },
     {
       "label": "Real Estate Consultant",
       "value": "Jones Lang LaSalle",
-      "elementId": "85b25d9e58254baa85033ea76613ddd7"
+      "id": "85b25d9e58254baa85033ea76613ddd7"
     }
   ],
   "awards": [

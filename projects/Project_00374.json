@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "00374",
   "url": "industrial/reuters-data-centre/",
-  "serializeDate": "'2022-06-19 14:24:53.555'",
-  "serialized": 1655648693555,
+  "serializeDate": "'2022-06-21 14:15:18.672'",
+  "serialized": 1655820918672,
   "serializedBy": "sreeve",
   "title": "Reuters Data Centre",
   "description": "This 28,000m² building was intended as the first phase of a speculative office scheme set around a 19th-century restored graving dock near the Isle of Dogs.",
@@ -41,29 +41,29 @@
     {
       "label": "Gross Floor Area",
       "value": "28,000 m²",
-      "elementId": "c404d75ae0c34c05bbbc87517ccf2472"
+      "id": "c404d75ae0c34c05bbbc87517ccf2472"
     }
   ],
   "companies": [
     {
       "label": "Structural Engineer",
       "value": "Arup",
-      "elementId": "e608c342cd13466798230a41b41f246c"
+      "id": "e608c342cd13466798230a41b41f246c"
     },
     {
       "label": "Services Engineer",
       "value": "Jaros, Baum & Bolles",
-      "elementId": "8a2088c4b33244628e3c99a076c537d0"
+      "id": "8a2088c4b33244628e3c99a076c537d0"
     },
     {
       "label": "Quantity Surveyor",
       "value": "V J Mendoza",
-      "elementId": "37cb98de8b9e43a0a7bc048b3c02b569"
+      "id": "37cb98de8b9e43a0a7bc048b3c02b569"
     },
     {
       "label": "Contractor",
       "value": "Bovis Construction Ltd",
-      "elementId": "093135eb5cc549c5b5bde699d3744a1a"
+      "id": "093135eb5cc549c5b5bde699d3744a1a"
     }
   ],
   "awards": [

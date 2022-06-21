@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "03690",
   "url": "education/mossbourne-community-academy",
-  "serializeDate": "'2022-06-19 14:25:35.051'",
-  "serialized": 1655648735051,
+  "serializeDate": "'2022-06-21 14:15:59.550'",
+  "serialized": 1655820959550,
   "serializedBy": "sreeve",
   "title": "Mossbourne Community Academy",
   "description": "The design for the Mossbourne Community Academy replaces the former Hackney Downs School and accommodates 1,000 pupils aged 11-16, with a special focus on teaching information and communication technology.",
@@ -46,7 +46,10 @@
     "Paul Thompson"
   ],
   "floors": [
-    "2"
+    {
+      "value": "2",
+      "id": "EA7804C6E5BF46A18427A8"
+    }
   ],
   "overview": "The design for the Mossbourne Community Academy replaces the former Hackney Downs School and accommodates 1,000 pupils aged 11-16, with a special focus on teaching information and communication technology, as well as offering learning facilities to the wider community.\n\nIt is a new sort of school for a new century, located in one of England’s most deprived boroughs, and a powerful engine of regeneration in its own right – the architecture of the building expresses its significance and embodies the key themes of accessibility, openness and social inclusion.\n\n\nThe triangular site for the Academy is confined and subject to high levels of noise from the busy railway tracks that enclose it on two sides – yet on the third side (to the north) it looks out to Hackney Downs, one of the very few and treasured green spaces in the borough. In response, the 8,312m², three-storey building (one of the largest timber frame buildings in the UK) is conceived as a broad “V”, its back is to the railway track and it faces the green space to the north.\n\n\nTeaching spaces look out to a new landscaped square that is visually linked to the Downs beyond. The various faculties/ bases for year groups are housed in sections of the building configured as ‘terraced houses’, with access from a broad covered ‘cloister’, with internal circulation via an intermediate zone. Each ‘house’ consists of a ground floor of common space, designated staff areas (there is no specific staff room in the school), with a top-lit IT resource space and two levels of more traditional classrooms looking out over the Downs. The grass sided classrooms allow for visibility along the cloisters and self policing, creating a safe place for pupils. The ‘houses’ are well liked by students and staff.",
   "design": "A broad ‘V’ in plan Mossbourne Community Academy’s armour-like wall protects the building from the noise of the railway lines and it is contrasted with the light-weight timber and glass teaching spaces looking out over the courtyard and Hackney Downs beyond.\n\nThe faculties and year group bases are housed in adjacent sections of the building, using the conceptual model of the ‘terraced house’. These are accessed from a broad covered cloister, or ‘street’ at ground level. Each faculty consists of a ground floor of common space, designated staff areas, with IT resources and two additional levels of more traditional classroom spaces above.\n\nVoids are introduced immediately inside the protective wall to introduce daylight to the rear of the classrooms and enhance cross ventilation. Less frequently occupied areas such as the auditorium, performing arts centre, sports hall and dining hall, are located at intervals inside the protective wall and between the voids, further enhancing the buffer that this outer layer provides to the teaching spaces.\n\n\nThe school is designed to facilitate different modes of use and to cater for the needs of school children and adult members of the community. As such, adaptability is a key aspect of the design and facilitates the customisation of the school to suit future needs. This is achieved by creating a limited number of bespoke spaces to ensure that the general teaching accommodation is adaptable to a variety of uses. The building envelope responds to the external site and climatic conditions, which are fixed. However internally, the design provides maximum flexibility. For example, the partition walls perpendicular to the external walls are assumed to be relatively temporary and can therefore be reconfigured quickly and easily without disrupting the school.\n\n\nThe main sustainable component of the building is the timber frame – a highly sustainable and renewable resource in comparison to steel or concrete. Passive environmental systems include the series of top-lit voids inside the protective wall that bring natural light down into the teaching spaces. The façade includes openable vents that act as a one-sided natural ventilation system during the day, and at night, a two-sided system operates via the voids to cool the building overnight. In addition, towers located above the vertical circulation zones extract unwanted hot air.\n\nThe external space at the heart of the school takes full account not only of recreation needs, but also the logistics of arrival and departure, parking and security, and creates a sense of place and security for the students, staff and visitors. A hard surface playground with two tennis and basketball courts is located next to Downs Park Road which can be used by the community as well as the students.",
@@ -56,44 +59,44 @@
     {
       "label": "Site Area",
       "value": "19 500 m²",
-      "elementId": "d4061dbe2fa94364a28f3fde0f1c4c7c"
+      "id": "d4061dbe2fa94364a28f3fde0f1c4c7c"
     },
     {
       "label": "Gross Floor Area",
       "value": "8 312 m²",
-      "elementId": "8600ea20798b47df859784258473587c"
+      "id": "8600ea20798b47df859784258473587c"
     }
   ],
   "companies": [
     {
       "label": "Structural Engineer",
       "value": "Whitby Bird & Partners",
-      "elementId": "2a9853cdfca249c09af6067d6afc11d8"
+      "id": "2a9853cdfca249c09af6067d6afc11d8"
     },
     {
       "label": "Services Engineer",
       "value": "BDSP Partnership",
-      "elementId": "56c1862284fd4f1b8857ec518649c980"
+      "id": "56c1862284fd4f1b8857ec518649c980"
     },
     {
       "label": "Quantity Surveyor",
       "value": "Davis Langdon & Everest",
-      "elementId": "b0c55a48740d480493befbc96e4c6d46"
+      "id": "b0c55a48740d480493befbc96e4c6d46"
     },
     {
       "label": "Project Manager",
       "value": "Osprey Mott MacDonald",
-      "elementId": "d2304778f7e74d46870ea2bb14d9a17d"
+      "id": "d2304778f7e74d46870ea2bb14d9a17d"
     },
     {
       "label": "Landscape Architect",
       "value": "Kinnear Landscape Architect",
-      "elementId": "ba55e4353a7c47a6ad488f15bdd3ae1b"
+      "id": "ba55e4353a7c47a6ad488f15bdd3ae1b"
     },
     {
       "label": "Contractor",
       "value": "Mace",
-      "elementId": "c6abced1c6b64d97a38a23a0b890c025"
+      "id": "c6abced1c6b64d97a38a23a0b890c025"
     }
   ],
   "awards": [

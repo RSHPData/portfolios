@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "02642",
   "url": "transport/terminal-4-barajas-airport/",
-  "serializeDate": "'2022-06-19 14:25:21.372'",
-  "serialized": 1655648721372,
+  "serializeDate": "'2022-06-21 14:15:45.034'",
+  "serialized": 1655820945034,
   "serializedBy": "sreeve",
   "title": "Terminal 4, Barajas Airport",
   "description": "The terminal, which is the biggest in Spain, was commissioned to enable Barajas International Airport to compete with major hub airports within Europe.",
@@ -186,49 +186,49 @@
     {
       "label": "Gross Floor Area",
       "value": "1 158 000 m²",
-      "elementId": "ecd010d176154f999a37108169080b73"
+      "id": "ecd010d176154f999a37108169080b73"
     }
   ],
   "companies": [
     {
       "label": "Co-Architect",
       "value": "Estudio Lamela",
-      "elementId": "200149b1ad90468382448527a6906727"
+      "id": "200149b1ad90468382448527a6906727"
     },
     {
       "label": "Structural Engineer",
       "value": "Anthony Hunt Associates/TPS with OTEP/HCA",
-      "elementId": "36a7f288ebc2452ab70e30110c093ffc"
+      "id": "36a7f288ebc2452ab70e30110c093ffc"
     },
     {
       "label": "Services Engineer",
       "value": "TPS/INITEC",
-      "elementId": "73c6ed77c22347538f3b7e961aa22566"
+      "id": "73c6ed77c22347538f3b7e961aa22566"
     },
     {
       "label": "Quantity Surveyor",
       "value": "Hanscomb Ltd/Gabinete",
-      "elementId": "5622b21e5e2c407d961f4662a4a6720f"
+      "id": "5622b21e5e2c407d961f4662a4a6720f"
     },
     {
       "label": "Lighting Consultant",
       "value": "Arup/Speirs and Major Associates",
-      "elementId": "695b8d31ea6a409a935ba99178b26dfc"
+      "id": "695b8d31ea6a409a935ba99178b26dfc"
     },
     {
       "label": "Landscape Architect",
       "value": "dosAdos",
-      "elementId": "d3af267d4fbb4ee2afdcac0c768aceb2"
+      "id": "d3af267d4fbb4ee2afdcac0c768aceb2"
     },
     {
       "label": "Acoustic Consultant",
       "value": "Sandy Brown Associates",
-      "elementId": "04a338c73f764614ba67183fdcd470a8"
+      "id": "04a338c73f764614ba67183fdcd470a8"
     },
     {
       "label": "Façade Engineer",
       "value": "Arup",
-      "elementId": "fbadf7fa77e442b4b2d9b5bab8c5b614"
+      "id": "fbadf7fa77e442b4b2d9b5bab8c5b614"
     }
   ],
   "awards": [

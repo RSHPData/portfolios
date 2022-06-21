@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "01850",
   "url": "mixed-use/daimler-chrysler-office-and-retail/",
-  "serializeDate": "'2022-06-19 14:25:07.912'",
-  "serialized": 1655648707912,
+  "serializeDate": "'2022-06-21 14:15:32.379'",
+  "serialized": 1655820932379,
   "serializedBy": "sreeve",
   "title": "Daimler Chrysler Office and Retail",
   "description": "The brief stipulated that designs work within the context of the traditional Berlin square block, with buildings no more than nine storeys high formed around potentially oppressive internal courts.",
@@ -48,69 +48,69 @@
     {
       "label": "Gross Floor Area",
       "value": "57 800 m²",
-      "elementId": "f2b7e0be1a8545578c671c3a68df06a3"
+      "id": "f2b7e0be1a8545578c671c3a68df06a3"
     },
     {
       "label": "Office Area",
       "value": "29,000 m²",
-      "elementId": "de8625b85d284bb1bd2e677e4c5ad612"
+      "id": "de8625b85d284bb1bd2e677e4c5ad612"
     },
     {
       "label": "Retail Area",
       "value": "12,500 m²",
-      "elementId": "1782b46e13f54244afdfe7e3eb196687"
+      "id": "1782b46e13f54244afdfe7e3eb196687"
     }
   ],
   "companies": [
     {
       "label": "Structural Engineer",
       "value": "Ove Arup and Partners / Weiske & Partner GmBH / Knebel & Schumacher",
-      "elementId": "79f13403ade64ccea94bee285e62b4eb"
+      "id": "79f13403ade64ccea94bee285e62b4eb"
     },
     {
       "label": "Services Engineer",
       "value": "Rp + k Sozietät (joint venture with J Rogers Preston & Partners) / Schmidt-Reuter und Partner",
-      "elementId": "37415731ec9b4bcd9fcf32da9eae63a7"
+      "id": "37415731ec9b4bcd9fcf32da9eae63a7"
     },
     {
       "label": "Quantity Surveyor",
       "value": "Davis Langdon & Everest / Drees & Sommer AG",
-      "elementId": "260a6894e78d42ce8c77b40adc459671"
+      "id": "260a6894e78d42ce8c77b40adc459671"
     },
     {
       "label": "Project Manager",
       "value": "Daimler Chrysler",
-      "elementId": "eb6b7b1f08874cde9e53033121f88560"
+      "id": "eb6b7b1f08874cde9e53033121f88560"
     },
     {
       "label": "Landscape Architect",
       "value": "Kruger & Mohler",
-      "elementId": "77b0054aa48a4f3cb9674a91b6406556"
+      "id": "77b0054aa48a4f3cb9674a91b6406556"
     },
     {
       "label": "Contractor",
       "value": "Müller Altvattar + C Barasel AG GmBH",
-      "elementId": "7287219d2c1144dc82671d59dd77459d"
+      "id": "7287219d2c1144dc82671d59dd77459d"
     },
     {
       "label": "Facade Engineer",
       "value": "Institut für Fassadentechnik IFFT",
-      "elementId": "90b20633125845b59548911ef8503616"
+      "id": "90b20633125845b59548911ef8503616"
     },
     {
       "label": "Fire Consultant",
       "value": "Debis Risk Consult GmBH / Hosser Hass & Partner",
-      "elementId": "fa6163061f824071bdc9979a98328040"
+      "id": "fa6163061f824071bdc9979a98328040"
     },
     {
       "label": "Construction Manager",
       "value": "Schmidt-Reuter und Partner",
-      "elementId": "2ac17f65868b4d90a51af7ccfbdc6d87"
+      "id": "2ac17f65868b4d90a51af7ccfbdc6d87"
     },
     {
       "label": "Office Consultant",
       "value": "Mm Warburg Schlüter & Co",
-      "elementId": "7e6448cc7b404df4ab34f8df4cf01f7e"
+      "id": "7e6448cc7b404df4ab34f8df4cf01f7e"
     }
   ],
   "certificates": [

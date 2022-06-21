@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "01376",
   "url": "office/88-wood-street",
-  "serializeDate": "'2022-06-19 14:25:02.907'",
-  "serialized": 1655648702907,
+  "serializeDate": "'2022-06-21 14:15:27.760'",
+  "serialized": 1655820927760,
   "serializedBy": "sreeve",
   "title": "88 Wood Street",
   "description": "88 Wood Street demonstrates the potential for speculative commercial development that does not compromise on quality and enhances the public domain.",
@@ -49,7 +49,10 @@
     "Andrew Morris"
   ],
   "floors": [
-    "18"
+    {
+      "value": "18",
+      "id": "044E47287BE74882930C0C"
+    }
   ],
   "overview": "88 Wood Street demonstrates the potential for speculative commercial development that does not compromise on quality and enhances the public domain.\n\nThe site was formerly occupied by a 1920s telephone exchange – delays in securing the demolition of this building, combined with the onset of an economic recession in the 1990s, led to the cancellation of a scheme for a prestige banking headquarters. A larger scheme was designed in 1993–94, with speculative letting in mind.\n\nThis building is arranged as three linked blocks of office accommodation that step up from eight storeys on Wood Street, where the context includes two listed buildings, to 14 and finally 18 storeys to the west, responding to the taller built topography towards London Wall. The connections between blocks provides very a large floor area that can be easily subdivided. By using the extensive basement of the telephone exchange for the building plant, roof levels are kept largely free.\n\n\nThe office wings are constructed of in-situ concrete, contrasting with the lightweight, steel-framed service towers. The use of brilliant colour enhances their impact – air intakes and extracts at street level are also brightly coloured, contrasting with the neutrality of the occupied floors. The façades of the main office floors are glazed from floor to ceiling to maximise daylight and views – in addition, levels 8,12 and 16 lead directly onto roof terraces with spectacular views over the City.\n\nThough built to a strict commercial budget, 88 Wood Street contains many innovative elements. Its triple-glazed façade is formed of single panels of highly transparent float glass. The inner faces of the external panes have a low emissivity coating which further reduces solar gain, while the cavity between the double glazed units and the third panel is fitted with motorised, integral horizontal blinds with perforated slats. Photocells on the roof monitor light conditions and adjust the angle of the blinds, thus minimising glare, heat gain and energy consumption.",
   "design": "One element above all others characterises the design of Wood Street: ultra-clear, low-iron glazing is used for almost all of the buildings many façades.\n\nThe glass, called Diamant Extra White Glass, has an extraordinary level of clarity compared to standard clear glass, yet despite its surprising transparency, the glass acts as a robust protective covering for the whole building. The building has the architectural advantage of legibility as the individual components such as lift shafts and staircases are expressed through the ultra-clear glass without compromising the façade’s ability to protect the interior and the inhabitants from the weather.\n\nExposed to view behind frameless glazing, the stairs and panoramic lifts offer spectacular views as they travel up and down the exterior of the building. The lift lobbies on each floor end in full height, single panes of the nearly invisible Diamant Extra White glass that have the effect of turning the lobbies into seemingly outdoor terraces with views overlooking the Barbican and the London skyline beyond.\n\n\nGlass is also used to great effect along the office floors, where three-metre-wide triple-glazed windows provide views across the capital on three sides stretching from St Paul’s cathedral in the west to Canary Wharf in the east.\n\nIn the eight-metre-high entrance space, again, the external walls appear to be virtually non-existent so that the space flows freely between the building and the surrounding streetscape.\n\nThe glazing system for the office floors also functions as a highly effective environmental control system. The building’s main contribution to environmental efficiency lies in the use of internal blinds, integrated into the sophisticated glazing system and controlled by photo-cells that automatically adjust the blind settings (fully closed, fully open or half open) and ensure both effective climate control and a neat and uniform external appearance. There is no manual override. The cavity housing the blinds is also used to extract unwanted solar gain in hot weather, drawing it into the ceiling and expelling it.",
@@ -59,64 +62,64 @@
     {
       "label": "Site Area",
       "value": "3 065 m²",
-      "elementId": "0ca00cdbc23a4209b51df430bd124e98"
+      "id": "0ca00cdbc23a4209b51df430bd124e98"
     },
     {
       "label": "Gross Floor Area",
       "value": "33 073 m²",
-      "elementId": "89df39f98b164859862916822aa47bf2"
+      "id": "89df39f98b164859862916822aa47bf2"
     }
   ],
   "companies": [
     {
       "label": "Structural Engineer",
       "value": "Ove Arup & Partners",
-      "elementId": "3d40d603052542a0b095645beb1b22a7"
+      "id": "3d40d603052542a0b095645beb1b22a7"
     },
     {
       "label": "Services Engineer",
       "value": "Ove Arup & Partners",
-      "elementId": "9d2ce70d99e74259ad18fae8211bb800"
+      "id": "9d2ce70d99e74259ad18fae8211bb800"
     },
     {
       "label": "Quantity Surveyor",
       "value": "Gardiner & Theobold",
-      "elementId": "617c24c530174afaa6192ed489cf635b"
+      "id": "617c24c530174afaa6192ed489cf635b"
     },
     {
       "label": "Project Manager",
       "value": "D J Williams & Associates Ltd",
-      "elementId": "b3a8c78cd8804e0c83597ee9697015ef"
+      "id": "b3a8c78cd8804e0c83597ee9697015ef"
     },
     {
       "label": "Lighting Consultant",
       "value": "Lighting Design Partnership",
-      "elementId": "a3fb1443ae154b739bb7fb66efa53631"
+      "id": "a3fb1443ae154b739bb7fb66efa53631"
     },
     {
       "label": "Landscape Architect",
       "value": "Edward Hutchison",
-      "elementId": "998c7138ae3941b18f52ae515b477ce8"
+      "id": "998c7138ae3941b18f52ae515b477ce8"
     },
     {
       "label": "Contractor",
       "value": "Kajima / Laing Management Joint Venture",
-      "elementId": "b90b8fb5ec334be383b5428e06543caf"
+      "id": "b90b8fb5ec334be383b5428e06543caf"
     },
     {
       "label": "Planning Consultant",
       "value": "Montagu Evans",
-      "elementId": "22c94d52d8d34de6914dfe6a1d9a8c79"
+      "id": "22c94d52d8d34de6914dfe6a1d9a8c79"
     },
     {
       "label": "Fire Consultant",
       "value": "Warrington Fire Research Consultants",
-      "elementId": "33b925dc76a346e4959c15c52ce7ec15"
+      "id": "33b925dc76a346e4959c15c52ce7ec15"
     },
     {
       "label": "Fit-Out Contractor",
       "value": "Kajima / Hazama Joint Venture",
-      "elementId": "077e1daa70e847ab8ca5683e8e8fe16f"
+      "id": "077e1daa70e847ab8ca5683e8e8fe16f"
     }
   ],
   "awards": [

@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "02850",
   "url": "civic/antwerp-law-courts",
-  "serializeDate": "'2022-06-19 14:25:24.402'",
-  "serialized": 1655648724402,
+  "serializeDate": "'2022-06-21 14:15:48.092'",
+  "serialized": 1655820948092,
   "serializedBy": "sreeve",
   "title": "Antwerp Law Courts",
   "description": "The new law courts for the Flemish city of Antwerp is one of the practice’s major public buildings of the early 21st century.",
@@ -64,64 +64,64 @@
     {
       "label": "Site Area",
       "value": "37 000 m²",
-      "elementId": "e8c22ff034694e78adfb21d4c8d34f7b"
+      "id": "e8c22ff034694e78adfb21d4c8d34f7b"
     },
     {
       "label": "Gross Floor Area",
       "value": "77 000 m²",
-      "elementId": "97bdfe53d7a242ceaf63ba11818e147c"
+      "id": "97bdfe53d7a242ceaf63ba11818e147c"
     }
   ],
   "companies": [
     {
       "label": "Co-Architect",
       "value": "VK Architects",
-      "elementId": "c8b59df3498e44e492adf30fcec1a013"
+      "id": "c8b59df3498e44e492adf30fcec1a013"
     },
     {
       "label": "Structural Engineer",
       "value": "Arup / Bureau Van Kerckhove",
-      "elementId": "681f57e7135940e484bcd5ededfd95f7"
+      "id": "681f57e7135940e484bcd5ededfd95f7"
     },
     {
       "label": "Services Engineer",
       "value": "Arup / Bureau Van Kerckhove",
-      "elementId": "ef5ec9ad192746cc802a3d4987170f9d"
+      "id": "ef5ec9ad192746cc802a3d4987170f9d"
     },
     {
       "label": "Quantity Surveyor",
       "value": "Bureau Van Kerckhove",
-      "elementId": "1b19c4049c20411b979c7592b4679049"
+      "id": "1b19c4049c20411b979c7592b4679049"
     },
     {
       "label": "Lighting Consultant",
       "value": "Arup",
-      "elementId": "9ec34215475b4381bde7e16b5ed2d082"
+      "id": "9ec34215475b4381bde7e16b5ed2d082"
     },
     {
       "label": "Landscape Architect",
       "value": "Wirtz International BV",
-      "elementId": "e02dd5d7307947688fc2927766575150"
+      "id": "e02dd5d7307947688fc2927766575150"
     },
     {
       "label": "Contractor",
       "value": "Interbuild / KBC / Artesia",
-      "elementId": "f46dec06be984951922793a62bb405ad"
+      "id": "f46dec06be984951922793a62bb405ad"
     },
     {
       "label": "Acoustic Consultant",
       "value": "Arup Acoustics",
-      "elementId": "cf99b95274824f0e9f5b63d960b2df7e"
+      "id": "cf99b95274824f0e9f5b63d960b2df7e"
     },
     {
       "label": "Facade Consultant",
       "value": "Lesos Engineering",
-      "elementId": "37b3c088df3b4bbfbc85ab93c3d9dcda"
+      "id": "37b3c088df3b4bbfbc85ab93c3d9dcda"
     },
     {
       "label": "Fire Consultant",
       "value": "IFSET NV",
-      "elementId": "1e366eeb52cd48c8b9314f7899b794ab"
+      "id": "1e366eeb52cd48c8b9314f7899b794ab"
     }
   ],
   "awards": [

@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "04220",
   "url": "masterplanning/lea-valley-and-olympics",
-  "serializeDate": "'2022-06-19 14:25:42.693'",
-  "serialized": 1655648742693,
+  "serializeDate": "'2022-06-21 14:16:05.707'",
+  "serialized": 1655820965707,
   "serializedBy": "sreeve",
   "title": "Lea Valley and Olympics",
   "description": "The practice’s proposal for this key development area sought to deliver physical, economic and social regeneration benefits for a scenario with and without the Olympics.",
@@ -25,49 +25,49 @@
     {
       "label": "Site Area",
       "value": "600 ha",
-      "elementId": "b20d75295c81405091e3eb1329a380fa"
+      "id": "b20d75295c81405091e3eb1329a380fa"
     }
   ],
   "companies": [
     {
       "label": "Co-Architect",
       "value": "Renzo Piano Building Workshop",
-      "elementId": "c3494dbc380049a7838cd8ca9e25552c"
+      "id": "c3494dbc380049a7838cd8ca9e25552c"
     },
     {
       "label": "Structural Engineer",
       "value": "WS Atkins",
-      "elementId": "a7b1cd5b4e7f45a7810e565ee015a733"
+      "id": "a7b1cd5b4e7f45a7810e565ee015a733"
     },
     {
       "label": "Landscape Architect",
       "value": "West 8",
-      "elementId": "1119817f973b4a53851fe7b020812700"
+      "id": "1119817f973b4a53851fe7b020812700"
     },
     {
       "label": "Civil Engineer",
       "value": "WS Atkins",
-      "elementId": "a4dda14f002c4029b75789a0b212ce92"
+      "id": "a4dda14f002c4029b75789a0b212ce92"
     },
     {
       "label": "Transport Engineer",
       "value": "WS Atkins",
-      "elementId": "c3e91745967b491690eb62a8d947f802"
+      "id": "c3e91745967b491690eb62a8d947f802"
     },
     {
       "label": "Environmental and Planning Consultant",
       "value": "WS Atkins",
-      "elementId": "629f54124b784cf484b25a894f03baa7"
+      "id": "629f54124b784cf484b25a894f03baa7"
     },
     {
       "label": "Sports Consultant",
       "value": "Sports Concepts",
-      "elementId": "0f58afc899db4e4196ba230e0e002c2e"
+      "id": "0f58afc899db4e4196ba230e0e002c2e"
     },
     {
       "label": "Community Consultant",
       "value": "Community Action Network",
-      "elementId": "69f97a26c08d4256a21dc86867db1070"
+      "id": "69f97a26c08d4256a21dc86867db1070"
     }
   ]
 }

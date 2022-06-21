@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "04000",
   "url": "civic/senedd-cymru-welsh-parliament/",
-  "serializeDate": "'2022-06-19 14:25:39.065'",
-  "serialized": 1655648739065,
+  "serializeDate": "'2022-06-21 14:16:02.637'",
+  "serialized": 1655820962637,
   "serializedBy": "sreeve",
   "title": "Senedd Cymru, Welsh Parliament",
   "description": "The election of the Welsh National Assembly in 1999, was a turning point in the history of Wales. Its home, Cardiff’s former docklands, is a striking addition to the local landscape and a statement of faith in the regeneration process.",
@@ -66,74 +66,74 @@
     {
       "label": "Site Area",
       "value": "14,382 m²",
-      "elementId": "ca5399860eb54d00b6c8a7c64f743c20"
+      "id": "ca5399860eb54d00b6c8a7c64f743c20"
     },
     {
       "label": "Gross Floor Area",
       "value": "5,308 m²",
-      "elementId": "166fd1265811458591153814d2e0604a"
+      "id": "166fd1265811458591153814d2e0604a"
     }
   ],
   "companies": [
     {
       "label": "Structural Engineer",
       "value": "Arup",
-      "elementId": "34f2ba87ba464c308df3c31e3372a823"
+      "id": "34f2ba87ba464c308df3c31e3372a823"
     },
     {
       "label": "Project Manager",
       "value": "Schal",
-      "elementId": "2e83c7bb32534643af27260c8bdd1819"
+      "id": "2e83c7bb32534643af27260c8bdd1819"
     },
     {
       "label": "Landscape Architect",
       "value": "Gillespies",
-      "elementId": "af63cff2935a4423a487a32e3eaf6a02"
+      "id": "af63cff2935a4423a487a32e3eaf6a02"
     },
     {
       "label": "Contractor",
       "value": "Taylor Woodrow Construction",
-      "elementId": "8ca6f718522d41fc8057c46a3394a400"
+      "id": "8ca6f718522d41fc8057c46a3394a400"
     },
     {
       "label": "Acoustic Consultant",
       "value": "Sound Research Laboratories",
-      "elementId": "fc90d8a0074f434a8ce73b41ca17bbe7"
+      "id": "fc90d8a0074f434a8ce73b41ca17bbe7"
     },
     {
       "label": "Environmental Consultant",
       "value": "BDSP Partnership",
-      "elementId": "421adafc2bba49c6a4d74d4336bd3e40"
+      "id": "421adafc2bba49c6a4d74d4336bd3e40"
     },
     {
       "label": "Fire Engineering",
       "value": "Warrington Fire Research",
-      "elementId": "40261114eb89474fa010944f540705c6"
+      "id": "40261114eb89474fa010944f540705c6"
     },
     {
       "label": "Access Consultant",
       "value": "Vin Goodwin",
-      "elementId": "d9066a82715c4bce9d48d5b7021c5d02"
+      "id": "d9066a82715c4bce9d48d5b7021c5d02"
     },
     {
       "label": "Broadcasting Consultant",
       "value": "Department Purple",
-      "elementId": "4e44d80ca97340e79ef75e6a1598f73c"
+      "id": "4e44d80ca97340e79ef75e6a1598f73c"
     },
     {
       "label": "Wind Engineering",
       "value": "Arup",
-      "elementId": "46aa1174f5ee46a58424e2336e219e65"
+      "id": "46aa1174f5ee46a58424e2336e219e65"
     },
     {
       "label": "Façade Consultant",
       "value": "Arup Facade",
-      "elementId": "0e96aacf5fed4f6582d16b31d9337f3f"
+      "id": "0e96aacf5fed4f6582d16b31d9337f3f"
     },
     {
       "label": "Bomb Blast",
       "value": "TPS consult",
-      "elementId": "565d3dede0754e1299191dd35bfd8fac"
+      "id": "565d3dede0754e1299191dd35bfd8fac"
     }
   ],
   "awards": [

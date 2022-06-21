@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "00217",
   "url": "industrial/patscenter",
-  "serializeDate": "'2022-06-19 14:24:46.451'",
-  "serialized": 1655648686451,
+  "serializeDate": "'2022-06-21 14:15:13.401'",
+  "serialized": 1655820913401,
   "serializedBy": "sreeve",
   "title": "Patscenter",
   "description": "PA Technology recommissioned Richard Rogers Partnership to design their American research base, on a new industrial park close to the university town of Princeton.",
@@ -36,29 +36,29 @@
     {
       "label": "Site Area",
       "value": "7 500 m²",
-      "elementId": "7a95a32733ea4ea2a8aed802d0e480e8"
+      "id": "7a95a32733ea4ea2a8aed802d0e480e8"
     }
   ],
   "companies": [
     {
       "label": "Co-Architect",
       "value": "Kelbaugh and Lee Architects",
-      "elementId": "998a596b54844cda84b55ded147e565c"
+      "id": "998a596b54844cda84b55ded147e565c"
     },
     {
       "label": "Structural Engineer",
       "value": "Ove Arup & Partners / Robert Silman Associates",
-      "elementId": "d3d711cc81d845a7b148baeaa0497505"
+      "id": "d3d711cc81d845a7b148baeaa0497505"
     },
     {
       "label": "Services Engineer",
       "value": "Ove Arup & Partners / Syska and Hennessy Inc",
-      "elementId": "bf3b46dd84ab4845a4c99e236600d223"
+      "id": "bf3b46dd84ab4845a4c99e236600d223"
     },
     {
       "label": "Quantity Surveyor",
       "value": "GA Hanscomb Partnership / GA Hanscomb Associates Inc",
-      "elementId": "4de46e1961994fd08a9b6d48bd196020"
+      "id": "4de46e1961994fd08a9b6d48bd196020"
     }
   ],
   "awards": [

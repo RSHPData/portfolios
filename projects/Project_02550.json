@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "02550",
   "url": "office/broadwick-house",
-  "serializeDate": "'2022-06-19 14:25:17.947'",
-  "serialized": 1655648717947,
+  "serializeDate": "'2022-06-21 14:15:42.360'",
+  "serialized": 1655820942360,
   "serializedBy": "sreeve",
   "title": "Broadwick House",
   "description": "The building was commissioned by a developer and stands in the Soho conservation area, where straightforwardly ‘contextual’ design had previously been the norm.",
@@ -46,44 +46,44 @@
     {
       "label": "Site Area",
       "value": "400 m²",
-      "elementId": "848d592cc3174df5a452c70824dc6d50"
+      "id": "848d592cc3174df5a452c70824dc6d50"
     },
     {
       "label": "Gross Floor Area",
       "value": "3 200 m²",
-      "elementId": "c1407841d7324165bbb627d6d7d646f8"
+      "id": "c1407841d7324165bbb627d6d7d646f8"
     }
   ],
   "companies": [
     {
       "label": "Structural Engineer",
       "value": "Ove Arup & Partners",
-      "elementId": "c25fe66253ca407fb31bec4b61a3559d"
+      "id": "c25fe66253ca407fb31bec4b61a3559d"
     },
     {
       "label": "Services Engineer",
       "value": "BDSP",
-      "elementId": "19ce2eb7bf054d9198b0aeb2bbd61ce2"
+      "id": "19ce2eb7bf054d9198b0aeb2bbd61ce2"
     },
     {
       "label": "Quantity Surveyor",
       "value": "Davis Langdon & Everest",
-      "elementId": "b44f0975a87546b19bf42433761ac19f"
+      "id": "b44f0975a87546b19bf42433761ac19f"
     },
     {
       "label": "Project Manager",
       "value": "Buro Four Project",
-      "elementId": "39437114167d498a81ebce0ba390dbef"
+      "id": "39437114167d498a81ebce0ba390dbef"
     },
     {
       "label": "Contractor",
       "value": "John Sisk & Son",
-      "elementId": "bc200270bdbb46b8ab33e916b5fbe3a4"
+      "id": "bc200270bdbb46b8ab33e916b5fbe3a4"
     },
     {
       "label": "Acoustic Consultant",
       "value": "Arup Acoustics",
-      "elementId": "65a209d32eb34f56beb28ac0bbf9e846"
+      "id": "65a209d32eb34f56beb28ac0bbf9e846"
     }
   ],
   "awards": [

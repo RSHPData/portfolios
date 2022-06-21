@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "00034",
   "url": "office/uop",
-  "serializeDate": "'2022-06-19 14:24:41.756'",
-  "serialized": 1655648681756,
+  "serializeDate": "'2022-06-21 14:15:08.359'",
+  "serialized": 1655820908359,
   "serializedBy": "sreeve",
   "title": "UOP",
   "description": "Originally designed in 1969, this highly innovative project for UOP, a development with Zip-Up principles of flexibility, low cost, minimum maintenance and energy efficient applied to an industrial structure, had remained unbuilt.",
@@ -41,34 +41,34 @@
     {
       "label": "Gross Floor Area",
       "value": "1 700 m²",
-      "elementId": "cdb0b58d3ad94ce1b9dfbee85b43c0ce"
+      "id": "cdb0b58d3ad94ce1b9dfbee85b43c0ce"
     }
   ],
   "companies": [
     {
       "label": "Architect",
       "value": "Piano + Rogers",
-      "elementId": "15340d970ea24ffeaa37e2c155d25dfe"
+      "id": "15340d970ea24ffeaa37e2c155d25dfe"
     },
     {
       "label": "Structural Engineer",
       "value": "Anthony Hunt Associates",
-      "elementId": "ebd94c30b6284d2fb8f3b00a53993f74"
+      "id": "ebd94c30b6284d2fb8f3b00a53993f74"
     },
     {
       "label": "Quantity Surveyor",
       "value": "Monk Dunstone Associates",
-      "elementId": "9e35d6983d0e4505be21c736d35acfe1"
+      "id": "9e35d6983d0e4505be21c736d35acfe1"
     },
     {
       "label": "Landscape Architect",
       "value": "Landscape Design Partnership",
-      "elementId": "618ad9c4b3b74d95aa8d45320ed24c02"
+      "id": "618ad9c4b3b74d95aa8d45320ed24c02"
     },
     {
       "label": "Contractor",
       "value": "James Longley & Co. Ltd",
-      "elementId": "7a86bf88b6a949f6b17fe839157aa2e8"
+      "id": "7a86bf88b6a949f6b17fe839157aa2e8"
     }
   ],
   "awards": [

@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "02240",
   "url": "masterplanning/southbank-masterplan",
-  "serializeDate": "'2022-06-19 14:25:15.678'",
-  "serialized": 1655648715678,
+  "serializeDate": "'2022-06-21 14:15:39.939'",
+  "serialized": 1655820939939,
   "serializedBy": "sreeve",
   "title": "Southbank Masterplan",
   "description": "In 1994, the practice won an international competition to revitalise the area surrounding the South Bank Arts Centre, a complex of post-war arts buildings adjacent to Leslie Martin’s Royal Festival Hall.",
@@ -34,7 +34,7 @@
     {
       "label": "Site Area",
       "value": "40 000 m²",
-      "elementId": "d8a2fef923b7428da4c77a82ee50615f"
+      "id": "d8a2fef923b7428da4c77a82ee50615f"
     }
   ],
   "companies": [],

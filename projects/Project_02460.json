@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "02460",
   "url": "education/minami-yamashiro-elementary-school",
-  "serializeDate": "'2022-06-19 14:25:17.185'",
-  "serialized": 1655648717185,
+  "serializeDate": "'2022-06-21 14:15:41.607'",
+  "serialized": 1655820941607,
   "serializedBy": "sreeve",
   "title": "Minami Yamashiro Elementary School",
   "description": "This school was commissioned by the mayor of Minami Yamashiro to reunite and regenerate the local community; he desired a school that also acted as a community centre.",
@@ -38,10 +38,16 @@
     "Ben Warner"
   ],
   "heights": [
-    "11.55 m"
+    {
+      "value": "11.55 m",
+      "id": "FC486F0944A5459AB1AE2F"
+    }
   ],
   "floors": [
-    "2"
+    {
+      "value": "2",
+      "id": "6045D6B54D9448BBA545AE"
+    }
   ],
   "overview": "This school was commissioned by the mayor of Minami Yamashiro to reunite and regenerate the local community; he desired a school that also acted as a community centre. The result is a building that offers evening classes and life-long learning for the community’s adult population, as well as daytime schooling for children.\n\n\nSet into a steep hillside, the project is arranged as two buildings, one stepping down from the other and characterised by an elegant undulating roof. This form allows for a series of roof lights that bring daylight deep into the heart of the building. Inside a large common hall acts as the focus of activities with two levels of flexible classroom spaces arranged around it. Bright wall colours within the grid frame are coded for children and adults, defining different areas and functions.\n\n\nDetailed and implemented by RRP’s Tokyo office, this project uses simple, durable, low maintenance materials to achieve elegant results. This combined with Japan’s simple procurement process means that Minami Yamashiro costs less than half of a school of the same size in the UK.",
   "design": "The idea of flexibility permeates every aspect of the plan, in which the two levels of teaching spaces are arranged within a repetitive framed grid of 8.1 by 8.1 metres.\n\nOn the ground floor are located special facilities such as the library, information technology centre, science labs and music studios, which can be easily accessed day and night according to the mode of operation required. The first floor contains the classrooms which are arranged as suites of three interconnected spaces - two small classrooms opening onto a shared space that can be used by either or both classes for special projects or joint activities. Each suite is used by one year group and is identified by one of the bright colours both inside and out.\n\n\nThe multi-level top-lit space is similarly organised within the expressed structural grid. The angled roof planes, with their curved edges reminiscent of wing tips, open up to the north allowing indirect light into the classrooms, with operable glass panels beneath for ventilation. Many of the classrooms and other teaching and working spaces also have openable panels to encourage cross ventilation, especially in the heat of the Japanese summer.\n\nThe restricted budget meant that the way materials were selected and employed had a significant impact on the final appearance of the building. A ‘kit of parts’ approach was adopted so that a minimal palette of local, easily obtainable materials was used to the greatest aesthetic and spatial effect.\n\n\nThe concrete structural frame, partly formed from re-used shuttering, was left exposed, as was the steel framing for the roofs. Timber elements such as floors and furniture were also locally sourced and constructed. Vibrant splashes of colour and form appear both in the surface of the playground and on the interior walls in the form of art work specially commissioned from a Japanese artist . The brightly coloured shapes echo the theme colours of the classrooms.",
@@ -51,39 +57,39 @@
     {
       "label": "Site Area",
       "value": "24 384 m²",
-      "elementId": "e364aef61e454701bb398bfa8dd80a69"
+      "id": "e364aef61e454701bb398bfa8dd80a69"
     },
     {
       "label": "Gross Floor Area",
       "value": "10 200 m²",
-      "elementId": "7ed2958d60de4edba084caa49c5e0067"
+      "id": "7ed2958d60de4edba084caa49c5e0067"
     }
   ],
   "companies": [
     {
       "label": "Structural Engineer",
       "value": "Umezawa Structural Engineers",
-      "elementId": "44c1c02f83c040878e25b3e94ddf2595"
+      "id": "44c1c02f83c040878e25b3e94ddf2595"
     },
     {
       "label": "Services Engineer",
       "value": "Setsubi-Sekkei 21 / Six Squares",
-      "elementId": "4ad0942e8cdc4552be3c713504165e23"
+      "id": "4ad0942e8cdc4552be3c713504165e23"
     },
     {
       "label": "Quantity Surveyor",
       "value": "Dan Surveyors Office",
-      "elementId": "3bd39381be7d4d8bb647668f2a09957c"
+      "id": "3bd39381be7d4d8bb647668f2a09957c"
     },
     {
       "label": "Landscape Architect",
       "value": "Equipe Espace",
-      "elementId": "16c2586a24394f9883ebf8aa7ddb9d25"
+      "id": "16c2586a24394f9883ebf8aa7ddb9d25"
     },
     {
       "label": "Contractor",
       "value": "Asanuma Corporation",
-      "elementId": "2e16f7514953462b8bc27e684e6c4f44"
+      "id": "2e16f7514953462b8bc27e684e6c4f44"
     }
   ],
   "awards": [

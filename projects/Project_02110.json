@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "02110",
   "url": "office/tower-bridge-house",
-  "serializeDate": "'2022-06-19 14:25:13.327'",
-  "serialized": 1655648713327,
+  "serializeDate": "'2022-06-21 14:15:37.685'",
+  "serialized": 1655820937685,
   "serializedBy": "sreeve",
   "title": "Tower Bridge House",
   "description": "The commission for Tower Bridge House dates back to 1987, just after the completion of Lloyd’s of London.",
@@ -62,59 +62,59 @@
     {
       "label": "Area",
       "value": "24 000  m²",
-      "elementId": "f91c7cef77e541f1ac83979f355ca7a8"
+      "id": "f91c7cef77e541f1ac83979f355ca7a8"
     }
   ],
   "companies": [
     {
       "label": "Structural Engineer",
       "value": "Waterman Gore",
-      "elementId": "1ba9dd000eef406c8d725adf92e459c5"
+      "id": "1ba9dd000eef406c8d725adf92e459c5"
     },
     {
       "label": "Services Engineer",
       "value": "Waterman Gore",
-      "elementId": "b7c79dca522444678fe233baf185f3c6"
+      "id": "b7c79dca522444678fe233baf185f3c6"
     },
     {
       "label": "Quantity Surveyor",
       "value": "Davis Langdon & Everest",
-      "elementId": "fed8a04a8a7f4924a4a224aa5595afe2"
+      "id": "fed8a04a8a7f4924a4a224aa5595afe2"
     },
     {
       "label": "Project Manager",
       "value": "Buro Four",
-      "elementId": "076017e7c2874def9856f0cbbdf8ac0d"
+      "id": "076017e7c2874def9856f0cbbdf8ac0d"
     },
     {
       "label": "Landscape Architect",
       "value": "Richard Rogers Partnership with Charles Funke",
-      "elementId": "eedc5a4bcfbd45358581ebaa02521fe9"
+      "id": "eedc5a4bcfbd45358581ebaa02521fe9"
     },
     {
       "label": "Contractor",
       "value": "Taylor Woodrow Construction",
-      "elementId": "4a97d2d95c0041d5891c7194b99753f8"
+      "id": "4a97d2d95c0041d5891c7194b99753f8"
     },
     {
       "label": "Planning Consultant",
       "value": "Taywood Engineering Ltd / Montagu Evans and DP9",
-      "elementId": "0c6aa3e45c1f489f830b3a672a370d5a"
+      "id": "0c6aa3e45c1f489f830b3a672a370d5a"
     },
     {
       "label": "Acoustic Consultant",
       "value": "AAD",
-      "elementId": "4785a346e7234de0a1ccd63094a1594f"
+      "id": "4785a346e7234de0a1ccd63094a1594f"
     },
     {
       "label": "Fire Consultant",
       "value": "Warrington Fire Research Consultants",
-      "elementId": "da0496defc85496d9b6d25a3bb30062e"
+      "id": "da0496defc85496d9b6d25a3bb30062e"
     },
     {
       "label": "Letting Agent",
       "value": "Ingleby Trice Kennard, Jones Lang Wootton, Knight Frank",
-      "elementId": "1bd3f82d956741e68ec279b047b4f8b1"
+      "id": "1bd3f82d956741e68ec279b047b4f8b1"
     }
   ],
   "awards": [],

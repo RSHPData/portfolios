@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "00301",
   "url": "masterplanning/arno-masterplan",
-  "serializeDate": "'2022-06-19 14:24:47.129'",
-  "serialized": 1655648687129,
+  "serializeDate": "'2022-06-21 14:15:14.217'",
+  "serialized": 1655820914217,
   "serializedBy": "sreeve",
   "title": "Arno Masterplan",
   "description": "Commissioned by the City of Florence to suggest how street life in Florence could be improved, the practice’s strategic study focused on the banks of the River Arno.",
@@ -33,17 +33,17 @@
     {
       "label": "Co-Architect",
       "value": "Claudio Cantanella",
-      "elementId": "d4cf2d7556d049d7bd3851020c0de180"
+      "id": "d4cf2d7556d049d7bd3851020c0de180"
     },
     {
       "label": "Structural Engineer",
       "value": "Peter Rice",
-      "elementId": "75fab96ed2a14ec682660711eb2e7ab8"
+      "id": "75fab96ed2a14ec682660711eb2e7ab8"
     },
     {
       "label": "Hydraulic Engineer",
       "value": "Enrico Bougleux",
-      "elementId": "a92a188d820d4e67aa9e867b02d91204"
+      "id": "a92a188d820d4e67aa9e867b02d91204"
     }
   ],
   "awards": [],

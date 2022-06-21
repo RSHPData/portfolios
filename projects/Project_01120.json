@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "01120",
   "url": "civic/european-court-of-human-rights",
-  "serializeDate": "'2022-06-19 14:25:01.468'",
-  "serialized": 1655648701468,
+  "serializeDate": "'2022-06-21 14:15:26.412'",
+  "serialized": 1655820926412,
   "serializedBy": "sreeve",
   "title": "European Court of Human Rights",
   "description": "The European Court of Human Rights provides a landmark building for the ‘New Europe’ on a site some distance from the historic centre of the city and close to the river.",
@@ -51,49 +51,49 @@
     {
       "label": "Gross Floor Area",
       "value": "28 000 m²",
-      "elementId": "bdcbdbb948024e55b0b32e514d169a4d"
+      "id": "bdcbdbb948024e55b0b32e514d169a4d"
     }
   ],
   "companies": [
     {
       "label": "Co-Architect",
       "value": "Atelier d'Architecture Claude Bucher",
-      "elementId": "07110ef583da4f04a3eaea12e8f93bd4"
+      "id": "07110ef583da4f04a3eaea12e8f93bd4"
     },
     {
       "label": "Structural Engineer",
       "value": "Ove Arup & Partners / Omnium Technique Européen",
-      "elementId": "0697035f17624e7988d23f7db092f95d"
+      "id": "0697035f17624e7988d23f7db092f95d"
     },
     {
       "label": "Services Engineer",
       "value": "Ove Arup & Partners / Omnium Technique Européen",
-      "elementId": "9e1fedae055340b2988ec8819596d4a8"
+      "id": "9e1fedae055340b2988ec8819596d4a8"
     },
     {
       "label": "Quantity Surveyor",
       "value": "Thorne Wheatley Associates",
-      "elementId": "65dbcf57f2604b079cfababf4a33ccda"
+      "id": "65dbcf57f2604b079cfababf4a33ccda"
     },
     {
       "label": "Lighting Consultant",
       "value": "Lighting Design Partnership",
-      "elementId": "98ce58c6510c4d2996ffa40042625769"
+      "id": "98ce58c6510c4d2996ffa40042625769"
     },
     {
       "label": "Landscape Architect",
       "value": "David Jarvis Associates / Dan Kiley",
-      "elementId": "ac17488c6ee748e5aa49b05a0b8b982b"
+      "id": "ac17488c6ee748e5aa49b05a0b8b982b"
     },
     {
       "label": "Contractor",
       "value": "Campenon Bernard SGE",
-      "elementId": "c34c748c85cb44f39b079610a0be1319"
+      "id": "c34c748c85cb44f39b079610a0be1319"
     },
     {
       "label": "Acoustic Consultant",
       "value": "Sound Research Laboratories",
-      "elementId": "2356ea304cb341e28d94c6165790b745"
+      "id": "2356ea304cb341e28d94c6165790b745"
     }
   ],
   "awards": [
