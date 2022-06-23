@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "03510",
   "url": "office/the-leadenhall-building",
-  "serializeDate": "'2022-06-23 14:14:56.239'",
-  "serialized": 1655993696239,
+  "serializeDate": "'2022-06-23 14:18:11.990'",
+  "serialized": 1655993891990,
   "serializedBy": "sreeve",
   "title": "The Leadenhall Building",
   "description": "This 50-storey tower opposite Lloyd’s of London rises to a height of 224.5 metres (802 feet), its slender form creating its own distinctive profile within an emerging cluster of tall buildings in this part of the City of London.",
@@ -72,14 +72,12 @@
   ],
   "heights": [
     {
-      "label": "test1",
       "value": "224.5 m",
       "id": "C5FE9959BF1B4FE2A853F4"
     }
   ],
   "floors": [
     {
-      "label": "basic",
       "value": "48",
       "id": "982DFD15F523486C87F668"
     }
