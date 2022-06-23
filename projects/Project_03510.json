@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "03510",
   "url": "office/the-leadenhall-building",
-  "serializeDate": "'2022-06-23 09:42:03.428'",
-  "serialized": 1655977323428,
+  "serializeDate": "'2022-06-23 09:47:01.825'",
+  "serialized": 1655977621825,
   "serializedBy": "sreeve",
   "title": "The Leadenhall Building",
   "description": "This 50-storey tower opposite Lloyd’s of London rises to a height of 224.5 metres (802 feet), its slender form creating its own distinctive profile within an emerging cluster of tall buildings in this part of the City of London.",
@@ -72,14 +72,26 @@
   ],
   "heights": [
     {
+      "label": "test1",
       "value": "224.5 m",
       "id": "C5FE9959BF1B4FE2A853F4"
+    },
+    {
+      "label": "test2",
+      "value": "300m",
+      "id": "949c939bd9284111a4497cbb0e12273d"
     }
   ],
   "floors": [
     {
+      "label": "basic",
       "value": "48",
       "id": "982DFD15F523486C87F668"
+    },
+    {
+      "label": "test",
+      "value": "50",
+      "id": "c4bd1d7194634c9ca8f57d44e50e34fd"
     }
   ],
   "overview": "This 50-storey tower opposite <a href=\"projects/office/lloyds-of-london/\">Lloyd’s of London</a> rises to a height of 224.5 metres (802 feet), its slender form creating its own distinctive profile within an emerging cluster of tall buildings in this part of the City of London. The building’s tapering profile is prompted by a requirement to respect views of St Paul’s Cathedral, in particular from Fleet Street. The tower’s design ensures that from this key vantage point the cathedral’s dome is still framed by a clear expanse of sky.\n\nThe office floors are designed to meet the highest quality office space standards taking the form of rectangular floor plates which progressively diminish in depth towards the apex. Instead of a traditional central core providing structural stability, the building employs a full perimeter braced tube which defines the edge of the office floor plates and creates stability under wind loads. The circulation and servicing core is located in a detached north-facing tower, containing colour-coded passenger and goods lifts, service risers and on-floor plant and WCs.\n\n\nThe building’s envelope expresses the diversity of what it encloses, reinforcing the composition and providing legibility to the primary elements. Although the tower occupies the entire site, the scheme delivers an unprecedented allocation of public space – the lower levels are recessed on a raking diagonal to create a spectacular, sun-lit seven-storey high space complete with shops, and soft landscaped public space.\n\nThis public space offers a half-acre extension to the adjacent piazza of St Helen’s Square. Overlooking the space is a public bar and restaurant served by glazed lifts. This new public space provides a rare breathing space within the dense urban character of the City of London.",
