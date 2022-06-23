@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "03510",
   "url": "office/the-leadenhall-building",
-  "serializeDate": "'2022-06-21 14:15:56.231'",
-  "serialized": 1655820956231,
+  "serializeDate": "'2022-06-23 09:42:03.428'",
+  "serialized": 1655977323428,
   "serializedBy": "sreeve",
   "title": "The Leadenhall Building",
   "description": "This 50-storey tower opposite Lloyd’s of London rises to a height of 224.5 metres (802 feet), its slender form creating its own distinctive profile within an emerging cluster of tall buildings in this part of the City of London.",
@@ -73,13 +73,13 @@
   "heights": [
     {
       "value": "224.5 m",
-      "id": "B22D675A43424D92A45958"
+      "id": "C5FE9959BF1B4FE2A853F4"
     }
   ],
   "floors": [
     {
       "value": "48",
-      "id": "71B2108E566242E8912F08"
+      "id": "982DFD15F523486C87F668"
     }
   ],
   "overview": "This 50-storey tower opposite <a href=\"projects/office/lloyds-of-london/\">Lloyd’s of London</a> rises to a height of 224.5 metres (802 feet), its slender form creating its own distinctive profile within an emerging cluster of tall buildings in this part of the City of London. The building’s tapering profile is prompted by a requirement to respect views of St Paul’s Cathedral, in particular from Fleet Street. The tower’s design ensures that from this key vantage point the cathedral’s dome is still framed by a clear expanse of sky.\n\nThe office floors are designed to meet the highest quality office space standards taking the form of rectangular floor plates which progressively diminish in depth towards the apex. Instead of a traditional central core providing structural stability, the building employs a full perimeter braced tube which defines the edge of the office floor plates and creates stability under wind loads. The circulation and servicing core is located in a detached north-facing tower, containing colour-coded passenger and goods lifts, service risers and on-floor plant and WCs.\n\n\nThe building’s envelope expresses the diversity of what it encloses, reinforcing the composition and providing legibility to the primary elements. Although the tower occupies the entire site, the scheme delivers an unprecedented allocation of public space – the lower levels are recessed on a raking diagonal to create a spectacular, sun-lit seven-storey high space complete with shops, and soft landscaped public space.\n\nThis public space offers a half-acre extension to the adjacent piazza of St Helen’s Square. Overlooking the space is a public bar and restaurant served by glazed lifts. This new public space provides a rare breathing space within the dense urban character of the City of London.",
@@ -90,69 +90,69 @@
     {
       "label": "Site Area",
       "value": "3 000 m²",
-      "id": "8858c55498af4342968771730c489468"
+      "id": "a8736d43382443378eb23cefc1803b41"
     },
     {
       "label": "Gross Internal Area",
       "value": "84 424 m²",
-      "id": "df4ff342f67641d9b3f8ae2d62c475cf"
+      "id": "c28f3caec97e4c25bc082fc4a16bfe08"
     },
     {
       "label": "Lettable Area",
       "value": "60 250 m²",
-      "id": "0a85575883984d2f85230961117cf9ba"
+      "id": "573edd2eab0549ad9f3375eda7d8bfbd"
     }
   ],
   "companies": [
     {
       "label": "Building owner since June 2017",
       "value": "CC Land Holdings Limited",
-      "id": "b03f4ea49fc149858c680c482eb63c69"
+      "id": "0c5f8cf05d0c48a08bef5c2ffb647a2a"
     },
     {
       "label": "Structural Engineer",
       "value": "Arup",
-      "id": "41030797ad83454c8ec8e5ad35c0004e"
+      "id": "78253bccae7a4f15bfa87501133ce3c2"
     },
     {
       "label": "Services Engineer",
       "value": "Arup",
-      "id": "eadfbb79687843debdc6224ed1639d13"
+      "id": "3c20dd0cc8d743ffa629d0a01e1f70d8"
     },
     {
       "label": "Quantity Surveyor",
       "value": "DL Aecom",
-      "id": "5aac1e2dee4d439c8c40ad96451aad02"
+      "id": "3df5095336b543419bc2548ea479e857"
     },
     {
       "label": "Project Manager",
       "value": "WSP",
-      "id": "ec6af6168a6c4dc3bafdff83761e682e"
+      "id": "1066913f31ca419e9c06da2433b5a005"
     },
     {
       "label": "Landscape Architect",
       "value": "Edco Design London / Gillespies",
-      "id": "804088e0ea104d2bbfdbf49649ce11ec"
+      "id": "105182979c2a4ca5a40d4f93e4979048"
     },
     {
       "label": "Main Contractor",
       "value": "Laing O’Rourke",
-      "id": "cca7403c96da4cab863d56155c8bbe59"
+      "id": "9e724503281a4674980894351fd7ce38"
     },
     {
       "label": "Planning Consultant",
       "value": "DP9",
-      "id": "8320b19efdf84404bd33eac90510a542"
+      "id": "9b9ec0513405464ca26c2df75a47c90b"
     },
     {
       "label": "Lift Engineer",
       "value": "Kone",
-      "id": "eb41ec388b4c41ccbb9ba57ec0da3081"
+      "id": "5547d6e1010c436e9ec746c331ea5bdf"
     },
     {
       "label": "Townscape Consultant",
       "value": "Francis Golding",
-      "id": "a67a0c2b2ee340189fa2cc4fee5595a7"
+      "id": "ee06408e98d443b7a4a16be8999d7557"
     }
   ],
   "awards": [
@@ -160,61 +160,61 @@
       "date": "2018-01-01",
       "year": "2018",
       "award": "RIBA National Award",
-      "rowId": "28c6e758d7204944a30c3f41b7d3af78"
+      "rowId": "f397e4ad586043cb82c8bf9d65e9d016"
     },
     {
       "date": "2018-01-01",
       "year": "2018",
       "award": "RIBA London Award 2018",
-      "rowId": "638f36fa6fdc4413aba033a983853cde"
+      "rowId": "d77ab607d7b84e6aa05f4889a8af5a3a"
     },
     {
       "date": "2017-01-01",
       "year": "2017",
       "award": "The British Constructional Steelwork Association Awards, Main National Award Winner and Special Award for Best Overall Project",
-      "rowId": "2be7bf0d3c3f4a73a818576f6f2265bd"
+      "rowId": "c342ac44c579490e9b2ce122c04467c0"
     },
     {
       "date": "2016-01-01",
       "year": "2016",
       "award": "BCO Best Design Innovation Award 2016 shortlist",
-      "rowId": "d8d47c7e1c824066b44fb29b8f6be854"
+      "rowId": "f8767448d4a84d7d8dbbd106f477b1d2"
     },
     {
       "date": "2016-01-01",
       "year": "2016",
       "award": "BCO Best Commercial Workplace in the UK",
-      "rowId": "fa985e5fde94411c83d092704da5da72"
+      "rowId": "c74905ffb35e4b0392d2786f000fc988"
     },
     {
       "date": "2016-01-01",
       "year": "2016",
       "award": "NLA Best Commercial Building",
-      "rowId": "f60b130cd5ea412b809021bb12df5c00"
+      "rowId": "6b9345885ae94c14b359eecd9bb005ed"
     },
     {
       "date": "2015-01-01",
       "year": "2015",
       "award": "British Council for Offices Innovation Award",
-      "rowId": "53e08e2a977d419da83f9890f2506ecc"
+      "rowId": "80f7cd8e0f3e40f59b7e1f6790251f80"
     },
     {
       "date": "2015-01-01",
       "year": "2015",
       "award": "British Council for Offices 'Best Commercial Office London and the South East'",
-      "rowId": "2fe33fe9aaa2491382acc9327ef265d1"
+      "rowId": "b27eeced3a454bc297f4d33d1def86ad"
     },
     {
       "date": "2015-01-01",
       "year": "2015",
       "award": "City of London Building of the Year",
-      "rowId": "648d543cb38b461e9e0fe172191a80a1"
+      "rowId": "cb6052504a00412ab48e0def2e3e92a5"
     },
     {
       "date": "2011-01-01",
       "year": "2011",
       "award": "Pre-certified BREEAM Excellent Rating",
-      "rowId": "ec4ec05d3d5c4eb1bce11b74b337b14e"
+      "rowId": "462058ffb1264dc1b4b2f662e6cbbbff"
     },
     {
       "date": "2011-01-01",
