@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "10190",
   "url": "education/lse-centre-building/",
-  "serializeDate": "'2022-06-21 14:16:45.794'",
-  "serialized": 1655821005794,
+  "serializeDate": "'2022-06-23 09:31:17.436'",
+  "serialized": 1655976677436,
   "serializedBy": "sreeve",
   "title": "LSE Centre Building",
   "description": "As well as the demolition and redevelopment of a number of existing buildings on the Aldwych campus, the initial brief called for world-class architecture to match LSE’s international academic reputation.",
@@ -53,14 +53,8 @@
   ],
   "heights": [
     {
-      "label": "52.2m",
       "value": "52.2m",
-      "id": "0DA0208E0FB0468785AF4E"
-    },
-    {
-      "label": "52.2m",
-      "value": "52.2m",
-      "id": "4C24BC59EFAF40AC9C0B89"
+      "id": "A3D6ABE73B4C4AEA8BCEC6"
     }
   ],
   "overview": "RSHP’s design is inspired by LSE’s core values: Collaboration, Excellence and Innovation. As well as the demolition and redevelopment of a number of existing buildings on the Aldwych campus, the initial brief called for world-class architecture to match LSE’s international academic reputation. The RSHP design goes further by placing a public square at the heart of the campus, creating a new focal point and improving connectivity and wayfinding throughout the site.\n\nThe building provides simple flexible floor plans for a range of academic and department uses, allowing the creation of innovative and inspirational spaces to attract the best staff, academics and students. The design is vertically zoned with most of the public and highly serviced facilities such as the restaurant, auditorium and large lecture theatres situated at the lower levels. This facilitates natural interaction with the public realm of Houghton Street and animates the newly created LSE Square.\n\n\nOn the first and second floors, general teaching provision is accommodated and there is access to a large external terraced garden. These public and student facilities are all connected by the atrium space, which provides a dramatic and flowing circulation route between the floors with informal spaces to encourage students to come together to explore, debate and collaborate.\n\nAbove the second floor, a number of academic departments are located on flexible floorplates providing both open plan and modular accommodation. These upper levels are connected visually and physically via a dynamic stair that moves in a series of double height spaces across the façade, creating connectivity between departmental floors.\n\n\nAs part of the decision making process, a public exhibition was held during which LSE staff, students and visitors were encouraged to vote for their favourite design from the shortlist. The RSHP design won by an overwhelming margin.",
@@ -71,29 +65,29 @@
     {
       "label": "Area",
       "value": "17,500 m²",
-      "id": "56eb13c5b1eb49bbb3650d26e2c04050"
+      "id": "c5d310f3e68748529be111a463944975"
     }
   ],
   "companies": [
     {
       "label": "Structural Engineer",
       "value": "AKT",
-      "id": "d1b24ba2be0c4754bc0d35cdf9695813"
+      "id": "63485d173c904f2db39fc8eaf1595222"
     },
     {
       "label": "Services Engineer",
       "value": "Chapman BDSP",
-      "id": "63e2767294094b30b62a19524b09cce7"
+      "id": "66b55a138016449eb8e2206b68177582"
     },
     {
       "label": "Landscape Architect",
       "value": "Gillespies",
-      "id": "9e106ce7777849a2bca35b9b63557e23"
+      "id": "94df154ea08c43cd8b06c2a6bcd7adc8"
     },
     {
       "label": "Fire Strategy and Acoustic Consultant",
       "value": "Hoare Lea",
-      "id": "bc648a09451c4e8da0676701a37b2cb2"
+      "id": "2358e7d3fc3e4de08dda0f78a4d3f388"
     }
   ],
   "awards": [
@@ -101,79 +95,79 @@
       "date": "2021-01-01",
       "year": "2021",
       "award": "RIBA National Award Winner",
-      "rowId": "a9c50573848d4ede94079739ce949f58"
+      "rowId": "20ff3806ff9c4ca09ca6a629e92e6e9b"
     },
     {
       "date": "2021-01-01",
       "year": "2021",
       "award": "RIBA London Award Winner",
-      "rowId": "3f0ef3202314424f8778336c2e9c3718"
+      "rowId": "8539b1238a58440ba7fe0dc782c9ab24"
     },
     {
       "date": "2021-01-01",
       "year": "2021",
       "award": "AJ Architecture Award finalist - Higher Education",
-      "rowId": "f0523e54a4aa4eb2874366a89da470e2"
+      "rowId": "8c11a00d84f3459497df1d94f3ef6ed0"
     },
     {
       "date": "2021-01-01",
       "year": "2021",
       "award": "Civic Trust Award Winner",
-      "rowId": "f8c321f7b61e458790ee3a206c32662e"
+      "rowId": "d8117b9518684402bb246b56b326c9c8"
     },
     {
       "date": "2020-01-01",
       "year": "2020",
       "award": "Regional Finalist - Civic Trust Awards",
-      "rowId": "ad016d0cf10d45bda6a9050eab064721"
+      "rowId": "3c6d69569f994acd8bd92f4fe09f1b6f"
     },
     {
       "date": "2020-01-01",
       "year": "2020",
       "award": "Regional Finalist - RIBA Awards",
-      "rowId": "3e10490a8aef4cdf9d4aaf3164d4be02"
+      "rowId": "1b75bc1711284101a6067d2bc4f99d41"
     },
     {
       "date": "2020-01-01",
       "year": "2020",
       "award": "BREEAM Award winner - Public Sector Project – Post Construction Award",
-      "rowId": "7a9897fd3d6144308005699ae6d98e86"
+      "rowId": "4898a87669f8410f81c26ef10c2c05ee"
     },
     {
       "date": "2020-01-01",
       "year": "2020",
       "award": "Winner Client of the Year LSE - Education Estates Awards",
-      "rowId": "93fa11e2177c4266bd8f7a8a58aae114"
+      "rowId": "fd5e4adf035b4102861a3c3bbce9a170"
     },
     {
       "date": "2020-01-01",
       "year": "2020",
       "award": "Winner Social Infrastructure Project of the Year - British Construction Industry Awards (BCIA)",
-      "rowId": "cd0990b8ed524a1ab94d8bd95273fc25"
+      "rowId": "c43ea93d14344b4cbacca1ef0632c68c"
     },
     {
       "date": "2020-01-01",
       "year": "2020",
       "award": "Highly Commended Project of the Year - Education Estates Awards",
-      "rowId": "d9473b4737664d44bf092b7bcbfcee15"
+      "rowId": "a41006150aef43cab08937615ecb2fbc"
     },
     {
       "date": "2020-01-01",
       "year": "2020",
       "award": "Highly Commended - Structural Steel Design Awards",
-      "rowId": "1329d4cde475467baccae803516a7def"
+      "rowId": "08d6f30a177b489cb2612db59ac2c3b1"
     },
     {
       "date": "2020-01-01",
       "year": "2020",
       "award": "The Guardian University Awards' Finalist - Buildings that inspire category",
-      "rowId": "558112ffe7064c388a58319b2ec682f9"
+      "rowId": "427e1ddd7f874c0f9d12403e20b26dfb"
     },
     {
       "date": "2020-01-01",
       "year": "2020",
       "award": "Planning Awards' Finalist - Award for Design Excellence",
-      "rowId": "7a7e86a0abdf474f990d4bb8672780e3"
+      "rowId": "20ce38c59ef34115ae97b7badc8cfd0f"
     }
   ],
   "certificates": [
