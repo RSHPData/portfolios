@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "04940",
   "url": "masterplanning/cb1-cambridge-station",
-  "serializeDate": "'2022-06-27 15:40:30.218'",
-  "serialized": 1656344430218,
+  "serializeDate": "'2022-06-27 17:38:28.867'",
+  "serialized": 1656351508867,
   "serializedBy": "sreeve",
   "title": "CB1 Cambridge Station",
   "description": "The historic university city of Cambridge attracts over 4.6 million visitors every year – second only to London in the UK. A significant proportion of these visitors arrive by train.",
@@ -38,8 +38,7 @@
     "Andrew Morris",
     "Mark Darbon"
   ],
-  "leaders": [],
-  "overview": "The historic university city of Cambridge attracts over 4.6 million visitors every year – second only to London in the UK. A significant proportion of these visitors arrive by train. However, the area around Cambridge railway station had seen no meaningful or integrated development proposals for nearly half a century and had fallen into a state of some decline.\n\nRogers Stirk Harbour + Partners was appointed by Ashwell Property Group to design a masterplan incorporating around 158,000 m² (1.7 million ft²) of mixed-use development on a ‘gateway’ site adjacent to the railway station in Cambridge.\n\n\nThe proposal includes a major new transport interchange, 58,000 m² (625,000 ft²) of residential space (including 1,250 student accommodation units for Anglia Ruskin University and affordable housing), 54,000 m² (580,000 ft²) of grade A office space, a 120 bed hotel and a high quality mix of leisure, retail and restaurant space.\n\nThis masterplan was intended to give an important regeneration boost to Cambridge while also helping to address the Government’s demands for more housing provision across the South East and East of England. It follows a ‘European’ approach to development, creating a development where people can work, live, shop and socialise in their neighbourhood, encouraging a sense of belonging and pride and improving the quality of life of local people.\n\n\nPlanning approval was given in October 2008 to a scheme which aimed to meet the Council’s expectations for a much-needed transport interchange, while balancing Ashwell’s own commercial expectations of the site. The site is now being built out broadly in accordance with the masterplan, by a number of developers.",
+  "overview": "The historic university city of Cambridge attracts over 4.6 million visitors every year – second only to London in the UK. A significant proportion of these visitors arrive by train. However, the area around Cambridge railway station had seen no meaningful or integrated development proposals for nearly half a century and had fallen into a state of some decline.\n\nRSHP was appointed by Ashwell Property Group to design a masterplan incorporating around 158,000 m² (1.7 million ft²) of mixed-use development on a ‘gateway’ site adjacent to the railway station in Cambridge.\n\n\nThe proposal includes a major new transport interchange, 58,000 m² (625,000 ft²) of residential space (including 1,250 student accommodation units for Anglia Ruskin University and affordable housing), 54,000 m² (580,000 ft²) of grade A office space, a 120 bed hotel and a high quality mix of leisure, retail and restaurant space.\n\nThis masterplan was intended to give an important regeneration boost to Cambridge while also helping to address the Government’s demands for more housing provision across the South East and East of England. It follows a ‘European’ approach to development, creating a development where people can work, live, shop and socialise in their neighbourhood, encouraging a sense of belonging and pride and improving the quality of life of local people.\n\n\nPlanning approval was given in October 2008 to a scheme which aimed to meet the Council’s expectations for a much-needed transport interchange, while balancing Ashwell’s own commercial expectations of the site. The site is now being built out broadly in accordance with the masterplan, by a number of developers.",
   "dimensions": [
     {
       "label": "Site Area",
@@ -93,7 +92,5 @@
       "value": "Enviros",
       "id": "5199f19e9e2e4f3ea089c7e1bad56e3a"
     }
-  ],
-  "awards": [],
-  "certificates": []
+  ]
 }
