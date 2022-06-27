@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "10610",
   "url": "office/no-33-park-row/",
-  "serializeDate": "'2022-06-21 14:16:53.104'",
-  "serialized": 1655821013104,
+  "serializeDate": "'2022-06-27 12:26:23.058'",
+  "serialized": 1656332783058,
   "serializedBy": "sreeve",
   "title": "No. 33 Park Row",
   "description": "The proposal for No. 33 Park Row describes a boutique residential scheme in Lower Manhattan, made up of 30 apartments with four levels of commercial space at the base of the building.",
@@ -44,13 +44,13 @@
   "heights": [
     {
       "value": "114 meters (377 feet)",
-      "id": "39D7E7C44DCF4FA68654A8"
+      "id": "8F685EE9856D4501BEEB4F"
     }
   ],
   "floors": [
     {
       "value": "23 storeys (25 inclusive of bulkhead elevator motor room)",
-      "id": "4C2A748F6ABA4AACB2DF31"
+      "id": "B3AF0B7AB7F647B7AEAB1E"
     }
   ],
   "overview": "The proposal for No. 33 Park Row describes a boutique residential scheme in Lower Manhattan, made up of 30 apartments with four levels of commercial space at the base of the building. The proposed tower will rise 23-storeys addressing Park Row’s early 20th Century ‘skyscrapers’ and giving excellent views north across City Hall Park.\n\nLocated at the corner of Beekman Street and Park Row the building steps up to provide a bridge between the ten storey properties on Beekman and those on Park Row. The primary core acts as a unifying vertical structural element, extending above the roof levels to provide roof top plant. The kite shaped plan is set out on the diagonal and the building facades follow this arrangement to place a strong visual emphasis on the corner.\n\n\nThe building’s structural and internal apartment arrangement is expressed in two-storey façade modules. The primary building arrangement facing North mitigates overheating through solar gain, and loggias serve to provide shading to residential facades. Depth and materiality of the facades give privacy for residents and this is achieved through a series of deep, articulated loggias, which pay homage to the early 20th century New York architectural context and give the building its strong identity. Made up of fabricated metal sections and concrete, the hue of the patinated copper side screens is varied to differentiate the commercial and residential levels. The flank walls are clad in brick and act as braced bays, stabilising the tower and further directing views north to the park.",
@@ -58,7 +58,7 @@
     {
       "label": "Gross internal floor area",
       "value": "60 000 ft² residential, 15 000 ft² commercial",
-      "id": "afc3e296db5b48c9a02f890ee8d918d0"
+      "id": "f7b011f260ac4d61bcb84fa5c9d0edf0"
     }
   ],
   "companies": [],
