@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "10450",
   "url": "office/2-redman-place",
-  "serializeDate": "'2022-06-21 14:16:50.348'",
-  "serialized": 1655821010348,
+  "serializeDate": "'2022-06-27 13:50:39.544'",
+  "serialized": 1656337839544,
   "serializedBy": "sreeve",
   "title": "2 Redman Place",
   "description": "The functional brief for 2 Redman Place was to provide 265,000 - 270,000ft² NIA of commercial office space with typical floors providing approximately 30,000 ft² capable of efficient sub-division into 2 tenancies with the possibility of 3 tenancies.",
@@ -44,14 +44,12 @@
     "Andrew Morris"
   ],
   "leaders": [
-    "Steve Martin",
-    "Mimi Hawley",
-    "Harjinder Singh"
+    "Steve Martin"
   ],
   "floors": [
     {
       "value": "10",
-      "id": "41A8AA386E0A49AAB5D1B9"
+      "id": "E8FDB90322B847A0832880"
     }
   ],
   "overview": "Rogers Stirk Harbour + Partners were commissioned in March 2014 to review the IQL South and IQL North masterplan in Stratford, London and to develop a building ‘chassis’, or ‘kit of parts’ that would enable buildings of different sizes and configuration to be created using the same basic components.\n\nThe functional brief for 2 Redman Place - Building S9 - was to provide 265,000 - 270,000ft² NIA of commercial office space with typical floors providing approximately 30,000 ft² capable of efficient sub-division into 2 tenancies with the possibility of 3 tenancies.\n\n\nRSHP’s aim with any brief was to achieve a simple and durable concept that can be refined through planning, and detailed design phases, to become a functional, exemplar office building.\n\nAt the heart of the brief for the entire IQL development was the client’s desire to promote health and well-being in the workplace.\n\n\nCentral to achieving this is a workplace that maximises daylight and views with optional open atria and highly visible stairs that encourage the use of these, rather than the lifts for floor to floor connectivity.\n\nAt ground level there is 350-400 sq m of catering / retail space together with an entrance reception area and an area facing Redman Square suitable for either gallery or office use.",
@@ -60,57 +58,56 @@
     {
       "label": "Site Area",
       "value": "35 394 m² (GEA)",
-      "id": "6abea845c84b481f96685e4ab7f16dcb"
+      "id": "7bc1841faa414805bac8e7bca9aa95aa"
     }
   ],
   "companies": [
     {
       "label": "Structural Engineer",
       "value": "Arup",
-      "id": "3122d03c6e6f4a0288218e0d19811841"
+      "id": "fec4783be67c4f17a3454efd6ef4331d"
     },
     {
       "label": "Landscape Architect",
       "value": "Gustafson Porter Brown",
-      "id": "668c0d92311e4a1c98d78cb5de0e4bac"
+      "id": "13e2b8a4a3bb49e0aa21ede1b603af79"
     },
     {
       "label": "Services Engineer",
       "value": "NDY",
-      "id": "147548ecdf154d59a10727995b26eca1"
+      "id": "da415305704746ed988de40caea3abbd"
     },
     {
       "label": "Project Manager",
       "value": "G&T",
-      "id": "eb5e6ff829064f5eb76d0af41729bef1"
+      "id": "b5d741a6551e45a99711df34ea5d9f0f"
     },
     {
       "label": "Cost Consultant",
       "value": "Arcadis",
-      "id": "4a20cf09a02f42b0af632e60d4b9ea9f"
+      "id": "f0cd668665974ccc922c6ed01c1b6383"
     },
     {
       "label": "Contractor",
       "value": "LLC",
-      "id": "78c8a45d039744799af67739ef3e8f77"
+      "id": "c88c93a49beb446bb23eefc02c03542e"
     },
     {
       "label": "Planning Consultant",
       "value": "Quod",
-      "id": "dda5aaa0ed784c5da1684fec750b33a8"
+      "id": "7bddb60cd9674825b1c45c1f87e24bed"
     },
     {
       "label": "Development Manager",
       "value": "LLD",
-      "id": "5b7d8aaf1df2456ea9c2550366530411"
+      "id": "d0341d5773f34cd096f4c0788b35a7b5"
     },
     {
       "label": "Fire Consultant",
       "value": "The Fire Surgery",
-      "id": "4d06d168400f4c41b49f0ec3ae2211d8"
+      "id": "d150eef9c3254fa69711d693789d2f27"
     }
   ],
-  "awards": [],
   "certificates": [
     {
       "authority": "BREEAM",
