@@ -2,12 +2,12 @@
   "type": "Project",
   "id": "05100",
   "url": "transport/capodichino-metro-station",
-  "serializeDate": "'2022-06-21 14:16:15.331'",
-  "serialized": 1655820975331,
+  "serializeDate": "'2022-06-27 11:00:50.832'",
+  "serialized": 1656327650832,
   "serializedBy": "sreeve",
   "title": "Capodichino Metro Station",
   "description": "The extension to the city of Naples’ Metropolitana Linea 1, part of the Naples Metro system, is a showpiece development, with each station designed by an international artist or architect.",
-  "date": "2006-under construction",
+  "date": "2006 -",
   "client": "Metropolitana di Napoli",
   "location": "Naples, Italy",
   "longLat": "14.282387  / 40.877753",
@@ -40,46 +40,44 @@
     {
       "label": "Site Area",
       "value": "12 700 m²",
-      "id": "84b3c6d3e8ce47f2b635b09a02a06eef"
+      "id": "d7d19b3552cd478085ea820a797621c3"
     }
   ],
   "companies": [
     {
       "label": "Co-Architect",
       "value": "DA Studio",
-      "id": "e47d615727d247309d9bb01d060224bd"
+      "id": "74066289c6cd46698bd6f8873269cfb9"
     },
     {
       "label": "Local  Architect",
       "value": "Smith Barracco Studio",
-      "id": "960dd72916914d64b9ed1199ba4e7a56"
+      "id": "5e8b219524364f8683f075c3fdd613c9"
     },
     {
       "label": "Structural Engineer",
       "value": "Expedition / Stipe",
-      "id": "88b29752e6454c8fbe56cf8b251435de"
+      "id": "52eca5bada3b4366a7914ebf41ec6dca"
     },
     {
       "label": "Contractor",
       "value": "Astaldi - Moccia",
-      "id": "f6c14b403522497ab929ad0e2b737d0b"
+      "id": "05d4165bcbab48f787a1269b6a4cccac"
     },
     {
       "label": "Cost Consultant",
       "value": "Metropolitana di Napoli",
-      "id": "fd0cbe6b569a463f8f5b711ae160b1ac"
+      "id": "10b40627b6ab4c51ada4b2f2a2b25b5a"
     },
     {
       "label": "Civil Engineer",
       "value": "Metropolitana Milanese / Stipe",
-      "id": "29e0961f4c5d493cb6f82ee962778691"
+      "id": "e4bde5cce5934b25b9ec5e1c0af52c58"
     },
     {
       "label": "Traffic Engineer",
       "value": "Arup",
-      "id": "8e3f45664950490d9dfde09e6227ea74"
+      "id": "a6e896302aac400a82b7b77d93512673"
     }
-  ],
-  "awards": [],
-  "certificates": []
+  ]
 }
