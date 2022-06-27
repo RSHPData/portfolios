@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "10610",
   "url": "office/no-33-park-row/",
-  "serializeDate": "'2022-06-27 12:26:23.058'",
-  "serialized": 1656332783058,
+  "serializeDate": "'2022-06-27 12:28:54.936'",
+  "serialized": 1656332934936,
   "serializedBy": "sreeve",
   "title": "No. 33 Park Row",
   "description": "The proposal for No. 33 Park Row describes a boutique residential scheme in Lower Manhattan, made up of 30 apartments with four levels of commercial space at the base of the building.",
@@ -43,7 +43,7 @@
   ],
   "heights": [
     {
-      "value": "114 meters (377 feet)",
+      "value": "114 meters / 377 feet",
       "id": "8F685EE9856D4501BEEB4F"
     }
   ],
@@ -61,7 +61,5 @@
       "id": "f7b011f260ac4d61bcb84fa5c9d0edf0"
     }
   ],
-  "companies": [],
-  "awards": [],
-  "certificates": []
+  "companies": []
 }
