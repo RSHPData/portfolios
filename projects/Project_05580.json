@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "05580",
   "url": "office/atrio",
-  "serializeDate": "'2022-06-21 14:16:23.204'",
-  "serialized": 1655820983204,
+  "serializeDate": "'2022-06-27 13:32:54.400'",
+  "serialized": 1656336774400,
   "serializedBy": "sreeve",
   "title": "Atrio",
   "description": "Atrio is a major mixed-use commercial development in central Bogotá comprising two towers – North and South – with a large, open public space at ground level.",
@@ -78,7 +78,7 @@
   "heights": [
     {
       "value": "201 and 268 metres",
-      "id": "0893C9B1FC8146149BF72F"
+      "id": "43DB8DB759594EA3BD370A"
     }
   ],
   "overview": "Atrio is a major mixed-use commercial development in central Bogotá comprising two towers – North and South – with a large, open public space at ground level.\n\nAt 42 floors (201 metres) and 58 floors (268 metres) high respectively, the towers provide a total of more than 250,000 m² of office space, public services and retail with up to 72,000 people expected to pass through each day.\n\nTogether with an additional 10,000 m² of public space, which constitutes two thirds of the whole site area, the development is an important step in the regeneration of the area known as Centro Internacional, bringing new business, tourism, public transport and culture to city’s former business district.\n\n\nThe project delivery is in two phases, with the first building Atrio North Tower creating more than 50,000 m² of flexible office space, 4,600 m² of public services and 1,800 m² of retail. Construction of the first phase began in December 2014 with preliminary excavations and was completed in January 2020.\n\nA significant project deliverable is effective knowledge sharing between the international and Colombian firms, and RSHP is working closely with local architectural practice El Equipo de Mazzanti to ensure skills are transferred locally.",
@@ -86,64 +86,64 @@
     {
       "label": "Office Area",
       "value": "250 000 m²",
-      "id": "7c131ed113434e33b8b5f2602304300e"
+      "id": "6290b34fd1294c499dde9ecadd0be0c0"
     },
     {
       "label": "Public space",
       "value": "10 000 m²",
-      "id": "db9bf84b399b449d90b951b352d4c00f"
+      "id": "211805c3fedb4e53a2b723cb222819c3"
     }
   ],
   "companies": [
     {
       "label": "Co-Architect",
       "value": "El Equipo Mazzanti",
-      "id": "b54c78833ec4453d98f43ffbb3f2e378"
+      "id": "46d6077688d7453e8ce8b62f9cfadfa2"
     },
     {
       "label": "Structural Engineer",
       "value": "Arup",
-      "id": "02368b0d5d77492582e0c4e4ca029301"
+      "id": "c6b2ee2effb54875a7ebbfb39e38a3e0"
     },
     {
       "label": "Services Engineer",
       "value": "Arup",
-      "id": "74504417dab34b3d88e4a9df982f3c7d"
+      "id": "f9d2d183358f4fda9d87d051f3da6add"
     },
     {
       "label": "Landscape Architect",
       "value": "Gillespies",
-      "id": "f96d315919f6412c8c212291a1f4c46f"
+      "id": "bf03e5160d114791b3270ea682a39b1a"
     },
     {
       "label": "Main Contractor",
       "value": "ARPRO - EllisDon",
-      "id": "af098197ed424d9c9288c3fbebb59d6a"
+      "id": "47b8277e33e944cfb77079585ee0693f"
     },
     {
       "label": "Planning Consultant",
       "value": "Claudia Sandoval",
-      "id": "4ac12b09690c4c629b5bc68a0fb0d5bd"
+      "id": "9a28cf209c194c1ea8d9416d3a56785d"
     },
     {
       "label": "Lifts Engineer",
       "value": "Arup",
-      "id": "9212de7f1b744ccf92645e51e672e479"
+      "id": "7b4022f077bb45ad86f885feb7594f3b"
     },
     {
-      "label": "Façade Engineer",
+      "label": "Facade Engineer",
       "value": "Arup",
-      "id": "6279376a678c4cf6a9eea0b3c129388b"
+      "id": "56f3a3fc9f134784b2a59b6bca8e63f8"
     },
     {
       "label": "Quantity Surveyor",
       "value": "Aecom",
-      "id": "b27b35aba9ea499a9a7ca194b374965c"
+      "id": "62dce2baff5b4b6e8ff65211564cc508"
     },
     {
       "label": "Traffic Engineer",
       "value": "Steer Davies Gleave",
-      "id": "25f494b87ea94ac294cd1abd3f3e5a7c"
+      "id": "ee19d6b2296149dea4311e23a4653b6d"
     }
   ],
   "awards": [
@@ -151,43 +151,43 @@
       "date": "2021-01-01",
       "year": "2021",
       "award": "Audience Award CTBUH Awards 2021 - Best Tall Building 200-299m",
-      "rowId": "7f1e10e6bc6e44ae84d0d60a2b3d68f5"
+      "rowId": "1d76265bdcdb4c80ad8458ab10595e8c"
     },
     {
       "date": "2021-01-01",
       "year": "2021",
       "award": "Winner of the Award for Structures in Extreme Conditions - Institution of Structural Engineers  (North Tower)",
-      "rowId": "a9a171b78c9a4620b251f20312dc1ca1"
+      "rowId": "2f80f6bbba0845f5bf302be702a55b4c"
     },
     {
       "date": "2021-01-01",
       "year": "2021",
       "award": "Award of Excellence Winner CTBUH - Best Tall Office Building (North Tower)",
-      "rowId": "816edf0c8f0a49f2b8ce14149d277264"
+      "rowId": "51a91bd2138948f98cc584367a18024d"
     },
     {
       "date": "2021-01-01",
       "year": "2021",
       "award": "Award of Excellence Winner CTBUH - Best Tall Building 200 - 299 metres (North Tower)",
-      "rowId": "8349358816fb415e8ebf209c678d3a5f"
+      "rowId": "b0f02daf4929445a84860db49c8e4f9b"
     },
     {
       "date": "2021-01-01",
       "year": "2021",
       "award": "Award of Excellence Winner CTBUH - Structural Engineering (North Tower)",
-      "rowId": "fbb9711e3e1946ef9ec0f0bc3a5e042d"
+      "rowId": "2409d3b59fd44743a06af18d3963eb8a"
     },
     {
       "date": "2021-01-01",
       "year": "2021",
       "award": "Audience Award CTBUH Awards 2021 - Best Tall Office Building",
-      "rowId": "c45887cb32ce4014958789463807849c"
+      "rowId": "4e23e01ee2114f7a987352188541394d"
     },
     {
       "date": "2019-01-01",
       "year": "2019",
       "award": "LEED Gold certification (North Tower)",
-      "rowId": "6afc95f06a704d538385634dfd703194"
+      "rowId": "2efbb1758901410a8c86ad84d4b91b11"
     }
   ],
   "certificates": [
