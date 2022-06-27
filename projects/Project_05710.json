@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "05710",
   "url": "residential/riverlight",
-  "serializeDate": "'2022-06-21 14:16:27.784'",
-  "serialized": 1655820987784,
+  "serializeDate": "'2022-06-27 12:01:04.592'",
+  "serialized": 1656331264592,
   "serializedBy": "sreeve",
   "title": "Riverlight",
   "description": "Riverlight transforms a triangular, five-acre industrial estate – close to Battersea Power Station on the south bank of the River Thames – into a residential-led mixed use development.",
@@ -37,7 +37,7 @@
   "floors": [
     {
       "value": "20",
-      "id": "20C6EF0341AB47EE8ADD40"
+      "id": "8D2489F747B4419992F542"
     }
   ],
   "overview": "Riverlight transforms a triangular, five-acre industrial estate – close to Battersea Power Station on the south bank of the River Thames – into a residential-led mixed use development, creating a transition between the large footprints of the power station and the smaller residential developments to the east.\n\nThe scheme includes 813 homes, underground parking, crèche, restaurants, bars, a food store and other retail spaces. It incorporates a river walk and landscaping to take full advantage of its location and create attractive public spaces for the local community. The development is made up of six buildings, arranged in a rising-form composition, ranging in height from 12 to 20 storeys and giving the development a varied skyline. Around 60 per cent of the scheme is designated as public open space.\n\n\nThe architectural expression takes its cue from the former industrial warehouse buildings that lined the river. The language is of simple robust structures which emphasise their construction. Buildings are divided into three distinct zones: top, middle, and base. Top levels are lightweight, two-storey structures with gull-wing roofs; mid levels are represented as concrete floors expressed every two storeys, with intermediate floors expressed as lightweight steel balconies.\n\n\nIn landscape terms, each area of the development is conceived as having its own distinct character. The newly created river walk – slightly raised to allow views over the river wall to the Thames – brings a 17m-wide boulevard to a previously underused part of the waterfront. Commercial and community uses at street level – including restaurants, bars and cafés arranged around the dock inlet, as well as a food store, crèche and business suite – attract visitors onto the site and animate the public areas of the scheme.",
@@ -47,49 +47,49 @@
     {
       "label": "Site Area",
       "value": "2.2 ha",
-      "id": "27ee1248cdc346ff9ac121c7d45b7cc6"
+      "id": "f65ed804456f433c98f1485e2d2e1b60"
     },
     {
       "label": "Net Residential Area",
       "value": "98 015 m²",
-      "id": "6c23c1e11ba14fd1900020d8abb06cc4"
+      "id": "0e145eb5ba17473f990f5f92f561972e"
     }
   ],
   "companies": [
     {
       "label": "Co-Architect",
       "value": "EPR",
-      "id": "ef74ea0453114ef6aa5b573a53bb7707"
+      "id": "9525afb97fbf411da8b007c42b498a95"
     },
     {
       "label": "Structural Engineer",
       "value": "Ramboll",
-      "id": "e68857e9ffc241f2a840a0cff66f27b5"
+      "id": "f6589ee5ade240d786b86df1214cfd63"
     },
     {
       "label": "Services Engineer",
       "value": "Hoare Lea",
-      "id": "ce66bc5bf2554c64bb7b4b42469cb38b"
+      "id": "7a82dfd7b6d24d1796f3855aee1f8c5b"
     },
     {
       "label": "Landscape Architect",
       "value": "Gillespies LLP",
-      "id": "4d008179b67d4eba989ba55c5b0f2ded"
+      "id": "df6de4ec446144df933be6ece68bc6fe"
     },
     {
       "label": "Contractor",
       "value": "St James Group",
-      "id": "35a9303d0adf45e2a3f0cd259c5d78dc"
+      "id": "ae9a8dca7e3e4936a92a7720bef2b0c6"
     },
     {
       "label": "Planning Consultant",
       "value": "TP Bennett",
-      "id": "dc83873b56064071bb8de9242e8742e8"
+      "id": "b647f77264c749e9bf7d2e3ac9229e33"
     },
     {
       "label": "Townscape Consultant",
       "value": "Montagu Evans",
-      "id": "ce31446e4b774652957b39f48e9312a0"
+      "id": "e93c05c40dbc450c9eceba5b6c6b75be"
     }
   ],
   "awards": [
@@ -104,13 +104,6 @@
       "year": "2018",
       "award": "RIBA London Award",
       "rowId": "32158AE2F5E344F286E9B5971F743356"
-    }
-  ],
-  "certificates": [
-    {
-      "authority": "BREEAM",
-      "rating": "Very Good",
-      "rowId": "v5iGIGQ3ZU+1bsDgblYVPw"
     }
   ]
 }
