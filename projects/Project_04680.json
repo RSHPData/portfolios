@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "04680",
   "url": "office/300-new-jersey-avenue",
-  "serializeDate": "'2022-06-21 14:16:10.702'",
-  "serialized": 1655820970702,
+  "serializeDate": "'2022-06-27 10:57:03.807'",
+  "serialized": 1656327423807,
   "serializedBy": "sreeve",
   "title": "300 New Jersey Avenue",
   "description": "300 New Jersey Avenue, located one block away from United States Capitol building, was commissioned in September 2004 by The JBG Companies, to create a new office complex for a leading international legal practice.",
@@ -42,63 +42,49 @@
     {
       "label": "Gross Internal Area",
       "value": "25 500 m²",
-      "id": "f4478cd6a9c34d32abe22041ef53da99"
+      "id": "d4690d2c3e72419bbdafa944056428dd"
     }
   ],
   "companies": [
     {
       "label": "Co-Architect",
       "value": "HKS Architects",
-      "id": "52aefe7b80ae47de91935256cd1ec37e"
+      "id": "d083d301aa764dd5a9d893d522b436d0"
     },
     {
       "label": "Structural Engineer",
       "value": "Expedition Engineering and SK & A Associates",
-      "id": "0d847112d16346a08b3f8da701befd09"
+      "id": "052e78dfbae0448f87dfcc7e7104f4f5"
     },
     {
       "label": "Services Engineer",
       "value": "BDSP and TOLK Services",
-      "id": "235fe23bbaca4639b6517c0e2df6f09e"
+      "id": "cd6c3ceed0b649de803db8d4a6d135b8"
     },
     {
       "label": "Lighting Consultant",
       "value": "MCLA",
-      "id": "f778ebb05a734acdb5092fce016fffbe"
+      "id": "200cde49e44840ba9a061893086174b0"
     },
     {
       "label": "Landscape Architect",
       "value": "Parker Rodriguez Landscape Architects",
-      "id": "53e69fea6ce3440a86c65da40b436753"
+      "id": "5afcc6049605461c988d5d72879798e6"
     },
     {
       "label": "Civil Engineer",
       "value": "Wiles Mensch Associates",
-      "id": "2bb20067d0394717a0f4e41035cc86d7"
+      "id": "c0477c85201e4d59aa8800fea3f8ad09"
     },
     {
       "label": "Vertical Transportation",
       "value": "Van Deusen Associates",
-      "id": "1bf6bf558d594c58b3c649e6b77d957f"
+      "id": "8e093f843e404df6ab0bd926856704b2"
     },
     {
       "label": "Speciality Glazing",
       "value": "ASI Advanced Structures Inc.",
-      "id": "cdb85e9dbd0c491988a83b6d33d35a0e"
-    }
-  ],
-  "awards": [
-    {
-      "date": "2010-01-01",
-      "year": "2010",
-      "award": "NCSEA Annual Excellence in Structural Engineering - Outstanding Project Award",
-      "rowId": "8840E8B1C06C4D7196C2D7F9BEF11717"
-    },
-    {
-      "date": "2009-01-01",
-      "year": "2009",
-      "award": "Washington Building of Congress - Craftmanship Award",
-      "rowId": "A0E505AA1DE846EEBEEF80451004E31A"
+      "id": "ef15e3ae42ea4cabbeff8b3555fb2514"
     }
   ],
   "certificates": [
