@@ -153,6 +153,30 @@
     "projectId": "10190",
     "project": "LSE Centre Building",
     "year": "2020",
+    "award": "Highly Commended Project of the Year - Education Estates Awards"
+  },
+  {
+    "projectId": "10190",
+    "project": "LSE Centre Building",
+    "year": "2020",
+    "award": "Highly Commended - Structural Steel Design Awards"
+  },
+  {
+    "projectId": "10190",
+    "project": "LSE Centre Building",
+    "year": "2020",
+    "award": "The Guardian University Awards' Finalist - Buildings that inspire category"
+  },
+  {
+    "projectId": "10190",
+    "project": "LSE Centre Building",
+    "year": "2020",
+    "award": "Planning Awards' Finalist - Award for Design Excellence"
+  },
+  {
+    "projectId": "10190",
+    "project": "LSE Centre Building",
+    "year": "2020",
     "award": "Regional Finalist - Civic Trust Awards"
   },
   {
@@ -178,30 +202,6 @@
     "project": "LSE Centre Building",
     "year": "2020",
     "award": "Winner Social Infrastructure Project of the Year - British Construction Industry Awards (BCIA)"
-  },
-  {
-    "projectId": "10190",
-    "project": "LSE Centre Building",
-    "year": "2020",
-    "award": "Highly Commended Project of the Year - Education Estates Awards"
-  },
-  {
-    "projectId": "10190",
-    "project": "LSE Centre Building",
-    "year": "2020",
-    "award": "Highly Commended - Structural Steel Design Awards"
-  },
-  {
-    "projectId": "10190",
-    "project": "LSE Centre Building",
-    "year": "2020",
-    "award": "The Guardian University Awards' Finalist - Buildings that inspire category"
-  },
-  {
-    "projectId": "10190",
-    "project": "LSE Centre Building",
-    "year": "2020",
-    "award": "Planning Awards' Finalist - Award for Design Excellence"
   },
   {
     "projectId": "06790",
@@ -363,13 +363,13 @@
     "projectId": "05670",
     "project": "BBVA Bancomer Tower",
     "year": "2018",
-    "award": "LEED Platinum"
+    "award": "RIBA Award for International Excellence 2018"
   },
   {
     "projectId": "05670",
     "project": "BBVA Bancomer Tower",
     "year": "2018",
-    "award": "RIBA Award for International Excellence 2018"
+    "award": "LEED Platinum"
   },
   {
     "projectId": "05710",
@@ -627,25 +627,7 @@
     "projectId": "05670",
     "project": "BBVA Bancomer Tower",
     "year": "2016",
-    "award": "Council for Tall Buildings and Urban Habitat - Nomination"
-  },
-  {
-    "projectId": "05670",
-    "project": "BBVA Bancomer Tower",
-    "year": "2016",
-    "award": "World Architecture Festival 2016 - Completed Office Buildings - Shortlist"
-  },
-  {
-    "projectId": "05670",
-    "project": "BBVA Bancomer Tower",
-    "year": "2016",
     "award": "IStructe Award for Commercial or Retail Structures"
-  },
-  {
-    "projectId": "05670",
-    "project": "BBVA Bancomer Tower",
-    "year": "2016",
-    "award": "American Architecture Prize - Institutional Architecture Bronze Medal"
   },
   {
     "projectId": "05670",
@@ -657,7 +639,25 @@
     "projectId": "05670",
     "project": "BBVA Bancomer Tower",
     "year": "2016",
+    "award": "Council for Tall Buildings and Urban Habitat - Nomination"
+  },
+  {
+    "projectId": "05670",
+    "project": "BBVA Bancomer Tower",
+    "year": "2016",
     "award": "Bienal Nacional de Arquitectura Mexicana, Silver Medal"
+  },
+  {
+    "projectId": "05670",
+    "project": "BBVA Bancomer Tower",
+    "year": "2016",
+    "award": "American Architecture Prize - Institutional Architecture Bronze Medal"
+  },
+  {
+    "projectId": "05670",
+    "project": "BBVA Bancomer Tower",
+    "year": "2016",
+    "award": "World Architecture Festival 2016 - Completed Office Buildings - Shortlist"
   },
   {
     "projectId": "05670",
@@ -837,13 +837,13 @@
     "projectId": "03510",
     "project": "The Leadenhall Building",
     "year": "2015",
-    "award": "British Council for Offices 'Best Commercial Office London and the South East'"
+    "award": "City of London Building of the Year"
   },
   {
     "projectId": "03510",
     "project": "The Leadenhall Building",
     "year": "2015",
-    "award": "City of London Building of the Year"
+    "award": "British Council for Offices 'Best Commercial Office London and the South East'"
   },
   {
     "projectId": "10260",
@@ -897,13 +897,13 @@
     "projectId": "01065",
     "project": "Terminal 5, Heathrow Airport",
     "year": "2014",
-    "award": "Skytrax World's Best Terminal"
+    "award": "Skytrax World’s Best Terminal"
   },
   {
     "projectId": "01065",
     "project": "Terminal 5, Heathrow Airport",
     "year": "2014",
-    "award": "Skytrax World’s Best Terminal"
+    "award": "Skytrax World's Best Terminal"
   },
   {
     "projectId": "03510",
@@ -939,25 +939,13 @@
     "projectId": "03250",
     "project": "Las Arenas",
     "year": "2013",
-    "award": "World Architecture News Adaptive Re-use Award - Shortlist"
+    "award": "World Architecture News Adaptive Re-use Award: Shortlist"
   },
   {
     "projectId": "03250",
     "project": "Las Arenas",
     "year": "2013",
-    "award": "World Architecture News Adaptive Re-use Award: Shortlist"
-  },
-  {
-    "projectId": "04230",
-    "project": "NEO Bankside",
-    "year": "2013",
-    "award": "Institute of Civil Engineering Awards - Shortlist"
-  },
-  {
-    "projectId": "04230",
-    "project": "NEO Bankside",
-    "year": "2013",
-    "award": "BALI - British Association of Landscape Industries, September 2013 Best Soft Landscaping £300k category"
+    "award": "World Architecture News Adaptive Re-use Award - Shortlist"
   },
   {
     "projectId": "04230",
@@ -988,6 +976,18 @@
     "project": "NEO Bankside",
     "year": "2013",
     "award": "Institute of Civil Engineering Award - Shortlist"
+  },
+  {
+    "projectId": "04230",
+    "project": "NEO Bankside",
+    "year": "2013",
+    "award": "Institute of Civil Engineering Awards - Shortlist"
+  },
+  {
+    "projectId": "04230",
+    "project": "NEO Bankside",
+    "year": "2013",
+    "award": "BALI - British Association of Landscape Industries, September 2013 Best Soft Landscaping £300k category"
   },
   {
     "projectId": "01065",
@@ -1227,12 +1227,6 @@
     "projectId": "03510",
     "project": "The Leadenhall Building",
     "year": "2011",
-    "award": "Pre-certified BREEAM Excellent Rating"
-  },
-  {
-    "projectId": "03510",
-    "project": "The Leadenhall Building",
-    "year": "2011",
     "award": "BREEAM Excellent Rating"
   },
   {
@@ -1240,6 +1234,12 @@
     "project": "The Leadenhall Building",
     "year": "2011",
     "award": "Working (Unbuilt category): NLA Awards"
+  },
+  {
+    "projectId": "03510",
+    "project": "The Leadenhall Building",
+    "year": "2011",
+    "award": "Pre-certified BREEAM Excellent Rating"
   },
   {
     "projectId": "01455",
@@ -1305,36 +1305,6 @@
     "projectId": "04150",
     "project": "Bodegas Protos",
     "year": "2009",
-    "award": "RIBA Stirling Prize: Building of the Year- Shortlist"
-  },
-  {
-    "projectId": "04150",
-    "project": "Bodegas Protos",
-    "year": "2009",
-    "award": "Conde Nast Traveller ID&D Gourmet Category"
-  },
-  {
-    "projectId": "04150",
-    "project": "Bodegas Protos",
-    "year": "2009",
-    "award": "Chicago Athaneum International Architecture Award"
-  },
-  {
-    "projectId": "04150",
-    "project": "Bodegas Protos",
-    "year": "2009",
-    "award": "World Architecture Festival: Production Energy and Recycling Category Winner"
-  },
-  {
-    "projectId": "04150",
-    "project": "Bodegas Protos",
-    "year": "2009",
-    "award": "IStructE Award for Industrial or Process Structures"
-  },
-  {
-    "projectId": "04150",
-    "project": "Bodegas Protos",
-    "year": "2009",
     "award": "ID & D Gourmet Category Istructe Award"
   },
   {
@@ -1372,6 +1342,36 @@
     "project": "Bodegas Protos",
     "year": "2009",
     "award": "RIBA European Award"
+  },
+  {
+    "projectId": "04150",
+    "project": "Bodegas Protos",
+    "year": "2009",
+    "award": "RIBA Stirling Prize: Building of the Year- Shortlist"
+  },
+  {
+    "projectId": "04150",
+    "project": "Bodegas Protos",
+    "year": "2009",
+    "award": "Conde Nast Traveller ID&D Gourmet Category"
+  },
+  {
+    "projectId": "04150",
+    "project": "Bodegas Protos",
+    "year": "2009",
+    "award": "Chicago Athaneum International Architecture Award"
+  },
+  {
+    "projectId": "04150",
+    "project": "Bodegas Protos",
+    "year": "2009",
+    "award": "World Architecture Festival: Production Energy and Recycling Category Winner"
+  },
+  {
+    "projectId": "04150",
+    "project": "Bodegas Protos",
+    "year": "2009",
+    "award": "IStructE Award for Industrial or Process Structures"
   },
   {
     "projectId": "01455",
@@ -1449,12 +1449,6 @@
     "projectId": "02850",
     "project": "Antwerp Law Courts",
     "year": "2008",
-    "award": "RIBA European Award Chicago Athaneum International Architecture Award"
-  },
-  {
-    "projectId": "02850",
-    "project": "Antwerp Law Courts",
-    "year": "2008",
     "award": "Chicago Athaneum International Architecture Award"
   },
   {
@@ -1462,6 +1456,12 @@
     "project": "Antwerp Law Courts",
     "year": "2008",
     "award": "RIBA European Award"
+  },
+  {
+    "projectId": "02850",
+    "project": "Antwerp Law Courts",
+    "year": "2008",
+    "award": "RIBA European Award Chicago Athaneum International Architecture Award"
   },
   {
     "projectId": "01455",
@@ -1563,30 +1563,6 @@
     "projectId": "01065",
     "project": "Terminal 5, Heathrow Airport",
     "year": "2008",
-    "award": "Structural Award for Commercial Structures Institution of Structural Engineers (IStructE)"
-  },
-  {
-    "projectId": "01065",
-    "project": "Terminal 5, Heathrow Airport",
-    "year": "2008",
-    "award": "British Construction Awards - Highly Commended"
-  },
-  {
-    "projectId": "01065",
-    "project": "Terminal 5, Heathrow Airport",
-    "year": "2008",
-    "award": "Off Site Construction Award - Best Commercial Project Off Site Construction (OSC)"
-  },
-  {
-    "projectId": "01065",
-    "project": "Terminal 5, Heathrow Airport",
-    "year": "2008",
-    "award": "Sustain Magazine British Construction Awards - Highly Commended"
-  },
-  {
-    "projectId": "01065",
-    "project": "Terminal 5, Heathrow Airport",
-    "year": "2008",
     "award": "Off Site Construction Award - Best Commercial Project"
   },
   {
@@ -1612,6 +1588,30 @@
     "project": "Terminal 5, Heathrow Airport",
     "year": "2008",
     "award": "Supreme Award for Structural Engineering Excellence, Institution of Structural Engineers (IStructE)"
+  },
+  {
+    "projectId": "01065",
+    "project": "Terminal 5, Heathrow Airport",
+    "year": "2008",
+    "award": "Structural Award for Commercial Structures Institution of Structural Engineers (IStructE)"
+  },
+  {
+    "projectId": "01065",
+    "project": "Terminal 5, Heathrow Airport",
+    "year": "2008",
+    "award": "British Construction Awards - Highly Commended"
+  },
+  {
+    "projectId": "01065",
+    "project": "Terminal 5, Heathrow Airport",
+    "year": "2008",
+    "award": "Off Site Construction Award - Best Commercial Project Off Site Construction (OSC)"
+  },
+  {
+    "projectId": "01065",
+    "project": "Terminal 5, Heathrow Airport",
+    "year": "2008",
+    "award": "Sustain Magazine British Construction Awards - Highly Commended"
   },
   {
     "projectId": "01065",
@@ -1671,6 +1671,12 @@
     "projectId": "04000",
     "project": "Senedd Cymru, Welsh Parliament",
     "year": "2007",
+    "award": "Chicago Athenaeum International Award"
+  },
+  {
+    "projectId": "04000",
+    "project": "Senedd Cymru, Welsh Parliament",
+    "year": "2007",
     "award": "Architectural Ironmongery Specification Awards"
   },
   {
@@ -1678,12 +1684,6 @@
     "project": "Senedd Cymru, Welsh Parliament",
     "year": "2007",
     "award": "Civic Trust Award"
-  },
-  {
-    "projectId": "04000",
-    "project": "Senedd Cymru, Welsh Parliament",
-    "year": "2007",
-    "award": "Chicago Athenaeum International Award"
   },
   {
     "projectId": "04000",
@@ -1719,13 +1719,13 @@
     "projectId": "02850",
     "project": "Antwerp Law Courts",
     "year": "2006",
-    "award": "Staalbouwprijs"
+    "award": "RIBA European Award"
   },
   {
     "projectId": "02850",
     "project": "Antwerp Law Courts",
     "year": "2006",
-    "award": "RIBA European Award"
+    "award": "Staalbouwprijs"
   },
   {
     "projectId": "01455",
@@ -1755,18 +1755,6 @@
     "projectId": "04000",
     "project": "Senedd Cymru, Welsh Parliament",
     "year": "2006",
-    "award": "RIBA Stirling Prize Building of the Year Shortlist"
-  },
-  {
-    "projectId": "04000",
-    "project": "Senedd Cymru, Welsh Parliament",
-    "year": "2006",
-    "award": "Stone Federation of Great Britain: Natural Stone Awards"
-  },
-  {
-    "projectId": "04000",
-    "project": "Senedd Cymru, Welsh Parliament",
-    "year": "2006",
     "award": "RIBA National Award"
   },
   {
@@ -1776,16 +1764,28 @@
     "award": "Structural Steelwork Design Award"
   },
   {
-    "projectId": "02642",
-    "project": "Terminal 4, Barajas Airport",
+    "projectId": "04000",
+    "project": "Senedd Cymru, Welsh Parliament",
     "year": "2006",
-    "award": "RIBA Stirling Prize"
+    "award": "RIBA Stirling Prize Building of the Year Shortlist"
+  },
+  {
+    "projectId": "04000",
+    "project": "Senedd Cymru, Welsh Parliament",
+    "year": "2006",
+    "award": "Stone Federation of Great Britain: Natural Stone Awards"
   },
   {
     "projectId": "02642",
     "project": "Terminal 4, Barajas Airport",
     "year": "2006",
     "award": "RIBA European Award"
+  },
+  {
+    "projectId": "02642",
+    "project": "Terminal 4, Barajas Airport",
+    "year": "2006",
+    "award": "RIBA Stirling Prize"
   },
   {
     "projectId": "03690",
@@ -1815,12 +1815,6 @@
     "projectId": "02460",
     "project": "Minami Yamashiro Elementary School",
     "year": "2004",
-    "award": "RIBA Worldwide Winner RIEF (Research Institute of Educational Facilities) Chairman Award"
-  },
-  {
-    "projectId": "02460",
-    "project": "Minami Yamashiro Elementary School",
-    "year": "2004",
     "award": "RIBA Worldwide Winner"
   },
   {
@@ -1828,6 +1822,12 @@
     "project": "Minami Yamashiro Elementary School",
     "year": "2004",
     "award": "RIEF (Research Institution of Educational Facilities) Chairman Award"
+  },
+  {
+    "projectId": "02460",
+    "project": "Minami Yamashiro Elementary School",
+    "year": "2004",
+    "award": "RIBA Worldwide Winner RIEF (Research Institute of Educational Facilities) Chairman Award"
   },
   {
     "projectId": "03690",

@@ -2,13 +2,13 @@
   "type": "Project",
   "id": "10160",
   "url": "residential/homeshell",
-  "serializeDate": "'2022-06-27 15:40:54.360'",
-  "serialized": 1656344454360,
+  "serializeDate": "'2022-06-27 18:00:32.507'",
+  "serialized": 1656352832507,
   "serializedBy": "sreeve",
   "title": "Homeshell",
   "description": "The first Homeshell has been constructed in the Royal Academy’s Annenberg Courtyard, to coincide with the exhibition Richard Rogers RA: Inside Out.",
   "date": "2013",
-  "client": "Rogers Stirk Harbour + Partners",
+  "client": "RSHP",
   "location": "London, UK",
   "longLat": "-0.13925  / 51.5088",
   "longitude": "-0.13925 ",
@@ -66,6 +66,5 @@
       "award": "New London Awards, Commended",
       "rowId": "01dca7aa07224da48585ded2108ec72c"
     }
-  ],
-  "certificates": []
+  ]
 }
