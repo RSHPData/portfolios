@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "11490",
   "url": "civic/hammersmith-and-fulham-civic-campus/",
-  "serializeDate": "'2022-06-21 14:17:04.498'",
-  "serialized": 1655821024498,
+  "serializeDate": "'2022-06-27 15:41:11.536'",
+  "serialized": 1656344471536,
   "serializedBy": "sreeve",
   "title": "Hammersmith & Fulham Civic Campus",
   "description": "RSHP has designed a new, high-quality Civic Campus to replace the existing Hammersmith & Fulham Town Hall extension and the adjacent large cinema site, located at the West of King Street in Hammersmith Town Centre.",
@@ -46,64 +46,64 @@
     {
       "label": "Site Area",
       "value": "17,628 m²",
-      "id": "787ad1054fbb477bbfd95cf7ecd739fc"
+      "id": "2cec97f21a4e45b6ab58a6299421c59d"
     }
   ],
   "companies": [
     {
       "label": "Co-Architect",
       "value": "Heritage Architect - Purcell",
-      "id": "65b028f6e62041fb90dca00e1d02b2bf"
+      "id": "91cd2622928d465fbce7c687ed3a65c7"
     },
     {
       "label": "Contractor",
       "value": "Ardmore",
-      "id": "d7656779c03e472eb5efd8f3809244c0"
+      "id": "7d53a301bdd7450298501885cc2d9e05"
     },
     {
       "label": "Structural Engineer",
       "value": "Meinhardt",
-      "id": "ebbaf40bd3834740a1debb6796f420c2"
+      "id": "b1be53ec4d4d44969d10151283b6391e"
     },
     {
       "label": "Landscape Architect",
       "value": "Gillespies",
-      "id": "5b97e3ac10b3465fa81dc6c49a2328aa"
+      "id": "53f0f33150504b629c36303bec7b035b"
     },
     {
       "label": "Services Engineer",
       "value": "AECOM, Silver EMS",
-      "id": "407408b4492c4e18b66dbd7e0514f479"
+      "id": "5bd065a04a8d4c3bbe898ca94deecfbb"
     },
     {
       "label": "Lighting Consultant",
       "value": "Speirs + Major",
-      "id": "39a4a1c8a0d94466b5002e24eab69773"
+      "id": "08063b38f0fc41479fd55d5cf70bf8d7"
     },
     {
       "label": "Branding",
       "value": "Pentagram",
-      "id": "9c514be5c0654627aecbacae563feb27"
+      "id": "a28ea6f96d9f4a3286785822d6b3704d"
     },
     {
       "label": "Project Manager",
       "value": "Silver DCC and Inner Circle Consulting",
-      "id": "a22a17e1c9724f1ea5b8b389baffedde"
+      "id": "7a31c7e23dff4fbfa1970dc716093ba4"
     },
     {
       "label": "Cost Consultant",
       "value": "Silver DCC",
-      "id": "7932df2e4e374f9cb8ac5ffde2b1f6bf"
+      "id": "2d580fd901e84fcca1d0de76f26fe6eb"
     },
     {
       "label": "Planning Consultant",
       "value": "Barton Wilmore",
-      "id": "246ae25eb94448a4ada287aff31b6c90"
+      "id": "5eef0818afb84618ae18f8245e14d018"
     },
     {
       "label": "Fire Consultant",
       "value": "Fire Surgery",
-      "id": "7fd07a10ba8f4ca0bca06c13a6a9ef72"
+      "id": "e51388e26d624152bc74d738ed407c50"
     }
   ],
   "awards": [
@@ -111,19 +111,19 @@
       "date": "2020-01-01",
       "year": "2020",
       "award": "NLA Finalist Mixing Catergory",
-      "rowId": "24834ea8743644c483a229973dc087cc"
+      "rowId": "48e7fead38f64dd18702aa48a0b15458"
     },
     {
       "date": "2020-01-01",
       "year": "2020",
       "award": "Highly Commended Stakeholder Engagement in Planning (Development management) Planning Awards",
-      "rowId": "db6bbd2836564aceb292535afd82937a"
+      "rowId": "10c0d5db960845a4b141b29418e62830"
     },
     {
       "date": "2020-01-01",
       "year": "2020",
       "award": "Winner People’s Choice Award NLA New London Awards",
-      "rowId": "86a2c99f747b40dca9b40e9ba65d6f26"
+      "rowId": "2decb445bc624f48903e2764f7197774"
     }
   ],
   "certificates": []

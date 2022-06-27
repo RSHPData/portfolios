@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "05590",
   "url": "culture-and-leisure/up-at-the-o2/",
-  "serializeDate": "'2022-06-21 14:16:23.929'",
-  "serialized": 1655820983929,
+  "serializeDate": "'2022-06-27 15:40:37.776'",
+  "serialized": 1656344437776,
   "serializedBy": "sreeve",
   "title": "Up at The O2",
   "description": "Rogers Stirk Harbour Partners (RSHP) has provided the outline design for the new roofwalk which extends across and over the O2.",
@@ -37,22 +37,22 @@
     {
       "label": "Structural Engineer",
       "value": "Buro Happold",
-      "id": "3f2542102c354b5fba636bb2813f45d6"
+      "id": "e2a386c6e1b940f88ecbeda38d86c1d6"
     },
     {
       "label": "Contractor",
       "value": "ISG",
-      "id": "8cdb87b59e454a669804ebf7eb3834f1"
+      "id": "e5dc6d2d77aa475e88402927e7bb169c"
     },
     {
       "label": "Design Architect",
       "value": "Bblur",
-      "id": "d81c343835b14bb09201656c088d04a4"
+      "id": "474b7bddd91e4eed92107db1d389613c"
     },
     {
       "label": "Specialist Fabric Consultant",
       "value": "Base Structures",
-      "id": "2591b242754f4624826b713eb5dc82c1"
+      "id": "0ea7fe22b13e42aa896c0a49591bed68"
     }
   ],
   "awards": [],

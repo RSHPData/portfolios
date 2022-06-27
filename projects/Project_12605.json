@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "12605",
   "url": "industrial/horse-soldier-farms",
-  "serializeDate": "'2022-06-21 14:17:13.136'",
-  "serialized": 1655821033136,
+  "serializeDate": "'2022-06-27 15:41:18.241'",
+  "serialized": 1656344478241,
   "serializedBy": "sreeve",
   "title": "Horse Soldier Farms",
   "description": "Horse Soldier Farms is a bourbon distillery complex and visitor resort in Somerset, Kentucky, USA",
@@ -44,49 +44,49 @@
     {
       "label": "Site Area",
       "value": "227 acres<br>",
-      "id": "059b45d1e6d14be8a72fdeb53222ca0e"
+      "id": "ca53d5b03f764ecb80f06551b19ac88d"
     }
   ],
   "companies": [
     {
       "label": "Architect of Record",
       "value": "EOP Architects",
-      "id": "24b51ec00ec846029ded3d174db1f9f7"
+      "id": "e30f17d234954c839f51f3e9a6b9433c"
     },
     {
       "label": "Structural Engineer",
       "value": "Brown + Kubican",
-      "id": "b5c0efb241c74199b53b6fd5a8f17b31"
+      "id": "9acf177bc1a2498b9d746bef0a0e0c6e"
     },
     {
       "label": "Process Engineer",
       "value": "VITOK",
-      "id": "ef20d4ba8fc84419b5aed047e3424865"
+      "id": "a0a34f8737064c04ac14038e89ce9591"
     },
     {
       "label": "MEP Engineer",
       "value": "CMTA, Inc.",
-      "id": "3856c3d84b85475295757e7ffacafb5e"
+      "id": "a33700f829bd411c857ab9c1ff11f473"
     },
     {
       "label": "Landscape and Civil Engineer",
       "value": "Carman",
-      "id": "7ca8614f0bf044109e79635dbf77bd24"
+      "id": "f44b1a70dffe4b3d8a8c253e9b5413ff"
     },
     {
       "label": "Experiential Design",
       "value": "BRC Imagination Arts",
-      "id": "3cb346579661433d9dabd0300cee8047"
+      "id": "1017186563d74f31bdfb7aaaea28614a"
     },
     {
       "label": "Facilities Management",
       "value": "CRM Companies",
-      "id": "704e998a82304b82bf7ca7e298dcb332"
+      "id": "ea68db0b43864f58aa301292321f340b"
     },
     {
       "label": "Contractor",
       "value": "D.W. Wilburn, Inc.",
-      "id": "245dc662b7f54a69bc0f2c111973cb58"
+      "id": "4310ae58734a403184b1451ac235873b"
     }
   ]
 }

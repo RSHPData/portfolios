@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "11230",
   "url": "education/h-farm/",
-  "serializeDate": "'2022-06-21 14:17:00.297'",
-  "serialized": 1655821020297,
+  "serializeDate": "'2022-06-27 15:41:08.029'",
+  "serialized": 1656344468029,
   "serializedBy": "sreeve",
   "title": "H-Farm",
   "description": "Located on the outskirts of Venice, the H-Farm building is part of the wider masterplan for H-Campus.",
@@ -40,34 +40,34 @@
     {
       "label": "Site Area",
       "value": "2 500 m²",
-      "id": "0d288cd920774ca5aea50b4de96dcdd0"
+      "id": "0571ae1b71ff4adb95f53eab3b6a5998"
     }
   ],
   "companies": [
     {
       "label": "Co-Architect",
       "value": "zanonarchitettiassociati (ZAA)",
-      "id": "3bc10c7cc3b8492c9816a529e46542e2"
+      "id": "f9966556846c48478c2fe22c78acd968"
     },
     {
       "label": "Contractor",
       "value": "Carron",
-      "id": "c13447fbbd55483cbd9696cb4846bba1"
+      "id": "f1875b1ce3f441ce964c3288a40c96cf"
     },
     {
       "label": "Structural Engineer",
       "value": "RS Ingegneria",
-      "id": "df651e2474f34ce598335210f9953958"
+      "id": "bbe238f1cc7f447e8e41f805dc6e7aa7"
     },
     {
       "label": "Services Engineer",
       "value": "Manens-Tifs",
-      "id": "d91f7f6ac50f41b89011e90fa843b952"
+      "id": "3bb0bf8e5fe54c74874a015d4d20ef35"
     },
     {
       "label": "Project Manager",
       "value": "PACM",
-      "id": "0286da48ece243408b83dab4be5f5121"
+      "id": "ad37027c2a054fd2ab6b2c70a46d69fc"
     }
   ],
   "awards": [],

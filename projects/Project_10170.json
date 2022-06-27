@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "10170",
   "url": "sport-and-arenas/national-football-stadium/",
-  "serializeDate": "'2022-06-21 14:16:44.978'",
-  "serialized": 1655821004978,
+  "serializeDate": "'2022-06-27 15:40:54.877'",
+  "serialized": 1656344454877,
   "serializedBy": "sreeve",
   "title": "National Football Stadium",
   "description": "Estadio Nacional de Fútbol de Venezuela, Caracas - created in collaboration with Arup and schlaich bergermann und partner - is set in parkland on a hillside overlooking the Venezuelan capital.",
@@ -47,19 +47,19 @@
     {
       "label": "Area",
       "value": "121,000m²",
-      "id": "e99840b3338043348b7e6317321f7f66"
+      "id": "240595a00abc450797399e529f2f921f"
     }
   ],
   "companies": [
     {
       "label": "Structural Engineer",
       "value": "Arup / schlaich bergermann und partner",
-      "id": "eaad935ecbc94dd781eb20875c6c5ad1"
+      "id": "8713a608b70043cb80e73b91499642f7"
     },
     {
       "label": "Landscape Architect",
       "value": "Arquitectura y Agronomia",
-      "id": "d397d4c5e798425198198f9dd112820b"
+      "id": "58e10596e3234d2da403001449c7afc6"
     }
   ],
   "awards": [],

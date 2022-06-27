@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "05150",
   "url": "residential/private-residence-singapore",
-  "serializeDate": "'2022-06-21 14:16:17.277'",
-  "serialized": 1655820977277,
+  "serializeDate": "'2022-06-27 15:40:32.924'",
+  "serialized": 1656344432924,
   "serializedBy": "sreeve",
   "title": "Private Residence, Singapore",
   "description": "Rogers Stirk Harbour + Partners was approached by a private client to design a large family home on a site located in one of Singapore’s most exclusive residential areas.",
@@ -24,64 +24,64 @@
     {
       "label": "Main House",
       "value": "1 500 m²",
-      "id": "b0ff538a1ff8433f96029dd9f64a4796"
+      "id": "e9bfbac2baff4f3e867df44be33f887b"
     },
     {
       "label": "Pavilion 1",
       "value": "1 650 m²",
-      "id": "15000b7470fe42b38948585f0902c79d"
+      "id": "c755b73f59b84b71b3295500825d966d"
     },
     {
       "label": "Pavilion 2",
       "value": "120 m²",
-      "id": "ea705e5a2f494e85b59dddcb87ac677f"
+      "id": "c6b8b92e926a486fb99ba6d5c66ce70e"
     },
     {
       "label": "Site Area",
       "value": "6 070 m²",
-      "id": "3b1a796f3c144019ac45905154d34de8"
+      "id": "c62ba84d54f14378bb22d722ef28ecac"
     }
   ],
   "companies": [
     {
       "label": "Co-Architect",
       "value": "Architects 61",
-      "id": "ef5a0f0e88b54d52af2282943c381a11"
+      "id": "03f965240da94d0888a62c82d217dcd9"
     },
     {
       "label": "Structural Engineer",
       "value": "Buro Happold and MSE",
-      "id": "100a4ab6c46f4f7a86252191b01084dc"
+      "id": "2aefec5a809849368a88c006e435a2a8"
     },
     {
       "label": "Services Engineer",
       "value": "Bescon Consulting Engineers",
-      "id": "5bfef0edc0304d1c82d004b7af2d5e47"
+      "id": "a77459215b69405b958a6bc3d0eed040"
     },
     {
       "label": "Project Manager",
       "value": "Como Holdings",
-      "id": "bbf409cee2a7410cbfbf90b1cd858af5"
+      "id": "38fd6d99236844bf9fbf3e0e0d8904bd"
     },
     {
       "label": "Lighting Consultant",
       "value": "Isometrix",
-      "id": "c7e3e86f4e4549b8b8ab67c3b70b2a64"
+      "id": "a0b32a296ca347c1ae6e09839404415d"
     },
     {
       "label": "Landscape Architect",
       "value": "One Degree North",
-      "id": "10aeda4754f24fdd91acaf4499a0b6f1"
+      "id": "16f7a803f23f4044a86e556e3bbc3f9a"
     },
     {
       "label": "Contractor",
       "value": "Daiwa Engineering & Construction",
-      "id": "998ef69d0c3d41a98623955ed5f26eaf"
+      "id": "e894a9d53f4a403aa6e7a090b9f3f18c"
     },
     {
       "label": "Interior Design",
       "value": "Kathryn Kng",
-      "id": "7908d469ddc04fb283f99f40c967a223"
+      "id": "16094dfed2114673a149339a801139b5"
     }
   ]
 }

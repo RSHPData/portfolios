@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "10160",
   "url": "residential/homeshell",
-  "serializeDate": "'2022-06-21 14:16:44.307'",
-  "serialized": 1655821004307,
+  "serializeDate": "'2022-06-27 15:40:54.360'",
+  "serialized": 1656344454360,
   "serializedBy": "sreeve",
   "title": "Homeshell",
   "description": "The first Homeshell has been constructed in the Royal Academy’s Annenberg Courtyard, to coincide with the exhibition Richard Rogers RA: Inside Out.",
@@ -40,7 +40,7 @@
   "floors": [
     {
       "value": "3.5",
-      "id": "57B71EFB15284003AD5663"
+      "id": "2EB591D17FDD466D9B0ECB"
     }
   ],
   "overview": "The first Homeshell has been constructed in the Royal Academy’s Annenberg Courtyard, to coincide with the exhibition Richard Rogers RA: Inside Out, but also to provoke debate about how architectural and construction innovation together might help us meet the UK’s housing needs.\n\nThis three-and-half-storey building arrived as flat-pack panels on one truck and took only 24 hours to assemble on site. Homeshell is constructed using a building system called Insulshell, (developed by Sheffield Insulations Group (SIG) and Coxbench). This system is so flexible that it can be used for many building types from homes, apartments and schools to factories and health centres. Examples of this approach can be seen in RSHP’s housing project at Oxley Woods in Milton Keynes, but the design has now been developed further by RSHP, while SIG have improved the properties of the system, to make it even more energy efficient, sustainable and flexible. The Olympic Velodrome at London 2012 was also constructed using this method.\n\n\nHomeshell can be adapted to suit any location and is particularly good for difficult, highly urban or small sites, including those where weight might be an issue (such as above underground tunnels or bridges). By enabling more urban brownfield sites to be developed, more homes can be created that can utilise existing transport and infrastructure links, instead of encroaching on the green belt.\n\nThe speed of construction means that Homeshell causes limited disruption, mess and noise on site, making it a very neighbourly approach for retrofitting and extension projects in urban areas. Fast and efficient extensions to schools can be built, or new homes on small infill sites, which might have many existing neighbours. Six storey (24-apartment) buildings can be erected in under a month. There is an urgent need for more housing in the UK and this system allows us to meet this need far faster than by traditional methods.\n\n\nIts lower cost (compared to traditional building techniques) means that this system could help kick start social housing building programmes where cost efficiencies are particularly important, offering the potential to create homes for families currently in hostels and BBs or stuck on long waiting lists.\n\nBy combining speed of construction with the fact that it is demountable, Homeshell offers great potential for temporary sites. There are currently 32,400 hectares of vacant brownfield land in England, some of which may have plans for future development (say in the next ten years) but in the meantime could provide homes in urban areas that are already well connected to both transport links and job opportunities.",
@@ -49,14 +49,14 @@
     {
       "label": "Gross Floor Area",
       "value": "110 m²",
-      "id": "d06aa3abf8a4405ea008d32d44f16dfb"
+      "id": "25403aefb85b4cb7b67fab5ad122e525"
     }
   ],
   "companies": [
     {
       "label": "Contractor",
       "value": "SIG by Insulshell",
-      "id": "ee8ed2cd8a9241cfa7808c09c655e166"
+      "id": "756aa9a2f8424419be8869b28b62be24"
     }
   ],
   "awards": [
@@ -64,7 +64,7 @@
       "date": "2012-01-01",
       "year": "2012",
       "award": "New London Awards, Commended",
-      "rowId": "50e7c744a39f4972a60f4e10474d67f0"
+      "rowId": "01dca7aa07224da48585ded2108ec72c"
     }
   ],
   "certificates": []

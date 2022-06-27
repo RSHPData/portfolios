@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "11000",
   "url": "office/skybeam/",
-  "serializeDate": "'2022-06-21 14:16:58.806'",
-  "serialized": 1655821018806,
+  "serializeDate": "'2022-06-27 15:41:06.764'",
+  "serialized": 1656344466764,
   "serializedBy": "sreeve",
   "title": "SKYBEAM",
   "description": "SKYBEAM is a multi-service chilled beam that aims to integrate outstanding design with an impressive range of features.",
@@ -31,14 +31,14 @@
     {
       "label": "Measurement",
       "value": "1.5 x 1.5m",
-      "id": "b55657f617e94a62bf64030672e6cb58"
+      "id": "ed9cc55a4e104a918448990e337bc11c"
     }
   ],
   "companies": [
     {
       "label": "Services Engineers",
       "value": "TROX",
-      "id": "d6277333470d4948b32de48520e810a6"
+      "id": "a18c47b48d5e49499f68717c3442691c"
     }
   ],
   "awards": [
@@ -46,7 +46,7 @@
       "date": "2018-01-01",
       "year": "2018",
       "award": "German Design Awards – Energy Category, Excellent Product Design",
-      "rowId": "c9750c061526483bbbdad92fecb087cb"
+      "rowId": "14deddf24a2d401da443457badabdba0"
     }
   ],
   "certificates": []

@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "10460",
   "url": "masterplanning/madrid-nuevo-norte-mnn/",
-  "serializeDate": "'2022-06-21 14:16:51.083'",
-  "serialized": 1655821011083,
+  "serializeDate": "'2022-06-27 15:41:00.045'",
+  "serialized": 1656344460045,
   "serializedBy": "sreeve",
   "title": "Madrid Nuevo Norte, MNN",
   "description": "The objective of this ambitious project is to close a major split in the city where the railway alignment running north out of Madrid divides the city in two.",
@@ -48,29 +48,29 @@
     {
       "label": "Site Area",
       "value": "230 Ha",
-      "id": "bf862ad9c4c44a7096582fc6f684858a"
+      "id": "b3401d70b0f24de795ff2b13b60cb124"
     },
     {
       "label": "Buildable Area",
       "value": "2 700 000 m²",
-      "id": "ee206b0f3bc649468549937f1c3285a2"
+      "id": "68259714611043e29ce6c8d15ec58ff7"
     }
   ],
   "companies": [
     {
       "label": "Services Engineer",
       "value": "BuroHappold Engineering",
-      "id": "b51f883229234cefb102c190b747f27f"
+      "id": "dbd1d5a9775346b0b22fafbf83ac1dfe"
     },
     {
       "label": "Landscape Architect",
       "value": "Grant Associates",
-      "id": "68319a4b175743bdbeae8a37375d0fea"
+      "id": "c5c5010835474683a7cd1a3923ba9a5e"
     },
     {
       "label": "Contractor",
       "value": "DCN",
-      "id": "e06ccc0daf52466a80191a1c1af1babc"
+      "id": "782975a009b74193bd7b48e53ad46873"
     }
   ],
   "awards": [],

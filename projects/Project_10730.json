@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "10730",
   "url": "mixed-use/morland-paris-réinventer",
-  "serializeDate": "'2022-06-21 14:16:56.02'",
-  "serialized": 1655821016002,
+  "serializeDate": "'2022-06-27 15:41:04.236'",
+  "serialized": 1656344464236,
   "serializedBy": "sreeve",
   "title": "Morland Paris Réinventer",
   "description": "The austere formal qualities of the Morland site represent a significant architectural challenge but also offer the opportunity to create a project that is a catalyst for urban change.",
@@ -36,19 +36,19 @@
     {
       "label": "Area",
       "value": "41 000 m²",
-      "id": "209e9697e135453bb64f9f7d31e5b6e0"
+      "id": "33ade8bd03eb4bfd8c11b52bdbda8b52"
     }
   ],
   "companies": [
     {
       "label": "Co-Architect",
       "value": "Assemble, Tollila + Gilliland",
-      "id": "e2d20052998c4a0dbb21042081af60f0"
+      "id": "d2fddffc39184ce2899ea2241bc10b94"
     },
     {
       "label": "Multidisciplinary Team",
       "value": "Covea, Immobilière 3F, Artelia, Encore Heureux, Urbantech, Earnest, Scintillo, Rooms, Etic, Sciences PO, Le Perchoir, Zen Parc, La Petite Reine, Ares Services",
-      "id": "df7f2d31df884efe913262c0c721a9b0"
+      "id": "36430bb1e4fa4f6d802fdbbdf52dbf82"
     }
   ],
   "awards": [],

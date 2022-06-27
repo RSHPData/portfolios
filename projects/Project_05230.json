@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "05230",
   "url": "office/1201-k-street",
-  "serializeDate": "'2022-06-21 14:16:18.035'",
-  "serialized": 1655820978035,
+  "serializeDate": "'2022-06-27 15:40:33.510'",
+  "serialized": 1656344433510,
   "serializedBy": "sreeve",
   "title": "1201 K Street",
   "description": "This state-of-the-art 12-storey speculative office building in Washington DC, with a four-star restaurant at ground level was conceived to maximise daylight, views, connectivity and employee interaction.",
@@ -42,19 +42,19 @@
     {
       "label": "Gross Area",
       "value": "23 750 m²",
-      "id": "079f5bfa376d404f9f68ea333bfaeaef"
+      "id": "f3d2841abaa949478bba770904b7770d"
     }
   ],
   "companies": [
     {
       "label": "Structural Engineer",
       "value": "SK&A Associates",
-      "id": "122be238d287409bb8f2e5863274b85a"
+      "id": "f77271e04cd5404eb093a0619687dc5e"
     },
     {
       "label": "Services Engineer",
       "value": "Buro Happold New York",
-      "id": "086b1c91ada24821884d8724901e929e"
+      "id": "e34b05a1d83f423d9bd9b27c6747fe50"
     }
   ]
 }

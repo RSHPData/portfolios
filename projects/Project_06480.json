@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "06480",
   "url": "health-and-science/skyfarm/",
-  "serializeDate": "'2022-06-21 14:16:34.124'",
-  "serialized": 1655820994124,
+  "serializeDate": "'2022-06-27 15:40:45.757'",
+  "serialized": 1656344445757,
   "serializedBy": "sreeve",
   "title": "Skyfarm",
   "description": "Skyfarm was initiated as a research project in response to the 2015 Milan Expo theme ‘feed the world’. It is said that by the year 2050 nearly 80 per cent of the earth’s population will reside in urban centres.",
@@ -30,7 +30,7 @@
     {
       "label": "Structural Engineer",
       "value": "Arup",
-      "id": "e84b3ebb452a4b048fafae81ad7b4d88"
+      "id": "1ecc09e1f76f47609e62d2336ef0d51b"
     }
   ],
   "awards": [
@@ -38,7 +38,7 @@
       "date": "2014-01-01",
       "year": "2014",
       "award": "World Architecture Festival: Future Projects - Experimental",
-      "rowId": "47ae08addf6349fe940bbe26a90ac2ec"
+      "rowId": "37c3811038a541f99723516175dc9067"
     }
   ],
   "certificates": []

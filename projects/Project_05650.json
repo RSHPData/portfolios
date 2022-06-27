@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "05650",
   "url": "residential/one-park-taipei",
-  "serializeDate": "'2022-06-21 14:16:26.155'",
-  "serialized": 1655820986155,
+  "serializeDate": "'2022-06-27 15:40:39.572'",
+  "serialized": 1656344439572,
   "serializedBy": "sreeve",
   "title": "One Park Taipei",
   "description": "RSHP has designed two high-rise residential towers adjacent to Da-An Park in the city of Taipei. The site is located to the east side of Da-An Park along the Juanguo South Road.",
@@ -28,39 +28,39 @@
     {
       "label": "Site Area",
       "value": "63 538 m²",
-      "id": "34acc3e23f9842cda90a36f85c993908"
+      "id": "66142988b0ec41dab861f81f85d8a1fe"
     },
     {
       "label": "North Tower",
       "value": "3 748 m²",
-      "id": "8c7e87017943406b8e4cf369bd291461"
+      "id": "ee39f47a70c04f2e955c64e85c4029b6"
     },
     {
       "label": "South Tower",
       "value": "4 332 m²",
-      "id": "0d65dfa090234c96ac1b0b6ec12473e9"
+      "id": "d16eed1d3e9444f4acc0e7c96996f7aa"
     }
   ],
   "companies": [
     {
       "label": "Structural Engineer",
       "value": "Evergreen Construction",
-      "id": "6d36df06acd848eb97c895c4632bba3b"
+      "id": "63f175de3bd24848941ff088a6728547"
     },
     {
       "label": "Services Engineer",
       "value": "Continental Engineering Consultants. Inc",
-      "id": "897a91ccfb584355be074d756d61a25c"
+      "id": "3e53eff597aa4f988f64a4885cd85b57"
     },
     {
       "label": "Landscape Architect",
       "value": "Environmental Arts Design",
-      "id": "955ff0ceb2c647219efc7f8befaf7171"
+      "id": "980597a7ca6a4ce78889c71ae9c2f3a5"
     },
     {
       "label": "Co-Architect",
       "value": "CT Chen Architects and Associates",
-      "id": "e26e9d14ba0f40749e221d6989bc0214"
+      "id": "18dc6846eff0466b95ff7b92a804404f"
     }
   ],
   "awards": [
@@ -68,7 +68,7 @@
       "date": "2019-01-01",
       "year": "2019",
       "award": "CTBUH Award of Excellence in the 100-199m category",
-      "rowId": "fc68b8cd042b47a7b6549fb22bc0ed71"
+      "rowId": "623c55002a184d4ba39a927adf64d3d3"
     }
   ]
 }

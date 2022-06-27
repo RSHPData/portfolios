@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "05670",
   "url": "office/bbva-bancomer-tower/",
-  "serializeDate": "'2022-06-21 14:16:26.850'",
-  "serialized": 1655820986850,
+  "serializeDate": "'2022-06-27 15:40:40.111'",
+  "serialized": 1656344440111,
   "serializedBy": "sreeve",
   "title": "BBVA Bancomer Tower",
   "description": "A new urban landmark on the skyline of Mexico City, the tower marks the gateway to the Paseo de la Reforma from Chapultepec Park.",
@@ -74,13 +74,13 @@
   "heights": [
     {
       "value": "235m",
-      "id": "E61D0130F2E2498F905763"
+      "id": "ECC8B6D129564D209A120B"
     }
   ],
   "floors": [
     {
       "value": "50",
-      "id": "B121A8C782674BC2B3FA60"
+      "id": "D0A462C51E9E4B22B08EB4"
     }
   ],
   "overview": "A new urban landmark on the skyline of Mexico City, the tower marks the gateway to the Paseo de la Reforma from Chapultepec Park.\n\nThe BBVA Bancomer tower is the result of a collaboration between architectural practices Rogers Stirk Harbour + Partners and Legorreta +Legorreta. In bringing together their different architectural languages yet common values, they have created a building that is both contextual and distinctive.\n\nMexico City is built on an ancient dried lake and is prone to severe earthquakes so an innovative engineering approach was needed to reduce the risk of tremors. A ‘ fuse ’ was incorporated into each of the externally expressed structural beams. Its design focuses the impact of an earthquake by absorbing the shock to protect the rest of the structure. This structural solution makes the tower uniquely safe for a building of its height.\n\n\nTo combat solar gain from Mexico’s strong sunlight, a lattice façade system, (which evokes traditional screens or ‘celosias’) shades the exterior of the building allowing daylight in, and views out.\n\nThe building is based on the reinterpretation of traditional office space organisation, offering a variety of new flexible working environments for all users. Sky gardens every nine floors create outdoor space within the tower and provide meeting and break-out areas where people can enjoy spectacular views. Consequently, the architecture promotes a sense of community and interaction between staff.\n\nThe 50 storey tower provides approximately 78,800m² of prime office space for BBVA Bancomer and can accommodate approximately 4,500 employees.",
@@ -91,64 +91,64 @@
     {
       "label": "Site Area",
       "value": "6 620 m²",
-      "id": "47d2e13f6542495a91f5c6671431a5c2"
+      "id": "aa5092af4b8a4255ab1c7aa38ce8aae7"
     },
     {
       "label": "Gross Floor Area",
       "value": "188 777 m²",
-      "id": "f81f50d364fe42ec80a107e15a871ea3"
+      "id": "71aa2167cc4c494f91dfdf28cf7795c0"
     },
     {
       "label": "Office Area",
       "value": "78 800 m²<br>",
-      "id": "e92ba0feac314233b1cd0619c56159f4"
+      "id": "b9c0f73cd9bb4d5b9c4beb10e1f76b72"
     }
   ],
   "companies": [
     {
       "label": "Architect",
       "value": "RSHP / LegoRogers",
-      "id": "beda9bdbeb8a4a918f22ff5c93683267"
+      "id": "056a727395fb4535ae341eee95efe74d"
     },
     {
       "label": "Structural Engineer",
       "value": "Arup / Colinas de Buen SA de CV",
-      "id": "3b44a5df9ecd41d9a1f9edf2be14a7f1"
+      "id": "fe56010dee3945ea9842f98ab1b154fd"
     },
     {
       "label": "Plumbing Engineer",
       "value": "Arup / Garza Maldonado",
-      "id": "e2907c0c144749ccb262c4cfa1cdb7ef"
+      "id": "96459f7528a74e5b8cdcc3dbfd4a6fc0"
     },
     {
       "label": "Project Manager",
       "value": "Jones Lang LaSalle",
-      "id": "6b4e87a7b79b425b9bf2cb6bf9c8795a"
+      "id": "7db3efae20474973be1e30df5d6938bb"
     },
     {
       "label": "Lighting Consultant",
       "value": "Fisher Marantz",
-      "id": "83330b1b5a0742a7a383ffe39ea26fc3"
+      "id": "b4d13aec10384a4f8cc43aab62e4308f"
     },
     {
       "label": "Cost Consultant",
       "value": "INPROS",
-      "id": "68d7240848854a9f9b5ffe6d4385fb0c"
+      "id": "de9b4b7c2e8e40f58429be072509251c"
     },
     {
       "label": "Electrical Engineer",
       "value": "Arup / DEC Group",
-      "id": "2b8f33abcf8640cbb1683c3f61073155"
+      "id": "c7532ecb33644cf78a838af63947c143"
     },
     {
       "label": "HVAC Engineer",
       "value": "Arup / DYPRO",
-      "id": "7883d70a66c940fab72ed6948644ce45"
+      "id": "fe1a28e21d2f435a912efc67f54bd36b"
     },
     {
       "label": "Contractor",
       "value": "Turner Marhnos",
-      "id": "f117eefe5eed475da1cbc45280087799"
+      "id": "a03a138f40724ae78e5fdf0bdc49a232"
     }
   ],
   "awards": [
@@ -162,7 +162,7 @@
       "date": "2018-01-01",
       "year": "2018",
       "award": "RIBA Award for International Excellence 2018",
-      "rowId": "7ce52916774b49f292228e507cfa4bd0"
+      "rowId": "4596ad85c1874d43a567f4ea76a1a04e"
     },
     {
       "date": "2017-01-01",
@@ -174,7 +174,7 @@
       "date": "2016-01-01",
       "year": "2016",
       "award": "World Architecture Festival 2016 - Completed Office Buildings - Shortlist",
-      "rowId": "5360657077674031a7a8eead26bd19ab"
+      "rowId": "4c5733cf2310411f88a418129fb774da"
     },
     {
       "date": "2016-01-01",
@@ -186,31 +186,31 @@
       "date": "2016-01-01",
       "year": "2016",
       "award": "American Architecture Prize - Institutional Architecture Bronze Medal",
-      "rowId": "0976652acf9f43a580ec58253cc9abda"
+      "rowId": "33d1fb8f76f3423698e1b29ac1db14b4"
     },
     {
       "date": "2016-01-01",
       "year": "2016",
       "award": "ENR Global Best Projects Awards 2016 - Office Category - Award of Merit",
-      "rowId": "d6c89bf1ebfc4961bd0dfbda58a264c0"
+      "rowId": "a2442c449eea4ff99b0e15ff1aeabf61"
     },
     {
       "date": "2016-01-01",
       "year": "2016",
       "award": "Bienal Nacional de Arquitectura Mexicana, Silver Medal",
-      "rowId": "302f6a73ceea406e9dd649abe6d988dd"
+      "rowId": "eddfb6731be442ab843914a8e0ebb1f3"
     },
     {
       "date": "2016-01-01",
       "year": "2016",
       "award": "MCHAP Awards - Nomination",
-      "rowId": "76f2e2a372d8443a99b3472a2236b3d3"
+      "rowId": "5e81e91eb953440c872ede1d82ef0ef5"
     },
     {
       "date": "2016-01-01",
       "year": "2016",
       "award": "Council for Tall Buildings and Urban Habitat - Nomination",
-      "rowId": "0dc362fb33cd4fbbbac0fc96c8023a36"
+      "rowId": "ec95a5397fe7420b933962e5be5476b4"
     }
   ],
   "certificates": [

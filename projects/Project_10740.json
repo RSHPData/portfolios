@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "10740",
   "url": "culture-and-leisure/guggenheim-helsinki",
-  "serializeDate": "'2022-06-21 14:16:56.689'",
-  "serialized": 1655821016689,
+  "serializeDate": "'2022-06-27 15:41:04.875'",
+  "serialized": 1656344464875,
   "serializedBy": "sreeve",
   "title": "Guggenheim Helsinki",
   "description": "Rogers Stirk Harbour + Partners’ design, prepared in response to an international design competition, is a clearly legible synthesis of two components: a ground borne building and a dramatic air-borne structure.",
@@ -37,7 +37,7 @@
     {
       "label": "Area",
       "value": "12 000 m²",
-      "id": "bb68265f66f44f59a1661a335e1a93cb"
+      "id": "892bcec35d624c47a850e4e04b408eb1"
     }
   ],
   "companies": [],

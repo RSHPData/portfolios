@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "10410",
   "url": "residential/place-ladywell",
-  "serializeDate": "'2022-06-21 14:16:49.592'",
-  "serialized": 1655821009592,
+  "serializeDate": "'2022-06-27 15:40:58.688'",
+  "serialized": 1656344458688,
   "serializedBy": "sreeve",
   "title": "PLACE / Ladywell",
   "description": "Rogers Stirk Harbour + Partners’ partnership with Lewisham Council to create a deployable residential development using a volumetric construction method on the site of the former Ladywell Leisure Centre, which was demolished in 2014.",
@@ -42,34 +42,34 @@
     {
       "label": "Cost of manufacture",
       "value": "£1200/m²",
-      "id": "b423fbb009f54e6cbeb4fa3ae23ffee1"
+      "id": "eecf8b88d0d94658b99fd93e38459980"
     },
     {
       "label": "Total Residential GIA",
       "value": "2 050 m²",
-      "id": "66e4c54dd396490d8534cf0bb929332a"
+      "id": "9d04dfa5856445b89094858fb3596474"
     },
     {
       "label": "Total Commercial GIA",
       "value": "940m²",
-      "id": "3e34707f03244d828e1eb95e888c2ad3"
+      "id": "6e9191dc82f346429390b43ebd7a000e"
     },
     {
       "label": "Total GIA",
       "value": "2 990m²",
-      "id": "f8f94d4cbd6d452c9a88901cabf84380"
+      "id": "9051cf248d354ca1b4fd45912f4f2cd1"
     }
   ],
   "companies": [
     {
       "label": "Consultant",
       "value": "AECOM",
-      "id": "1030635434de40b197a9120347c07e40"
+      "id": "65674030b80c4ce08603a595894bef84"
     },
     {
       "label": "Contractor",
       "value": "SIG Build",
-      "id": "c06c2c4b0cc547cd8e4e5d8f47b842fb"
+      "id": "7352073f82dd4d438f7b924ecbecfbad"
     }
   ],
   "awards": [
@@ -77,13 +77,13 @@
       "date": "2016-01-01",
       "year": "2016",
       "award": "NLA / The Mayor's Award",
-      "rowId": "07edce2a189d4e2bb0978d16c2470ca0"
+      "rowId": "2193cdbfcc004bccbb1a47831827f21a"
     },
     {
       "date": "2016-01-01",
       "year": "2016",
       "award": "NLA Best Temporary Building",
-      "rowId": "b22ba15f4c1c453d8ca3e26bd2747d98"
+      "rowId": "815528fd28684295aad7ac52060b1a5a"
     }
   ]
 }

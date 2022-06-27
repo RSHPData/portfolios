@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "10550",
   "url": "masterplanning/gare-de-lyon",
-  "serializeDate": "'2022-06-21 14:16:51.762'",
-  "serialized": 1655821011762,
+  "serializeDate": "'2022-06-27 15:41:00.631'",
+  "serialized": 1656344460631,
   "serializedBy": "sreeve",
   "title": "Gare de Lyon",
   "description": "Located in the 12th district of Paris near the town hall, along the Gare de Lyon station and the Bercy railway station, the Gare de Lyon - Daumesnil sector is bounded by the streets of Rambouillet-Charolais, Boulevard de Bercy, and the major railway artery serving the station.",
@@ -43,39 +43,39 @@
     {
       "label": "Site Surface Area",
       "value": "6 Hectares",
-      "id": "caf23898945149acbbe899c321a5d52a"
+      "id": "9eb1d94674ba4c46b7e1539cdfa5c6af"
     },
     {
       "label": "Scheme",
       "value": "100,000 m² (45,000 housing, 45,000 offices, retail and a school)",
-      "id": "78fe82d497c640e2b0b0a47859475373"
+      "id": "015f60d4bad8474d88b864797c8343dd"
     }
   ],
   "companies": [
     {
       "label": "Lead Architect and Urbanist",
       "value": "Rogers Stirk Harbour + Partners",
-      "id": "3f70411912d4448fb1ce32f67aca11d8"
+      "id": "174b7b38f2eb438183acc660f555204b"
     },
     {
       "label": "Co-Architect",
       "value": "Tolila + Gilliland Atelier d-Architecture",
-      "id": "90a2bf4225b44e7a92886538b188e520"
+      "id": "fe45977cc6304e9ab345bb65fec24514"
     },
     {
       "label": "Landscape Architect",
       "value": "Michel Desvigne Paysagiste",
-      "id": "bfa88d0f28114b44b5698e1454e18ad7"
+      "id": "7c6611a6607846208efcc7d383a78f5b"
     },
     {
       "label": "Urban Engineering",
       "value": "Ingérop",
-      "id": "b2c3d49a24324b08bfd6260cc7e5a524"
+      "id": "d361971ba8ce4df4af9510af4cf14bb5"
     },
     {
       "label": "Sustainability Consultant",
       "value": "Frank Boutté Consultants",
-      "id": "bb44e4bbf5874c699016317dfb6f9ff3"
+      "id": "447965254d0442f099ff5702e4fb7245"
     }
   ],
   "awards": [],

@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "11400",
   "url": "health-and-science/global-clinic",
-  "serializeDate": "'2022-06-21 14:17:03.171'",
-  "serialized": 1655821023171,
+  "serializeDate": "'2022-06-27 15:41:10.319'",
+  "serialized": 1656344470319,
   "serializedBy": "sreeve",
   "title": "Global Clinic",
   "description": "The Global Clinic has been developed to meet the urgent need to provide flexible, robust structures for delivering healthcare in emergency situations and remote locations all over the world, where tents prove too flimsy and shipping containers too difficult to transport.",
@@ -37,17 +37,17 @@
     {
       "label": "Structural Engineer",
       "value": "BuroHappold Engineering",
-      "id": "6a04ca2a4e26493d9bc8654dc7666cf2"
+      "id": "86c7305eda6343febd309aa6b28105cf"
     },
     {
       "label": "Services Engineer",
       "value": "ChapmanBDSP",
-      "id": "faa4b62c0e804ae687df503c7b075bec"
+      "id": "c1f84f9926ac4a04aefa25938d02dc93"
     },
     {
       "label": "Creative Services",
       "value": "Stage One",
-      "id": "e86310315e78467ba3972688d5aa7290"
+      "id": "902a83b2e7f44616a7c4564e3be4e07b"
     }
   ],
   "awards": [],

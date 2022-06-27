@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "10810",
   "url": "residential/tree-house",
-  "serializeDate": "'2022-06-21 14:16:58.153'",
-  "serialized": 1655821018153,
+  "serializeDate": "'2022-06-27 15:41:06.179'",
+  "serialized": 1656344466179,
   "serializedBy": "sreeve",
   "title": "Tree House",
   "description": "Tree House is the latest volumetric housing project developed by RSHP, to provide low-cost homes that can be rapidly assembled and deployed.",
@@ -37,19 +37,19 @@
     {
       "label": "2 bedroom / 4 person unit",
       "value": "75 m²",
-      "id": "ab1c849885794a5a9c030fed4f84e9f7"
+      "id": "ffbe28e575aa485e890a93e315322be6"
     }
   ],
   "companies": [
     {
       "label": "Structural Engineer",
       "value": "Buro Happold",
-      "id": "83f719e334e14f118d15a8b26c96bc34"
+      "id": "ffd61f76601c4a829959e32017c3e79a"
     },
     {
       "label": "Project Manager",
       "value": "AECOM",
-      "id": "6b9fffc9f9524c51adef91f3d718f631"
+      "id": "f2f9bd8719404374a8c26999a2641034"
     }
   ],
   "awards": [
@@ -57,7 +57,7 @@
       "date": "2016-01-01",
       "year": "2016",
       "award": "World Architecture Festival 2016 - Future Housing - Shortlist",
-      "rowId": "5c3a31aac4a4441793d4056d15f73653"
+      "rowId": "1df33a628cd74bcaa22d9f9833000374"
     }
   ],
   "certificates": []

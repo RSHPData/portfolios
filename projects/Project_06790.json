@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "06790",
   "url": "transport/terminal-1-lyon-saint-exupéry-airport/",
-  "serializeDate": "'2022-06-21 14:16:39.940'",
-  "serialized": 1655820999940,
+  "serializeDate": "'2022-06-27 15:40:50.368'",
+  "serialized": 1656344450368,
   "serializedBy": "sreeve",
   "title": "Terminal 1, Lyon-Saint Exupéry Airport",
   "description": "The brief for the project was challenging: to extend a distinctive group of existing terminal buildings in order to provide additional stands and improved passenger facilities.",
@@ -68,39 +68,39 @@
     {
       "label": "Total Area",
       "value": "70 000 m²",
-      "id": "7e6af58bdd394a838654dab03ec369da"
+      "id": "6b196f0bbe864631b96c52a45066be96"
     }
   ],
   "companies": [
     {
       "label": "Co-Architect",
       "value": "Chabanne & Partenaires",
-      "id": "bac741ff22e846599a91212d0fb0ed5d"
+      "id": "63d4c2221d6d470c902d42bda67df4e1"
     },
     {
       "label": "Structural Engineer",
       "value": "Bouygues Bâtiment Sud Est",
-      "id": "5ab159a8414e447696cefc859fde7c48"
+      "id": "fdb54794b62a4cc6a622fb7fe29f2669"
     },
     {
       "label": "Mechanical Engineer",
       "value": "WSP",
-      "id": "430c66a926fd4bcfbd16131a88919c07"
+      "id": "d00fac5daf874996b7f48ed53db31e52"
     },
     {
       "label": "Electrical Engineer",
       "value": "CAP Ingelec",
-      "id": "7c0e5f972e67424bb48b6b2c67e273c3"
+      "id": "aa92460bbec541eab049105e653d1d4d"
     },
     {
       "label": "Principal Contractor",
       "value": "Bouygues Bâtiment Sud Est",
-      "id": "89d54f51003f49059244658b22d58e00"
+      "id": "117d6e79338b48a69f1e034b6e1b9cef"
     },
     {
       "label": "Sustainability Consultant",
       "value": "Inddigo",
-      "id": "6d309ba1f64845fdb3b63ad27a9a2b05"
+      "id": "e84c872206b24e1a93b7376f30f59c41"
     }
   ],
   "awards": [
@@ -108,7 +108,7 @@
       "date": "2020-01-01",
       "year": "2020",
       "award": "Trophée Eiffel D'architecture Acier - Voyager category winner",
-      "rowId": "674c8c3117f44b9db6b55b68dd7fb2c7"
+      "rowId": "a91d2d5c6b5143f9b43e6f8ae8bdce06"
     }
   ],
   "certificates": [

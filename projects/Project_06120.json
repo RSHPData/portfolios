@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "06120",
   "url": "masterplanning/barangaroo-south-masterplan",
-  "serializeDate": "'2022-06-21 14:16:30.096'",
-  "serialized": 1655820990096,
+  "serializeDate": "'2022-06-27 15:40:42.688'",
+  "serialized": 1656344442688,
   "serializedBy": "sreeve",
   "title": "Barangaroo South Masterplan",
   "description": "Rogers Stirk Harbour + Partners (RSHP) has developed a masterplan for the Barangaroo peninsula, a city district on the north-western edge of the Sydney central business district.",
@@ -48,24 +48,24 @@
     {
       "label": "Site Area",
       "value": "22 ha (of which 6 hectares will be developed for commercial, residential, hotel, cultural and transport uses)",
-      "id": "d285c112f43e4b129aed2834bcba9f9e"
+      "id": "237c8e30e9fd44839f80328945f5c0e2"
     }
   ],
   "companies": [
     {
       "label": "Co-Architect",
       "value": "Lippmann Partnership",
-      "id": "13a0b86321694f2b9a9faea9f7d9cda9"
+      "id": "ad36caef40b541e7a7ab34f90843aad7"
     },
     {
       "label": "Services Engineer",
       "value": "Arup",
-      "id": "041c5f207e6c4ba3a7c7e85252fd3b3a"
+      "id": "a4aa28af6ada4608b8134f6a88b85e21"
     },
     {
       "label": "Landscape Architect",
       "value": "Gustafson Guthrie Nichol (GGN)",
-      "id": "9d235633ccaf4b12981c24789aa87998"
+      "id": "cce037908c264c7486228aca835aa07d"
     }
   ],
   "awards": [],

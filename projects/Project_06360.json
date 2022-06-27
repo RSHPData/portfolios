@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "06360",
   "url": "transport/hong-kong-zhuhai-macao-bridge-hong-kong-port-passenger-clearance-building/",
-  "serializeDate": "'2022-06-21 14:16:33.361'",
-  "serialized": 1655820993361,
+  "serializeDate": "'2022-06-27 15:40:44.971'",
+  "serialized": 1656344444971,
   "serializedBy": "sreeve",
   "title": "Hong Kong-Zhuhai-Macao Bridge Hong Kong Port - Passenger Clearance Building",
   "description": "The Hong Kong-Zhuhai-Macao Bridge provides new strategic connections between Zhuhai, Macao and Hong Kong.",
@@ -40,19 +40,19 @@
     {
       "label": "Area",
       "value": "98 570 m²",
-      "id": "ab6c19b89f114e02ad9b97d00061e4ad"
+      "id": "d4498edaf0574ca1a12735cba2613563"
     }
   ],
   "companies": [
     {
       "label": "Co-Architect",
       "value": "Aedas",
-      "id": "8891652d4760495eb0642a2ff0223341"
+      "id": "da6638eb11ce46f0ac36e09e622dc80f"
     },
     {
       "label": "Engineers",
       "value": "AECOM",
-      "id": "33b149fa61d744a99366e22d129fd695"
+      "id": "6847b0b4e041468e8513aac848e99784"
     }
   ],
   "awards": [
@@ -60,37 +60,37 @@
       "date": "2020-01-01",
       "year": "2020",
       "award": "Best Public Service Architecture Asia Pacific - International Property Awards",
-      "rowId": "f18aa010c2414f52a1511580ca9bafa6"
+      "rowId": "b94abb530acf41baae7a7ccc9acc588b"
     },
     {
       "date": "2020-01-01",
       "year": "2020",
       "award": "The Chicago Athenaeum International Architecture Award",
-      "rowId": "9971cd7f9af3481e95ab1bce947fb90b"
+      "rowId": "ca199c6f88e147ac9b971a5892bf8058"
     },
     {
       "date": "2020-01-01",
       "year": "2020",
       "award": "MIPIM Awards finalist - Best Industrial & Logistics Development",
-      "rowId": "d55af333bf0748ddb097c6b7849ffb89"
+      "rowId": "30995b04b1be4b0b8ed030b534dfb57d"
     },
     {
       "date": "2020-01-01",
       "year": "2020",
       "award": "HKIA Annual Awards - Merit Award in the Industrial/Transport/Utility category",
-      "rowId": "ae1c519e6a184006870ca1bbd2abb764"
+      "rowId": "886baa9d261740c29174ec3c655d1ef6"
     },
     {
       "date": "2019-01-01",
       "year": "2019",
       "award": "WAF Shortlist for Completed Buildings: Transport",
-      "rowId": "a8428f1a199a44f5b7b5957ea8aa0e9c"
+      "rowId": "6ab2bdfc62b546e988335f411eebc485"
     },
     {
       "date": "2019-01-01",
       "year": "2019",
       "award": "Hong Kong Institution of Engineers Awards - Grand Award for Structural Excellence",
-      "rowId": "5865eaf9f8d7462e9f58eb5b5f70863f"
+      "rowId": "9826121500f84c4ca38729d74050d148"
     }
   ],
   "certificates": []

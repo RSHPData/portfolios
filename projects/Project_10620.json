@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "10620",
   "url": "culture-and-leisure/centre-de-conservation-du-louvre-à-liévin",
-  "serializeDate": "'2022-06-21 14:16:53.876'",
-  "serialized": 1655821013876,
+  "serializeDate": "'2022-06-27 15:41:02.501'",
+  "serialized": 1656344462501,
   "serializedBy": "sreeve",
   "title": "Centre de conservation du Louvre à Liévin",
   "description": "RSHP won an international competition to design a new collections facility for the Louvre in 2015. The facility is designed to integrate storage and conservation of more than 250,000 works of art that are currently distributed between 60 different locations around France. The winning proposals create an environmentally sensitive and elegantly understated facility emerging discretely from the landscape.",
@@ -49,29 +49,29 @@
     {
       "label": "Area",
       "value": "20 000 m²",
-      "id": "895fec6cf56b416f8e4880adbc6aaebd"
+      "id": "b8ae1b61d9d441faa297062e966a7a97"
     }
   ],
   "companies": [
     {
       "label": "Technical Consultancy",
       "value": "Egis Bâtiments Nord",
-      "id": "9374092258e544c0b7a79e51752702c5"
+      "id": "5947eaec817c486ab4ee7ab8387a13c2"
     },
     {
       "label": "Environmental Consultancy",
       "value": "Inddigo SAS",
-      "id": "46cf37e2fbd543eb9055f9bc0e9989a0"
+      "id": "0f897441e4ed4b10a8adfd4ca48a13e2"
     },
     {
       "label": "Quantity Surveyor",
       "value": "VPEAS SAS",
-      "id": "545ea98b39364c169d1fc4a695f818d7"
+      "id": "838a5c5a7c4d4b809ce29f469dc2f81a"
     },
     {
       "label": "Landscape Architect",
       "value": "Mutabilis Paysage",
-      "id": "615645f9e5d146feb9db31afa601d3aa"
+      "id": "66ba17cc614e491c97a48062f91d9dc2"
     }
   ],
   "awards": [
@@ -79,7 +79,7 @@
       "date": "2020-01-01",
       "year": "2020",
       "award": "Prix de l’Equerre d’Argent - finalist",
-      "rowId": "a94f098d04de449eb8083e4a516c8c90"
+      "rowId": "4d8bd478df844c4b8e03271fb2bd24af"
     }
   ]
 }

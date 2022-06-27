@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "06130",
   "url": "health-and-science/cancer-centre-at-guys-hospital",
-  "serializeDate": "'2022-06-21 14:16:30.790'",
-  "serialized": 1655820990790,
+  "serializeDate": "'2022-06-27 15:40:43.205'",
+  "serialized": 1656344443205,
   "serializedBy": "sreeve",
   "title": "Cancer Centre at Guy’s Hospital",
   "description": "The Cancer Centre at Guy’s brings together all oncology services from across Guy’s and St Thomas hospital, integrating research and treatment services within the same building.",
@@ -55,13 +55,13 @@
   "heights": [
     {
       "value": "60m",
-      "id": "0489EB4238534045818F1E"
+      "id": "A88578E9F91240AC9E6B52"
     }
   ],
   "floors": [
     {
       "value": "14",
-      "id": "7326401A1A674C29891401"
+      "id": "FDFD0A1ECDD34BD88999FB"
     }
   ],
   "overview": "The Cancer Centre at Guy’s brings together all oncology services from across Guy’s and St Thomas hospital, integrating research and treatment services within the same building.\n\nAt a city scale, the 14-storey height of the building provides a transition from the 300-metre (1,000-foot) height of Renzo Piano’s the Shard and the hospital’s Tower Wing to the lower rise areas to the south and defines a new gateway to the Guy’s campus.\n\nThe building is made up of a number of stacked ‘villages’ each relating to a particular patient need – chemotherapy, radiotherapy or the one-stop clinic – and each with their own distinct identity. In addition, there is a double-height welcome area at the base of the building and private suites at the top.\n\n\nBy breaking up the functions of the building into two, three or four-storey chunks, a human scale is created for each of the care villages, making orientation easier. Visitors exit the lift at their desired section and enter into the ‘village square’ – a non-clinical space which includes a planted external balcony as well as informal seating and relaxation areas for patients waiting for consultations, appointments or results. Patients then navigate to consultation and treatment rooms via stairs and lifts within each village.\n\nThe treatment areas are efficient, ergonomic, functional and safe, in order to maximise clinical gain and patient care. Across the centre the focus is on improving the user experience, providing patients and staff with views and light, making a series of inclusive spaces with straightforward way-finding and patient-centred facilities.\n\n\nThe building is designed to actively support change in clinical and accommodation needs over time. Flexibility and adaptability are key parts of the design, structure and services strategy.",
@@ -72,34 +72,34 @@
     {
       "label": "Gross Floor Area",
       "value": "20,000 m²<br>",
-      "id": "8632a92f93f8436f9698b64c6ca32dc2"
+      "id": "d166aa198f8943db871d315fd8f0582e"
     }
   ],
   "companies": [
     {
       "label": "Co-Architect",
       "value": "Stantec",
-      "id": "25f7baa021304884aa8b8ec41fafd506"
+      "id": "01b8643d7c1748a3b8ec454750b0b955"
     },
     {
       "label": "Structural Engineer",
       "value": "Arup",
-      "id": "e1d0b290390146bb99e7a9ef0409be6f"
+      "id": "9e03e5eefec0426bbd47a2fb050b1928"
     },
     {
       "label": "Services Engineer",
       "value": "Arup",
-      "id": "a6acd3e604844763b66bdf9f5f15f4ea"
+      "id": "9bd91568da094e3a8c126e02292ba440"
     },
     {
       "label": "Contractor",
       "value": "Laing O’Rourke",
-      "id": "dbcd26fb13bb46b3b677432941386dc8"
+      "id": "b1a1f4f97d6e4fc6a07841a404d12e7b"
     },
     {
       "label": "Clinical Strategies",
       "value": "Jackie Churchward-Cardiff",
-      "id": "814c50e4cd4240e39902cc1943fcfc40"
+      "id": "3bda4b343f9a48aa8f956ed26c426c85"
     }
   ],
   "awards": [
@@ -107,49 +107,49 @@
       "date": "2017-01-01",
       "year": "2017",
       "award": "FX Design Awards - Best Public Sector Project",
-      "rowId": "56b051129f6e438e833309067dd945a6"
+      "rowId": "a1c2ca77cb164b9ea13a40d501a3c122"
     },
     {
       "date": "2017-01-01",
       "year": "2017",
       "award": "Building Better Healthcare - Grand Prix Design Award, Clinician’s choice, Best sustainable development, Best acute hospital development, Best internal environment",
-      "rowId": "42be7c11fabc4fe4976f21c07919eabf"
+      "rowId": "f36ce664477546c98c4b05b0e561f32d"
     },
     {
       "date": "2017-01-01",
       "year": "2017",
       "award": "New London Architecture - Ashden Prize for Sustainability, Built Wellbeing",
-      "rowId": "632c7b7ab0ae4ce0bd9f8854379f0c0b"
+      "rowId": "c5820fe374bf4553b1c235f70374eded"
     },
     {
       "date": "2017-01-01",
       "year": "2017",
       "award": "Royal Institute of British Architects (RIBA) Awards - London regional",
-      "rowId": "e3c7189f05af45a8881f2961b29d766e"
+      "rowId": "01624e2beee5403699db6811e86ad3de"
     },
     {
       "date": "2017-01-01",
       "year": "2017",
       "award": "LABC (Local Authority Building Control) Building Excellence Awards - Best Public Service Building",
-      "rowId": "10bd0f782b084237bfae84658a4d6fbe"
+      "rowId": "f1ebf986edcf4e08bdaafb7b7f8e60ec"
     },
     {
       "date": "2017-01-01",
       "year": "2017",
       "award": "European Healthcare Design Awards - Interior Design and the Arts",
-      "rowId": "5e325d2bb53a426e9709e5860e8f865e"
+      "rowId": "9c5748e3db10407eabcdf89f6335c0bd"
     },
     {
       "date": "2017-01-01",
       "year": "2017",
       "award": "ICE London Civil Engineering Awards - Best Building",
-      "rowId": "b788ee981f30497a88d087fe62d3dee8"
+      "rowId": "118487cd2a7c48639fb11ed265d70f2b"
     },
     {
       "date": "2016-01-01",
       "year": "2016",
       "award": "Healthcare Business Awards - Best Hospital Building",
-      "rowId": "79d5bd085c2045429e2f1eeffa49b9cb"
+      "rowId": "bddbeaf0205747558073b7fe766d70f7"
     },
     {
       "date": "2015-01-01",
@@ -161,7 +161,7 @@
       "date": "2013-01-01",
       "year": "2013",
       "award": "Be Inspired Award Winner - Innovation in Building",
-      "rowId": "d7c22190b40345c3ac8785ccb8ab42f1"
+      "rowId": "75d3c9e1451f4f05b94d1b99fe382601"
     }
   ],
   "certificates": [

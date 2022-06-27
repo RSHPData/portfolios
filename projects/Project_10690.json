@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "10690",
   "url": "transport/taoyuan-airport-t3",
-  "serializeDate": "'2022-06-21 14:16:54.582'",
-  "serialized": 1655821014582,
+  "serializeDate": "'2022-06-27 15:41:03.056'",
+  "serialized": 1656344463056,
   "serializedBy": "sreeve",
   "title": "Taoyuan Airport T3",
   "description": "The design for Taoyuan Terminal 3 synthesises the practice’s previous major airport experience with the specific brief.",
@@ -52,44 +52,44 @@
     {
       "label": "Gross Area",
       "value": "640 000 m²",
-      "id": "c21564056b50448f88b9e23e5c6d9c36"
+      "id": "1b33833fed384aa2bf5d13e1a432034d"
     }
   ],
   "companies": [
     {
       "label": "Co-Architect",
       "value": "Fei & Cheng Associates",
-      "id": "da00067e18a04b049e71d71a16f6fc5e"
+      "id": "9d802884d81e43398bb72abade02d676"
     },
     {
       "label": "Structural Engineer",
       "value": "CECI Engineering Consultants / Arup",
-      "id": "e5d948e8a7b24b00a101d8d4886f267e"
+      "id": "7ec46798194c423786e88cd9e2125a80"
     },
     {
       "label": "Landscape Architect",
       "value": "Gillespies",
-      "id": "e10410be6e704fb88e6d333493464166"
+      "id": "42be205ab96b4f3f85f82eac69686a72"
     },
     {
       "label": "Retail Architect",
       "value": "The Design Solution",
-      "id": "29010cca72ec438181600f26c6529bfe"
+      "id": "5fc80e52c55549ffa627eb531aedab9a"
     },
     {
       "label": "Baggage Handling Consultants",
       "value": "BNP Associates",
-      "id": "34ec893b30c545d4bdbe33306fa1affb"
+      "id": "6547c23ec0a94957b7092067661f150e"
     },
     {
       "label": "Aviation Services",
       "value": "Fraport",
-      "id": "9b652d5c71d44bdea756b9fdf45d46d2"
+      "id": "9760b9b3c23445579e9fc4a7c1b7e0d5"
     },
     {
       "label": "Transport Consultant",
       "value": "OTC",
-      "id": "b3f4f9375f4b49e09246243dad6ae43f"
+      "id": "9e706dc301bf424eb39508abc81c7e11"
     }
   ],
   "awards": [],

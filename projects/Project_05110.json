@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "05110",
   "url": "masterplanning/alta-velocidad-masterplan",
-  "serializeDate": "'2022-06-21 14:16:15.990'",
-  "serialized": 1655820975990,
+  "serializeDate": "'2022-06-27 15:40:32.408'",
+  "serialized": 1656344432408,
   "serializedBy": "sreeve",
   "title": "Alta Velocidad Masterplan",
   "description": "This masterplan for Valladolid, winner of an international competition, was to guide the growth of this city over the next 25 years, transforming it into a more sustainable city, one that could act as a model for other European cities.",
@@ -36,19 +36,19 @@
     {
       "label": "Site Area",
       "value": "98 hectares",
-      "id": "376942ea3eb841ce882ff1668de9bcd1"
+      "id": "52eb181b7a464dffbc7ae70d436339f0"
     }
   ],
   "companies": [
     {
       "label": "Co-Architect",
       "value": "Vidal y Asociados arquitectos",
-      "id": "c09c1bdb357e4fd2a0a6c32db1fd545a"
+      "id": "10da78f6273b44239512db5e74105d38"
     },
     {
       "label": "Economic and Market Analysis",
       "value": "Idom Engineers",
-      "id": "eb30f995c1e44480b4cad7f6e3a2b6f2"
+      "id": "123fa3d5fb1546fbaf6365f152fde193"
     }
   ]
 }

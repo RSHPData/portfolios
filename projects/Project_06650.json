@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "06650",
   "url": "culture-and-leisure/the-richard-rogers-drawing-gallery",
-  "serializeDate": "'2022-06-21 14:16:36.940'",
-  "serialized": 1655820996940,
+  "serializeDate": "'2022-06-27 15:40:48.015'",
+  "serialized": 1656344448015,
   "serializedBy": "sreeve",
   "title": "The Richard Rogers’ Drawing Gallery",
   "description": "The gallery is located within Château La Coste, a 200-hectare site (of which 130 hectares are devoted to vineyards) housing a unique mixture of contemporary art.",
@@ -42,44 +42,44 @@
     {
       "label": "Site Area",
       "value": "120m²",
-      "id": "a9b72cc87a694d99b872a273b763fbdd"
+      "id": "a712de3b82fa44af8db4dce48ec13c58"
     }
   ],
   "companies": [
     {
       "label": "Co-Architect",
       "value": "Demaria Architecture",
-      "id": "c511737a5cd740b285f0bfad6a5c7ab7"
+      "id": "0bd0f1c4aa4b448eba7be3fc3821143d"
     },
     {
       "label": "Structural Engineer",
       "value": "LANG Engineering Consultancy, ATES",
-      "id": "9ea6ea9ede92455bb841baa1c8154a8f"
+      "id": "33546dc9b7394f44b9ac767aeeb63732"
     },
     {
       "label": "Specialist Engineer",
       "value": "Hasson Engineering Solutions",
-      "id": "07d14111e6a94eacbd71a77474f3d1f5"
+      "id": "1656b69b85c84ef29e7493fb78c79a26"
     },
     {
       "label": "Steelwork Fabrication and Erection",
       "value": "Bysteel",
-      "id": "4837cd38adb5424d890d6d8804a0a215"
+      "id": "37c5f2893749444586118a6e709986a1"
     },
     {
       "label": "External Envelope",
       "value": "Bysteel FS",
-      "id": "9860e58ccea54079af198b542f52980a"
+      "id": "4b7353b628a04e2ab6f10fd8193c6c82"
     },
     {
       "label": "Internal Fit-Out",
       "value": "SCEA Château La Coste, IDME France, ACM France",
-      "id": "e9c8791dbce34af5acd6247016bf4903"
+      "id": "a4fe885ef9a341e9b9bdaf4e45523a0b"
     },
     {
       "label": "Project Manager",
       "value": "Rainey+Best",
-      "id": "39d753067a934fa4adca6250848cc86a"
+      "id": "088e03759d7f40cb86c779d65f4791d1"
     }
   ],
   "awards": [],

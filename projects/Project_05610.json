@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "05610",
   "url": "mixed-use/one-monte-carlo",
-  "serializeDate": "'2022-06-21 14:16:24.608'",
-  "serialized": 1655820984608,
+  "serializeDate": "'2022-06-27 15:40:38.392'",
+  "serialized": 1656344438392,
   "serializedBy": "sreeve",
   "title": "One Monte Carlo",
   "description": "This project provides a large urban intervention which extends the public realm and redefines the character of this historic key location next to the Place du Casino",
@@ -72,54 +72,54 @@
     {
       "label": "Site Area",
       "value": "5 067 m²",
-      "id": "b3a93714072c4ddaabb87675ccd2d732"
+      "id": "1ad5e96f4b22488c98049130fa41e438"
     },
     {
       "label": "Gross Floor Area",
       "value": "74 595 m²",
-      "id": "9bfb19a53e1d4058b7970a8980bc7432"
+      "id": "db485106b1794fefb7b67866c1810cc9"
     }
   ],
   "companies": [
     {
       "label": "Co-Architect",
       "value": "Alexandre Giraldi Architecte D.P.L.G.",
-      "id": "dcc5a2223d39415d99af62579c8259f6"
+      "id": "8d13dc8ed1ae418b99d2c63d87775679"
     },
     {
       "label": "Quantity Surveyor",
       "value": "Thorne & Wheatley",
-      "id": "76b2e9038bab48d7a8defd9ef82eb882"
+      "id": "d5da15a404ea4bd79e2c74e522779cc5"
     },
     {
       "label": "Structural Engineer",
       "value": "Tractebel Engineering S.A.",
-      "id": "bb8d2d62c7734f7bb1b87fca012c7940"
+      "id": "719417d956084d6b8cf50b7d4e2e7cfa"
     },
     {
       "label": "Landscape Architect",
       "value": "Jean Mus & Compagnie",
-      "id": "4febdc8bffec4e13b67792627cea3483"
+      "id": "5b75cada21354fe0962bde2c44579fac"
     },
     {
       "label": "Environmental Services Engineer",
       "value": "EDEIS",
-      "id": "236984f4d9c647f78e17b0c12d70ef91"
+      "id": "1b9a9494fcf24cabaad8d059de5134f2"
     },
     {
       "label": "Façade Engineer",
       "value": "Arcora",
-      "id": "68fb6b4ad57f4305a098646b95e5950e"
+      "id": "97ac6572264143bd92d644be537513bd"
     },
     {
       "label": "Lighting Design",
       "value": "TG Lighting",
-      "id": "b1f09e99a956412d8925cac7ed2fb7b8"
+      "id": "9d3253abd3694eb7bf8f2db89c173d42"
     },
     {
       "label": "Acoustics",
       "value": "Capri Acoustique",
-      "id": "acc8c016a421489ab79e42eb27e40a23"
+      "id": "85578dea8f78442dbf2cdd2a5a0f00a7"
     }
   ],
   "awards": [],

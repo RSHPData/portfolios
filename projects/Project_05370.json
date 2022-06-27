@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "05370",
   "url": "culture-and-leisure/british-museum-wcec",
-  "serializeDate": "'2022-06-21 14:16:20.713'",
-  "serialized": 1655820980713,
+  "serializeDate": "'2022-06-27 15:40:35.334'",
+  "serialized": 1656344435334,
   "serializedBy": "sreeve",
   "title": "British Museum WCEC",
   "description": "The proposal for the redevelopment of the north-west corner of the Museum site will provide a flexible series of spaces which support the wide range of activities undertaken by the British Museum.",
@@ -66,13 +66,13 @@
   "heights": [
     {
       "value": "20m",
-      "id": "C7D0F9A4C1E94365953FD7"
+      "id": "F236C68F63FF4BFEADCD42"
     }
   ],
   "floors": [
     {
       "value": "9",
-      "id": "D5F4B0E1C6E64669B96A06"
+      "id": "8F5167005B2F4167AA90B0"
     }
   ],
   "overview": "The proposal for the redevelopment of the north-west corner of the Museum site will provide a flexible series of spaces which support the wide range of activities undertaken by the British Museum.\n\nThe design approach has been driven by the nature of the site: Four linked pavilions are arranged in such a way as to respect the existing façades of the King Edward VII Building and Smirke Buildings and allow daylight to penetrate into existing spaces. The mass of the development is located to the east of the site in order to create good connectivity with the existing Museum but also to mitigate impact on the Bedford Square properties.\n\nThe north elevation of the Museum – formed by the King Edward VII Building – dominates Montague Place and is directly referenced by the rhythm of the structural grid of the proposed scheme. The massing sets the building height to that of the North Range providing a transition between the institutional scale of the nearby university, hospital and the Museum itself, and the adjacent domestic scale of Gower Street and Montague Street. Colouration, rhythm and a sympathetic pallet of materials are used to give a contextual response to the site and the composition aims to repair the fractured geometry of the street edge.\n\n\nThe functional requirements of the brief are arranged vertically across the pavilions. The Collections Storage Facility has been located below ground where the heavy floor loading can easily be accommodated and where the most stable environmental conditions can be found. Above this sits the new logistics hub on Level 0, linking into the logistics routes of the existing Museum. The Special Exhibitions Gallery has been located at Level 2 (main gallery level in the Museum) in order to allow the best connectivity for the public and to enhance visitor experience.\n\nThe conservation studios sit above the gallery in order to provide good quality daylight for conservation work as well as placing the requirement for flues, fume extraction and ventilation at the top of the building. To encourage biodiversity in Bloomsbury the proposals aim to include a green roof across all four pavilions which will also include nesting boxes for swifts and two beehives.\n\nThe scheme is arranged in two main elements, based upon the idea that a building consists of primary ‘served’ spaces (eg offices, conservation studios, laboratories, galleries, etc) and corresponding secondary ‘servant’ spaces (eg vertical circulation, mechanical and electrical services distribution, access to the pavilion, etc). Each pavilion is served by an adjacent services and circulation core. This principle allows maximum flexibility of space within the pavilions and an efficient use of the cores, generating a clear logic of movement and use.\n\n\nEach building includes three levels of underground storage and uses minimal interventions in the fabric of the existing Museum.The design also seeks to bring an order to the otherwise disparate and complex nature of the site and surrounding context. The linked pavilions are consistent in height with the North Range and one storey lower than the King Edward VII building.Materials have been chosen to complement those of the existing building.\n\nThe design received planning approval in December 2009. Work to demolish existing buildings and clear the site – as well as an extensive archaeological dig – took place during 2010 with construction taking place between 2011-13.",
@@ -83,59 +83,59 @@
     {
       "label": "Gross Floor Area",
       "value": "18 000 m²",
-      "id": "cc1e49e69a7f4817affbedf5a605846a"
+      "id": "ba793cd26de94cbba78acfaeedd86bb8"
     }
   ],
   "companies": [
     {
       "label": "Structural Engineer",
       "value": "Ramboll UK",
-      "id": "fd8334a938a841e1b7fcb647d078b36d"
+      "id": "d342fb3f67944a21a5d8f94341ef6d11"
     },
     {
       "label": "Services Engineer",
       "value": "Arup",
-      "id": "5980f6a76ba940b58e1f9219d12f8d55"
+      "id": "a37a86e8275b47c3b91d4470f11859d6"
     },
     {
       "label": "Quantity Surveyor",
       "value": "Davis Langdon / AECOM",
-      "id": "900bd01f06464c14b8d1a548627deb91"
+      "id": "7b95f9a5cf1d46dfb3d6e57206b9704c"
     },
     {
       "label": "Project Manager",
       "value": "Savant",
-      "id": "7e1772e7d195428bb30b7110132dfb49"
+      "id": "ffc4f11f0d1744aa948c387a581c4731"
     },
     {
       "label": "Conservation Architect",
       "value": "Purcell Architects",
-      "id": "b8489282a5514a39b5dbe9d4d6b7c11d"
+      "id": "b171f74f1bfd46c4a2e922cd9a38d430"
     },
     {
       "label": "Landscape Architect",
       "value": "Gillespies",
-      "id": "eef3f903510c4ee5b5169a9c5e40ce82"
+      "id": "fb5aaf971e504f218ab4a83406d7a02b"
     },
     {
       "label": "Construction Manager",
       "value": "Mace",
-      "id": "f93f83112b794cb998dee22d6078f2fd"
+      "id": "6a1c97bd817741e7a41a84a29e5cf5cf"
     },
     {
       "label": "Planning Consultant",
       "value": "Montagu Evans",
-      "id": "6b07bddaac2b4b6db449f2095b6ecc8f"
+      "id": "3c292602fa5949bfa4be0a1643883d66"
     },
     {
       "label": "Townscape Consultant",
       "value": "Francis Golding",
-      "id": "021a9b0ef77843d8a7b17578e5f7fe8a"
+      "id": "e6aa1d219db64f9cb50c72d9731b3fdd"
     },
     {
       "label": "Strategic Planning and Consultation Strategy",
       "value": "The Green Brain",
-      "id": "ceea59384f364acc8458bcead121676f"
+      "id": "37f63e54551144c89d969a83559cc442"
     }
   ],
   "awards": [
@@ -143,7 +143,7 @@
       "date": "2017-01-01",
       "year": "2017",
       "award": "RIBA Stirling Prize Shortlist",
-      "rowId": "44a3cf69dfc64ceab9c353ff0bea303d"
+      "rowId": "3d93a4f28f98406694a2a42ee05079a1"
     },
     {
       "date": "2017-01-01",
@@ -161,7 +161,7 @@
       "date": "2015-01-01",
       "year": "2015",
       "award": "RICS Awards - Best Building in the Tourism and Leisure Sector",
-      "rowId": "6f049e32e6fe46b2b2e873ae24a11460"
+      "rowId": "d91eced4854c42488444d8130813d61d"
     }
   ],
   "certificates": [

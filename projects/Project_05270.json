@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "05270",
   "url": "office/3-world-trade-center",
-  "serializeDate": "'2022-06-21 14:16:19.284'",
-  "serialized": 1655820979284,
+  "serializeDate": "'2022-06-27 15:40:34.216'",
+  "serialized": 1656344434216,
   "serializedBy": "sreeve",
   "title": "3 World Trade Center",
   "description": "The architectural concept for 3 World Trade Center was realised as part of the wider context of the WTC masterplan, and represents a resolution of the varying requirements of the New York Port Authority and the client, Silverstein Properties.",
@@ -65,7 +65,7 @@
   "heights": [
     {
       "value": "330m",
-      "id": "1165B9B4AA154397858C53"
+      "id": "97477140DAA6457FAD9922"
     }
   ],
   "overview": "Tower 3 at 175 Greenwich Street is located at the heart of the revitalised World Trade Center site in New York.\n\nThe brief called for the design of a new commercial skyscraper to deliver a total of 2.5million sq ft (above ground area) designed within the guidelines of the previously developed Studio Libeskind masterplan for the site.\n\n3 World Trade Center is bound by Greenwich Street to the West, Church Street to the East, Dey Street to the North and Cortlandt Street to the South, and positioned opposite the WTC Memorial and Cultural Center, at the heart of the cluster of buildings which surround the memorial site. The brief for 3 World Trade Center outlined the building’s function as the site’s commercial core and aimed to address the issue of balancing retail and office space, while also complementing and acknowledging the WTC Memorial.\n\n\nTower 3 has an orthogonal relationship to the main space between the Memorial water pools and to further complement this relationship, the central zone of the building reduces in mass as it rises towards the sky. The effect is a stepped profile which accentuates the building’s verticality, relative to the memorial site and is sympathetic to the height and position of the neighbouring buildings.\n\nThe design includes five trading floors, 53 office floors (totalling 2.5 million sq ft (232,255 m²)) of above ground area, five retail levels, and eight mechanical floors which serve trading and office floors, 44 passenger lifts and two principal stairwells. The lower section of Tower 3 – the ‘podium building’ – contains the tower’s retail element and the trading floors, and the upper levels hold the office space. The streetscape is activated by retail façades enabling free-flowing movement of shoppers between five levels of retail, three above ground and two below, served by two lifts and four stairwells.\n\n\nTo maximise sustainability in terms of the building’s day-to-day functioning, similar ‘green design’ features as those included in the design of 7 World Trade Center have been incorporated. The design team ensured energy use and costs were significantly reduced compared to typical Manhattan office buildings, and has achieved ‘Gold’ Certification for Leadership in Energy and Environmental Design from the U.S. Green Buildings Council.",
@@ -76,44 +76,44 @@
     {
       "label": "Site Area",
       "value": "60,000 ft² (5,574m²)",
-      "id": "7e46ea52eba8475cafb10c41123d4a93"
+      "id": "624721cf4c4e4c22ad71a53ab9052568"
     },
     {
       "label": "Gross Internal Area",
       "value": "2.8 million ft² ( 260,129m²)",
-      "id": "83bf525a08c1401eb68173d5dda03d2d"
+      "id": "b3c0664c03f64ca58662aaec51551ce7"
     },
     {
       "label": "Net Lettable Area",
       "value": "2.1 million ft² (195,096m²)",
-      "id": "dfb1dc9c191c4c1cb83958dab26d6028"
+      "id": "69b20c9a3c38417c9add645ff0abe89a"
     }
   ],
   "companies": [
     {
       "label": "Architect of Record",
       "value": "Adamson Associates",
-      "id": "cbcc94e114e64c02aedee3242014d1a4"
+      "id": "e3db6515c705415687c3216fc609e108"
     },
     {
       "label": "Structural Engineer",
       "value": "WSP Cantor Seinuk",
-      "id": "db49efd6073541f995d08310d6bbdd08"
+      "id": "79860b48619940eab5486ed614cce5dc"
     },
     {
       "label": "Services Engineer",
       "value": "Jaros Baum & Bolles",
-      "id": "535ff7a5257e4668ab75bc63dad4a23d"
+      "id": "a0dca15b15704359977df78c1bdb834d"
     },
     {
       "label": "Dynamic Loading Consultants",
       "value": "Weidlinger Associates Incorporated",
-      "id": "a05b167e9fad49079c99def6c88bc4eb"
+      "id": "b49cf276b18d4da9933f7d00e60100c4"
     },
     {
       "label": "Security Consultants",
       "value": "Ducibella Vanter & Santore",
-      "id": "10ec90eeb6d5499ca980b0c245f9209a"
+      "id": "a7080126264244ae9118465da2295d50"
     }
   ],
   "awards": [
@@ -121,7 +121,7 @@
       "date": "2020-01-01",
       "year": "2020",
       "award": "Nominated International High Rise Awards",
-      "rowId": "7a44788fbbf34702a245608a0dbd70b2"
+      "rowId": "1ccad3fcaa8e4024bb5201f7056f2809"
     },
     {
       "date": "2019-01-01",
