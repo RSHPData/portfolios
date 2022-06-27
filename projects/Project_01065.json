@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "01065",
   "url": "transport/terminal-5-heathrow-airport/",
-  "serializeDate": "'2022-06-21 14:15:24.703'",
-  "serialized": 1655820924703,
+  "serializeDate": "'2022-06-27 09:42:47.826'",
+  "serialized": 1656322967826,
   "serializedBy": "sreeve",
   "title": "Terminal 5, Heathrow Airport",
   "description": "Rogers Stirk Harbour + Partners won the competition for Terminal 5 at Heathrow Airport in 1989. The terminal became operational in March 2008, after being officially opened by Queen Elizabeth II.",
@@ -126,16 +126,10 @@
   "leaders": [
     "Steve Martin"
   ],
-  "heights": [
-    {
-      "value": "40 m",
-      "id": "2BEE6DE10A9E4D0E806CD9"
-    }
-  ],
   "floors": [
     {
       "value": "5",
-      "id": "7DEC1941F2F2477097B7E4"
+      "id": "0F70210CF93F4D00B98793"
     }
   ],
   "overview": "Rogers Stirk Harbour + Partners won the competition for Terminal 5 (T5) at Heathrow Airport in 1989. The terminal became operational in March 2008, after being officially opened by Queen Elizabeth II.\n\nThe original competition scheme evolved during the 1990s, shaped by changing requirements, including a dramatic reduction in site area and different security needs.\n\n\nThe built scheme for the main terminal offers an unencumbered, long-span ‘envelope’ – developed with Arup – with a flexibility of internal space conceptually similar to that of the practice’s much earlier design for the Pompidou Centre in Paris. Departure and arrivals areas, check-in desks, commercial space, retail, offices, passenger lounges, back-up and other facilities are all contained within freestanding steel-framed structures inside the building and can be dismantled and reconfigured as future needs change. The built, multi-level scheme is contained beneath an elegant, curved floating roof, supported by slim columns at the perimeter edges to provide the required highly flexible and visually dramatic internal space. In this scheme, passengers depart and arrive in a terminal building which offers generous spaces and fine views across the airport.\n\n\nAs well as the design of the main terminal building, RSHP was also responsible for the design of two satellites and Heathrow’s new control tower, which became operational in early 2007. The main terminal, its satellite buildings, and the new control tower are all part of a wider T5 campus development that includes a landscaped motorway link from the M25, the creation of two new open rivers from previously culverted channels under the airport, the construction of more than a square kilometre of taxi-ways and aircraft stands, three rail stations (for the Piccadilly line, Heathrow Express, and overland rail), an airside track transit system, and an airside road tunnel connecting directly to Heathrow’s central terminal area.",
@@ -146,44 +140,44 @@
     {
       "label": "Gross Floor Area",
       "value": "465 000 m²",
-      "id": "5b534c8f98b8443aa9f9a00bc869cd4b"
+      "id": "ac8b1800b20f4010b0ff537634662114"
     },
     {
       "label": "Site Area",
       "value": "260 ha",
-      "id": "c71d7b64748f4b278c4f79e2c17a7a4c"
+      "id": "67632c30e2c34b1d859311a2a0d8397f"
     }
   ],
   "companies": [
     {
       "label": "Co-Architect",
       "value": "Pascal + Watson (production) / Chapman Taylor (retail) / HOK (rail systems) / YRM (BA/BAA liaison)",
-      "id": "e1578b3202f04e198f0a93143ebe63be"
+      "id": "e298ee34cecd477483b09d3b5745c1a1"
     },
     {
       "label": "Structural Engineer",
       "value": "Arup",
-      "id": "0331dcc545f041e99379cd9f115ecc2c"
+      "id": "838fe4a411c148fc899026ea323e5f9c"
     },
     {
       "label": "Services Engineer",
       "value": "DSSR / Arup",
-      "id": "c2331198e9bc4cdc9d5323239be63bc2"
+      "id": "9ce4d812d6bb4096954a66b27ab08f64"
     },
     {
       "label": "Contractor",
       "value": "Laing O’Rourke / Mace / Balfour Beaty / AMEC / Severfield-Rowan",
-      "id": "720e56c80ea444359e26e225125dcc95"
+      "id": "24a20453cc994e499a358cf2dcf7aaab"
     },
     {
       "label": "Civil Engineer",
       "value": "Mott McDonald",
-      "id": "406db1cb6c7341af9f660e7053ecde42"
+      "id": "389efa28d1b84fad90a7e772b335f0e3"
     },
     {
       "label": "Construction Management",
       "value": "BAA",
-      "id": "47dde8e1dcf44155b69c738d0bd63321"
+      "id": "5d85fb2edaf14cf087a9cfe8a90c4056"
     }
   ],
   "awards": [
@@ -191,13 +185,13 @@
       "date": "2014-01-01",
       "year": "2014",
       "award": "Skytrax World’s Best Terminal",
-      "rowId": "55cc07ed429f4702ad7ddde02f0ed00b"
+      "rowId": "a9ac7d92c5214ddba488af66756313c5"
     },
     {
       "date": "2013-01-01",
       "year": "2013",
       "award": "Skytrax World’s Best Terminal",
-      "rowId": "4fd49b39099b48f8b321ac248063c4c1"
+      "rowId": "2bf0b30d49af4981b4d98d32d8d41da0"
     },
     {
       "date": "2008-01-01",
@@ -221,26 +215,25 @@
       "date": "2008-01-01",
       "year": "2008",
       "award": "Sustain Magazine British Construction Awards - Highly Commended",
-      "rowId": "cf3b1b580efc46eaacc53580f7880b23"
+      "rowId": "a1a5feecfec04a908e3be6df331de31a"
     },
     {
       "date": "2008-01-01",
       "year": "2008",
       "award": "Off Site Construction Award - Best Commercial Project Off Site Construction (OSC)",
-      "rowId": "d288a17c1edf406f92c220f3a3d96ecc"
+      "rowId": "991d1fa3c5184a37bf0775cd734e6089"
     },
     {
       "date": "2008-01-01",
       "year": "2008",
       "award": "Structural Award for Commercial Structures Institution of Structural Engineers (IStructE)",
-      "rowId": "0cdf9ad18f484ea0befa4c0a2f221b55"
+      "rowId": "72e37be0b6384dbc859e08d59f64b005"
     },
     {
       "date": "2008-01-01",
       "year": "2008",
       "award": "Supreme Award for Structural Engineering Excellence Institution of Structural Engineers (IStructE)",
-      "rowId": "e774e0115a3f495f913df12f948834c4"
+      "rowId": "d0eb7afa49b447208fd1dc16c7342538"
     }
-  ],
-  "certificates": []
+  ]
 }
