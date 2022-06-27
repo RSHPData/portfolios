@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "02930",
   "url": "culture-and-leisure/hesperia-hotel/",
-  "serializeDate": "'2022-06-21 14:15:50.615'",
-  "serialized": 1655820950615,
+  "serializeDate": "'2022-06-27 10:14:12.666'",
+  "serialized": 1656324852666,
   "serializedBy": "sreeve",
   "title": "Hesperia Hotel",
   "description": "The Hesperia Hotel and Conference Centre forms a new landmark in the rapidly developing urban centre of L’Hospitalet, Catalonia’s second largest city with 240,000 inhabitants.",
@@ -42,7 +42,7 @@
   "heights": [
     {
       "value": "30 storeys",
-      "id": "B7C92B1FECD14541B7985E"
+      "id": "613060DF09034AF196D77C"
     }
   ],
   "overview": "The Hesperia Hotel and Conference Centre forms a new landmark in the rapidly developing urban centre of L’Hospitalet, Catalonia’s second largest city with 240,000 inhabitants.\n\nThe brownfield site is 10km west of Barcelona, flanking la Gran Via, a motorway which leads out to the airport and is to be transformed into an attractive boulevard – and a gateway to Barcelona. Fast traffic will be contained in a sunken section, making local traffic the only traffic at street level. The possibility of decking over the sunken section offers the potential for a sequence of vibrant new public piazzas.\n\n\nThe design for the scheme places lift and service towers at the edge of the building as ‘servant spaces’, with the lower floors of the 30-storey tower devoted to public spaces within an open and transparent ‘container’. The scheme comprises a 304-room five-star hotel, a 3,000 m² conference centre accommodating 1,800 people, a 500-seat auditorium, 1,500 m² headquarters for the Hesperia company and a 4,500 m² sports club, with a swimming pool and gym. A public square extends below the tower connecting it to the adjacent low-rise buildings. One of the restaurants is housed in a striking glazed ‘dish’ located at roof level.\n\nDetailed design work started in September 2000. The project was completed in early 2006, and was formally opened at a ceremony in June 2006.",
@@ -53,44 +53,44 @@
     {
       "label": "Hotel GIA",
       "value": "14,000 m²",
-      "id": "6397d5af80a04200aa5531e7521d285a"
+      "id": "a2948db900e944d8afeb0c87e6490520"
     },
     {
       "label": "Sports Club GIA",
       "value": "5,900 m²",
-      "id": "27fae217bdee4f63bab7a0aff351a8fe"
+      "id": "2cf34b4537d146f680f6ea2a6adc2e5b"
     },
     {
       "label": "Conference Centre GIA",
       "value": "4,500 m²",
-      "id": "cb73aa530f1e4722b64824f2c6ffd750"
+      "id": "1259e1b9c58e4be3bb8d046f9a3a55e0"
     },
     {
       "label": "Site Area ( including Park)",
       "value": "50,000 m²",
-      "id": "7c903c6dd7454f64a801589be0150060"
+      "id": "3f0b09fa1f2d460683e06f3db3ab6b16"
     }
   ],
   "companies": [
     {
       "label": "Structural Engineer",
       "value": "Buro Happold/Obiol, Moya y Asociados, Brufau y Asociados",
-      "id": "9169d31810074d1eaaad1ca545fe0747"
+      "id": "9a5028d5befe4adf9d9100791e89b7ae"
     },
     {
       "label": "Services Engineer",
       "value": "BDSP/J G y Asociados",
-      "id": "f1da425745584c1a9566f7a974844944"
+      "id": "7a938187e6ec4abca20d1d3c65eaab48"
     },
     {
       "label": "Quantity Surveyor",
       "value": "Atkins, Faithful & Gould/G3 Tecnics",
-      "id": "fad49b430c284163b88b56223c052e2e"
+      "id": "e0ac250b47494281ab1757209489be0a"
     },
     {
       "label": "Contractor",
       "value": "Construcciones Castro",
-      "id": "5bddfbbb938943b8ac0810ea5d5f216a"
+      "id": "8795ceaee4784d46b737f7157b67233a"
     }
   ]
 }
