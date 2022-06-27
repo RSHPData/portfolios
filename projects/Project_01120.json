@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "01120",
   "url": "civic/european-court-of-human-rights",
-  "serializeDate": "'2022-06-21 14:15:26.412'",
-  "serialized": 1655820926412,
+  "serializeDate": "'2022-06-27 15:39:52.782'",
+  "serialized": 1656344392782,
   "serializedBy": "sreeve",
   "title": "European Court of Human Rights",
   "description": "The European Court of Human Rights provides a landmark building for the ‘New Europe’ on a site some distance from the historic centre of the city and close to the river.",
@@ -51,49 +51,49 @@
     {
       "label": "Gross Floor Area",
       "value": "28 000 m²",
-      "id": "bdcbdbb948024e55b0b32e514d169a4d"
+      "id": "c2f4eadc06524e7589320e1a1458e684"
     }
   ],
   "companies": [
     {
       "label": "Co-Architect",
       "value": "Atelier d'Architecture Claude Bucher",
-      "id": "07110ef583da4f04a3eaea12e8f93bd4"
+      "id": "f88b520f3ba64663928654be9227f06d"
     },
     {
       "label": "Structural Engineer",
       "value": "Ove Arup & Partners / Omnium Technique Européen",
-      "id": "0697035f17624e7988d23f7db092f95d"
+      "id": "bc9c3a7df1a9486ab8a8ac57712ee63e"
     },
     {
       "label": "Services Engineer",
       "value": "Ove Arup & Partners / Omnium Technique Européen",
-      "id": "9e1fedae055340b2988ec8819596d4a8"
+      "id": "0c48a0f88bcb41ac91df465b66f2cc2d"
     },
     {
       "label": "Quantity Surveyor",
       "value": "Thorne Wheatley Associates",
-      "id": "65dbcf57f2604b079cfababf4a33ccda"
+      "id": "0b86628235674a549760d8aafd1027e4"
     },
     {
       "label": "Lighting Consultant",
       "value": "Lighting Design Partnership",
-      "id": "98ce58c6510c4d2996ffa40042625769"
+      "id": "bb06878a93d3449bbbc6e84dca16602b"
     },
     {
       "label": "Landscape Architect",
       "value": "David Jarvis Associates / Dan Kiley",
-      "id": "ac17488c6ee748e5aa49b05a0b8b982b"
+      "id": "8cf6cc49720a4ffab23651e306b786c7"
     },
     {
       "label": "Contractor",
       "value": "Campenon Bernard SGE",
-      "id": "c34c748c85cb44f39b079610a0be1319"
+      "id": "86fdf6dd2c994392a81e0d313bd242f3"
     },
     {
       "label": "Acoustic Consultant",
       "value": "Sound Research Laboratories",
-      "id": "2356ea304cb341e28d94c6165790b745"
+      "id": "f524d10ef09941abb631344c7e2ca2e0"
     }
   ],
   "awards": [
@@ -101,7 +101,7 @@
       "date": "2015-01-01",
       "year": "2015",
       "award": "Architecture contemporaine remarquable",
-      "rowId": "4b3c8db2493c4e09bab434b767a5b593"
+      "rowId": "bbcbef7a9e4343ee9f3229bd98335f6a"
     }
   ]
 }

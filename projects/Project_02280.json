@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "02280",
   "url": "sport-and-arenas/saitama-arena/",
-  "serializeDate": "'2022-06-21 14:15:40.875'",
-  "serialized": 1655820940875,
+  "serializeDate": "'2022-06-27 15:40:05.086'",
+  "serialized": 1656344405086,
   "serializedBy": "sreeve",
   "title": "Saitama Arena",
   "description": "RSHP's proposal for a landmark arena for Saitama - close to Tokyo - was developed for a high-profile international competition.",
@@ -44,17 +44,17 @@
     {
       "label": "Services Engineer",
       "value": "Fujita Construction",
-      "id": "3ad138bdad914dbdbb687210f5b14db5"
+      "id": "d155acef9fd24004b1a18831bd1ab72a"
     },
     {
       "label": "Quantity Surveyor",
       "value": "Fujita Construction",
-      "id": "ff61e1ee34954ac19623f793d3d062ca"
+      "id": "9de69e138adb45e0ba82b1456e352c2d"
     },
     {
       "label": "Structural Engineer",
       "value": "Arup",
-      "id": "4e5c0c95defc4500bc11b2a9d28ec470"
+      "id": "5b663aa6a9fc41259862c2d763334310"
     }
   ],
   "awards": [],

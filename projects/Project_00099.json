@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "00099",
   "url": "culture-and-leisure/centre-pompidou",
-  "serializeDate": "'2022-06-21 14:15:10.036'",
-  "serialized": 1655820910036,
+  "serializeDate": "'2022-06-27 15:39:37.370'",
+  "serialized": 1656344377370,
   "serializedBy": "sreeve",
   "title": "Centre Pompidou",
   "description": "The Centre Pompidou brings together the themes which have characterised Rogers’ architecture from the mid 1960s – skin and structure, technology and flexibility, movement and anti-monumentalism.",
@@ -73,44 +73,44 @@
     {
       "label": "Gross Floor Area",
       "value": "100 000 m²",
-      "id": "22d986e08f4a4337b102ccccba72985f"
+      "id": "d2f0be55b060459e9fe956180b11e632"
     }
   ],
   "companies": [
     {
       "label": "Architect",
       "value": "Piano + Rogers",
-      "id": "f410a071ec2648e793044b6ef8c92e00"
+      "id": "5f9e9595423044b08d7399bbdf242549"
     },
     {
       "label": "Structural Engineer",
       "value": "Ove Arup & Partners",
-      "id": "752070bbe7c9466db0d3b619b49dda16"
+      "id": "8093528bbf8d44f6b1ba0d73cbcdeec1"
     },
     {
       "label": "Services Engineer",
       "value": "Ove Arup & Partners",
-      "id": "0610a732c2364bcdbbc8fbcc8b386a02"
+      "id": "09bcf4b759e54e36a6d69b76828c870c"
     },
     {
       "label": "Quantity Surveyor",
       "value": "Ove Arup & Partners",
-      "id": "71dc7a7a9ca646508774210564bcd13b"
+      "id": "a1bd057d9e61446cbe3f31a03bebbb3b"
     },
     {
       "label": "Landscape Architect",
       "value": "Cuno Brullmann",
-      "id": "2265b83f0eef4991885664a902d87a9c"
+      "id": "a77c6aea1d1b4c7783072a8d4a817aeb"
     },
     {
       "label": "Contractor",
       "value": "Grands Travaux de Marseilles",
-      "id": "db89e81850dd4f4dabe9d1715beef3b9"
+      "id": "37ebad07059944b691e7523b4ffd5c7d"
     },
     {
       "label": "Graphic Consultant",
       "value": "VDA Group",
-      "id": "e8822feacbb440a3b4ad2bd848a00fc1"
+      "id": "b764f263e2ad494c91345a4cd745962f"
     }
   ],
   "awards": [
@@ -118,7 +118,7 @@
       "date": "1978-01-01",
       "year": "1978",
       "award": "International Union of Architects August Perret Prize for most outstanding International Work",
-      "rowId": "428fca3669d44f0aaf6202640fad7ac8"
+      "rowId": "fa0024f3e25b47f1b4f330a76eecab20"
     }
   ]
 }

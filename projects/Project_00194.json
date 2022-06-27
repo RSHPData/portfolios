@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "00194",
   "url": "masterplanning/coin-street",
-  "serializeDate": "'2022-06-21 14:15:11.804'",
-  "serialized": 1655820911804,
+  "serializeDate": "'2022-06-27 15:39:39.042'",
+  "serialized": 1656344379042,
   "serializedBy": "sreeve",
   "title": "Coin Street",
   "description": "This mixed development on the south bank of the Thames, close to the West End and the City has proved to be a great test bed of ideas in city planning for the practice.",
@@ -25,44 +25,44 @@
     {
       "label": "Gross Floor Area",
       "value": "128 000 m²",
-      "id": "e9ac35befe52498382270955b320521f"
+      "id": "4b87111b7cdf4f5e98a64c308073a902"
     },
     {
       "label": "Offices",
       "value": "92,500 m²",
-      "id": "2ed4b802d23047838e78688681b8b923"
+      "id": "565bf6997f9a413998f67d6aa8fe1bed"
     },
     {
       "label": "Housing",
       "value": "18,500 m²",
-      "id": "3912091ef1fb478aa1d450fa915bd2f3"
+      "id": "6d4dc229cae34d048babf1041d6d2d25"
     },
     {
       "label": "Leisure",
       "value": "6,500 m²",
-      "id": "f41512bbf27448f39d444cca7952c56a"
+      "id": "095d9f057194495f9f276df1200cd195"
     },
     {
       "label": "Retail and restaurants",
       "value": "10,500 m²",
-      "id": "9b1982664fe5479ab0bfc823ecf362a3"
+      "id": "6a27bda7e9634b4181ae3de8b1a0a196"
     }
   ],
   "companies": [
     {
       "label": "Structural Engineer",
       "value": "Ove Arup and Partners",
-      "id": "50fa2a591f4b4718ae164b9db7c965d1"
+      "id": "6a5fb066832746bc8fed5318f1f91b18"
     },
     {
       "label": "Quantity Surveyor",
       "value": "Gardiner and Theobald",
-      "id": "6d325da1e29f437794f183f349968cc4"
+      "id": "8175ea469cca484295c4eb6bb216aa97"
     },
     {
       "label": "Traffic Engineer",
       "value": "W.R. Davidge and Partners",
-      "id": "3af50f9775b04647abbbdde63032ef40"
+      "id": "80743eceaecd4aa5ae238a44dfbd94b3"
     }
   ]
 }

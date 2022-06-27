@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "01975",
   "url": "office/lloyds-register-of-shipping/",
-  "serializeDate": "'2022-06-21 14:15:34.515'",
-  "serialized": 1655820934515,
+  "serializeDate": "'2022-06-27 15:39:59.609'",
+  "serialized": 1656344399609,
   "serializedBy": "sreeve",
   "title": "Lloyd’s Register of Shipping",
   "description": "The brief for Lloyd’s Register’s London headquarters represented a major design challenge – of building new office space on a tight urban site, in an architecturally sensitive conservation area.",
@@ -48,7 +48,7 @@
   "floors": [
     {
       "value": "14",
-      "id": "95CC22225DC7470BA6E1A6"
+      "id": "B4F1C1AB2D3C4534A07688"
     }
   ],
   "overview": "The brief for Lloyd’s Register’s London headquarters represented a major design challenge – of building new office space on a tight urban site, in an architecturally sensitive conservation area.\n\nThe site is defined by existing buildings on two sides - including the Grade II listed 71 Fenchurch Street constructed for Lloyd’s Register in 1901 and now extensively restored and incorporated into the new headquarters. The building steps up from six to 14 storeys of office space with two basements, covering a total of 24,000 square metres. To respond to the shape of the site the new building is structured around tapered floor-plates, creating a fan-shaped grid around two atria spaces. These atria, and internal and external courtyards, allow daylight to penetrate to the heart of the building.\n\n\nClarity of architectural language is the key to this development, where the function of all constituent elements is celebrated, revealing the secrets of their manufacture and operation. Service cores are expressed as towers – two primary circulation cores face the churchyard, while secondary cores to the rear house toilets, goods lifts, staircases, and the main services risers. Highly transparent glazing offers instant legibility – people using the fully glazed wall-climber lifts and stairs animate the building’s exterior. The glazed façade forms part of an integrated cooling and heating system, which enables the building to achieve a 33 per cent reduction in carbon dioxide emissions compared with conventional air conditioning. Lloyd's Register was the first project in the UK to use chilled beams;nbsp; nbsp;nbsp;annbsp; nbsp;nbsp;energy-efficient solution for the ventilation and air conditioning of internal spaces.",
@@ -58,59 +58,59 @@
     {
       "label": "Site Area",
       "value": "4 160 m²",
-      "id": "f8b0917ffe364c168a7963829be44fa1"
+      "id": "2ea8d20784ca4baa992d0409697601bf"
     },
     {
       "label": "Gross Floor Area",
       "value": "34 000 m²",
-      "id": "0d91db9fad734182a78d66e254e85bf8"
+      "id": "aa70107f4d82413aa915113121d4569a"
     }
   ],
   "companies": [
     {
       "label": "Structural Engineer",
       "value": "Anthony Hunt Associates",
-      "id": "3446c0b439aa446caacf5355f26e1ede"
+      "id": "f9590bb50ba34c2189d0d399e4a7663d"
     },
     {
       "label": "Services Engineer",
       "value": "Ove Arup & Partners",
-      "id": "310c6eea278d479c8b1900fe91ce8fe2"
+      "id": "3fde7da70d4f4fd8b2b09eeccc39926f"
     },
     {
       "label": "Quantity Surveyor",
       "value": "AYH Partnership",
-      "id": "e56315345d3c4d5788307656adfaad47"
+      "id": "89e9f7baf9a34bfd9ff045fbd7afbc2b"
     },
     {
       "label": "Project Manager",
       "value": "Richard Ellis",
-      "id": "049aa430a7ff4ffeb422c27c59fc8f23"
+      "id": "d136d61d5f0c418fab62928bb7ce21e2"
     },
     {
       "label": "Lighting Consultant",
       "value": "Lighting Design Partnership",
-      "id": "22e4c244a43e4ac3accd6c4bf8709ac9"
+      "id": "663398a9b08a4706afde8183cc90874f"
     },
     {
       "label": "Landscape Architect",
       "value": "Edward Hutchison",
-      "id": "62a98e33d5314f4bb361d74af8fafbaa"
+      "id": "52f37de8c29145729bca2370dc8af6c1"
     },
     {
       "label": "Contractor",
       "value": "Sir Robert McAlpine & Sons Ltd",
-      "id": "e8eebcd573724443b109ca63c2f06aa4"
+      "id": "d8de5dd0876049c68fee1f00d03f5c49"
     },
     {
       "label": "Planning Consultant",
       "value": "Montagu Evans",
-      "id": "d0c4e883057a456aaa16198f8be793c5"
+      "id": "142fe91525c447f186b01bfe1567e854"
     },
     {
       "label": "Fire Consultant",
       "value": "Warrington Fire Research Consultants",
-      "id": "5ffce8d3935548239a0ad4baa53b25c3"
+      "id": "968c0b485fa8442fafe9a2c528690db6"
     }
   ],
   "awards": [
@@ -130,7 +130,7 @@
       "date": "2002-01-01",
       "year": "2002",
       "award": "Stirling Prize Shortlist",
-      "rowId": "4e23cd0f4e464d07aa9e8a321b1f8a3f"
+      "rowId": "de847db5fd5845b6a17e9ee2433202c8"
     },
     {
       "date": "2002-01-01",
@@ -142,13 +142,13 @@
       "date": "2001-01-01",
       "year": "2001",
       "award": "Aluminium Imagination Awards - Commendation",
-      "rowId": "32255717645f45fda1d1a4d6b3c425d6"
+      "rowId": "dd0c5f425db44f999234bfbddaaa104a"
     },
     {
       "date": "2000-01-01",
       "year": "2000",
       "award": "Concrete Society of Excellence 'Building Category'",
-      "rowId": "d4165319f699456e98aad2838a3ac976"
+      "rowId": "c7b918ae569f499589cdb1b92be15a13"
     }
   ]
 }

@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "02460",
   "url": "education/minami-yamashiro-elementary-school",
-  "serializeDate": "'2022-06-21 14:15:41.607'",
-  "serialized": 1655820941607,
+  "serializeDate": "'2022-06-27 15:40:05.665'",
+  "serialized": 1656344405665,
   "serializedBy": "sreeve",
   "title": "Minami Yamashiro Elementary School",
   "description": "This school was commissioned by the mayor of Minami Yamashiro to reunite and regenerate the local community; he desired a school that also acted as a community centre.",
@@ -40,13 +40,13 @@
   "heights": [
     {
       "value": "11.55 m",
-      "id": "FC486F0944A5459AB1AE2F"
+      "id": "DD749C42688C466D90083D"
     }
   ],
   "floors": [
     {
       "value": "2",
-      "id": "6045D6B54D9448BBA545AE"
+      "id": "E03C04B65BDB4BA7AE24AC"
     }
   ],
   "overview": "This school was commissioned by the mayor of Minami Yamashiro to reunite and regenerate the local community; he desired a school that also acted as a community centre. The result is a building that offers evening classes and life-long learning for the community’s adult population, as well as daytime schooling for children.\n\n\nSet into a steep hillside, the project is arranged as two buildings, one stepping down from the other and characterised by an elegant undulating roof. This form allows for a series of roof lights that bring daylight deep into the heart of the building. Inside a large common hall acts as the focus of activities with two levels of flexible classroom spaces arranged around it. Bright wall colours within the grid frame are coded for children and adults, defining different areas and functions.\n\n\nDetailed and implemented by RRP’s Tokyo office, this project uses simple, durable, low maintenance materials to achieve elegant results. This combined with Japan’s simple procurement process means that Minami Yamashiro costs less than half of a school of the same size in the UK.",
@@ -57,39 +57,39 @@
     {
       "label": "Site Area",
       "value": "24 384 m²",
-      "id": "e364aef61e454701bb398bfa8dd80a69"
+      "id": "b3f6fe1a921d4789a41905dbfb9a9d50"
     },
     {
       "label": "Gross Floor Area",
       "value": "10 200 m²",
-      "id": "7ed2958d60de4edba084caa49c5e0067"
+      "id": "9ec1d51239774dc298e31063d7ed1cc5"
     }
   ],
   "companies": [
     {
       "label": "Structural Engineer",
       "value": "Umezawa Structural Engineers",
-      "id": "44c1c02f83c040878e25b3e94ddf2595"
+      "id": "8d105c57a983454c99a3768371667ae4"
     },
     {
       "label": "Services Engineer",
       "value": "Setsubi-Sekkei 21 / Six Squares",
-      "id": "4ad0942e8cdc4552be3c713504165e23"
+      "id": "d3828b931c66484ea98e54d3dd2755a4"
     },
     {
       "label": "Quantity Surveyor",
       "value": "Dan Surveyors Office",
-      "id": "3bd39381be7d4d8bb647668f2a09957c"
+      "id": "1f58e2a2f067436d8bd9a99f540db880"
     },
     {
       "label": "Landscape Architect",
       "value": "Equipe Espace",
-      "id": "16c2586a24394f9883ebf8aa7ddb9d25"
+      "id": "39ee49f081f0448ab27aea49975b9d4f"
     },
     {
       "label": "Contractor",
       "value": "Asanuma Corporation",
-      "id": "2e16f7514953462b8bc27e684e6c4f44"
+      "id": "3d15064d11e448859d9fdfe860f56b04"
     }
   ],
   "awards": [
@@ -97,7 +97,7 @@
       "date": "2004-01-01",
       "year": "2004",
       "award": "RIBA Worldwide Winner RIEF (Research Institute of Educational Facilities) Chairman Award",
-      "rowId": "87b7e5fd83c44a869fff5f14246137d8"
+      "rowId": "a6fa3e94a1014890af6a73b3b1576b37"
     }
   ],
   "certificates": []

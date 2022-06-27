@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "01990",
   "url": "civic/bordeaux-law-courts",
-  "serializeDate": "'2022-06-21 14:15:35.275'",
-  "serialized": 1655820935275,
+  "serializeDate": "'2022-06-27 15:40:00.241'",
+  "serialized": 1656344400241,
   "serializedBy": "sreeve",
   "title": "Bordeaux Law Courts",
   "description": "Rogers Stirk Harbour + Partners (formerly Richard Rogers Partnership) won the international competition to design new law courts for the historic city of Bordeaux in 1992.",
@@ -59,39 +59,39 @@
     {
       "label": "Gross Floor Area",
       "value": "25,000 m²",
-      "id": "743cc0e757ce47408ae34224019a0641"
+      "id": "8b1d8e1081a6420da34cd664b07515c6"
     }
   ],
   "companies": [
     {
       "label": "Services Engineer",
       "value": "OtH Sud-Ouest / Ove Arup & Partners",
-      "id": "1bcacb47b9d840ecb4a270c1341155ea"
+      "id": "b0c60fdbde3648b3b2fd571eccdb70dd"
     },
     {
       "label": "Quantity Surveyor",
       "value": "Interfaces, Ingèrop",
-      "id": "bf179fb87b50407e91a830c868cb305d"
+      "id": "121b9a9a206b4dce9621769fc072d72c"
     },
     {
       "label": "Lighting Consultant",
       "value": "Lighting Design Partnership",
-      "id": "dd1f5b07f83e4952a72a3a3b3666f6dd"
+      "id": "702e1c8ca5b741f29cdadb1e5d2ee404"
     },
     {
       "label": "Landscape Architect",
       "value": "Dan Kiley / Edward Hutchison / Branch Associates",
-      "id": "5eed9f6e87a444d6a0f8d0bc1bb2fbe0"
+      "id": "899f4a0d097347fcbbd712200f454834"
     },
     {
       "label": "Contractor",
       "value": "OtH Sud-Ouest",
-      "id": "8ad5a3f81fc346c5955d090836d89ac4"
+      "id": "1f3eceba75e24999bacd352bc16b2956"
     },
     {
       "label": "Acoustic Consultant",
       "value": "Sound Research Laboratories",
-      "id": "a7b538383bd84d6e9cb181364d73bcc5"
+      "id": "6ca4790ea3a94df7b7a9d92b42dd4e68"
     }
   ]
 }

@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "02180",
   "url": "education/thames-valley-university",
-  "serializeDate": "'2022-06-21 14:15:38.353'",
-  "serialized": 1655820938353,
+  "serializeDate": "'2022-06-27 15:40:03.446'",
+  "serialized": 1656344403446,
   "serializedBy": "sreeve",
   "title": "Thames Valley University",
   "description": "In 1994, Thames Valley University approached Richard Rogers Partnership (RRP) to carry out a masterplan study for the improvement of the university campus and to identify a potential site for the Learning Resource Centre.",
@@ -48,39 +48,39 @@
     {
       "label": "Area",
       "value": "3,500 m²",
-      "id": "c3e0ccb43780428bad25be9556ee7ef0"
+      "id": "bb5157ce41b445079775e4987ca1cd82"
     }
   ],
   "companies": [
     {
       "label": "Structural Engineer",
       "value": "Buro Happold",
-      "id": "e9633efada2946c194e3538d4ab27e71"
+      "id": "ef7a9d12cf15436da63db398fb7ad1ad"
     },
     {
       "label": "Services Engineer",
       "value": "Buro Happold",
-      "id": "3bc5a69e582f41998b26032b984fbb24"
+      "id": "813689b244ea45e48db58d929ff561d0"
     },
     {
       "label": "Quantity Surveyor",
       "value": "Hanscomb Ltd",
-      "id": "e71e9f681379408eb9504466d8f804df"
+      "id": "58eab1e2d277415eb1555fc6f4027f0a"
     },
     {
       "label": "Lighting Consultant",
       "value": "Lighting Design Partnership",
-      "id": "8dafe936eb2f43bd80284cc0ccb5b7e7"
+      "id": "5de6b56bb20f431fb7c907c21493b63d"
     },
     {
       "label": "Landscape Architect",
       "value": "Edward Hutchison",
-      "id": "2d46f1f67766429a9fa7b779cc49fd35"
+      "id": "cb5c5adc01a74a40916830df5f11ff1c"
     },
     {
       "label": "Contractor",
       "value": "Laing South East",
-      "id": "b41ffe4fdfd649a99c56d3ed52b60a25"
+      "id": "cc19a147b6624d04a733641339c3d63b"
     }
   ]
 }

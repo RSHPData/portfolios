@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "03610",
   "url": "health-and-science/maggies-west-london-centre",
-  "serializeDate": "'2022-06-21 14:15:57.879'",
-  "serialized": 1655820957879,
+  "serializeDate": "'2022-06-27 15:40:18.216'",
+  "serialized": 1656344418216,
   "serializedBy": "sreeve",
   "title": "Maggie’s West London Centre",
   "description": "Maggie’s Centres offer support for people affected by cancer at any stage, be they patients, family members or friends. Their work is in complete support of conventional medical treatment.",
@@ -45,7 +45,7 @@
   "floors": [
     {
       "value": "2",
-      "id": "D500797CEE5A42D9A28A97"
+      "id": "074B2D8BB8984A62864545"
     }
   ],
   "overview": "Maggie’s Centres offer support for people affected by cancer at any stage, be they patients, family members or friends. Their work is in complete support of conventional medical treatment.\n\nMaggie’s West London Centre, at Charing Cross Hospital in Hammersmith, is conceived as a contrast to the main hospital building. It is a non-institutional building, an ‘open house’ of 370 square metres, arranged over one and a half floors. It is both flexible and adaptable. It can be transparent or opaque, noisy or quiet, light or dark and has a kitchen at the heart of the structure. Rogers Stirk Harbour + Partners hopes to create something that is more homely – more welcoming, more comfortable, more thought-provoking and more uplifting.\n\n\nThe entrance is approached from within the hospital grounds via the car park. The building consists of four components: a wall that wraps around four sides, providing protection from its exposed location; the kitchen – a single height central space which is the main focus and heart of the building; annexes off the main space, conceived as meeting, sitting and consulting rooms; and a ‘floating roof’ that over sails the outer wall and helps flood the space with light. Small courtyards are formed between the building and the wall for quiet spaces.\n\nThe delicate landscape by Dan Pearson creates a visual and emotional transition from the existing hospital to the new Maggie’s Centre. Wrapping the building with trees also filters the noise and pollution of the surroundings whilst providing a leafy and relaxing backdrop, on what is a dense urban and uninviting site.",
@@ -56,64 +56,64 @@
     {
       "label": "Gross Floor Area",
       "value": "370 m²",
-      "id": "5b6b0d4b81a94799a594a967ece86727"
+      "id": "6cf7ee892bcb4aa580985c5d542899ce"
     }
   ],
   "companies": [
     {
       "label": "Structural Engineer",
       "value": "Arup",
-      "id": "25cadea3a69c44cda33dc1dc12ccb7a6"
+      "id": "39009680b54148d7a033f66bf11befbd"
     },
     {
       "label": "Services Engineer",
       "value": "Arup",
-      "id": "7498887ff6ed40e0bb737bb6f3a46e4b"
+      "id": "f051637daaa24958866bd0414079a37e"
     },
     {
       "label": "Quantity Surveyor",
       "value": "Turner Townsend",
-      "id": "0f40248e155244a58df039329eb760d4"
+      "id": "851b245375fa4567871ee0dd58abee4e"
     },
     {
       "label": "Lighting Consultant",
       "value": "Speirs and Major Associates",
-      "id": "d542f14c754d4629bdf4e82726688b07"
+      "id": "99c76ed237a94d28940f45a4486ddcef"
     },
     {
       "label": "Landscape Architect",
       "value": "Dan Pearson Studio",
-      "id": "d345aaf710d74e8fa9ae053627501f2a"
+      "id": "3dd6a67df6544d7f867e09c45231d646"
     },
     {
       "label": "Contractor",
       "value": "ROK",
-      "id": "d76942511930438e9e5a1f17b18b6292"
+      "id": "3b25f89f92e64a8b92ff3927e8e24537"
     },
     {
       "label": "Planning Consultant",
       "value": "TPS Schal",
-      "id": "c62a2b0a6dac4e579d41ad43c85e40e5"
+      "id": "8e06a2d4e4f84b67bbd42157bf02e6b0"
     },
     {
       "label": "Approved Inspectors",
       "value": "Butler & Young",
-      "id": "ddcd6db31e544218af9910fe731fe556"
+      "id": "978e55f5475c40f1b350eec4693d611f"
     },
     {
       "label": "Fire Consultancy",
       "value": "Warrington Fire Consultants",
-      "id": "bdeea3595f7945a9aedb111b5ba3e70e"
+      "id": "8d2574c963644f89809fa4a53c98d3c4"
     },
     {
       "label": "Specifications Consultant",
       "value": "Davis Langdon",
-      "id": "ac03e4e51d6d476787b0e15d419a7130"
+      "id": "f2b8af85c8b046b497a9f2578dc133a3"
     },
     {
       "label": "Access Consultant",
       "value": "Vin Goodwin",
-      "id": "2bdbd45c0f174df2acfdd682f5646e3e"
+      "id": "fa804cbe89a34cc286e186a79e2c6626"
     }
   ],
   "awards": [
@@ -121,7 +121,7 @@
       "date": "2009-01-01",
       "year": "2009",
       "award": "RICS London Award Community Benefit Category",
-      "rowId": "f2a3e5d8c8214efa99af71d9d9aebdb3"
+      "rowId": "7380a7784b6e4344a398b6e6979ddf9c"
     },
     {
       "date": "2009-01-01",
@@ -139,7 +139,7 @@
       "date": "2009-01-01",
       "year": "2009",
       "award": "RIBA Stirling Prize",
-      "rowId": "0209d48b3a8940dab8842a0494c42b72"
+      "rowId": "8bf76ab02fe54269a65abc6645ce8a38"
     }
   ],
   "certificates": []

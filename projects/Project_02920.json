@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "02920",
   "url": "civic/rome-congress-centre",
-  "serializeDate": "'2022-06-21 14:15:49.958'",
-  "serialized": 1655820949958,
+  "serializeDate": "'2022-06-27 15:40:11.999'",
+  "serialized": 1656344411999,
   "serializedBy": "sreeve",
   "title": "Rome Congress Centre",
   "description": "This competition scheme was designed for a site in the EUR district of Rome, an area planned in the 1930s as a demonstration of the monumental formalism that characterised fascist urbanism.",
@@ -42,29 +42,29 @@
     {
       "label": "Gross Floor Area",
       "value": "27 000 m²",
-      "id": "f8fb00b590f74d54b3f30f85e9fdf8b5"
+      "id": "289cce0d273e44d99beb88cd65f7f4d2"
     }
   ],
   "companies": [
     {
       "label": "Structural Engineer",
       "value": "Arup",
-      "id": "12c555824b064d1a918be0d1701eb77d"
+      "id": "157ae769cc244cefa64e2dfc84ffd3e9"
     },
     {
       "label": "Services Engineer",
       "value": "Arup",
-      "id": "e3ee520d8f0649d09e086f9ef27dc936"
+      "id": "4b74786c7d304a3eb5b740110f178826"
     },
     {
       "label": "Quantity Surveyor",
       "value": "Hanscomb Ltd",
-      "id": "5227cdcecaec41ab93990d33455233c4"
+      "id": "9cb352f277794fdfa05391f7d1c20675"
     },
     {
       "label": "Traffic Consultant",
       "value": "Arup Transportation",
-      "id": "8cd69d255c6f483aae44248178a50708"
+      "id": "f2e07227481f4c139ac233f4dfa49b5c"
     }
   ]
 }

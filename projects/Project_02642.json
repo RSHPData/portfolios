@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "02642",
   "url": "transport/terminal-4-barajas-airport/",
-  "serializeDate": "'2022-06-21 14:15:45.034'",
-  "serialized": 1655820945034,
+  "serializeDate": "'2022-06-27 15:40:08.270'",
+  "serialized": 1656344408270,
   "serializedBy": "sreeve",
   "title": "Terminal 4, Barajas Airport",
   "description": "The terminal, which is the biggest in Spain, was commissioned to enable Barajas International Airport to compete with major hub airports within Europe.",
@@ -186,49 +186,49 @@
     {
       "label": "Gross Floor Area",
       "value": "1 158 000 m²",
-      "id": "ecd010d176154f999a37108169080b73"
+      "id": "1babdd1da5b54f1dbdd0e117052ecda8"
     }
   ],
   "companies": [
     {
       "label": "Co-Architect",
       "value": "Estudio Lamela",
-      "id": "200149b1ad90468382448527a6906727"
+      "id": "1c9b9a47a5804cfa836f60e6f0d19a02"
     },
     {
       "label": "Structural Engineer",
       "value": "Anthony Hunt Associates/TPS with OTEP/HCA",
-      "id": "36a7f288ebc2452ab70e30110c093ffc"
+      "id": "be02c53c1f7b45baadfe3f5fb1e57d75"
     },
     {
       "label": "Services Engineer",
       "value": "TPS/INITEC",
-      "id": "73c6ed77c22347538f3b7e961aa22566"
+      "id": "c4be8b613ae14cecbe491a1e996601be"
     },
     {
       "label": "Quantity Surveyor",
       "value": "Hanscomb Ltd/Gabinete",
-      "id": "5622b21e5e2c407d961f4662a4a6720f"
+      "id": "f00b443828cc45dc806ab41d83178e7e"
     },
     {
       "label": "Lighting Consultant",
       "value": "Arup/Speirs and Major Associates",
-      "id": "695b8d31ea6a409a935ba99178b26dfc"
+      "id": "bcf2ca722d4a466895160eb0e3215a1a"
     },
     {
       "label": "Landscape Architect",
       "value": "dosAdos",
-      "id": "d3af267d4fbb4ee2afdcac0c768aceb2"
+      "id": "bfc56e11a5b642bfae70985f76317f2e"
     },
     {
       "label": "Acoustic Consultant",
       "value": "Sandy Brown Associates",
-      "id": "04a338c73f764614ba67183fdcd470a8"
+      "id": "c7e82d73970548f1937b7571443347ff"
     },
     {
       "label": "Façade Engineer",
       "value": "Arup",
-      "id": "fbadf7fa77e442b4b2d9b5bab8c5b614"
+      "id": "e31da886bd154def9a8dbb576e3012da"
     }
   ],
   "awards": [
@@ -248,31 +248,31 @@
       "date": "2008-01-01",
       "year": "2008",
       "award": "XX Urbanism Architecture and Public Works Awards, Madrid City Council",
-      "rowId": "b59a4a410f074085b8fdf2d1e9694c66"
+      "rowId": "9697bb3f3fbd439b862e464c31869eae"
     },
     {
       "date": "2008-01-01",
       "year": "2008",
       "award": "Airport Council Award for Best European Airport",
-      "rowId": "090e2f1d5a9c480fbedd19e65ccbc09d"
+      "rowId": "f9ea4f4d30944fcfadceaee6363ac120"
     },
     {
       "date": "2008-01-01",
       "year": "2008",
       "award": "RIBA European Award",
-      "rowId": "2f14e258147c4f03aabe3890d8562e29"
+      "rowId": "66e33223f51d401b9044115a642b08e4"
     },
     {
       "date": "2008-01-01",
       "year": "2008",
       "award": "RIBA Airport Award",
-      "rowId": "ad437e926829499e835c70ef736933dc"
+      "rowId": "af135d0b039d478f9e2580e41ecadfde"
     },
     {
       "date": "2006-01-01",
       "year": "2006",
       "award": "RIBA Stirling Prize",
-      "rowId": "33881237f718448685fe456bbf07c5a1"
+      "rowId": "a672c6e193a04c28b37ae517c1b2e782"
     }
   ],
   "certificates": []

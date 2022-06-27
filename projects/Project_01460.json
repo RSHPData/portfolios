@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "01460",
   "url": "office/channel-4-hq/",
-  "serializeDate": "'2022-06-21 14:15:29.305'",
-  "serialized": 1655820929305,
+  "serializeDate": "'2022-06-27 15:39:55.618'",
+  "serialized": 1656344395618,
   "serializedBy": "sreeve",
   "title": "Channel 4 HQ",
   "description": "The Channel Four Television Headquarters building occupies a prominent corner plot near Victoria Station London and comprises approximately 15,000 m² of headquarters, broadcasting suites used for daily news and other associated digital channels, a studio, an underground car park and a landscaped garden square.",
@@ -43,49 +43,49 @@
     {
       "label": "Gross Floor Area",
       "value": "15 000 m²",
-      "id": "ea078830945742c9b7f7ac1862e1950e"
+      "id": "3d2e4b5951254f77bc7f9a91f3c2063c"
     }
   ],
   "companies": [
     {
       "label": "Structural Engineer",
       "value": "Arup",
-      "id": "ac932bb659574c86b8281cd03c2d1f6e"
+      "id": "cc3cac1f15d8475980654eb927c826ca"
     },
     {
       "label": "Services Engineer",
       "value": "Arup",
-      "id": "35d708adc0b347059150917e6e0ae496"
+      "id": "ae6f70ec49da4938b8ccd1e6a410e590"
     },
     {
       "label": "Quantity Surveyor",
       "value": "Davis Langdon & Everest / Mott Green & Wall",
-      "id": "03d7578042674501ae2d5a34ecd7721a"
+      "id": "3772c1a0993c44a1817d696ab8492c56"
     },
     {
       "label": "Landscape Architect",
       "value": "Rendel & Branch",
-      "id": "388ef884157f4f5a9619ad65cb231d92"
+      "id": "a99b94fbd0f84c7681be31c7e3b1dff3"
     },
     {
       "label": "Surveyor",
       "value": "McBains Building Surveyor",
-      "id": "cf6b112827bf4b4cad7846890a1da22b"
+      "id": "631ebb1752a441a09447a76d4c56d3af"
     },
     {
       "label": "Space Planner",
       "value": "Grey Associates",
-      "id": "05d5ce871e7944dcba5d17f73ae12ac6"
+      "id": "bec012160eed44d9b8b19edfa48fbca8"
     },
     {
       "label": "Fire Consultant",
       "value": "Warrington Fire Research Consultants",
-      "id": "984524ad82f84aada0531c3d31fcd155"
+      "id": "13b4a27d185c487695a51ddf7873cc6a"
     },
     {
       "label": "Acoustic Consultant",
       "value": "Sandy Brown Associates",
-      "id": "8daa55a1f49d46fab7ba30e81f9101b2"
+      "id": "6ae3cb4b913d44e79e58743a8faed85f"
     }
   ],
   "awards": [

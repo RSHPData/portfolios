@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "01530",
   "url": "residential/industrialised-housing",
-  "serializeDate": "'2022-06-21 14:15:30.106'",
-  "serialized": 1655820930106,
+  "serializeDate": "'2022-06-27 15:39:56.188'",
+  "serialized": 1656344396188,
   "serializedBy": "sreeve",
   "title": "Industrialised Housing",
   "description": "Rogers’ abiding concern for the social objectives of modern architecture is reflected in this project, intended to provide large numbers of homes at a cost of one-fifth that of more conventional construction methods.",
@@ -32,7 +32,7 @@
   "heights": [
     {
       "value": "80 m",
-      "id": "6839CDB6D3C249CDA67F68"
+      "id": "F7654CD011F94CCCB9928A"
     }
   ],
   "overview": "Rogers’ abiding concern for the social objectives of modern architecture is reflected in this project, intended to provide large numbers of homes at a cost of one-fifth that of more conventional construction methods.\n\nThe basis of the project is the use of high-quality, factory-produced units on a modular system which, due to minimal connection points between one unit and the next, can be quickly assembled on site.\n\n\nHigh-performance, low-energy mechanical and electrical systems are part of an environmentally friendly programme. In addition to the normal services – such as heating, lighting and air-conditioning – the design envisaged provision of security systems, as well as communication, information and entertainment systems appropriate to 21st-century living.\n\nThe units were designed to be used in a flexible way, providing for the needs of a wide range of potential inhabitants. They can form towers or low-rise schemes, depending on the local terrain which in South Korea is often very hilly.",
@@ -40,14 +40,14 @@
     {
       "label": "Unit size",
       "value": "27 m²",
-      "id": "3985f256ca8c428b9421bb399ab024b0"
+      "id": "e21b4383dfe24896b7a9fe1d5862015e"
     }
   ],
   "companies": [
     {
       "label": "Structural Engineer",
       "value": "Arup",
-      "id": "9e5451792b354775baf3333c5eb044ee"
+      "id": "88d64f75858c463b88c8a7fe4077f15f"
     }
   ]
 }

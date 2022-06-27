@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "00376",
   "url": "residential/rogers-house",
-  "serializeDate": "'2022-06-21 14:15:19.465'",
-  "serialized": 1655820919465,
+  "serializeDate": "'2022-06-27 15:39:45.409'",
+  "serialized": 1656344385409,
   "serializedBy": "sreeve",
   "title": "Rogers House",
   "description": "The house, commissioned by Richard Rogers’ parents, sits within a long and narrow wooded urban plot, opposite Wimbledon Common in South West London and adjoining a major road.",
@@ -35,34 +35,34 @@
     {
       "label": "Gross Floor Area",
       "value": "257 m²",
-      "id": "674b3c1bffd84ca8a34c54877afa0707"
+      "id": "bf09c2cf5b58436788d003807785529e"
     }
   ],
   "companies": [
     {
       "label": "Project Architect",
       "value": "Richard + Su Rogers",
-      "id": "7582dc5dc55e4f29b36d0af745520a92"
+      "id": "de9add61e0db4afb8f22efb5d3174701"
     },
     {
       "label": "Structural Engineer",
       "value": "Anthony Hunt Associates",
-      "id": "04083baad43b472888f178843d262e4d"
+      "id": "253b39077115499cb003f03fca17ffcc"
     },
     {
       "label": "Services Engineer",
       "value": "H Bressloff Associates",
-      "id": "9140f6347289488b85f5aec7d539e984"
+      "id": "5efdde3560a5421e9e92d1a975a69521"
     },
     {
       "label": "Quantity Surveyor",
       "value": "GA Hanscomb Partnership",
-      "id": "9fe6b86842074f8ca7cf7c157fca999d"
+      "id": "9413fa900e3b4bdd9fed2e12fedbf72b"
     },
     {
       "label": "Landscape Architect",
       "value": "Landscape Design Partnership",
-      "id": "bac5023bb73c42749696f8d91ecdd445"
+      "id": "a0099724ae864a4e9819be2636bb9d49"
     }
   ],
   "awards": [
@@ -70,7 +70,7 @@
       "date": "1967-01-01",
       "year": "1967",
       "award": "Represented British Architecture at Paris Biennale",
-      "rowId": "85534e03f1de4b40902756039a65d6af"
+      "rowId": "3ccadee5bcd14991b5b5c4c4dfe7faa7"
     }
   ],
   "certificates": []

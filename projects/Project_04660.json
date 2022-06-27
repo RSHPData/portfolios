@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "04660",
   "url": "masterplanning/wood-wharf",
-  "serializeDate": "'2022-06-21 14:16:09.923'",
-  "serialized": 1655820969923,
+  "serializeDate": "'2022-06-27 15:40:27.903'",
+  "serialized": 1656344427903,
   "serializedBy": "sreeve",
   "title": "Wood Wharf",
   "description": "Wood Wharf is a 671,000m² high rise, mixed use development located on a compact but spectacular site to the east of Canary Wharf.",
@@ -50,49 +50,49 @@
     {
       "label": "Site area",
       "value": "7.27 ha",
-      "id": "902484c935c4409bbf7d65432f4e9df8"
+      "id": "e53d14adb6f7445c9d55a5d77f39aeca"
     }
   ],
   "companies": [
     {
       "label": "Structural Engineer",
       "value": "WSP Cantor Seinuk",
-      "id": "da375d2440b94519a87d26710ed0010c"
+      "id": "c06a04f49eb242479081f77a62b4bc56"
     },
     {
       "label": "Services Engineer",
       "value": "Hilson Moran",
-      "id": "e498ff4aa3694ad0b56c7f765fa90d37"
+      "id": "d1259b0979a747d68f51995f8588c48f"
     },
     {
       "label": "Landscape Architect",
       "value": "Martha Schwartz Partnership Limited",
-      "id": "2746046ac44e486ca873ead22688626b"
+      "id": "df7448fe9f7c4cfa9ce0bb485ff26c5b"
     },
     {
       "label": "Planning Consultant",
       "value": "GVA Grimley / Berwin Leighton Paisner",
-      "id": "d1d770cb7cbc4709b0397e0af9afa875"
+      "id": "7c8e0c4c589c49bbae86e66e56abb3f8"
     },
     {
       "label": "Environmental Assessment Consultant",
       "value": "BDP",
-      "id": "416a7ff728e043aa83d303d3a4d25e2b"
+      "id": "b3e9340931e74910b713f7bc3db4da1e"
     },
     {
       "label": "Legal Advisors",
       "value": "Berwin Leighton Partnership",
-      "id": "f81472e0f1c84582aec84c8e615d499f"
+      "id": "540c97204bd94792ac81fff2d02ce87b"
     },
     {
       "label": "Transport Consultant",
       "value": "Steer Davies Gleave",
-      "id": "23a2d40311a64ac2bfd29f449d933c35"
+      "id": "190904998878474fbdbca8ff47ce4d4c"
     },
     {
       "label": "Access Consultant",
       "value": "David Bonnet Associates",
-      "id": "082e9cb322144663a230c8a7b9899964"
+      "id": "598c67b601b149dcbd55084c0d41cac0"
     }
   ]
 }

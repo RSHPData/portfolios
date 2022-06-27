@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "00370",
   "url": "industrial/centre-commercial-st-herblain/",
-  "serializeDate": "'2022-06-21 14:15:17.808'",
-  "serialized": 1655820917808,
+  "serializeDate": "'2022-06-27 15:39:43.585'",
+  "serialized": 1656344383585,
   "serializedBy": "sreeve",
   "title": "Centre Commercial St Herblain",
   "description": "The client wanted a low-cost building in record time - one which projected the dynamic retailing operation it was to contain and could at the same time be adapted to other sites.",
@@ -39,49 +39,49 @@
     {
       "label": "Area",
       "value": "21,000 m²",
-      "id": "9b8002d77ea14e588dcaf3e50bf661a9"
+      "id": "aa9ed9854d804e6a80b38b3e6dc8c795"
     },
     {
       "label": "Floor to floor height",
       "value": "6.5m",
-      "id": "26652a9489c94c3da283bdede9717f00"
+      "id": "f8fa9bc48e65459bafac52817c032004"
     }
   ],
   "companies": [
     {
       "label": "Co-Architect Atelier",
       "value": "Claude Bucher",
-      "id": "f6b87e5371834b8a8d6661886eadcb3f"
+      "id": "5dff0e951f914e669fc930e920937b80"
     },
     {
       "label": "Structural Engineer",
       "value": "Ove Arup & Partners, Rice Francis Ritchie, OTH Rhone-Alpes",
-      "id": "99b63d5e8ac34beba02bb9925857389b"
+      "id": "0f8cbecbd05d4a5a808533f99bbc89ea"
     },
     {
       "label": "Services Engineer",
       "value": "Ove Arup & Partners/OtH",
-      "id": "0c7e9efa09094e03adcf1d35e9f33318"
+      "id": "667e22eb60664a6882e23a3f90796daf"
     },
     {
       "label": "Quantity Surveyor",
       "value": "Thorne Wheatley Associates, Paris",
-      "id": "a574238c71ff47ec86cdf2f7a139eac0"
+      "id": "33cae1d56dd1412d820e33ed37651274"
     },
     {
       "label": "Lighting Consultant",
       "value": "Lighting Design Partnership",
-      "id": "62465c1d3caf450694feed4a71326a85"
+      "id": "3f2562cebdd844bb8064f2fd0c045007"
     },
     {
       "label": "Landscape Architect",
       "value": "David Jarvis Associates/Dan Kiley",
-      "id": "c8aa4d7979134c709a71f09deeb03e28"
+      "id": "33cedf38870f4cca85ee07359977956e"
     },
     {
       "label": "Interior Designer",
       "value": "B & FL, Paris",
-      "id": "d4c3e01288f24ab9a9422d0b83e9f144"
+      "id": "6ff714a5b2114296a6b5ad7bbec0d5c2"
     }
   ]
 }

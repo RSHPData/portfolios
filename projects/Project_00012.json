@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "00012",
   "url": "culture-and-leisure/ircam/",
-  "serializeDate": "'2022-06-21 14:15:06.288'",
-  "serialized": 1655820906288,
+  "serializeDate": "'2022-06-27 15:39:34.917'",
+  "serialized": 1656344374917,
   "serializedBy": "sreeve",
   "title": "IRCAM",
   "description": "The Centre Pompidou brings together the themes which have characterised Rogers’ architecture from the mid 1960s – skin and structure, technology and flexibility, movement and anti-monumentalism.",
@@ -37,44 +37,44 @@
     {
       "label": "Area",
       "value": "6 000 m²",
-      "id": "e398467f9913478995acc6ac2fd10b6f"
+      "id": "2837a138d72a41ea909b9ec101218d55"
     }
   ],
   "companies": [
     {
       "label": "Architect",
       "value": "Piano + Rogers",
-      "id": "6a98730108f34e81be6e603ef1601351"
+      "id": "1ff3256d3cda4b5b9f19783fd2237820"
     },
     {
       "label": "Structural Engineer",
       "value": "Ove Arup & Partners",
-      "id": "17ecaf2e1cad44c2a3c2c547afffc154"
+      "id": "ead47931ed234fd499f6726521892208"
     },
     {
       "label": "Services Engineer",
       "value": "Ove Arup & Partners",
-      "id": "127ad1410b924e99813c0c2a63db4012"
+      "id": "c8f59db1ed60463abdba5d4d12a586a3"
     },
     {
       "label": "Quantity Surveyor",
       "value": "Ove Arup & Partners",
-      "id": "2e18216b48b44be5b6537040c691eadd"
+      "id": "5b890ccf8446488ea6716a59e9a8823d"
     },
     {
       "label": "Landscape Architect",
       "value": "Cuno Brullmann",
-      "id": "e51fdfc1bf344c85943fb1939b9689b4"
+      "id": "e551b33cca1a4fdcb77f4a346e291dbb"
     },
     {
       "label": "Acoustic Consultant",
       "value": "Peutz and Associates",
-      "id": "673bd2151d0e4a429759f0add84ea414"
+      "id": "0629f546225c4f27a871c37ed4470d82"
     },
     {
       "label": "Scenographer",
       "value": "G L Francois",
-      "id": "4451c9c4bb1e4356b93affaf66abfc24"
+      "id": "64c8ce9be81a4af194e3a32e25d81c93"
     }
   ],
   "awards": [],

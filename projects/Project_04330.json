@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "04330",
   "url": "masterplanning/woolston-riverside",
-  "serializeDate": "'2022-06-21 14:16:08.316'",
-  "serialized": 1655820968316,
+  "serializeDate": "'2022-06-27 15:40:26.769'",
+  "serialized": 1656344426769,
   "serializedBy": "sreeve",
   "title": "Woolston Riverside",
   "description": "The site presented the practice with a complex problem in terms of urban regeneration – a vacant shipyard on the River Itchen in Southampton, directly adjacent to both a ‘Special Protection Area’ and an existing sewage works.",
@@ -55,39 +55,39 @@
     {
       "label": "Site Area",
       "value": "12 hectares",
-      "id": "6c81dd10d4fb403481126b79192999f3"
+      "id": "4b9fe1d67d6b439ba199e2dd8039a4bf"
     }
   ],
   "companies": [
     {
       "label": "Cost Consultant",
       "value": "Davis Langdon",
-      "id": "71ee3073003c4c50b859bb9c8958aa6a"
+      "id": "180eda80c74b416c88b39160b96935c8"
     },
     {
       "label": "Planning Consultant",
       "value": "Drivers Jonas",
-      "id": "861a3bd2cda84eaea5faa51482f654ae"
+      "id": "b320d1d06b36445499fd347d8bebd6c8"
     },
     {
       "label": "Community Consultants",
       "value": "Community Action Network",
-      "id": "f65b98693b9846a7b2129f701fa91d8c"
+      "id": "ef539bc529f94662956a48fcece46e23"
     },
     {
       "label": "Environmental Consultant",
       "value": "Campbell Reith Hill",
-      "id": "70e8be7171b14351b56adfa1e0201c42"
+      "id": "8e4379b091d64816b2dffed97457411e"
     },
     {
       "label": "Traffic Engineer",
       "value": "Alan Baxter Associates",
-      "id": "7c7ab143662a4d97843287598794b2ff"
+      "id": "21f0ce372e5b466bac9f5f7e43dafcdd"
     },
     {
       "label": "Access Consultant",
       "value": "Drivers Jonas",
-      "id": "a0de98ff74b9481c8fb3ca7d90495b7d"
+      "id": "0b05113f7f414e218608b977bdb62e19"
     }
   ],
   "awards": [],

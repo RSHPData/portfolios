@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "02850",
   "url": "civic/antwerp-law-courts",
-  "serializeDate": "'2022-06-21 14:15:48.092'",
-  "serialized": 1655820948092,
+  "serializeDate": "'2022-06-27 15:40:10.762'",
+  "serialized": 1656344410762,
   "serializedBy": "sreeve",
   "title": "Antwerp Law Courts",
   "description": "The new law courts for the Flemish city of Antwerp is one of the practice’s major public buildings of the early 21st century.",
@@ -64,64 +64,64 @@
     {
       "label": "Site Area",
       "value": "37 000 m²",
-      "id": "e8c22ff034694e78adfb21d4c8d34f7b"
+      "id": "e763b3ab82db45a28c1b71a371268bc8"
     },
     {
       "label": "Gross Floor Area",
       "value": "77 000 m²",
-      "id": "97bdfe53d7a242ceaf63ba11818e147c"
+      "id": "6d9dd55f97d34080b58921e5d97e7482"
     }
   ],
   "companies": [
     {
       "label": "Co-Architect",
       "value": "VK Architects",
-      "id": "c8b59df3498e44e492adf30fcec1a013"
+      "id": "3e7be67fb5cb44a88897573ac18035e8"
     },
     {
       "label": "Structural Engineer",
       "value": "Arup / Bureau Van Kerckhove",
-      "id": "681f57e7135940e484bcd5ededfd95f7"
+      "id": "2900f426d1e54a80aa6c57a8da01bc93"
     },
     {
       "label": "Services Engineer",
       "value": "Arup / Bureau Van Kerckhove",
-      "id": "ef5ec9ad192746cc802a3d4987170f9d"
+      "id": "644c2d46229e4b4b80b7715464b795c8"
     },
     {
       "label": "Quantity Surveyor",
       "value": "Bureau Van Kerckhove",
-      "id": "1b19c4049c20411b979c7592b4679049"
+      "id": "2f50f9ea597c4b4a91f90d31b5f56ec7"
     },
     {
       "label": "Lighting Consultant",
       "value": "Arup",
-      "id": "9ec34215475b4381bde7e16b5ed2d082"
+      "id": "2a483dd8d1ca48b3917a967562a19a1d"
     },
     {
       "label": "Landscape Architect",
       "value": "Wirtz International BV",
-      "id": "e02dd5d7307947688fc2927766575150"
+      "id": "296487afe04d495e8aa2b2f0036675d8"
     },
     {
       "label": "Contractor",
       "value": "Interbuild / KBC / Artesia",
-      "id": "f46dec06be984951922793a62bb405ad"
+      "id": "f66e56809f23484ca2f01a52b79d5088"
     },
     {
       "label": "Acoustic Consultant",
       "value": "Arup Acoustics",
-      "id": "cf99b95274824f0e9f5b63d960b2df7e"
+      "id": "0b7750789cef4883b4ce760bd1811667"
     },
     {
       "label": "Facade Consultant",
       "value": "Lesos Engineering",
-      "id": "37b3c088df3b4bbfbc85ab93c3d9dcda"
+      "id": "f49eac6e64b44b50b7ffbb82e318fa2d"
     },
     {
       "label": "Fire Consultant",
       "value": "IFSET NV",
-      "id": "1e366eeb52cd48c8b9314f7899b794ab"
+      "id": "8ae9c2caf9714086b54b3f9fc4231298"
     }
   ],
   "awards": [
@@ -129,7 +129,7 @@
       "date": "2008-01-01",
       "year": "2008",
       "award": "RIBA European Award Chicago Athaneum International Architecture Award",
-      "rowId": "6852c55577e84925b3e45a4d33b265c3"
+      "rowId": "29e5fc8fdaac49ee95b1f77f1e2c7f9f"
     },
     {
       "date": "2007-01-01",
@@ -147,7 +147,7 @@
       "date": "2004-01-01",
       "year": "2004",
       "award": "Civic Trust Award - Commendation",
-      "rowId": "636ca92b2907491e9df0988811a737a7"
+      "rowId": "30422bf974db40f5825c7ef143eb9a74"
     }
   ]
 }

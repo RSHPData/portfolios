@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "02101",
   "url": "residential/montevetro",
-  "serializeDate": "'2022-06-21 14:15:36.961'",
-  "serialized": 1655820936961,
+  "serializeDate": "'2022-06-27 15:40:01.960'",
+  "serialized": 1656344401960,
   "serializedBy": "sreeve",
   "title": "Montevetro",
   "description": "The Montevetro high-end residential project occupies a prime site fronting the River Thames, formerly occupied by the old Hovis flour mill, and faces west towards Cheyne Walk, Chelsea.",
@@ -37,7 +37,7 @@
   "floors": [
     {
       "value": "20",
-      "id": "43B2028F0ED44CE593F536"
+      "id": "0AB9CACD379349A287A097"
     }
   ],
   "overview": "The Montevetro high-end residential project occupies a prime site fronting the River Thames, formerly occupied by the old Hovis flour mill, and faces west towards Cheyne Walk, Chelsea.\n\nOn the south-western corner of the site stands the Grade I listed St Mary’s Church. The building comprises 103 apartments with one, two, three and four-bed units (including roof-top penthouses) ranging from 93 m² to 232 m². The site also provides parking spaces for 170 cars and integral leisure facilities.\n\n\nThe diagonal alignment creates a landscaped setting for St Mary’s Church within a new public park. Views of the church have been enhanced and the river walk extended through the site forming a continuous route between Wandsworth and Battersea bridges. Aligned on a north-south axis overlooking the River Thames, the apartments are organised into five connected blocks, stepping up towards the river away from St. Mary’s Church from four to 20 storeys, ensuring that all flats enjoy river views to the west. The blocks are connected by four distinct lift towers providing rhythm to the east façade and access to all of the apartments, avoiding the need for corridors. Access to the building, as well as to residents’ car parking and a leisure centre, are located to the east of the building. The west façade is punctuated by balconies accessed from living areas and kitchens.",
@@ -45,44 +45,44 @@
     {
       "label": "Site Area",
       "value": "7 725 m²",
-      "id": "29563239fbb24b8895264f205295becf"
+      "id": "ff97d67898cf4eb6a05b986cd0d85d47"
     },
     {
       "label": "Gross Floor Area",
       "value": "25 000 m²",
-      "id": "49d7f5f0cdb242d1bd5cc6888a852255"
+      "id": "3f0c0a8032d6414b89605b80efc65976"
     }
   ],
   "companies": [
     {
       "label": "Co-Architect",
       "value": "Hurley Robertson Associates",
-      "id": "18ab9d63179442a1851bf5828e9a01ce"
+      "id": "ff15b84807f244f786b9ba4b1fa59b8b"
     },
     {
       "label": "Structural Engineer",
       "value": "Waterman Partnership",
-      "id": "51e599cc3b504d00b3e447aafcd2c7dc"
+      "id": "d7263b3eecf546d787a0d57f250eeeed"
     },
     {
       "label": "Services Engineer",
       "value": "DSSR",
-      "id": "1e4a25aeea5346d6a33e1124a9a1ef9f"
+      "id": "d5c71efe836f44b9964defe143cb1fb1"
     },
     {
       "label": "Quantity Surveyor",
       "value": "WT Partnership",
-      "id": "ed2f4ba37c2f450197c055fd318bb71d"
+      "id": "8535ebcf368341718d17031259874155"
     },
     {
       "label": "Landscape Architect",
       "value": "Townshend Landscape Architects",
-      "id": "de3dfb3ecaee48068c51328ad0a82a53"
+      "id": "5d36fd64aec6441fae2ef0fdce4962e5"
     },
     {
       "label": "Contractor",
       "value": "Taylor Woodrow Construction Ltd",
-      "id": "65cd11023400433d98b1a3c396832fb2"
+      "id": "4ba3baa285c74d20be6a1703b6ab9276"
     }
   ]
 }

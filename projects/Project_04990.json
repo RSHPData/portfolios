@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "04990",
   "url": "office/campus-palmas-altas",
-  "serializeDate": "'2022-06-21 14:16:14.536'",
-  "serialized": 1655820974536,
+  "serializeDate": "'2022-06-27 15:40:31.289'",
+  "serialized": 1656344431289,
   "serializedBy": "sreeve",
   "title": "Campus Palmas Altas",
   "description": "Campus Palmas Altas is a new model for an energy efficient business park for Abengoa in the South of Spain.",
@@ -76,49 +76,49 @@
     {
       "label": "GFA (including parking)",
       "value": "96 000 m²",
-      "id": "37259cbfdcdb4141b5b62fd1f8cc50c5"
+      "id": "28aff9abac394d5f9fc7170be10901af"
     }
   ],
   "companies": [
     {
       "label": "Co-Architect",
       "value": "Vidal y Asociados arquitectos",
-      "id": "a7a2483aa33849a1ba42ce839eb29614"
+      "id": "15c7f94881994a3586573879f47bec8a"
     },
     {
       "label": "Structural Engineer",
       "value": "Arup",
-      "id": "6a2f856d4ae449b19e068708d01d4d83"
+      "id": "5b595464bdf44a6a8045284249901a9b"
     },
     {
       "label": "Services Engineer",
       "value": "Arup",
-      "id": "f2052a395f0c457cb1697f72f272d78e"
+      "id": "36398f6c522a46eab993d2c2e7a46195"
     },
     {
       "label": "Project Manager",
       "value": "Bovis Lend Lease",
-      "id": "e3501c8c31564689861cd6b2bb37fc08"
+      "id": "ac35a94b9ff5499283c1486619b7c616"
     },
     {
       "label": "Landscape Architect",
       "value": "Maria Medina / Estudio 28",
-      "id": "f46e6a5d0ece493fb7f99a706cab0c8d"
+      "id": "5d2042343f874f349d032af734a30413"
     },
     {
       "label": "Cost Consultant",
       "value": "D-Fine",
-      "id": "735a8cc1864343ad8ec7efde65a927d8"
+      "id": "39c5262eb7bb446ea63c2e56ea8fa408"
     },
     {
       "label": "Client Cost Constultant",
       "value": "Gleeds",
-      "id": "019125f1146d4205b231b5ae18594fbf"
+      "id": "f4a5e284152e469d831d39328b95afdb"
     },
     {
       "label": "Real Estate Consultant",
       "value": "Jones Lang LaSalle",
-      "id": "85b25d9e58254baa85033ea76613ddd7"
+      "id": "c1c2ce7755f143078190d1fa2873ff9d"
     }
   ],
   "awards": [
@@ -126,7 +126,7 @@
       "date": "2015-01-01",
       "year": "2015",
       "award": "LEED Platinum",
-      "rowId": "010bf2cb08b346e5bb0c513575461986"
+      "rowId": "78fcf040a51f4a0eb5570d9b416b208a"
     },
     {
       "date": "2010-01-01",
@@ -138,13 +138,13 @@
       "date": "2010-01-01",
       "year": "2010",
       "award": "AIA Excellence in Design Award",
-      "rowId": "e355dd76c5a94aeb805240e6cc8f8efc"
+      "rowId": "523a9c982fa84751b01e9c2b0dce9505"
     },
     {
       "date": "2010-01-01",
       "year": "2010",
       "award": "Prime Property Awards: Best Sustainable Real Estate Project, Europe",
-      "rowId": "558a620ca41b456981c45347fb76cc2f"
+      "rowId": "69db8c71c8204aa5bbe89b75a0e89874"
     }
   ],
   "certificates": [

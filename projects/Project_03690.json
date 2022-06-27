@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "03690",
   "url": "education/mossbourne-community-academy",
-  "serializeDate": "'2022-06-21 14:15:59.550'",
-  "serialized": 1655820959550,
+  "serializeDate": "'2022-06-27 15:40:19.396'",
+  "serialized": 1656344419396,
   "serializedBy": "sreeve",
   "title": "Mossbourne Community Academy",
   "description": "The design for the Mossbourne Community Academy replaces the former Hackney Downs School and accommodates 1,000 pupils aged 11-16, with a special focus on teaching information and communication technology.",
@@ -48,7 +48,7 @@
   "floors": [
     {
       "value": "2",
-      "id": "EA7804C6E5BF46A18427A8"
+      "id": "F44FD7559DCE49AF84D15E"
     }
   ],
   "overview": "The design for the Mossbourne Community Academy replaces the former Hackney Downs School and accommodates 1,000 pupils aged 11-16, with a special focus on teaching information and communication technology, as well as offering learning facilities to the wider community.\n\nIt is a new sort of school for a new century, located in one of England’s most deprived boroughs, and a powerful engine of regeneration in its own right – the architecture of the building expresses its significance and embodies the key themes of accessibility, openness and social inclusion.\n\n\nThe triangular site for the Academy is confined and subject to high levels of noise from the busy railway tracks that enclose it on two sides – yet on the third side (to the north) it looks out to Hackney Downs, one of the very few and treasured green spaces in the borough. In response, the 8,312m², three-storey building (one of the largest timber frame buildings in the UK) is conceived as a broad “V”, its back is to the railway track and it faces the green space to the north.\n\n\nTeaching spaces look out to a new landscaped square that is visually linked to the Downs beyond. The various faculties/ bases for year groups are housed in sections of the building configured as ‘terraced houses’, with access from a broad covered ‘cloister’, with internal circulation via an intermediate zone. Each ‘house’ consists of a ground floor of common space, designated staff areas (there is no specific staff room in the school), with a top-lit IT resource space and two levels of more traditional classrooms looking out over the Downs. The grass sided classrooms allow for visibility along the cloisters and self policing, creating a safe place for pupils. The ‘houses’ are well liked by students and staff.",
@@ -59,44 +59,44 @@
     {
       "label": "Site Area",
       "value": "19 500 m²",
-      "id": "d4061dbe2fa94364a28f3fde0f1c4c7c"
+      "id": "f0b0fec822d34e9ca99ef37d86989ac1"
     },
     {
       "label": "Gross Floor Area",
       "value": "8 312 m²",
-      "id": "8600ea20798b47df859784258473587c"
+      "id": "c71d3287e1ae4a04b67022e559e44e63"
     }
   ],
   "companies": [
     {
       "label": "Structural Engineer",
       "value": "Whitby Bird & Partners",
-      "id": "2a9853cdfca249c09af6067d6afc11d8"
+      "id": "92d5cccf003a46d1a96d89e0adb9a7aa"
     },
     {
       "label": "Services Engineer",
       "value": "BDSP Partnership",
-      "id": "56c1862284fd4f1b8857ec518649c980"
+      "id": "173b46a8f6f54088888bfdefdea34800"
     },
     {
       "label": "Quantity Surveyor",
       "value": "Davis Langdon & Everest",
-      "id": "b0c55a48740d480493befbc96e4c6d46"
+      "id": "e13c8aff756a4ddb9e1f20be3ae57507"
     },
     {
       "label": "Project Manager",
       "value": "Osprey Mott MacDonald",
-      "id": "d2304778f7e74d46870ea2bb14d9a17d"
+      "id": "017a45f5b6c94d2a89d13a35c96833af"
     },
     {
       "label": "Landscape Architect",
       "value": "Kinnear Landscape Architect",
-      "id": "ba55e4353a7c47a6ad488f15bdd3ae1b"
+      "id": "819b8c11b4b84eb29187da9dcf2de434"
     },
     {
       "label": "Contractor",
       "value": "Mace",
-      "id": "c6abced1c6b64d97a38a23a0b890c025"
+      "id": "ab39cb975a514ca8bf8049ff9dc4a49f"
     }
   ],
   "awards": [

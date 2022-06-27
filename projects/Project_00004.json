@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "00004",
   "url": "industrial/b-and-b-italia",
-  "serializeDate": "'2022-06-21 14:15:05.476'",
-  "serialized": 1655820905476,
+  "serializeDate": "'2022-06-27 15:39:33.966'",
+  "serialized": 1656344373966,
   "serializedBy": "sreeve",
   "title": "B&B Italia",
   "description": "Piero Busnelli, the Managing Director of the Italian furniture manufacturer, B&B Italia, so admired the designs for the Centre Pompidou that he commissioned Piano + Rogers to design his company’s new offices.",
@@ -33,7 +33,7 @@
     {
       "label": "Structural Engineer",
       "value": "Flavio Marano",
-      "id": "45bef99cb98c45d79aac6af57ebe5718"
+      "id": "ad03f3423267445b92190487c93cab5a"
     }
   ],
   "awards": [],

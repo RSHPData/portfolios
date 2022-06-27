@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "02550",
   "url": "office/broadwick-house",
-  "serializeDate": "'2022-06-21 14:15:42.360'",
-  "serialized": 1655820942360,
+  "serializeDate": "'2022-06-27 15:40:06.281'",
+  "serialized": 1656344406281,
   "serializedBy": "sreeve",
   "title": "Broadwick House",
   "description": "The building was commissioned by a developer and stands in the Soho conservation area, where straightforwardly ‘contextual’ design had previously been the norm.",
@@ -46,44 +46,44 @@
     {
       "label": "Site Area",
       "value": "400 m²",
-      "id": "848d592cc3174df5a452c70824dc6d50"
+      "id": "7787e6953e2d483db8191795d1fd5f3a"
     },
     {
       "label": "Gross Floor Area",
       "value": "3 200 m²",
-      "id": "c1407841d7324165bbb627d6d7d646f8"
+      "id": "1968c23635f04495b322d56a5612e43d"
     }
   ],
   "companies": [
     {
       "label": "Structural Engineer",
       "value": "Ove Arup & Partners",
-      "id": "c25fe66253ca407fb31bec4b61a3559d"
+      "id": "55e5f842b1b64c9bb4766134e1e84243"
     },
     {
       "label": "Services Engineer",
       "value": "BDSP",
-      "id": "19ce2eb7bf054d9198b0aeb2bbd61ce2"
+      "id": "5cfa5f8c46244489b076d97bf2fe53d7"
     },
     {
       "label": "Quantity Surveyor",
       "value": "Davis Langdon & Everest",
-      "id": "b44f0975a87546b19bf42433761ac19f"
+      "id": "7975eb51c7bb47b184670fdafc8c7d03"
     },
     {
       "label": "Project Manager",
       "value": "Buro Four Project",
-      "id": "39437114167d498a81ebce0ba390dbef"
+      "id": "c44e5aa6aebf4604977b8fb5816dc934"
     },
     {
       "label": "Contractor",
       "value": "John Sisk & Son",
-      "id": "bc200270bdbb46b8ab33e916b5fbe3a4"
+      "id": "57386d79a5a1456ba793c9ad5dab39ad"
     },
     {
       "label": "Acoustic Consultant",
       "value": "Arup Acoustics",
-      "id": "65a209d32eb34f56beb28ac0bbf9e846"
+      "id": "ef5ea50ce51e4f1bb31c5d675f45b5f4"
     }
   ],
   "awards": [

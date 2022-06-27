@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "03480",
   "url": "masterplanning/scandicci-masterplan",
-  "serializeDate": "'2022-06-21 14:15:54.733'",
-  "serialized": 1655820954733,
+  "serializeDate": "'2022-06-27 15:40:15.703'",
+  "serialized": 1656344415703,
   "serializedBy": "sreeve",
   "title": "Scandicci Masterplan",
   "description": "Scandicci is strategically located 10 km to the west of Florence with great potential to act as a Gateway to Florence. Its proximity to motorway A1, and the new tramline linking Scandicci with Florence.",
@@ -50,24 +50,24 @@
     {
       "label": "Site area",
       "value": "200 hectares",
-      "id": "d2f0045d6bd14357b368e351f4229c2d"
+      "id": "ef2f3a60262c4451b567955d9d621574"
     }
   ],
   "companies": [
     {
       "label": "Co-Architect",
       "value": "Ernesto Bartolini",
-      "id": "57f53b17479e412b960d24bbee27dbba"
+      "id": "db60485b471a4be7b86a71cfcf920e47"
     },
     {
       "label": "Landscape Architect",
       "value": "Grant Associates",
-      "id": "bd45c8559ad04ade93e374e37dff2228"
+      "id": "2e5b44ecbadf439f9f73f5a6e6b41f38"
     },
     {
       "label": "Environmental Consultant",
       "value": "Grant Associates",
-      "id": "67db56aa7e7143828f9c0a5fa3fbd8d7"
+      "id": "e2a768c0033e4610b9130cd4722879f9"
     }
   ],
   "awards": [],

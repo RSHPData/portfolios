@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "00513",
   "url": "culture-and-leisure/tomigaya/",
-  "serializeDate": "'2022-06-21 14:15:22.434'",
-  "serialized": 1655820922434,
+  "serializeDate": "'2022-06-27 15:39:49.590'",
+  "serialized": 1656344389590,
   "serializedBy": "sreeve",
   "title": "Tomigaya",
   "description": "During the so called bubble years of Tokyo’s late 1980s property boom, Japanese developers in search of exotic extras, began to import overseas architects to add cachet to their schemes.",
@@ -42,17 +42,17 @@
     {
       "label": "Co-Architect",
       "value": "Architect 5",
-      "id": "0fdc3ffb662f4ed5a75e60b6a1d90f37"
+      "id": "fa24939a8212453ca64c8a082a9e7a89"
     },
     {
       "label": "Structural Engineer",
       "value": "Umezawa Design Office",
-      "id": "aec64acc270e4472a1f6029ca87aeec1"
+      "id": "7e690a17e41f42bfb2342f8aa2cbb2e4"
     },
     {
       "label": "Services Engineer",
       "value": "ES Associates / Ove Arup & Partners",
-      "id": "e6d5bc4726da4fb0b5afbaa43f197861"
+      "id": "98ed1c88c726401ba5897429cd745d4e"
     }
   ],
   "awards": [],

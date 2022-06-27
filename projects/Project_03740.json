@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "03740",
   "url": "masterplanning/almada-eastern-riverside",
-  "serializeDate": "'2022-06-21 14:16:01.090'",
-  "serialized": 1655820961090,
+  "serializeDate": "'2022-06-27 15:40:20.984'",
+  "serialized": 1656344420984,
   "serializedBy": "sreeve",
   "title": "Almada Eastern Riverside",
   "description": "Rogers Stirk Harbour + Partners was commissioned to devise a masterplan for a 115-hectare site encompassing extensive former dockyards and a part of Almada’s conurbation along a two-kilometre stretch of river frontage.",
@@ -30,34 +30,34 @@
     {
       "label": "Area",
       "value": "115 hectares",
-      "id": "01aab998f3ba45769b14cb5621d99aaf"
+      "id": "15802de38cdb4a04a734e68793639d20"
     }
   ],
   "companies": [
     {
       "label": "Co-Architect",
       "value": "Santa-Rita Arquitectos LDA",
-      "id": "f16eab94459841ec9eb6582cd4ca50a6"
+      "id": "204b62fefbb14240820ea0d211a37f11"
     },
     {
       "label": "Structural Engineer",
       "value": "WS Atkins",
-      "id": "a4dec3bd18fb4c509327f178c83b0336"
+      "id": "e3cbce851b7d46a58582596540d7748e"
     },
     {
       "label": "Services Engineer",
       "value": "WS Atkins",
-      "id": "5a52247e7e3d4473a37613cb8787fb14"
+      "id": "8b633278415e4ce3b16f7985a6c224a7"
     },
     {
       "label": "Quantity Surveyor",
       "value": "WS Atkins",
-      "id": "b9795c3861f148ae8b276cdfe849cfb5"
+      "id": "fbbeee1b05a24973ab39cc5a956276e1"
     },
     {
       "label": "Landscape Architect",
       "value": "WS Atkins",
-      "id": "ff6117cfdc40487cafa5c4120ff16bf7"
+      "id": "99a540d9e6cf45bd84c21f78ce683dc0"
     }
   ],
   "awards": [],

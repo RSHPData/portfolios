@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "03250",
   "url": "mixed-use/las-arenas",
-  "serializeDate": "'2022-06-21 14:15:51.578'",
-  "serialized": 1655820951578,
+  "serializeDate": "'2022-06-27 15:40:13.136'",
+  "serialized": 1656344413136,
   "serializedBy": "sreeve",
   "title": "Las Arenas",
   "description": "The Las Arenas bullring formally re-opened to the public on 25 March 2011 as a major new mixed-use leisure, entertainment and office complex.",
@@ -48,7 +48,7 @@
   "floors": [
     {
       "value": "5",
-      "id": "4B6EAD5E190F46039D4ED6"
+      "id": "D004CC42D7E84606B81F14"
     }
   ],
   "overview": "The Las Arenas bullring formally re-opened to the public on 25 March 2011 as a major new mixed-use leisure, entertainment and office complex. The historic bullring, built at the end of the 19th century, fell largely into disuse during the 1970s due to the declining popularity of bull fighting in Catalonia. However, the strong civic and cultural role which the building played in the life of Barcelona over nearly a century led to a decision by the city council not to demolish the façade. The design has created an open and accessible entrance to the new building at street level. In addition, an adjacent building – the ‘Eforum’ – provides retail and restaurants at ground and first-floor levels, with four levels of offices above.\n\n\nThe approach has involved the most advanced architectural and engineering technologies to re-establish the original building as a visually striking landmark for the city. The most spectacular aspect of the intervention is the inclusion of a 100-metre-diameter habitable ‘dish’ with a 76-metre- diameter domed roof, floating over the façade of the bullring and structurally independent from it to cover the various activities taking place below. This ‘plaza in the sky’ incorporates large terraces around the perimeter with space for cafés and restaurants with stunning views over the city. New plazas are also created at street level to provide connections with the existing metro station and neighbouring Parc Joan Miró. The development links strongly to the nearby Fira de Barcelona – a key European business exhibition venue attracting 3.5 million visitors annually– and the neighbouring districts of Eixample and Sants-Montjuic.\n\n\nRSHP set out to re-establish Las Arenas as a 21st century landmark for the city. This involved retaining the entire existing façade as well as re-integrating what had become an isolated traffic island into the city fabric. The design includes a new leisure and retail development within this façade, and has also created significant areas of public realm both in the new dome structure – with its 360-degree roof terrace rising above the existing wall – and at the surrounding street level, which will help to revitalise this part of Barcelona.",
@@ -59,54 +59,54 @@
     {
       "label": "Gross Floor Area",
       "value": "105 816 m²",
-      "id": "28665b7594e34f6f8e4d7c2d9df67e27"
+      "id": "fb2a4e73f42443208fc679dcee2255dd"
     },
     {
       "label": "Bullring",
       "value": "46 973 m²",
-      "id": "cf2f5064660f415da7667d6a6317d5b7"
+      "id": "9dc79b848948485f8164b41eedc58533"
     }
   ],
   "companies": [
     {
       "label": "Co-Architect",
       "value": "Alonso Balaguer y Arquitectos Asociados",
-      "id": "4273dd9cf0d4416380bf383ba22edc54"
+      "id": "e10b7dd5c01b492ab5e6233959e875fd"
     },
     {
       "label": "Structural Engineer",
       "value": "Expedition Engineering and BOMA",
-      "id": "6fbae5357825499bbcf4fec9d98b726e"
+      "id": "9334697ff33b4334894b977ffa26f665"
     },
     {
       "label": "Services Engineer",
       "value": "BDSP and JG",
-      "id": "92066d23198b408abec186b7c8212767"
+      "id": "92b9ccacb85f46959ddebc8dd964656e"
     },
     {
       "label": "Quantity Surveyor",
       "value": "TG3",
-      "id": "f0e0522422e64261a899a291cf1ac0f3"
+      "id": "0b070436b4cc42cb9c3b6c5f07488d5f"
     },
     {
       "label": "Project Manager",
       "value": "Bovis",
-      "id": "2861070e43ef45e382b3c41ff4da93fd"
+      "id": "b699f4159cad43058f051f0d9fc57a17"
     },
     {
       "label": "Contractor",
       "value": "Dragados",
-      "id": "1d3bec27f3124f958762447cdbfcb7a2"
+      "id": "ade6195fb76e44089b94e23b7ca5d7e4"
     },
     {
       "label": "Acoustic Consultant",
       "value": "BDSP and Audioscan",
-      "id": "3adf591acd954686b68d278a5b337e4b"
+      "id": "b9f45e2971bf4b789be3f0a7db58102d"
     },
     {
       "label": "Existing Facade Consultant",
       "value": "Expedition Engineering and BOMA",
-      "id": "162980ad633b4b779902f8cda7da81f1"
+      "id": "384d8cc8decd496fadddc976f8e33ca4"
     }
   ],
   "awards": [
@@ -114,7 +114,7 @@
       "date": "2013-01-01",
       "year": "2013",
       "award": "World Architecture News Adaptive Re-use Award - Shortlist",
-      "rowId": "f1316ecffbee4b13ab5763c51eeadea2"
+      "rowId": "621c25cff1344fd0b3c0a24b2ec88f68"
     },
     {
       "date": "2012-01-01",
@@ -132,7 +132,7 @@
       "date": "2011-01-01",
       "year": "2011",
       "award": "Award for Arts or Entertainment Structures Structural Award",
-      "rowId": "e171674a189544a0a47441cb670a3fe2"
+      "rowId": "7cdeba8e31dd4c8896262c7fc71edc7d"
     }
   ],
   "certificates": []

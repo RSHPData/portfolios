@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "01950",
   "url": "masterplanning/shanghai-masterplan",
-  "serializeDate": "'2022-06-21 14:15:33.043'",
-  "serialized": 1655820933043,
+  "serializeDate": "'2022-06-27 15:39:58.522'",
+  "serialized": 1656344398522,
   "serializedBy": "sreeve",
   "title": "Shanghai Masterplan",
   "description": "No city has gone through a more extreme period of growth and change in the last two decades than Shanghai.",
@@ -36,14 +36,14 @@
     {
       "label": "Site Area",
       "value": "40 000 000 m²",
-      "id": "5dcfbeacf7fd4655a9e34fb2da853ad6"
+      "id": "a7c2347e8d7f449d98c7e5919298e510"
     }
   ],
   "companies": [
     {
       "label": "Services Engineer",
       "value": "Ove Arup & Partners / Battle McCarthy",
-      "id": "52f3d879d95b423cae50ee0a6c7fb6f9"
+      "id": "c25e935f416f4cec8b0c868d240f2891"
     }
   ],
   "awards": [],

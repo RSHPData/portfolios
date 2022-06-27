@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "00200",
   "url": "industrial/inmos-microprocessor-factory",
-  "serializeDate": "'2022-06-21 14:15:12.533'",
-  "serialized": 1655820912533,
+  "serializeDate": "'2022-06-27 15:39:39.675'",
+  "serialized": 1656344379675,
   "serializedBy": "sreeve",
   "title": "Inmos Microprocessor Factory",
   "description": "The INMOS scheme began as a design for a model microchip factory, which could be built quickly (operational within a year of start on-site) in a wide variety of locations, and could be expanded or otherwise adapted without disruption to production.",
@@ -39,29 +39,29 @@
     {
       "label": "Gross Floor Area",
       "value": "8,900 m²",
-      "id": "8fb89f8e6257471e8885b4ed1cb2ad32"
+      "id": "cdbad55f7e3049f9afe22dd4d7f712c1"
     }
   ],
   "companies": [
     {
       "label": "Structural Engineer",
       "value": "Anthony Hunt Associates",
-      "id": "d4a28469b7764336a4c362d62f81871b"
+      "id": "ba968acbacbe4d09a0d56b4eecb9094f"
     },
     {
       "label": "Services Engineer",
       "value": "YRM Engineers",
-      "id": "d0693d699c7b45d5a272ca1a989eda41"
+      "id": "d2be17daf5884aa3801aab118fbd8a5a"
     },
     {
       "label": "Quantity Surveyor",
       "value": "GA Hanscomb Partnership",
-      "id": "c7d04e408e74418f9c7d407cf3788cf3"
+      "id": "c8c9561d4753474083ab95dafef31901"
     },
     {
       "label": "Contractor",
       "value": "Laing Management Contracting Ltd",
-      "id": "42a930f421cf424ebce084c855b1ea79"
+      "id": "8d77e9eb4f87410ab8544726a9e8d288"
     }
   ],
   "awards": [

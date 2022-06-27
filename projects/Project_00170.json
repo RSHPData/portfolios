@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "00170",
   "url": "office/lloyds-of-london",
-  "serializeDate": "'2022-06-21 14:15:10.868'",
-  "serialized": 1655820910868,
+  "serializeDate": "'2022-06-27 15:39:38.218'",
+  "serialized": 1656344378218,
   "serializedBy": "sreeve",
   "title": "Lloyd’s of London",
   "description": "Lloyd’s of London is the world’s greatest insurance market. It had moved its dealing room twice in 50 years and wanted a building that would provide for its needs well into the 21st century.",
@@ -87,13 +87,13 @@
   "heights": [
     {
       "value": "84m",
-      "id": "4B119D01445047788AB2EF"
+      "id": "2AFB597ABE8D4FEAA1073B"
     }
   ],
   "floors": [
     {
       "value": "12",
-      "id": "2DB6B1CCE25041A698D5D9"
+      "id": "A42EBE9BC3FF47D4ADD718"
     }
   ],
   "overview": "Lloyd’s of London is the world’s greatest insurance market. It had moved its dealing room twice in 50 years and wanted a building that would provide for its needs well into the 21st century. It was also imperative that Lloyd’s could continue their operations unhindered during the rebuilding operation, which almost inevitably involved the demolition of the existing 1928 building. The competition for a new building was won on the basis not of an architectural proposal but of a strategy for the future of this key City institution.\n\nRichard Rogers Partnership (RRP) proposed a building where the dealing room could expand or contract, according to the needs of the market, by means of a series of galleries around a central space. To maximise space, services are banished to the perimeter. As the architectural form of the building evolved, particular attention was paid to its impact on the surrounding area, especially on the listed 19th century Leadenhall Market.\n\n\nAs a result, Lloyd’s became a complex grouping of towers, almost Gothic in feeling – an effect enhanced by the height of the external plant-room towers.\n\nLloyd’s is one of the great architectural achievements of the 1980s, one of the buildings which confirmed the practice’s position in the front rank of international architects. It has emerged as one of the greatest modern British buildings, one which balances technical efficiency with architectural expressiveness to produce an effect which might be called highly romantic and judged a very positive addition to the London skyline.\n\nThe building was Grade I listed in 2011, the youngest structure to obtain this status. English Heritage described it as “universally recognized as one of the key buildings of the modern epoch.”",
@@ -104,64 +104,64 @@
     {
       "label": "Site Area",
       "value": "5 700 m²",
-      "id": "f111335a3b264ec4b9110b450f96dbe2"
+      "id": "e6533f8312fe4dd3acecb3c84c9b3582"
     },
     {
       "label": "Gross Floor Area",
       "value": "55 000 m²",
-      "id": "f3f47efb574148eea8c4a50f924d331a"
+      "id": "a9b9c25a112648ce93dcb5ecfa386b4f"
     }
   ],
   "companies": [
     {
       "label": "Structural Engineer",
       "value": "Ove Arup & Partners",
-      "id": "974eea72fa824543bdd9612e5f7f9cbf"
+      "id": "5fb2e94565f04d7590b63bb6b043a202"
     },
     {
       "label": "Services Engineer",
       "value": "Ove Arup & Partners",
-      "id": "9108fc95e0024199b870e6b898531912"
+      "id": "276d8d1d17814f24bbac01c0da0017d2"
     },
     {
       "label": "Quantity Surveyor",
       "value": "Monk Dunstone Associates",
-      "id": "2e80fee615354551975db87e4916c2bc"
+      "id": "2481e6999f034e83ae897f8e7ab60573"
     },
     {
       "label": "Lighting Consultant",
       "value": "Friedrich Wagner of Lichttechnische Planung",
-      "id": "5054e54bc8e6437fa98ab8f23ad91a3f"
+      "id": "6caa9c7299924831a38cc336aacfec22"
     },
     {
       "label": "Planning Consultant",
       "value": "Montagu Evans",
-      "id": "29cde25697e54a129ddf92cbf61b34a8"
+      "id": "c550442fa42940e5996dc94687f963cb"
     },
     {
       "label": "Acoustic Consultant",
       "value": "Sandy Brown Associates",
-      "id": "d2e4a95be46d45b9991486acf81221a7"
+      "id": "2b196481732e4c63a54a421e8e67b373"
     },
     {
       "label": "Catering Consultant",
       "value": "GWP Associates",
-      "id": "abb373c8729546d783690ce3bc4ae7a6"
+      "id": "7e909bc297b24c9fa82b0a27e0579794"
     },
     {
       "label": "Graphic Design",
       "value": "Pentagram Design Ltd",
-      "id": "a26d46a6b3f9411c86e906d034871c25"
+      "id": "8f4ef3f46c7744dbac66a47f0b67bd71"
     },
     {
       "label": "Model Makers",
       "value": "Tetra Design Services Ltd",
-      "id": "371b29d647c9433889692f60be8b250f"
+      "id": "52cce39c111c4cbc9a25a67d8375dfea"
     },
     {
       "label": "Rights of Light Consultant",
       "value": "Anstey Horne & Co",
-      "id": "8d852b9a70c847cd99ef2d55b94d2d14"
+      "id": "063d879eee3b44aaa36e888fc85eae72"
     }
   ],
   "awards": [
@@ -169,13 +169,13 @@
       "date": "1988-01-01",
       "year": "1988",
       "award": "Eternit 8th International Prize for Architecture (Special mention)",
-      "rowId": "cf74ef2c39f84d41be3713733ed37896"
+      "rowId": "28fdfb55d1d54f9ebddde2219c5c2a20"
     },
     {
       "date": "1988-01-01",
       "year": "1988",
       "award": "RIBA Regional Award PA Award for Innovation in Building Design and Construction",
-      "rowId": "c4f96f8aeb1648d8928fae7e5565e61a"
+      "rowId": "cab31815da1e475ebfdc06401ecda760"
     },
     {
       "date": "1987-01-01",

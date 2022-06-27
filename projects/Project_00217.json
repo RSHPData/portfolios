@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "00217",
   "url": "industrial/patscenter",
-  "serializeDate": "'2022-06-21 14:15:13.401'",
-  "serialized": 1655820913401,
+  "serializeDate": "'2022-06-27 15:39:40.261'",
+  "serialized": 1656344380261,
   "serializedBy": "sreeve",
   "title": "Patscenter",
   "description": "PA Technology recommissioned Richard Rogers Partnership to design their American research base, on a new industrial park close to the university town of Princeton.",
@@ -36,29 +36,29 @@
     {
       "label": "Site Area",
       "value": "7 500 m²",
-      "id": "7a95a32733ea4ea2a8aed802d0e480e8"
+      "id": "9f6b5b8d8f5f48ee8a01ab66e123d444"
     }
   ],
   "companies": [
     {
       "label": "Co-Architect",
       "value": "Kelbaugh and Lee Architects",
-      "id": "998a596b54844cda84b55ded147e565c"
+      "id": "ea5c24ae08e5452bbbefe33dcc1492af"
     },
     {
       "label": "Structural Engineer",
       "value": "Ove Arup & Partners / Robert Silman Associates",
-      "id": "d3d711cc81d845a7b148baeaa0497505"
+      "id": "e1681c4e0042460bb8e5757cb20bfd86"
     },
     {
       "label": "Services Engineer",
       "value": "Ove Arup & Partners / Syska and Hennessy Inc",
-      "id": "bf3b46dd84ab4845a4c99e236600d223"
+      "id": "9ce4f26a492f4bb19216e3baff0880a3"
     },
     {
       "label": "Quantity Surveyor",
       "value": "GA Hanscomb Partnership / GA Hanscomb Associates Inc",
-      "id": "4de46e1961994fd08a9b6d48bd196020"
+      "id": "4e1fb9b526454aa9928046ce2689167d"
     }
   ],
   "awards": [
@@ -66,13 +66,13 @@
       "date": "1977-01-01",
       "year": "1977",
       "award": "RIBA Regional Award",
-      "rowId": "7c72d15e3efc4c869dca98c3448cce73"
+      "rowId": "875b8a90932e47df817fe4f0503e59be"
     },
     {
       "date": "1976-01-01",
       "year": "1976",
       "award": "Financial Times Industrial Architecture Award",
-      "rowId": "762e88909fd446feb92f6a867f8e3c0f"
+      "rowId": "9d96db2e930644b78a1ed2bdead76c07"
     }
   ],
   "certificates": []

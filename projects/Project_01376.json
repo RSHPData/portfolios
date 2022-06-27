@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "01376",
   "url": "office/88-wood-street",
-  "serializeDate": "'2022-06-21 14:15:27.760'",
-  "serialized": 1655820927760,
+  "serializeDate": "'2022-06-27 15:39:54.232'",
+  "serialized": 1656344394232,
   "serializedBy": "sreeve",
   "title": "88 Wood Street",
   "description": "88 Wood Street demonstrates the potential for speculative commercial development that does not compromise on quality and enhances the public domain.",
@@ -51,7 +51,7 @@
   "floors": [
     {
       "value": "18",
-      "id": "044E47287BE74882930C0C"
+      "id": "B20DDB17F222443FA18838"
     }
   ],
   "overview": "88 Wood Street demonstrates the potential for speculative commercial development that does not compromise on quality and enhances the public domain.\n\nThe site was formerly occupied by a 1920s telephone exchange – delays in securing the demolition of this building, combined with the onset of an economic recession in the 1990s, led to the cancellation of a scheme for a prestige banking headquarters. A larger scheme was designed in 1993–94, with speculative letting in mind.\n\nThis building is arranged as three linked blocks of office accommodation that step up from eight storeys on Wood Street, where the context includes two listed buildings, to 14 and finally 18 storeys to the west, responding to the taller built topography towards London Wall. The connections between blocks provides very a large floor area that can be easily subdivided. By using the extensive basement of the telephone exchange for the building plant, roof levels are kept largely free.\n\n\nThe office wings are constructed of in-situ concrete, contrasting with the lightweight, steel-framed service towers. The use of brilliant colour enhances their impact – air intakes and extracts at street level are also brightly coloured, contrasting with the neutrality of the occupied floors. The façades of the main office floors are glazed from floor to ceiling to maximise daylight and views – in addition, levels 8,12 and 16 lead directly onto roof terraces with spectacular views over the City.\n\nThough built to a strict commercial budget, 88 Wood Street contains many innovative elements. Its triple-glazed façade is formed of single panels of highly transparent float glass. The inner faces of the external panes have a low emissivity coating which further reduces solar gain, while the cavity between the double glazed units and the third panel is fitted with motorised, integral horizontal blinds with perforated slats. Photocells on the roof monitor light conditions and adjust the angle of the blinds, thus minimising glare, heat gain and energy consumption.",
@@ -62,64 +62,64 @@
     {
       "label": "Site Area",
       "value": "3 065 m²",
-      "id": "0ca00cdbc23a4209b51df430bd124e98"
+      "id": "6f3acb3f058e4b3ea34180f13ccd89c6"
     },
     {
       "label": "Gross Floor Area",
       "value": "33 073 m²",
-      "id": "89df39f98b164859862916822aa47bf2"
+      "id": "8e15528a21764b7ca4259fb501f968ca"
     }
   ],
   "companies": [
     {
       "label": "Structural Engineer",
       "value": "Ove Arup & Partners",
-      "id": "3d40d603052542a0b095645beb1b22a7"
+      "id": "9f107f5ccf824d5198563c6d004ed9fb"
     },
     {
       "label": "Services Engineer",
       "value": "Ove Arup & Partners",
-      "id": "9d2ce70d99e74259ad18fae8211bb800"
+      "id": "266c2b901f4240b6ac01490c81c112c8"
     },
     {
       "label": "Quantity Surveyor",
       "value": "Gardiner & Theobold",
-      "id": "617c24c530174afaa6192ed489cf635b"
+      "id": "2fe6b84e61d44a10bda8ad9a2a216575"
     },
     {
       "label": "Project Manager",
       "value": "D J Williams & Associates Ltd",
-      "id": "b3a8c78cd8804e0c83597ee9697015ef"
+      "id": "46da649985f24038aacf92bd5a5dc2e7"
     },
     {
       "label": "Lighting Consultant",
       "value": "Lighting Design Partnership",
-      "id": "a3fb1443ae154b739bb7fb66efa53631"
+      "id": "de14d8614d944dc8a6b7684697b9d1a8"
     },
     {
       "label": "Landscape Architect",
       "value": "Edward Hutchison",
-      "id": "998c7138ae3941b18f52ae515b477ce8"
+      "id": "a7f8474b0e9a4b2fbaec8a2943363754"
     },
     {
       "label": "Contractor",
       "value": "Kajima / Laing Management Joint Venture",
-      "id": "b90b8fb5ec334be383b5428e06543caf"
+      "id": "869a13947d4d40008e7afdf204ccd6c4"
     },
     {
       "label": "Planning Consultant",
       "value": "Montagu Evans",
-      "id": "22c94d52d8d34de6914dfe6a1d9a8c79"
+      "id": "564de4752d4047c0880bd01720775d47"
     },
     {
       "label": "Fire Consultant",
       "value": "Warrington Fire Research Consultants",
-      "id": "33b925dc76a346e4959c15c52ce7ec15"
+      "id": "cce7fc90914f48ac83253fe8073595d2"
     },
     {
       "label": "Fit-Out Contractor",
       "value": "Kajima / Hazama Joint Venture",
-      "id": "077e1daa70e847ab8ca5683e8e8fe16f"
+      "id": "2be09789a3b9411890c8a759087ff1c1"
     }
   ],
   "awards": [
@@ -127,19 +127,19 @@
       "date": "2002-01-01",
       "year": "2002",
       "award": "The American Institute of Architects London UK Chapter Excellence in Design Award Winner",
-      "rowId": "6cf3ff659521489fae21ee904bb90c24"
+      "rowId": "f5f63496eb4c4a25a2d8a26f9d8ed638"
     },
     {
       "date": "2000-01-01",
       "year": "2000",
       "award": "Royal Academy Summer Exhibition Bovis Lendlease Award for Best Exhibit",
-      "rowId": "20291fa306b44f838536a187e27616fc"
+      "rowId": "9541ba5cef54467796878ac7747a9261"
     },
     {
       "date": "2000-01-01",
       "year": "2000",
       "award": "Royal Fine Art Commission Trust Award Building of the Year",
-      "rowId": "94f12ae26c4741b58e47b9f5142e0879"
+      "rowId": "36b8e70448c84087bbe6e4c5bec01602"
     },
     {
       "date": "2000-01-01",
@@ -151,7 +151,7 @@
       "date": "2000-01-01",
       "year": "2000",
       "award": "Stirling Prize Shortlist",
-      "rowId": "b4899ad77eaf4b6b8a3253657aedc824"
+      "rowId": "6c2ea852aacb447d82cb91712f880f39"
     },
     {
       "date": "2000-01-01",

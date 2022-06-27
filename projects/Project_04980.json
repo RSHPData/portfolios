@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "04980",
   "url": "office/ching-fu-group-headquarters",
-  "serializeDate": "'2022-06-21 14:16:13.612'",
-  "serialized": 1655820973612,
+  "serializeDate": "'2022-06-27 15:40:30.757'",
+  "serialized": 1656344430757,
   "serializedBy": "sreeve",
   "title": "Ching Fu Group Headquarters",
   "description": "Following a competition in early 2005, Rogers Stirk Harbour + Partners designed a new headquarters for Taiwan’s largest private shipbuilder aimed at uniting all the various activities of the group in one building.",
@@ -45,44 +45,44 @@
     {
       "label": "Site Area",
       "value": "7 123 m²",
-      "id": "d42fdb8184464e97808cc37148280206"
+      "id": "23ebbaf3c91b41428f50923339c54f2c"
     },
     {
       "label": "Gross Floor Area",
       "value": "25 178 m²",
-      "id": "c31621f1ac824a3198b66fcfd66a9fff"
+      "id": "8cdffe19d53e4c1c9236b310be3b3c54"
     }
   ],
   "companies": [
     {
       "label": "Co-Architect",
       "value": "HOYA Architects & Associates",
-      "id": "2a2c5db8b723492bb47e7feb0a73d8ac"
+      "id": "de014eff33854428ac3d6313dcaf6e15"
     },
     {
       "label": "Structural Engineer",
       "value": "Supertech Consultants International",
-      "id": "715f16e2393a43a184199e66fddf83e4"
+      "id": "f2260753a41f4130a9799c010664090a"
     },
     {
       "label": "Services Engineer",
       "value": "Co-Young Engineering Consultants, Inc.",
-      "id": "65d74f13f5204a9a96cf629ead5f8f8f"
+      "id": "cff5d69ad3dd4956b23a580ea7d7b0ab"
     },
     {
       "label": "Lighting Consultant",
       "value": "CWI Lighting design",
-      "id": "00588aabbfce452fb691bffa121cc3e4"
+      "id": "4952d798a47d406097bbbc03ef47829d"
     },
     {
       "label": "Contractor",
       "value": "Fu Tsu Construction Co., Ltd.",
-      "id": "958cdc12999943f59548efbeb6353fb4"
+      "id": "f94a154796244374aaca0e97d1f5b873"
     },
     {
       "label": "Façade Engineering",
       "value": "Bright Curtain Metal Co., Ltd.",
-      "id": "51944af3f5594a7886a42d459ec3ca94"
+      "id": "b538b538bc9f459fbb0ab47396f1083f"
     }
   ]
 }

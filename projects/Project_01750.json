@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "01750",
   "url": "industrial/fleetguard",
-  "serializeDate": "'2022-06-21 14:15:31.628'",
-  "serialized": 1655820931628,
+  "serializeDate": "'2022-06-27 15:39:57.389'",
+  "serialized": 1656344397389,
   "serializedBy": "sreeve",
   "title": "Fleetguard",
   "description": "Located in a newly designated industrial zone within a few kilometres of the town of Quimper in Brittany and adjacent to a major road, the site provides magnificent views across country towards Quimper and the south Brittany coast.",
@@ -37,24 +37,24 @@
     {
       "label": "Gross Floor Area",
       "value": "8 750 m²",
-      "id": "1e4c09c360dd498aa465d953e296eee2"
+      "id": "2a42dc23274b4f558e1c3c77e75b1675"
     }
   ],
   "companies": [
     {
       "label": "Structural Engineer",
       "value": "Ove Arup & Partners",
-      "id": "b33ffee01c2749628df73e569a3b00cb"
+      "id": "9d9bfbd73317432690e966f838bf73eb"
     },
     {
       "label": "Quantity Surveyor",
       "value": "Northcroft Neighbour and Nicholson",
-      "id": "c7f0b02aacda4c7891c9017bf7b02f93"
+      "id": "27e9d700c8e043129be02c7a1903a5f3"
     },
     {
       "label": "Project Manager",
       "value": "Fleetguard International Corporation",
-      "id": "0652373e171c4c2482833c22af99414e"
+      "id": "5366ede3bd4b468fb25c7f1196f82851"
     }
   ],
   "awards": [
@@ -62,7 +62,7 @@
       "date": "1986-01-01",
       "year": "1986",
       "award": "Premier Award for Exceptional Steel Structure, France",
-      "rowId": "27eea69c51f349b7ac021aeab7786f06"
+      "rowId": "e96a57cbf32b458e9371e5578affeb27"
     },
     {
       "date": "1982-01-01",
@@ -74,13 +74,13 @@
       "date": "1982-01-01",
       "year": "1982",
       "award": "Concours de Plus Beaux Ouvrages de Construction Metallique",
-      "rowId": "6881df4cf8cf4b429bff883ecb2d32e8"
+      "rowId": "506cb700c2b346d1b309773982d41033"
     },
     {
       "date": "1982-01-01",
       "year": "1982",
       "award": "Constructa-Preis for Overall Excellence in the Field of Architecture",
-      "rowId": "98bef2d820f24145ab8b68ee697093c7"
+      "rowId": "1a05d484747c4065bacd89fc5b1a0f61"
     }
   ],
   "certificates": []

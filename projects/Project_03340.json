@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "03340",
   "url": "masterplanning/buena-vista",
-  "serializeDate": "'2022-06-21 14:15:52.424'",
-  "serialized": 1655820952424,
+  "serializeDate": "'2022-06-27 15:40:13.906'",
+  "serialized": 1656344413906,
   "serializedBy": "sreeve",
   "title": "Buena Vista",
   "description": "The practice generated a new model for a mixed community of living, working and leisure, accommodating a centre for excellence in media, e-business and bio sciences.",
@@ -42,19 +42,19 @@
     {
       "label": "Area",
       "value": "4 million m²",
-      "id": "e24134c1f21f4304ba07be2acfd3c0b8"
+      "id": "2846903ac4c7471fb53925945582e6b9"
     }
   ],
   "companies": [
     {
       "label": "Services Engineer",
       "value": "Battle McCarthy",
-      "id": "d1390677118e4a18b42dd653fcb013c4"
+      "id": "7b28f042e4f84b9ead2e003f63206c3e"
     },
     {
       "label": "Traffic Engineer",
       "value": "Arup",
-      "id": "2ea05ed857ae400281413e5d7af7b47e"
+      "id": "ddfba77e34b042219f44a5c63d013773"
     }
   ],
   "awards": [],

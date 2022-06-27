@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "00022",
   "url": "office/reliance-controls",
-  "serializeDate": "'2022-06-23 08:09:36.365'",
-  "serialized": 1655971776365,
+  "serializeDate": "'2022-06-27 15:39:35.496'",
+  "serialized": 1656344375496,
   "serializedBy": "sreeve",
   "title": "Reliance Controls",
   "description": "Reliance Controls is neither a factory, nor an office building nor a research station but a combination of all three. After its completion, the work of Rogers and of Norman Foster turned in increasingly radical (if divergent) directions.",
@@ -13,7 +13,7 @@
   "longLat": "-1.75512  / 51.57040",
   "longitude": "-1.75512 ",
   "latitude": "51.57040",
-  "constructionCost": "£ 3/13s per ft²",
+  "constructionCost": "Cost per ft²: £ 3/13s",
   "typologies": [
     "Office"
   ],
@@ -34,34 +34,34 @@
     {
       "label": "Area",
       "value": "11 000 m²",
-      "id": "5ea860cf8aee46d5a3b0d65ac4535e34"
+      "id": "fc7f38b58bc54721a1a7aec9a6213c27"
     }
   ],
   "companies": [
     {
       "label": "Architect",
       "value": "Team 4",
-      "id": "fb7d6209aded45b383eb8b6954c12e86"
+      "id": "6dbe063e6e8843599c40c44533e1b003"
     },
     {
       "label": "Structural Engineer",
       "value": "Anthony Hunt Associates",
-      "id": "7b28de14009048d0bffa073d16f5f51a"
+      "id": "9401a5bd4e2449aa8402df136bb83748"
     },
     {
       "label": "Services Engineer",
       "value": "GN Haden & Sons Ltd",
-      "id": "57b913960da94a2e9444ffedc68b5a0a"
+      "id": "3712849f4e5e4941bf768fc737b64984"
     },
     {
       "label": "Quantity Surveyor",
       "value": "GA Hanscomb Partnership",
-      "id": "5704e696c32944b7aac6a728328bff30"
+      "id": "d1e5cb338ba54b248b6167a11acd71a5"
     },
     {
       "label": "Contractor",
       "value": "Pope Brothers",
-      "id": "1c291a9f7b2e48f9b1b9fe38008a5da8"
+      "id": "7936c591d3924d31b5b15635f0c5a40b"
     }
   ]
 }

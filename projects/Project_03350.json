@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "03350",
   "url": "education/grips",
-  "serializeDate": "'2022-06-21 14:15:53.079'",
-  "serialized": 1655820953079,
+  "serializeDate": "'2022-06-27 15:40:14.501'",
+  "serialized": 1656344414501,
   "serializedBy": "sreeve",
   "title": "GRIPS",
   "description": "The National Graduate Institute for Policy Studies (GRIPS) is a graduate school and research institute, established in October 1997.",
@@ -41,7 +41,7 @@
   "heights": [
     {
       "value": "54.5 m",
-      "id": "881F7F0EED3646EEA8C362"
+      "id": "228AA2FA7DEC45D6AC06A0"
     }
   ],
   "overview": "The National Graduate Institute for Policy Studies (GRIPS) is a graduate school and research institute, established in October 1997. Its aim was to be an international centre of excellence for the education of future leaders in the policy arena, for the advancement of policy research, and for the systematic collection and dissemination of policy-related information.\n\nLocated in the Roppongi district of central Tokyo, the school is very close to the political and business headquarters of Japan and the adjacent site was later occupied by the new National Gallery designed by Kisho Kurokawa. This project is one of the first PFI projects commissioned by the Japanese government and the design responds to the life cycle cost of the building.\n\n\nThe building is formed of two volumes, a 14-storey high-rise block to the west (mostly laboratory space) and a 5-storey lower part (work-shop space and administration) to the east. The tower steps down towards the north to allow more sunlight to this part of site and to meet strict Japanese right of light regulations. The two blocks are connected by a long and linear glazed atrium, spanned by bridges connecting different departments. A multiple-use lecture hall is located on the ground/ basement level of the high-rise block. The 8.1m grid superstructure of the high-rise block is a pre-cast concrete frame. Steel bracing at the circulation/services cores are unbonded, absorbing forces by deforming within the constraints of concrete-filled tubing. This reduces the size of bracing required – an important factor in a seismic country such as Japan.\n\n\nThe top level of the lower block has an east-facing undulating roof, designed to maximise daylight. Aluminium louvres, designed to reduce heat gain, are used to clad most of the high-rise façade, but users can still enjoy excellent views over the green spaces of the adjacent Aoyama Cemetery. The remaining façades are clad with terracotta panels.",
@@ -49,29 +49,29 @@
     {
       "label": "Site Area",
       "value": "17 842 m²",
-      "id": "d3fd2963a5144f448b04fbf261a248f0"
+      "id": "1225e77252524283970676ffb35e4dd6"
     }
   ],
   "companies": [
     {
       "label": "Co-Architect",
       "value": "Yamashita Sekkei",
-      "id": "7ed5626eb84c4b589d41aae0cc9f369c"
+      "id": "ee687990abb54147a28a5b53099b4ea9"
     },
     {
       "label": "Structural Engineer",
       "value": "Yamashita Sekkei/BDSP/Expedition",
-      "id": "957bd6f0aa5544dbbefb4a9284525c65"
+      "id": "a60540a0b5274b368bf53ebb38258999"
     },
     {
       "label": "Services Engineer",
       "value": "Yamashita Sekkei/BDSP/Expedition",
-      "id": "1d56f5696dac4323bfcde6c4b6ced7f2"
+      "id": "cb1d2b86425f46d6aaa41a54bdcb132b"
     },
     {
       "label": "Landscape Architect",
       "value": "Equipe Espace",
-      "id": "598dd5d581d64025a6444e070b02cfad"
+      "id": "d2971d2e22214bb68f72648d5e77d711"
     }
   ]
 }

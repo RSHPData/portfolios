@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "02770",
   "url": "health-and-science/amano-research-laboratories",
-  "serializeDate": "'2022-06-21 14:15:46.710'",
-  "serialized": 1655820946710,
+  "serializeDate": "'2022-06-27 15:40:09.544'",
+  "serialized": 1656344409544,
   "serializedBy": "sreeve",
   "title": "Amano Research Laboratories",
   "description": "In 1997, Richard Rogers Partnership and co-architects Kisho Kurokawa & Associates were approached by Amano Pharmaceutical to design a low budget building at Kakamigahara City, Gifu, to accommodate the company’s enzyme research group.",
@@ -36,27 +36,27 @@
     {
       "label": "Co-Architect",
       "value": "Kisho Kurokawa & Associates",
-      "id": "95e6ab6f2a6a4c40bf7191211227460f"
+      "id": "a86d25d1b22b4e1aa7af393c38921e5e"
     },
     {
       "label": "Structural Engineer",
       "value": "Umezawa Structural Engineers",
-      "id": "f7dd760834e448cdb40c23d6b9d1d561"
+      "id": "47bd2baca987462d9e7f4fe6e092604e"
     },
     {
       "label": "Services Engineer",
       "value": "Inuzuka Engineering Consultants",
-      "id": "d0cebf7528fd44f4badfd109fd5edd1f"
+      "id": "8ba7f80746204503ba01a8954f28a7a1"
     },
     {
       "label": "Landscape Architect",
       "value": "Equipe Espace",
-      "id": "73df67cb99104786a9e54599f7aed926"
+      "id": "b804bbf9be3e41abbfed90e27bccf46f"
     },
     {
       "label": "Contractor",
       "value": "Takenaka",
-      "id": "6281f64a016c494faa29a355becfb5b7"
+      "id": "3c7f4a109ff44a09bbdb88ec5be4993b"
     }
   ]
 }

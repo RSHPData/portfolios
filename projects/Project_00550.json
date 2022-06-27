@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "00550",
   "url": "office/thames-wharf-studios/",
-  "serializeDate": "'2022-06-21 14:15:23.159'",
-  "serialized": 1655820923159,
+  "serializeDate": "'2022-06-27 15:39:50.292'",
+  "serialized": 1656344390292,
   "serializedBy": "sreeve",
   "title": "Thames Wharf Studios",
   "description": "The relocation of the Richard Rogers Partnership offices to Thames Wharf in Hammersmith, west London, was significant in several ways.",
@@ -40,49 +40,49 @@
     {
       "label": "Site Area",
       "value": "4 500 m²",
-      "id": "ba11390d127e4c0da94fe918c744972b"
+      "id": "31c89bf5661549f5aeef4c424ba71ee2"
     },
     {
       "label": "RRP office area",
       "value": "2 223 m²",
-      "id": "c9e6d5a2dc6742f8a738846800792c92"
+      "id": "0a4a9203965040c8a5a1e76a8342266e"
     }
   ],
   "companies": [
     {
       "label": "Structural Engineer",
       "value": "Anthony Hunt Associates/Ove Arup and Partners",
-      "id": "56cb85dc468a49fabbf038c0c2dd6534"
+      "id": "cae98d1c6b9c48b9b29071541b46f278"
     },
     {
       "label": "Services Engineer",
       "value": "Rosser and Russell / Ove Arup and Partners",
-      "id": "f0782c31f2ec40edb7a82937115fdcdc"
+      "id": "c16b13fa7c09415d8b43ea4881e243f9"
     },
     {
       "label": "Quantity Surveyor",
       "value": "GA Hanscomb Partnership",
-      "id": "e1c340de02be407284742ea5f6bdbe4e"
+      "id": "d650a559c9944b5ba50f44affcdeb5ae"
     },
     {
       "label": "Landscape Architect",
       "value": "Georgie Wolton",
-      "id": "f1a144549b0a4d1fb3bc453b13eebf00"
+      "id": "db95b7107b484093ab8df3f91f7483ca"
     },
     {
       "label": "Contractor",
       "value": "Woolf Construction Ltd / Tarmac Cubitts",
-      "id": "96b5f00b26b84c18b496384281553a0f"
+      "id": "c2b99849cfac460cbe3629828a7c54d8"
     },
     {
       "label": "Planning Consultant",
       "value": "Montagu Evans",
-      "id": "5b541c8dfa6349f4ae46c1eb2b82f786"
+      "id": "b82e5f6a9d0e42d089dfcd0318204a59"
     },
     {
       "label": "Roof Extension",
       "value": "with Lifschutz Davidson Ltd",
-      "id": "63c620ee82664d21926cdbfb9fda9bfe"
+      "id": "fe2a49f2062641ac969accdff951a3da"
     }
   ]
 }

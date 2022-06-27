@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "02900",
   "url": "office/paddington-waterside",
-  "serializeDate": "'2022-06-21 14:15:48.834'",
-  "serialized": 1655820948834,
+  "serializeDate": "'2022-06-27 15:40:11.401'",
+  "serialized": 1656344411401,
   "serializedBy": "sreeve",
   "title": "Paddington Waterside",
   "description": "This project is located within the masterplan for the Paddington Basin. Adjacent to Paddington Station it offers a revitalised, mixed commercial, residential and retail environment.",
@@ -40,74 +40,74 @@
     {
       "label": "Site Area",
       "value": "7 000 m²",
-      "id": "d9ccd4f0f8554c4096c400a657d23c57"
+      "id": "b4f7674bf505454b99573c8d71c9c9c1"
     },
     {
       "label": "Gross Floor Area",
       "value": "33 968 m²",
-      "id": "b8def857003641e1b41aa21a00baa83a"
+      "id": "528e1ff2b15346fc8e8edcd02ea081eb"
     }
   ],
   "companies": [
     {
       "label": "Structural Engineer",
       "value": "Arup",
-      "id": "ee4edb5792c243ecb64a43763f61cb38"
+      "id": "085b4b6f6b664106863813c71676801e"
     },
     {
       "label": "Services Engineer",
       "value": "Arup",
-      "id": "daacca07a5bc4ab28caba2192edbff5b"
+      "id": "6c61b4dbdbb84ce7ab9ef7d8b2aeaa05"
     },
     {
       "label": "Quantity Surveyor",
       "value": "Gardiner & Theobold",
-      "id": "4220bc3ccc414ff8825c8a19ea56e63a"
+      "id": "0a7a86e9f55f43a6a886abd835530792"
     },
     {
       "label": "Project Manager",
       "value": "Mace",
-      "id": "0ea88578f96d46be80d78727da84d26c"
+      "id": "2944086ce1f74aa49e6c2512c45962ae"
     },
     {
       "label": "Lighting Consultant",
       "value": "Arup",
-      "id": "120850e0836f41768b3567dcc4dc484f"
+      "id": "62c544dba1ea4cb6b2828ac9182a9e69"
     },
     {
       "label": "Landscape Architect",
       "value": "Gillespies",
-      "id": "b0bae324094d4c3ab4e2b58ace3dfa06"
+      "id": "98935133c03c46f8a3c7bc12ca422886"
     },
     {
       "label": "Contractor",
       "value": "Carillion plc",
-      "id": "52b6886f121544f59ed7bf47d5ee2ee7"
+      "id": "b0157620f052427faaae627c598016b3"
     },
     {
       "label": "Planning Consultant",
       "value": "Montagu Evans",
-      "id": "9767545c616c47df84729f5937635116"
+      "id": "698f9fd5c4d141fe9d0145b7ed15110a"
     },
     {
       "label": "Acoustic Consultant",
       "value": "Bickerdike Allen Partners",
-      "id": "4f09cde842534bbfa3180f810574cd30"
+      "id": "d46e81d1649b4f01af64436c2199a0bd"
     },
     {
       "label": "Civil Engineer",
       "value": "Halcrow Fox",
-      "id": "a182532643414317aaa88f577e9e0e41"
+      "id": "fbeb13f3f47f44039423b6369cd1aafa"
     },
     {
       "label": "Cladding Consultant",
       "value": "Bickerdike Allen Partners",
-      "id": "5546ce9ef9f246fa90287fd40f41a26b"
+      "id": "103eb1f80ab7446faedef11c65bf111a"
     },
     {
       "label": "Lift Consultant",
       "value": "Arup",
-      "id": "d5431724660f48a4b7285cc40a4a68a0"
+      "id": "77404bad691a40618a0714efd4f94ff0"
     }
   ]
 }
