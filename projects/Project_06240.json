@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "06240",
   "url": "transport/geneva-airport-aile-est",
-  "serializeDate": "'2022-06-27 13:40:52.033'",
-  "serialized": 1656337252033,
+  "serializeDate": "'2022-06-27 15:09:56.414'",
+  "serialized": 1656342596414,
   "serializedBy": "sreeve",
   "title": "Geneva Airport, Aile Est",
   "description": "The Aile Est (East wing) project represents an important improvement for Geneva Airport in terms of flexibility of its operation and passenger comfort.",
@@ -110,7 +110,7 @@
     },
     {
       "label": "Lighting Consultant",
-      "value": "Speirs + Major",
+      "value": "Speirs Major",
       "id": "f7fefded7ba74f929c3d0ad2da54e95f"
     },
     {
