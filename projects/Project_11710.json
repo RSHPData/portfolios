@@ -2,12 +2,12 @@
   "type": "Project",
   "id": "11710",
   "url": "placemaking/urban-living-room-in-qianhai",
-  "serializeDate": "'2022-06-21 14:17:06.485'",
-  "serialized": 1655821026485,
+  "serializeDate": "'2022-06-27 11:58:46.101'",
+  "serialized": 1656331126101,
   "serializedBy": "sreeve",
   "title": "Urban Living Room in Qianhai",
   "description": "The project is the winning competition design to create the ‘Urban Living Room’ masterplan in the heart of Qianhai.",
-  "date": "2018 - under construction",
+  "date": "2018 -",
   "client": "Shenzhen Qianhai Development & Investment Holding Co., Ltd.",
   "location": "Shenzhen, China",
   "longLat": "113.8934433  / 22.534587",
@@ -36,24 +36,24 @@
     {
       "label": "Site Area",
       "value": "2,322,500 m²",
-      "id": "c4296349b5194fb583b6474860cd2fc3"
+      "id": "a7cb94a9ea4d4fc787ff6f9526b09e09"
     }
   ],
   "companies": [
     {
       "label": "Structural Engineer",
       "value": "BuroHappold Engineering",
-      "id": "9443afbf425f45fe8e2f9dcb477fc4df"
+      "id": "7ffcb0d3b6004adca6a0d7d1b20a3d78"
     },
     {
       "label": "Landscape Architect",
       "value": "Gillespies",
-      "id": "d5059f643e144d4ba1616d9483c34e51"
+      "id": "f5a133015938482782e84aedb3c307f0"
     },
     {
       "label": "Sustainablity",
       "value": "BuroHappold Engineering",
-      "id": "d60bcdcc7c99428aaaefac0222b8e200"
+      "id": "f28a9c045c8e4c51ab3a343454b64faf"
     }
   ]
 }
