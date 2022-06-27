@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "06240",
   "url": "transport/geneva-airport-aile-est",
-  "serializeDate": "'2022-06-21 14:16:32.552'",
-  "serialized": 1655820992552,
+  "serializeDate": "'2022-06-27 13:40:52.033'",
+  "serialized": 1656337252033,
   "serializedBy": "sreeve",
   "title": "Geneva Airport, Aile Est",
   "description": "The Aile Est (East wing) project represents an important improvement for Geneva Airport in terms of flexibility of its operation and passenger comfort.",
@@ -13,7 +13,7 @@
   "longLat": "6.110480  / 46.233305",
   "longitude": "6.110480 ",
   "latitude": "46.233305",
-  "constructionCost": "CHF 610 million for the whole Secteur Aile Est",
+  "constructionCost": "610m CHF - for the whole Aile Est sector",
   "typologies": [
     "Transport"
   ],
@@ -89,59 +89,59 @@
     {
       "label": "Total Area",
       "value": "40,000 m²<br>",
-      "id": "2e6080798e75480484158fd2ce30a806"
+      "id": "e13c07a72f3c47e8a4152c7312c27a1d"
     }
   ],
   "companies": [
     {
       "label": "Co-Architect",
       "value": "Atelier Jacques Bugna SA",
-      "id": "ea73877a502d49efb5fcfde23e38076b"
+      "id": "3ce37f19aae84321b97e012392519bda"
     },
     {
       "label": "Structural Engineer",
       "value": "Ingérop & T-Ingénierie SA",
-      "id": "a45d0178ca7f4012bf2ef2ce247aed52"
+      "id": "3db46e7d197a4d05b27b4c7b9847ce2a"
     },
     {
       "label": "Services Engineer",
       "value": "Ingérop",
-      "id": "82dd11d3db7847088ee26b619dfb0bfc"
+      "id": "c016459404e043bbb1ed6b7f42becf0d"
     },
     {
       "label": "Lighting Consultant",
       "value": "Speirs + Major",
-      "id": "ba8899a4576d4ed8820b3e7038f79a5a"
+      "id": "f7fefded7ba74f929c3d0ad2da54e95f"
     },
     {
       "label": "Wayfinding Consultant",
       "value": "Mijksenaar",
-      "id": "5cdb743a26ae465f8f63670ac009f3f8"
+      "id": "1b93110344964a25a8b8a011cb8392e5"
     },
     {
       "label": "Acoustic Consultant",
       "value": "Architecture & Acoustique SA",
-      "id": "43cab572c7ae41c7abe3b28f93f575fe"
+      "id": "f68b7fec729045f8b1e753601e710f03"
     },
     {
       "label": "Public Address Consultant",
       "value": "Bien Entendu",
-      "id": "aaea939658b549ce9b20c8c6c292e5a3"
+      "id": "7ec0e777d37d40ae823b2f9c973a9f40"
     },
     {
       "label": "Facade Consultant",
       "value": "Arcora",
-      "id": "026d594da0e8483eba8f4d6574b46bbf"
+      "id": "a68dd93dcf204e5da336c054d3aa8a32"
     },
     {
       "label": "Fire Consultants",
-      "value": "Swissi SA, Exova & Warrington Fire",
-      "id": "75e82969a80343589cde1b643b79b5e9"
+      "value": "Swiss Safety Center and Exova & Warringtonfire",
+      "id": "8919e1930ec74d13a2ce3a3525fe5ce2"
     },
     {
       "label": "Passenger Facilitation Consultant",
       "value": "Jacobs (CH2M)",
-      "id": "accd867003a84c0ea17e883f9590ad23"
+      "id": "6dafba60ff0d44e3a39c008967a115ed"
     }
   ]
 }
