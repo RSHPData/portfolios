@@ -45,6 +45,12 @@
     "projectId": "10190",
     "project": "LSE Centre Building",
     "year": "2021",
+    "award": "RIBA National Award Winner"
+  },
+  {
+    "projectId": "10190",
+    "project": "LSE Centre Building",
+    "year": "2021",
     "award": "RIBA London Award Winner"
   },
   {
@@ -58,12 +64,6 @@
     "project": "LSE Centre Building",
     "year": "2021",
     "award": "Civic Trust Award Winner"
-  },
-  {
-    "projectId": "10190",
-    "project": "LSE Centre Building",
-    "year": "2021",
-    "award": "RIBA National Award Winner"
   },
   {
     "projectId": "06770",
@@ -153,30 +153,6 @@
     "projectId": "10190",
     "project": "LSE Centre Building",
     "year": "2020",
-    "award": "Highly Commended Project of the Year - Education Estates Awards"
-  },
-  {
-    "projectId": "10190",
-    "project": "LSE Centre Building",
-    "year": "2020",
-    "award": "Highly Commended - Structural Steel Design Awards"
-  },
-  {
-    "projectId": "10190",
-    "project": "LSE Centre Building",
-    "year": "2020",
-    "award": "The Guardian University Awards' Finalist - Buildings that inspire category"
-  },
-  {
-    "projectId": "10190",
-    "project": "LSE Centre Building",
-    "year": "2020",
-    "award": "Planning Awards' Finalist - Award for Design Excellence"
-  },
-  {
-    "projectId": "10190",
-    "project": "LSE Centre Building",
-    "year": "2020",
     "award": "Regional Finalist - Civic Trust Awards"
   },
   {
@@ -202,6 +178,30 @@
     "project": "LSE Centre Building",
     "year": "2020",
     "award": "Winner Social Infrastructure Project of the Year - British Construction Industry Awards (BCIA)"
+  },
+  {
+    "projectId": "10190",
+    "project": "LSE Centre Building",
+    "year": "2020",
+    "award": "Highly Commended Project of the Year - Education Estates Awards"
+  },
+  {
+    "projectId": "10190",
+    "project": "LSE Centre Building",
+    "year": "2020",
+    "award": "Highly Commended - Structural Steel Design Awards"
+  },
+  {
+    "projectId": "10190",
+    "project": "LSE Centre Building",
+    "year": "2020",
+    "award": "The Guardian University Awards' Finalist - Buildings that inspire category"
+  },
+  {
+    "projectId": "10190",
+    "project": "LSE Centre Building",
+    "year": "2020",
+    "award": "Planning Awards' Finalist - Award for Design Excellence"
   },
   {
     "projectId": "06790",
@@ -627,6 +627,24 @@
     "projectId": "05670",
     "project": "BBVA Bancomer Tower",
     "year": "2016",
+    "award": "American Architecture Prize - Institutional Architecture Bronze Medal"
+  },
+  {
+    "projectId": "05670",
+    "project": "BBVA Bancomer Tower",
+    "year": "2016",
+    "award": "World Architecture Festival 2016 - Completed Office Buildings - Shortlist"
+  },
+  {
+    "projectId": "05670",
+    "project": "BBVA Bancomer Tower",
+    "year": "2016",
+    "award": "MCHAP Awards - Nomination"
+  },
+  {
+    "projectId": "05670",
+    "project": "BBVA Bancomer Tower",
+    "year": "2016",
     "award": "IStructe Award for Commercial or Retail Structures"
   },
   {
@@ -648,24 +666,6 @@
     "award": "Bienal Nacional de Arquitectura Mexicana, Silver Medal"
   },
   {
-    "projectId": "05670",
-    "project": "BBVA Bancomer Tower",
-    "year": "2016",
-    "award": "American Architecture Prize - Institutional Architecture Bronze Medal"
-  },
-  {
-    "projectId": "05670",
-    "project": "BBVA Bancomer Tower",
-    "year": "2016",
-    "award": "World Architecture Festival 2016 - Completed Office Buildings - Shortlist"
-  },
-  {
-    "projectId": "05670",
-    "project": "BBVA Bancomer Tower",
-    "year": "2016",
-    "award": "MCHAP Awards - Nomination"
-  },
-  {
     "projectId": "06130",
     "project": "Cancer Centre at Guy’s Hospital",
     "year": "2016",
@@ -675,13 +675,13 @@
     "projectId": "10410",
     "project": "PLACE / Ladywell",
     "year": "2016",
-    "award": "NLA / The Mayor's Award"
+    "award": "NLA Best Temporary Building"
   },
   {
     "projectId": "10410",
     "project": "PLACE / Ladywell",
     "year": "2016",
-    "award": "NLA Best Temporary Building"
+    "award": "NLA / The Mayor's Award"
   },
   {
     "projectId": "03510",
@@ -723,6 +723,18 @@
     "projectId": "10260",
     "project": "Y:Cube",
     "year": "2016",
+    "award": "AIA UK Shortlist"
+  },
+  {
+    "projectId": "10260",
+    "project": "Y:Cube",
+    "year": "2016",
+    "award": "Edison Awards - Silver medal in the 'Social Solutions' category"
+  },
+  {
+    "projectId": "10260",
+    "project": "Y:Cube",
+    "year": "2016",
     "award": "World Architecture Festival 2016 - Completed Housing - Shortlist"
   },
   {
@@ -738,28 +750,16 @@
     "award": "RIBA Journal MacEwen Award - Shortlist"
   },
   {
-    "projectId": "10260",
-    "project": "Y:Cube",
-    "year": "2016",
-    "award": "AIA UK Shortlist"
-  },
-  {
-    "projectId": "10260",
-    "project": "Y:Cube",
-    "year": "2016",
-    "award": "Edison Awards - Silver medal in the 'Social Solutions' category"
+    "projectId": "05370",
+    "project": "British Museum WCEC",
+    "year": "2015",
+    "award": "RICS Awards - Best Building in the Tourism and Leisure Sector"
   },
   {
     "projectId": "05370",
     "project": "British Museum WCEC",
     "year": "2015",
     "award": "RICS Awards - Best Building on the Tourism and Leisure Sector"
-  },
-  {
-    "projectId": "05370",
-    "project": "British Museum WCEC",
-    "year": "2015",
-    "award": "RICS Awards - Best Building in the Tourism and Leisure Sector"
   },
   {
     "projectId": "04990",
@@ -897,13 +897,13 @@
     "projectId": "01065",
     "project": "Terminal 5, Heathrow Airport",
     "year": "2014",
-    "award": "Skytrax World’s Best Terminal"
+    "award": "Skytrax World's Best Terminal"
   },
   {
     "projectId": "01065",
     "project": "Terminal 5, Heathrow Airport",
     "year": "2014",
-    "award": "Skytrax World's Best Terminal"
+    "award": "Skytrax World’s Best Terminal"
   },
   {
     "projectId": "03510",
@@ -1449,6 +1449,12 @@
     "projectId": "02850",
     "project": "Antwerp Law Courts",
     "year": "2008",
+    "award": "RIBA European Award Chicago Athaneum International Architecture Award"
+  },
+  {
+    "projectId": "02850",
+    "project": "Antwerp Law Courts",
+    "year": "2008",
     "award": "Chicago Athaneum International Architecture Award"
   },
   {
@@ -1456,12 +1462,6 @@
     "project": "Antwerp Law Courts",
     "year": "2008",
     "award": "RIBA European Award"
-  },
-  {
-    "projectId": "02850",
-    "project": "Antwerp Law Courts",
-    "year": "2008",
-    "award": "RIBA European Award Chicago Athaneum International Architecture Award"
   },
   {
     "projectId": "01455",
@@ -1563,6 +1563,30 @@
     "projectId": "01065",
     "project": "Terminal 5, Heathrow Airport",
     "year": "2008",
+    "award": "Structural Award for Commercial Structures Institution of Structural Engineers (IStructE)"
+  },
+  {
+    "projectId": "01065",
+    "project": "Terminal 5, Heathrow Airport",
+    "year": "2008",
+    "award": "British Construction Awards - Highly Commended"
+  },
+  {
+    "projectId": "01065",
+    "project": "Terminal 5, Heathrow Airport",
+    "year": "2008",
+    "award": "Off Site Construction Award - Best Commercial Project Off Site Construction (OSC)"
+  },
+  {
+    "projectId": "01065",
+    "project": "Terminal 5, Heathrow Airport",
+    "year": "2008",
+    "award": "Sustain Magazine British Construction Awards - Highly Commended"
+  },
+  {
+    "projectId": "01065",
+    "project": "Terminal 5, Heathrow Airport",
+    "year": "2008",
     "award": "Off Site Construction Award - Best Commercial Project"
   },
   {
@@ -1588,30 +1612,6 @@
     "project": "Terminal 5, Heathrow Airport",
     "year": "2008",
     "award": "Supreme Award for Structural Engineering Excellence, Institution of Structural Engineers (IStructE)"
-  },
-  {
-    "projectId": "01065",
-    "project": "Terminal 5, Heathrow Airport",
-    "year": "2008",
-    "award": "Structural Award for Commercial Structures Institution of Structural Engineers (IStructE)"
-  },
-  {
-    "projectId": "01065",
-    "project": "Terminal 5, Heathrow Airport",
-    "year": "2008",
-    "award": "British Construction Awards - Highly Commended"
-  },
-  {
-    "projectId": "01065",
-    "project": "Terminal 5, Heathrow Airport",
-    "year": "2008",
-    "award": "Off Site Construction Award - Best Commercial Project Off Site Construction (OSC)"
-  },
-  {
-    "projectId": "01065",
-    "project": "Terminal 5, Heathrow Airport",
-    "year": "2008",
-    "award": "Sustain Magazine British Construction Awards - Highly Commended"
   },
   {
     "projectId": "01065",
@@ -1719,13 +1719,13 @@
     "projectId": "02850",
     "project": "Antwerp Law Courts",
     "year": "2006",
-    "award": "RIBA European Award"
+    "award": "Staalbouwprijs"
   },
   {
     "projectId": "02850",
     "project": "Antwerp Law Courts",
     "year": "2006",
-    "award": "Staalbouwprijs"
+    "award": "RIBA European Award"
   },
   {
     "projectId": "01455",
