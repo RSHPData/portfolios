@@ -1,0 +1,60 @@
+{
+  "type": "Project",
+  "id": "07115",
+  "url": "culture-and-leisure/richard-rogers-ra-inside-out",
+  "serializeDate": "'2022-06-27 17:58:35.358'",
+  "serialized": 1656352715358,
+  "serializedBy": "sreeve",
+  "title": "Richard Rogers RA: Inside Out",
+  "description": "Throughout his career, Rogers’ creations have been shaped by political, social and ethical concerns, as well as popular culture, technology, art and urbanism.",
+  "date": "2013",
+  "client": "Royal Academy of Arts",
+  "location": "Royal Academy of Arts, London, UK",
+  "longLat": "-0.139282  / 51.508821",
+  "longitude": "-0.139282 ",
+  "latitude": "51.508821",
+  "typologies": [
+    "Culture & Leisure"
+  ],
+  "team": [
+    "Kelly Darlington",
+    "Philip Dennis",
+    "Mike Fairbrass",
+    "Robert Fiehn",
+    "Karen Firmin-Cooper",
+    "Sarah Gaventa",
+    "Jennifer Goldsmith",
+    "Georgina Lever",
+    "Vicki MacGregor",
+    "Jo Murtagh",
+    "Camilla Nicholls",
+    "Richard Rogers",
+    "Jenny Stephens",
+    "Tina Wilson."
+  ],
+  "partners": [
+    "Richard Rogers"
+  ],
+  "leaders": [
+    "Vicki Macgregor"
+  ],
+  "overview": "Throughout his career, Rogers’ creations have been shaped by political, social and ethical concerns, as well as popular culture, technology, art and urbanism. This blend of influences is manifest not only in his architecture, but also in his roles as a speaker, writer, politician and activist.\n\nFocusing on key projects and using previously unseen archival material, drawings and personal items, the exhibition explored his career, from the influence of his Italian family to his impact on how we experience cities today. Visitors were able to gain an unprecedented insight into this leader of modern design.\n\n\nTo encourage visitors to engage in the debates and issues around architecture today, the final room in the exhibition was conceived as a space for dialogue and discussion, events and workshops, where visitors can share their views and hear from high-profile speakers in related fields. RSHP's manufactured house, <a href=\"projects/residential/homeshell/\">Homeshell</a>, was also installed in the courtyard through August until early September. This innovative, flat packed, environmentally efficient home is an example of how new building technologies can help shape better mass housing.",
+  "dimensions": [],
+  "companies": [
+    {
+      "label": "Exhibition Design",
+      "value": "Ab Rogers Design",
+      "id": "df4c7242dc6d47a7800153745e8f9884"
+    },
+    {
+      "label": "Design Graphic",
+      "value": "Graphic Thought Facility",
+      "id": "3d60d943713e4393aee0794c1914dc0c"
+    },
+    {
+      "label": "Sponsors",
+      "value": "Ferrovial Agroman, Heathrow, Laing O’Rourke, Porcelanosa",
+      "id": "838fb2c989ba4479852178ca6f1d0746"
+    }
+  ]
+}

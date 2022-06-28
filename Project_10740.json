@@ -1,0 +1,44 @@
+{
+  "type": "Project",
+  "id": "10740",
+  "url": "culture-and-leisure/guggenheim-helsinki",
+  "serializeDate": "'2022-06-28 09:51:24.698'",
+  "serialized": 1656409884698,
+  "serializedBy": "sreeve",
+  "title": "Guggenheim Helsinki",
+  "description": "RSHP's design, prepared in response to an international design competition, is a clearly legible synthesis of two components: a ground borne building and a dramatic air-borne structure.",
+  "date": "2014",
+  "client": "City of Helsinki / Solomon R Guggenheim Foundation",
+  "location": "Helsinki, Finland",
+  "longLat": "24.95552  / 60.16370",
+  "longitude": "24.95552 ",
+  "latitude": "60.16370",
+  "constructionCost": "€130 million",
+  "typologies": [
+    "Culture & Leisure"
+  ],
+  "team": [
+    "Alex Kitching",
+    "Dirk Krolikowski",
+    "John McElgunn",
+    "Nicholas Mitchell",
+    "Andrew Morris",
+    "Graham Stirk",
+    "Andrew Yek"
+  ],
+  "partners": [
+    "Graham Stirk"
+  ],
+  "leaders": [
+    "John McElgunn"
+  ],
+  "overview": "The Guggenheim Helsinki seeks to revitalise the southern part of Helsinki’s harbour and to emphasise the Guggenheim’s civic role, by creating an open-minded cultural centre and a civic focal point, which responds to its waterfront location, to Nordic traditions of openness and to the climatic conditions of Finland.\n\nRSHP's design, prepared in response to an international design competition, is a clearly legible synthesis of two components: a ground borne building and a dramatic air-borne structure. This design was intended to work as a flexible framework able to accept change both during design development and its life as an operational building.\n\n\nAn inclined ground plane draws visitors south from the city centre towards the waterfront, past a reflecting pool and into an ‘inlet’ that welcomes the visitor into a dramatic central gathering space providing access to all museum facilities. Above, a simple elliptical structure, which houses the top-lit gallery spaces, is held in place by supports - like a ship in dry dock. This structure is bisected by a canyon that pours natural light down through the galleries into the public space below. Escalators ascend from the public ‘inlet’ to the galleries and upwards to the rooftop promenade above, offering visitors glimpsed views out over the harbour, and inland towards the neighbouring Tähtitorninvuoren parkki.\n\n\nThe Guggenheim Helsinki design creates strong visual and physical connections to the Tähtitorninvuoren parkki and the city beyond. This is enhanced by a great covered canopy over a landscaped extension of the park that provides shelter for all weather civic events and the display of sculpture.\n\nThe building is optimised for environmental efficiency in the Finnish climate: with the potential for insulation by snow in the winter; the opening between the upper and lower buildings angled to make the most of low winter sun; use of harbour water for heating and cooling; and potential for extensive use of photovoltaic cells.",
+  "dimensions": [
+    {
+      "label": "Area",
+      "value": "12 000 m²",
+      "id": "892bcec35d624c47a850e4e04b408eb1"
+    }
+  ],
+  "companies": []
+}

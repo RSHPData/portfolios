@@ -1,0 +1,79 @@
+{
+  "type": "Project",
+  "id": "11270",
+  "url": "residential/oriental-one",
+  "serializeDate": "'2022-06-27 15:41:09.202'",
+  "serialized": 1656344469202,
+  "serializedBy": "sreeve",
+  "title": "Oriental One",
+  "description": "Oriental One is a mixed-use development that combines places to live with a range of social spaces creating a new lively contemporary mixed-use destination in Shanghai, adding to the city’s dramatic skyline.",
+  "date": "2016 -",
+  "client": "Vanke",
+  "location": "Shanghai, China",
+  "longLat": "121.474395  / 31.2562253",
+  "longitude": "121.474395 ",
+  "latitude": "31.2562253",
+  "typologies": [
+    "Residential"
+  ],
+  "team": [
+    "Richard Black",
+    "Lu-min Guo",
+    "Nandi Han",
+    "Katherine Hegab",
+    "Jose Roldan",
+    "Marco Tessaro",
+    "Simon Tonks",
+    "Chris Trundle",
+    "Jason Chang",
+    "Wenchao Zhou"
+  ],
+  "partners": [
+    "Richard Paul"
+  ],
+  "leaders": [
+    "Richard Paul"
+  ],
+  "heights": [
+    {
+      "value": "100m",
+      "id": "236E0A27FC324DF28BD248"
+    }
+  ],
+  "floors": [
+    {
+      "value": "30 (10 towers in total, highest tower is 100m, has 30 floors)",
+      "id": "5A1AF80DCA5D4FAC980CEF"
+    }
+  ],
+  "overview": "Oriental One is a mixed-use development that combines places to live with a range of social spaces creating a new lively contemporary mixed-use destination in Shanghai, adding to the city’s dramatic skyline.\n\nThe scheme consists of 10 residential towers ranging from serviced rental, with or without terraces, to apartments for sale, offering a sense of individuality and choice. The towers are arranged on a stepped podium following the existing urban grain and responding to light requirements of the surrounding buildings.\n\n\nThe podium structure allows highly permeable boundaries drawing residents and visitors towards its central sheltered green plaza, lined with shops, cafés, restaurants, landscaped terraces and spaces to socialise or relax.\n\nThe textured façades are made up through a variety of architectural expressions through materials and colours, articulating the different residencies externally to allow residents to recognise their own home from ground level. The residential towers are volumetrically structured by sky terraces, with some of the towers featuring external passenger elevators to create animated façades.\n\n\nThe heights of the residential tower are adjusted to optimise view corridors and maximise solar orientation. All residential units are configured in such a way that privacy is assured, yet natural light, views and external space are optimised. Each terrace, balcony or window has been designed to capture commanding city views of Shanghai and panoramic views from the apartments at the building corners",
+  "dimensions": [
+    {
+      "label": "Site Area",
+      "value": "19 651 m²",
+      "id": "aeb6a84e206545ff9f81813b034d77dd"
+    }
+  ],
+  "companies": [
+    {
+      "label": "Co-Architect",
+      "value": "Zhongfang Architectural Design CO. LTD",
+      "id": "9aed3a237f81406b97c05b6bbeb21828"
+    },
+    {
+      "label": "Structural Engineer",
+      "value": "SBP",
+      "id": "6b081930ff0f43129856c08d2ff6d860"
+    },
+    {
+      "label": "Landscape Architect",
+      "value": "Gillespies Landau International Design",
+      "id": "7e0ea6f94ca14279a725b4d866556fbf"
+    },
+    {
+      "label": "Contractor",
+      "value": "Jangho Curtain wall, Meite Curtain wall Fangda Curtain wall",
+      "id": "d8490df947a4432bae27eb30f5590c88"
+    }
+  ]
+}

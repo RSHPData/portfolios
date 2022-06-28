@@ -1,0 +1,58 @@
+{
+  "type": "Project",
+  "id": "05590",
+  "url": "culture-and-leisure/up-at-the-o2/",
+  "serializeDate": "'2022-06-27 17:46:43.027'",
+  "serialized": 1656352003027,
+  "serializedBy": "sreeve",
+  "title": "Up at The O2",
+  "description": "RSHP has provided the outline design for the new roofwalk which extends across and over the O2.",
+  "date": "2007-2012",
+  "client": "AEG",
+  "location": "London, UK",
+  "longLat": "0.003842  / 51.501371",
+  "longitude": "0.003842 ",
+  "latitude": "51.501371",
+  "typologies": [
+    "Culture & Leisure"
+  ],
+  "team": [
+    "Mike Davies",
+    "Ivan Harbour",
+    "Louise Palomba",
+    "Richard Rogers",
+    "Tanya Samarasingha",
+    "Neil Southard",
+    "Andrew Tyley"
+  ],
+  "partners": [
+    "Mike Davies"
+  ],
+  "leaders": [
+    "Louise Palomba"
+  ],
+  "overview": "RSHP has provided the outline design for the new roofwalk which extends across and over the O2. The walk provides participants with an exciting challenge while remaining sympathetic to the original structure.\n\n\nA combination of fabric and cables under tension creates an experience that mimics the roof of the O2, so visitors feel as if they are walking on the roof itself. A viewing platform stands at the apex of the walk (53m above ground level) providing unique views of London, with a particularly excellent vantage point over the Olympic site, the Emirates Air Line Cable Car and into the heart of Canary Wharf.\n\n\nAEG approached RSHP, as the architects of the Millennium Dome, as well as other original team members including Buro Happold. Therefore the brief was handled by a team with a clear understanding of the structure and a strong desire to avoid impacting on the quality of the existing building. A local Greenwich based access group were consulted throughout the design period, ensuring that the experience could be accessible to all, including wheelchair users.",
+  "dimensions": [],
+  "companies": [
+    {
+      "label": "Structural Engineer",
+      "value": "Buro Happold",
+      "id": "e2a386c6e1b940f88ecbeda38d86c1d6"
+    },
+    {
+      "label": "Contractor",
+      "value": "ISG",
+      "id": "e5dc6d2d77aa475e88402927e7bb169c"
+    },
+    {
+      "label": "Design Architect",
+      "value": "Bblur",
+      "id": "474b7bddd91e4eed92107db1d389613c"
+    },
+    {
+      "label": "Specialist Fabric Consultant",
+      "value": "Base Structures",
+      "id": "0ea7fe22b13e42aa896c0a49591bed68"
+    }
+  ]
+}

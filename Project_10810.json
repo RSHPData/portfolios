@@ -1,0 +1,64 @@
+{
+  "type": "Project",
+  "id": "10810",
+  "url": "residential/tree-house",
+  "serializeDate": "'2022-06-27 15:41:06.179'",
+  "serialized": 1656344466179,
+  "serializedBy": "sreeve",
+  "title": "Tree House",
+  "description": "Tree House is the latest volumetric housing project developed by RSHP, to provide low-cost homes that can be rapidly assembled and deployed.",
+  "date": "2016",
+  "location": "Various",
+  "constructionCost": "£110/m²",
+  "typologies": [
+    "Residential"
+  ],
+  "team": [
+    "Kelly Darlington",
+    "Philip Dennis",
+    "Ivan Harbour",
+    "Ed Hiscock",
+    "Vicki MacGregor",
+    "Andrew Partridge",
+    "Richard Rogers",
+    "Ting Ting Ruotsalainen",
+    "Stephen Spence"
+  ],
+  "partners": [
+    "Ivan Harbour",
+    "Richard Rogers"
+  ],
+  "leaders": [
+    "Andrew Partridge",
+    "Stephen Spence"
+  ],
+  "overview": "Tree House is the latest volumetric housing project developed by RSHP, to provide low-cost homes that can be rapidly assembled and deployed.\n\nTree House uses a timber structure that can be assembled in low tech factories from locally-sourced timber, and can typically be stacked over ten storeys. Each 75 square metre unit has a highly flexible internal layout, and access to private or communal garden spaces on the roof of the unit below. The ground floor is given over to open space and cafes, to encourage interaction and community building.\n\n\nThe units are stacked, using a simple gravity structure, around a central stair and lift. Minimal foundations are required.\n\nDesigned in response to the theme of the 2016 Venice Biennale ‘Reporting from the Front’ Tree House proposes a concept for flexible housing that can be manufactured from a simple kit of parts using uncomplicated tools and adapted to suit varied sites or circumstances as housing need demands.",
+  "dimensions": [
+    {
+      "label": "2 bedroom / 4 person unit",
+      "value": "75 m²",
+      "id": "ffbe28e575aa485e890a93e315322be6"
+    }
+  ],
+  "companies": [
+    {
+      "label": "Structural Engineer",
+      "value": "Buro Happold",
+      "id": "ffd61f76601c4a829959e32017c3e79a"
+    },
+    {
+      "label": "Project Manager",
+      "value": "AECOM",
+      "id": "f2f9bd8719404374a8c26999a2641034"
+    }
+  ],
+  "awards": [
+    {
+      "date": "2016-01-01",
+      "year": "2016",
+      "award": "World Architecture Festival 2016 - Future Housing - Shortlist",
+      "rowId": "1df33a628cd74bcaa22d9f9833000374"
+    }
+  ],
+  "certificates": []
+}

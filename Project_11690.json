@@ -1,0 +1,154 @@
+{
+  "type": "Project",
+  "id": "11690",
+  "url": "residential/marian-place-bethnal-green",
+  "serializeDate": "'2022-06-27 15:41:12.560'",
+  "serialized": 1656344472560,
+  "serializedBy": "sreeve",
+  "title": "Marian Place Bethnal Green",
+  "description": ".",
+  "date": "2018 -",
+  "client": "St William Homes LLP",
+  "location": "London, UK",
+  "longLat": "-0.061724539814304785  / 51.53424062905374",
+  "longitude": "-0.061724539814304785 ",
+  "latitude": "51.53424062905374",
+  "typologies": [
+    "Residential"
+  ],
+  "team": [
+    "Lily Amar",
+    "Uday Berry",
+    "Alessandro Blasucci",
+    "Maurice Brennan",
+    "Jean Corona",
+    "Luca D'Amico",
+    "Kelly Darlington",
+    "John Dent",
+    "Sandra Goddard",
+    "Katherine Hegab",
+    "Ed Hiscock",
+    "Toby Jeavons",
+    "Will Jefferies",
+    "Anja Kempa",
+    "John Kennedy",
+    "Adam Lampon",
+    "Stephen Light",
+    "Tracy Meller",
+    "Nicholas Mitchell",
+    "Andrew Morris",
+    "Jo Murtagh",
+    "Jack Newton",
+    "Mark Ng",
+    "Joanna Pencakowski",
+    "Anna Sebastia",
+    "Peter Shannon",
+    "Alleen Siu",
+    "Graham Stirk",
+    "Alejandro Terron",
+    "Adeline Wee",
+    "Andrew Yek"
+  ],
+  "partners": [
+    "Graham Stirk",
+    "Tracy Meller",
+    "Andrew Morris",
+    "Stephen Light"
+  ],
+  "leaders": [
+    "Graham Stirk"
+  ],
+  "heights": [
+    {
+      "label": "Building A",
+      "value": "47.485m / 155.79ft",
+      "id": "358AE6F495B445F0B56EAD"
+    },
+    {
+      "label": "Building B",
+      "value": "32.625m / 107.021ft",
+      "id": "6791eb46664a4fa98b52221e2bc3a9a7"
+    },
+    {
+      "label": "Building C",
+      "value": "45.225m / 148.37ft",
+      "id": "3c4a8cc6a53c432b8e3e044f76a93acb"
+    },
+    {
+      "label": "Building D",
+      "value": "38.925m / 127.70ft",
+      "id": "a3df0fcd96cf442aa4414cf99130cb36"
+    },
+    {
+      "label": "Building E",
+      "value": "23.175m / 76.03ft",
+      "id": "cdd0d7ca28ff4eb7a0f51d1f505aa9a7"
+    }
+  ],
+  "floors": [
+    {
+      "value": "6-13",
+      "id": "B7A95CFF84B440A193B3AA"
+    }
+  ],
+  "overview": "Marian Place Bethnal Green will celebrate the unique industrial character of a London gasholder site, providing 555 new private and affordable homes; new spaces for jobs, socialising and leisure, and 1.75 acres of public open space and landscaping - all of which will be framed by Regent’s Canal and identified by the retention of the two existing iconic gasholder frames.\n\nThe scheme comprises 5 faceted buildings ranging from 6 – 13 storeys, which, in addition to the high-quality new homes, will provide 4,182sqm of flexible non-residential floorspace.\n\n\nGasholders no.2 and no.5 will be dismantled, refurbished, and reinstated to create a strong architectural narrative driven by an understanding of the industrial heritage of the site.\n\nResidential apartments will benefit from uninterrupted views of the landscape, the existing gasholder frames, Regent’s Canal, and mid and long-distance views between and beyond neighbouring buildings. Separating accommodation into five buildings will maximise visual and pedestrian permeability through the site.\n\n\nThe scheme will unify the townscape condition and generate new cross-site links to join neighbouring areas. This physical reintegration of the site into the surrounding area will permit the site adjacencies to naturally grow as well as developing Regent’s Canal’s substantial frontage, making it publicly accessible.",
+  "dimensions": [
+    {
+      "label": "Site Area",
+      "value": "4.53 acres",
+      "id": "83a2c8971d4344a4abc1d5baeb1431dd"
+    },
+    {
+      "label": "Net Residential Area",
+      "value": "38,400m2 (net sellable area)<br>",
+      "id": "37a31d2c56cf40b68f1f9779d2c9e2f5"
+    }
+  ],
+  "companies": [
+    {
+      "label": "Structural Engineer",
+      "value": "WSP",
+      "id": "b7a6589845a544fc8d0f9043a083925c"
+    },
+    {
+      "label": "MEP",
+      "value": "WSP",
+      "id": "c1db6c11ebef4b3b941b7018a6345793"
+    },
+    {
+      "label": "Planning Consultant",
+      "value": "Montagu Evans",
+      "id": "9374113165c64f22a3303f22de8882a8"
+    },
+    {
+      "label": "Ecology Consultant",
+      "value": "Ecology Solutions",
+      "id": "e627bc90adfb4caa8c9d2509362d3f58"
+    },
+    {
+      "label": "Transport Consultant",
+      "value": "TPP",
+      "id": "1356fa0ea26544388e55e823e8f2c03a"
+    },
+    {
+      "label": "Engineering Consultant",
+      "value": "WSP",
+      "id": "3a57a5c4226d40c48083045b7e956a8f"
+    },
+    {
+      "label": "Right to Light Consultant",
+      "value": "Point 2",
+      "id": "24871033da1e4b3ab0b7bd7be6717af2"
+    },
+    {
+      "label": "Landscape Architect",
+      "value": "Gillespies",
+      "id": "0fc6cd399905453da5b866fefc9df8d0"
+    },
+    {
+      "label": "Architecture and Heritage consultant",
+      "value": "Tavernor Consultancy",
+      "id": "91a77dbbae77438fa43a644d6f566d5a"
+    }
+  ]
+}

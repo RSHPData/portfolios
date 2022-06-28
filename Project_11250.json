@@ -1,0 +1,95 @@
+{
+  "type": "Project",
+  "id": "11250",
+  "url": "residential/shanghai-sijing",
+  "serializeDate": "'2022-06-27 15:41:08.669'",
+  "serialized": 1656344468669,
+  "serializedBy": "sreeve",
+  "title": "Shanghai Sijing",
+  "description": "A new residential development for the historical town of Sijing, located on the outskirts of Shanghai. \nFeaturing nine residential towers, ranging from eleven to fifteen stories. \nDelivering over 52 000 m2 of GFA across 682 units.",
+  "date": "2016-",
+  "client": "Gree Real Estate",
+  "location": "Shanghai, China",
+  "longLat": "121.2560707  / 31.1250084",
+  "longitude": "121.2560707 ",
+  "latitude": "31.1250084",
+  "constructionCost": "570 million RMB (Estimated)",
+  "typologies": [
+    "Residential"
+  ],
+  "team": [
+    "Ann Au",
+    "Torsten Burkhardt",
+    "Simon Davis",
+    "Alexandria Fu",
+    "Ben Goble",
+    "Lennart Grut",
+    "Ivan Harbour",
+    "Taylor Huggins",
+    "Matthew Jackson",
+    "Pei-Yi Lin",
+    "Elisabeth Low",
+    "Ann Miller",
+    "Vajini Pannila",
+    "Richard Rogers",
+    "Marco Tessaro",
+    "Ben Warner",
+    "Siyang Yu",
+    "Yue Zheng",
+    "Ruby Zhou"
+  ],
+  "partners": [
+    "Ivan Harbour",
+    "Ben Warner",
+    "Lennart Grut"
+  ],
+  "leaders": [
+    "Torsten Burkhardt"
+  ],
+  "floors": [
+    {
+      "value": "4 – 15 floors (varies)",
+      "id": "d4532c1067e4487080089e6303ca072e"
+    }
+  ],
+  "overview": "Located in a historical town on the outskirts of Shanghai, Sijing is 40 minutes from the city’s CBD. Two metro lines and several expressways have helped attract young professionals to the area thanks to an easy commute, thus creating residential development opportunities.\n\nRSHP's brief was to design a series of compact apartments, 80% of which were required to be under 100sqm. The residential unit types vary from studios to three-bedroom apartments and duplex penthouses whilst 5% of the development is public housing.\n\n\nThe project comprises nine residential towers, ranging from eleven to fifteen stories, each with a different rooftop configuration creating a dynamic skyline. These roofs also form a series of terraces providing additional outdoor space for residents.\n\nThe tower geometry is a direct response to the south facing orientation preferred in the Chinese residential market. Four storey high podium bars at various lengths extend like fingers to both sides of the towers, defining the ground floor spaces and creating various intimate pocket gardens. Each pocket garden is assigned a locally relevant and site-specific theme, catering for both family play and quiet contemplation.\n\n\nThe Sijing masterplan is defined by diagonal access routes across the site, linking various pedestrian entrances to the centre of the site. Retail spaces, health and sports amenities and a club house at the heart of the development provide an animated series of social spaces for residents. The main pedestrian axis is also enhanced by carefully crafted landscaping, interwoven with delicate water features echoing the region’s water heritage. The clubhouse and retail pavilion sit in harmony with the towers creating a lively urban quarter of distinct character.",
+  "dimensions": [
+    {
+      "label": "Site Area",
+      "value": "32 600 m²",
+      "id": "cc3fe8106cc1417f8440f4a766793ed6"
+    }
+  ],
+  "companies": [
+    {
+      "label": "Structural Engineer",
+      "value": "Schlaich Bergmann Partner",
+      "id": "5e49c5e13bcb4d01b6016e55f7c7ee75"
+    },
+    {
+      "label": "Services Engineer",
+      "value": "LDI Jonson",
+      "id": "abb59c67af784a008057e3e76f914ac8"
+    },
+    {
+      "label": "Project Manager",
+      "value": "Shanghai Jianke Project Management",
+      "id": "9a9323815fce418ab131cd61291ed707"
+    },
+    {
+      "label": "Landscape Architects",
+      "value": "Gustafson Porter + Bowman",
+      "id": "1fff8074b15e480986fcceb36bbef106"
+    },
+    {
+      "label": "Co-architect",
+      "value": "CDI Tokyo; LDI Jonson",
+      "id": "480d4184c20e4e35ab053260be1b029a"
+    },
+    {
+      "label": "Contractor",
+      "value": "China Construction Third Engineering Bureau",
+      "id": "5fafb53f1d034374afa91aa3981cb8a1"
+    }
+  ]
+}
