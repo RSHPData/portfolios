@@ -1,36 +1,68 @@
 {
   "type": "Project",
   "id": "13045",
-  "serializeDate": "'2022-06-27 15:41:20.465'",
-  "serialized": 1656344480465,
+  "url": "858:office/14a-konstitucijos-avenue",
+  "serializeDate": "'2022-06-30 12:31:02.02'",
+  "serialized": 1656592262002,
   "serializedBy": "sreeve",
-  "title": "14A Konstitucijos Ave",
+  "title": "14A Konstitucijos Avenue",
+  "date": "2022 -",
   "client": "Lords LB Asset Management",
-  "location": "Vilnius",
-  "longLat": "0.00000  / 0.00000",
-  "longitude": "0.00000 ",
-  "latitude": "0.00000",
+  "location": "Vilnius, Lithuania",
+  "longLat": "25.27787496394279 / 54.694386093658125",
+  "longitude": "25.27787496394279",
+  "latitude": "54.694386093658125",
   "typologies": [
     "Office"
   ],
   "team": [
-    "Anja Kempa",
-    "Dylan Davies",
-    "Ed Hiscock",
-    "Jack Newton",
-    "Lennart Grut",
+    "Uday Berry",
     "Michael Corcoran",
+    "Luca D'Amico",
+    "Dylan Davies",
+    "Lorna Edwards",
+    "Lorenz Frenzen",
+    "Lennart Grut",
+    "Ed Hiscock",
+    "Will Jefferies",
+    "Anja Kempa",
+    "John Kennedy",
+    "Annette Main",
     "Noura Nassar",
-    "Simon Smithson",
-    "Uday Berry"
+    "Jack Newton",
+    "Simon Smithson"
   ],
-  "overview": "Lords LB Asset Management, a Baltic Property Fund plans to develop a Grade A commercial office building on 'Constitution Avenue', within the CBD in the city of Vilnius. The site is in close proximity to the Unesco protected old town and the Church of St. Archangel Raphael and therefore, the development will be the subject of a 'city-supported' design competition. \n\nThe masterplan parameters dictates a plot ratio of 3.0, and a maximum height of 35 meters indicating a building of approx. 20,000 sqm, with two floors of underground parking. The client would like this development to be exemplary in terms of sustainability aspirations, going beyond BREEAM Outstanding, with an ambition to look at nZEB (The nearly zero-energy buildings) possibilities.",
-  "dimensions": [],
+  "partners": [
+    "Simon Smithson",
+    "Lennart Grut"
+  ],
+  "leaders": [
+    "Jack Newton"
+  ],
+  "floors": [
+    {
+      "value": "7",
+      "id": "C874BF3AF6BB46C5AE71E6"
+    }
+  ],
+  "overview": "14A Konstitucijos Avenue is a new nearly net zero operational 19,200m2 business centre within the CBD in the city of Vilnius, Lithuania. The scheme will provide over 16,000sq m of office space over the 7-storey business centre.\n\nA new city square and public roof terrace is at the heart of the design for a new business complex located in a crossroads between the old and the new in the city of Vilnius.\n\nEasy access to nature and public spaces is a distinct feature of Vilnius and the design themes for the landscape have purposefully been drawn from the local context, including the site’s proximity to the river, indigenous tree species and surrounding landscape, helping to give distinct character to the scheme whilst embedding it into the city.\n\nThe scheme is a place for coming together, linking the CBD with the Old Town through an arcade of shops and cafes as well as a covered public street through the heart of the new business centre. Above the new street is a grand staircase, visible to the public and connects one side of the courtyard with the other. \n\nA sequence of platforms and planted landings float within the space connected by an array of generously scaled steps. These create a central venue that is as much about gathering to meet, greet or retreat as it is about movement.\n\nAbove is a fully glazed atrium roof incorporating automated natural ventilation and solar control systems to allow daylight into the heart of the building while ensuring a comfortable environment.",
+  "dimensions": [
+    {
+      "label": "Area",
+      "value": "19,200m²",
+      "id": "8bb052c0af554b5392fe56a56fbf4997"
+    }
+  ],
   "companies": [
     {
-      "label": "Consultant",
-      "value": "Buro Happold",
+      "label": "Structural Engineer",
+      "value": "BuroHappold",
       "id": "deltek:consultant"
+    },
+    {
+      "label": "Landscape Architect",
+      "value": "Gillespies",
+      "id": "6c9760f2d7ec4e9ab19a984eb1b103e8"
     }
   ]
 }
