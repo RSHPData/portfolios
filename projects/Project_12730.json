@@ -1,79 +1,97 @@
 {
   "type": "Project",
   "id": "12730",
-  "serializeDate": "'2022-06-27 15:41:18.811'",
-  "serialized": 1656344478811,
+  "url": "859:mixed-use/mk-gateway/",
+  "serializeDate": "'2022-06-30 13:10:53.726'",
+  "serialized": 1656594653726,
   "serializedBy": "sreeve",
   "title": "MK Gateway",
+  "description": "MK Gateway is a mixed-use scheme, combining homes, workspace, shops, and an enhanced public realm at the centre of Milton Keynes.",
   "date": "2020",
-  "client": "MK Gateway Limited",
+  "client": "Socius Development",
   "location": "Milton Keynes",
-  "longLat": "0.00000  / 0.00000",
-  "longitude": "0.00000 ",
-  "latitude": "0.00000",
+  "longLat": "-0.7561504241845401 / 52.03932054542508",
+  "longitude": "-0.7561504241845401",
+  "latitude": "52.03932054542508",
+  "constructionCost": "£190m",
   "typologies": [
     "Mixed Use"
   ],
   "team": [
-    "Alex Kitching",
-    "Andrew Partridge",
-    "Ann Miller",
-    "Benjamin Darras",
-    "Bonnie Han",
-    "Dan Hanna",
-    "Dan Rogers",
-    "Daniela Yaneva",
-    "Dawid Panek",
     "Dylan Davies",
-    "Ed Hiscock",
-    "Holly Clarke",
-    "Ivan Harbour",
-    "Joanna Pencakowski",
-    "John Kennedy",
-    "Joseph Park",
-    "Katherine Hegab",
-    "Kelly Darlington",
-    "Lennart Grut",
-    "Maria Taboada",
     "Mariana Garza",
-    "Michael Rudko",
-    "Sim Yee Lee",
-    "Stephanie Sinden",
+    "Lennart Grut",
+    "Bonnie Han",
+    "Ivan Harbour",
+    "Katherine Hegab",
+    "John Kennedy",
+    "Alex Kitching",
     "Steve Martin",
-    "Zixi Chen"
+    "Ann Miller",
+    "Dawid Panek",
+    "Joseph Park",
+    "Andrew Partridge",
+    "Joanna Pencakowski",
+    "James Scrace",
+    "Stephanie Sinden",
+    "Maria Taboada",
+    "Jai Watts",
+    "Daniela Yaneva"
   ],
-  "overview": "First Base has been selected as preferred bidder for the development of Saxon Court, a new mixed use scheme in Milton Keynes to provide 178 residential units, office space, auditorium and labs.",
-  "dimensions": [],
+  "partners": [
+    "Lennart Grut",
+    "Ivan Harbour"
+  ],
+  "leaders": [
+    "Andrew Partridge"
+  ],
+  "heights": [
+    {
+      "label": "Tower",
+      "value": "104.3m / 342.19ft",
+      "id": "0ebe2f2db7784c2c95316d76583fee6c"
+    }
+  ],
+  "floors": [
+    {
+      "label": "Tower",
+      "value": "32 + 2-storey podium",
+      "id": "ad8e0cf20b8c406f9bcfe6fe450b59ad"
+    }
+  ],
+  "overview": "MK Gateway is a mixed-use scheme, combining homes, workspace, shops, and an enhanced public realm at the centre of Milton Keynes.\n\nThe scheme’s three buildings – known as ‘Saxon Court’, ‘The Shed’ and ‘The Village’ – are set within a diverse public realm focussed on a new public square and landscaped green spaces that will serve as a new meeting point in the heart of the city. The project will be designed to support Milton Keynes’ target to be a net-zero carbon city by 2030.\n\nSaxon Court, which was one of the city’s first office buildings, will be repurposed to provide a mix of offices, flexible workspaces, local independent retail, and community spaces. \n\nAn extension of three levels will be added to the top and the existing atrium will be enhanced as an active and publicly accessible indoor space, linking the original entrance to a new outdoor public green. At ground level there will be public amenities including cafes, a community space and cycle parking.\n\nThe Village will be a 32-storey gateway tower, plus a 2-storey podium, featuring triple-height community sky gardens which divide the tower into villages, enabling residents to enjoy outdoor space and engage with their neighbours. At street level there will be an active frontage of shared amenities and services.\n\nThe Shed will be a three-storey incubator building, designed to meet the need for affordable workspace. The roof extends beyond the facade line on the west side, to generate an exterior canopy over the pedestrian access between the building and the residential tower.",
+  "dimensions": [
+    {
+      "label": "Site Area",
+      "value": "10712.33m²",
+      "id": "c92f87e57f8a4d49b21f83881ef7d612"
+    }
+  ],
   "companies": [
     {
-      "label": "Contact",
-      "value": "Waldrams",
-      "id": "deltek:contact"
+      "label": "Services Engineer",
+      "value": "MTT Ltd",
+      "id": "e3810ab890074938be1d6e082c62bfd1"
     },
     {
-      "label": "Statutory",
-      "value": "Bidwells",
-      "id": "deltek:statutory"
+      "label": "Structural Engineer",
+      "value": "Meinhardt (UK) Ltd",
+      "id": "aa3fdb731b784184b968f2ce566270f9"
     },
     {
-      "label": "Consultant",
-      "value": "WSP",
-      "id": "deltek:consultant"
+      "label": "Fire Consultant",
+      "value": "The Fire Surgery",
+      "id": "0c8aef57309a4d0e8bd20efe725c770f"
     },
     {
-      "label": "Government",
-      "value": "Milton Keynes Council",
-      "id": "deltek:government"
+      "label": "Landscape Consultant",
+      "value": "Spacehub",
+      "id": "535807629d234662b33f3d01813f9bf2"
     },
     {
-      "label": "Public Relations",
-      "value": "Quatro PR",
-      "id": "deltek:publicRelations"
-    },
-    {
-      "label": "Architect",
-      "value": "Stantec",
-      "id": "deltek:architect"
+      "label": "Lighting Consultant",
+      "value": "Speirs Major",
+      "id": "770ce53ebe474d838b9ce5b72846b9e5"
     }
   ]
 }
