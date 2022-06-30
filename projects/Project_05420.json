@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "05420",
   "url": "398:office/8-chifley/",
-  "serializeDate": "'2022-06-30 16:18:39.764'",
-  "serialized": 1656605919764,
+  "serializeDate": "'2022-06-30 16:28:33.503'",
+  "serialized": 1656606513503,
   "serializedBy": "sreeve",
   "title": "8 Chifley",
   "description": "8 Chifley is a premium grade office building in Sydney, Australia. The scheme – developed in conjunction with Lippmann Partnership – comprises of a 30-storey office building situated in the Central Business District of Sydney.",
@@ -110,20 +110,20 @@
     {
       "date": "2014-01-01",
       "year": "2014",
-      "award": "COLORBOND Award for Steel Architecture - commendation",
-      "rowId": "bbfdbcb6f9af464099065252ba16a394"
+      "award": "AIA National Award for Commercial Architecture",
+      "rowId": "d5422118798c4c1f915b5830121d9c1e"
     },
     {
       "date": "2014-01-01",
       "year": "2014",
-      "award": "Sir Arthur G Stephenson Award for Commercial Architecture",
-      "rowId": "057fbd18caa248d5b93cd9952f522406"
+      "award": "Sustainability Awards: Large Commercial category",
+      "rowId": "4e5c13303b304115aedb05197ed57e7f"
     },
     {
       "date": "2014-01-01",
       "year": "2014",
-      "award": "AIA NSW Award for best Commercial Architecture",
-      "rowId": "63fc219526ba4e29b49aa3c61f7a1ee3"
+      "award": "Sydney Excellence in Engineering Awards - Finalist",
+      "rowId": "e98e810d48f54e309d6cae66dd172c20"
     },
     {
       "date": "2014-01-01",
@@ -134,8 +134,8 @@
     {
       "date": "2014-01-01",
       "year": "2014",
-      "award": "COLORBOND Award for Sustainable Architecture - commendation",
-      "rowId": "ffc1adfa5d47482788e15d735152a6b9"
+      "award": "Architectureau Innovative Development Award",
+      "rowId": "c312b2f0dfba4d65a4b60ec81b6eb857"
     },
     {
       "date": "2014-01-01",
@@ -146,20 +146,32 @@
     {
       "date": "2014-01-01",
       "year": "2014",
+      "award": "AIA NSW Award for best Commercial Architecture",
+      "rowId": "63fc219526ba4e29b49aa3c61f7a1ee3"
+    },
+    {
+      "date": "2014-01-01",
+      "year": "2014",
+      "award": "COLORBOND Award for Steel Architecture - commendation",
+      "rowId": "bbfdbcb6f9af464099065252ba16a394"
+    },
+    {
+      "date": "2014-01-01",
+      "year": "2014",
+      "award": "COLORBOND Award for Sustainable Architecture - commendation",
+      "rowId": "ffc1adfa5d47482788e15d735152a6b9"
+    },
+    {
+      "date": "2014-01-01",
+      "year": "2014",
+      "award": "Sir Arthur G Stephenson Award for Commercial Architecture",
+      "rowId": "057fbd18caa248d5b93cd9952f522406"
+    },
+    {
+      "date": "2014-01-01",
+      "year": "2014",
       "award": "Council on Tall Buildings and Urban Habitat: Best Tall Building in Asia and Australasia - Finalist",
       "rowId": "8c28336f1ed847528d81bad7ef73ef9a"
-    },
-    {
-      "date": "2014-01-01",
-      "year": "2014",
-      "award": "Architectureau Innovative Development Award",
-      "rowId": "c312b2f0dfba4d65a4b60ec81b6eb857"
-    },
-    {
-      "date": "2014-01-01",
-      "year": "2014",
-      "award": "Sydney Excellence in Engineering Awards - Finalist",
-      "rowId": "e98e810d48f54e309d6cae66dd172c20"
     }
   ],
   "certificates": [
