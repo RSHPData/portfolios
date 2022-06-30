@@ -1,0 +1,60 @@
+{
+  "type": "Project",
+  "id": "12100",
+  "url": "536:office/tall-timber-tower/",
+  "serializeDate": "'2022-06-30 15:17:28.174'",
+  "serialized": 1656602248174,
+  "serializedBy": "sreeve",
+  "title": "Tall Timber Tower",
+  "description": "The Tall Timber Tower research and design project, funded in part by the Engineering and Physical Sciences Research Council Supertall Timber research programme, is a collaboration between RSHP, the Cambridge University Centre for Natural Material Innovation, Gardiner & Theobald and Atelier One.",
+  "date": "2018",
+  "client": "Cambridge University, Centre for Natural Material Innovation",
+  "location": "London, UK",
+  "longLat": "-0.0845018 / 51.5138619",
+  "longitude": "-0.0845018",
+  "latitude": "51.5138619",
+  "constructionCost": "£330,000,000",
+  "typologies": [
+    "Office"
+  ],
+  "team": [
+    "Dylan Davies",
+    "Lennart Grut",
+    "Ivan Harbour",
+    "Ben Morgan Jones",
+    "Andrew Partridge"
+  ],
+  "partners": [
+    "Ivan Harbour",
+    "Lennart Grut"
+  ],
+  "leaders": [
+    "Andrew Partridge"
+  ],
+  "floors": [
+    {
+      "value": "40 Storeys + Basements",
+      "id": "43b9a40726c845169c01533ec82dcd44"
+    }
+  ],
+  "overview": "The Tall Timber Tower research and design project, funded in part by the Engineering and Physical Sciences Research Council Supertall Timber research programme, is a collaboration between RSHP, the Cambridge University Centre for Natural Material Innovation, Gardiner & Theobald and Atelier One.\n\nIt demonstrates the viability of a standard office building at a new scale in timber, using components and materials that are commercially available today.\n\nThe tower is 160m tall and 45m wide with a gross internal area of 83,580m2. It uses 16,500 metric tonnes of timber – an equivalent traditional build would use 76,600 metric tonnes of concrete or 35,580 metric tonnes of steel – which significantly reduces foundation loads and build time. An engineered timber veneer also improves its structural properties, and the building performs well under fire-loading.\n\nThe facade is composed of diagrids which carry the lateral loads as axial force and enable the external skin to be free from vertical columns: gravity loads are taken both by this external skin and internal columns and the corners are curved to reduce wind pressure and avoid peak forces. The floor system is a pinned frame which ensures no movement is transferred between beams and columns.\n\nThe Tall Timber Tower highlights the architectural, engineering, and economic possibilities that stem from thinking about traditional materials in new ways, but it also indicates a great environmental benefit. Preliminary analysis indicates that 26,000 tonnes of carbon would be sequestered by using timber, thereby slowing atmospheric C02 pollution and mitigating global warming.",
+  "dimensions": [
+    {
+      "label": "Site Area",
+      "value": "83 580m²",
+      "id": "a71ce8c8796e446d8612f429d03e196e"
+    }
+  ],
+  "companies": [
+    {
+      "label": "Structural Engineer",
+      "value": "Atelier One",
+      "id": "8c10acd6069e474d976921bb6fdc1971"
+    },
+    {
+      "label": "Quantity Surveyor",
+      "value": "Gardiner & Theobald",
+      "id": "93d3a7af60734b9da1a6478f00b27245"
+    }
+  ]
+}
