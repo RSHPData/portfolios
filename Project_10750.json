@@ -1,0 +1,115 @@
+{
+  "type": "Project",
+  "id": "10750",
+  "url": "431:residential/qiantan-shanghai-pudong/",
+  "serializeDate": "'2022-06-30 14:45:48.325'",
+  "serialized": 1656600348325,
+  "serializedBy": "sreeve",
+  "title": "Qiantan Shanghai Pudong",
+  "description": "Qiantan Shanghai Pudong is situated within the Qiantan District in Pudong, Shanghai, fronting the Huangpu River.",
+  "date": "2015 - ongoing",
+  "client": "Gree Real Estate",
+  "location": "Shanghai, China",
+  "longLat": "121.4595387 / 31.1523733",
+  "longitude": "121.4595387",
+  "latitude": "31.1523733",
+  "typologies": [
+    "Residential"
+  ],
+  "team": [
+    "Stephen Spence",
+    "Richard Black",
+    "Joseph Park",
+    "Yuting Cheng",
+    "Hechang Chen",
+    "Torsten Burkhardt",
+    "Alexandria Fu",
+    "Ben Goble",
+    "Matthew Jackson",
+    "Pei-Yi Lin",
+    "Christine Geneste",
+    "Richard Rogers",
+    "Ben Warner",
+    "Jane Huang",
+    "Lu-Min Guo",
+    "Lennart Grut",
+    "Chris Trundle",
+    "Kelly Darlington",
+    "Kinga Koren",
+    "Luca D'Amico",
+    "Robert Richardson",
+    "Ting-Ting Ruotsalainen"
+  ],
+  "partners": [
+    "Richard Rogers"
+  ],
+  "leaders": [
+    "Stephen Spence"
+  ],
+  "floors": [
+    {
+      "value": "7 - 12  (varies)",
+      "id": "03B33DD0B7BD43F28A4C5A"
+    }
+  ],
+  "overview": "Qiantan Shanghai Pudong is situated within the Qiantan District in Pudong, Shanghai, fronting the Huangpu River. The Qiantan location boasts a unique natural environment with large areas of rolling green lush riverside embankments and a vibrant waterfront.\n\nThe Qiantan Shanghai Pudong residential blocks and towers are positioned around the generous central garden creating a quiet and peaceful oasis for residents to promenade and relax on their way to enter the buildings. The three residential towers are located parallel to the river to maintain a formal visual street frontage. To permit extensive views over the Huangpu River and distant views back to Shanghai and the Lujiazui skyline from deeper within the development, the towers are staggered, with chamfered building corners maximising these view corridors.\n\nThe residential units vary from one- and two-bedroom apartments to extensive two-storey penthouses boasting living areas with extensive views, natural light and cross-ventilation for comfort. The living rooms with large expanses of glazing offer generous river views whilst the bedrooms focus on the quiet central garden. All apartments have access to an eternal space, a corner balcony or terrace, whilst narrow floor plates allow natural cross-ventilation. All parking has been contained below ground level to maximise the green public space.",
+  "dimensions": [
+    {
+      "label": "Site Area",
+      "value": "12 260 m²",
+      "id": "Iznz+IlQAk+09PvRD2imaQ"
+    },
+    {
+      "label": "Gross Floor Area (above ground)",
+      "value": "25 430 m²",
+      "id": "dWt97OXjVUiVwVaeZWkUHA"
+    },
+    {
+      "label": "Gross Floor Area (below ground)",
+      "value": "26 800 m²",
+      "id": "GPx/BI3gLkCfzelH0u/M2w"
+    }
+  ],
+  "companies": [
+    {
+      "label": "Local Design Institute",
+      "value": "ECADI",
+      "id": "f2a480ef32e1478ea16bf3fe562ac720"
+    },
+    {
+      "label": "Structural Engineer",
+      "value": "Schlaich Bergermann Partner",
+      "id": "vYRtBwdM/EeHMBAvaDuH0Q"
+    },
+    {
+      "label": "Landscape Design",
+      "value": "Gillespies",
+      "id": "lv8cRPgX0U2RfngwZPGacA"
+    },
+    {
+      "label": "Interior Design",
+      "value": "Hirsch Bedner Associates",
+      "id": "f754af3648cf477d86e458ea727c5fc8"
+    },
+    {
+      "label": "Facade Consultant",
+      "value": "ALT",
+      "id": "IYkcxpT3XkG0TgbrOyLeYQ"
+    },
+    {
+      "label": "General Contractor",
+      "value": "Shanghai Construction No.5 Group",
+      "id": "b919ea3941e942318afafea2fd0be1ab"
+    },
+    {
+      "label": "Lift Contractor",
+      "value": "KONE China",
+      "id": "bce1cf0bba884d7ba73fc5ae6f404990"
+    },
+    {
+      "label": "Steelwork Contractor",
+      "value": "Shanghai Mechanized Construction Corporation",
+      "id": "9fbdcebd4a2b4e45befa67b81312dca9"
+    }
+  ]
+}
