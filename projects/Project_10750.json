@@ -1,232 +1,115 @@
 {
   "type": "Project",
   "id": "10750",
-  "serializeDate": "'2022-06-27 15:41:05.562'",
-  "serialized": 1656344465562,
+  "url": "431:residential/qiantan-shanghai-pudong/",
+  "serializeDate": "'2022-06-30 14:45:48.325'",
+  "serialized": 1656600348325,
   "serializedBy": "sreeve",
   "title": "Qiantan Shanghai Pudong",
-  "description": "A new high end residential development located in the district of Qiantan, Pudong near the centre of Shanghai. \nFeaturing six residential towers, ranging from eight to eleven stories. \nDelivering over 25 000 m2 of GFA across 177 units.",
-  "date": "2015",
-  "client": "Shanghai Hai Kong Bao Lian Real Estate Co. Ltd",
-  "location": "Shanghai",
-  "longLat": "121.469607  / 31.151322",
-  "longitude": "121.469607 ",
-  "latitude": "31.151322",
+  "description": "Qiantan Shanghai Pudong is situated within the Qiantan District in Pudong, Shanghai, fronting the Huangpu River.",
+  "date": "2015 - ongoing",
+  "client": "Gree Real Estate",
+  "location": "Shanghai, China",
+  "longLat": "121.4595387 / 31.1523733",
+  "longitude": "121.4595387",
+  "latitude": "31.1523733",
   "typologies": [
     "Residential"
   ],
   "team": [
-    "Alex Nicholls",
-    "Alexandria Fu",
-    "Alison Oktay",
-    "Angela Tobin",
-    "Ann Miller",
-    "Ben Warner",
-    "Chris Trundle",
-    "Christine Geneste",
-    "Dan Rogers",
-    "Hari Kumar",
-    "Hechang Chen",
-    "Jane Huang",
-    "Jane Yajing Huang",
-    "Jo Murtagh",
-    "Jon Mercer",
+    "Stephen Spence",
+    "Richard Black",
     "Joseph Park",
+    "Yuting Cheng",
+    "Hechang Chen",
+    "Torsten Burkhardt",
+    "Alexandria Fu",
+    "Ben Goble",
+    "Matthew Jackson",
+    "Pei-Yi Lin",
+    "Christine Geneste",
+    "Richard Rogers",
+    "Ben Warner",
+    "Jane Huang",
+    "Lu-Min Guo",
+    "Lennart Grut",
+    "Chris Trundle",
     "Kelly Darlington",
     "Kinga Koren",
-    "Laurence Day",
-    "Lennart Grut",
-    "Lizzie Holleyman",
     "Luca D'Amico",
-    "Lu-Min Guo",
-    "Matthew Jackson",
-    "Mike Fairbrass",
-    "Nandi Han",
-    "Pei-Yi Lin",
-    "Peter Angrave",
-    "Richard Black",
-    "Richard Rogers",
     "Robert Richardson",
-    "Stephen Spence",
-    "Ting-Ting Ruotsalainen",
-    "Tobi Frenzen",
-    "Torsten Burkhardt",
-    "Yuting Cheng"
+    "Ting-Ting Ruotsalainen"
   ],
   "partners": [
-    "Ben Warner"
+    "Richard Rogers"
   ],
   "leaders": [
-    "Stephen Spence",
-    "Torsten Burkhardt",
-    "Matthew Jackson",
-    "Alexandria Fu"
-  ],
-  "heights": [
-    {
-      "value": "42m max",
-      "id": "41442BFBEBE84A86BBB75E"
-    }
+    "Stephen Spence"
   ],
   "floors": [
     {
-      "value": "8 - 11 floors (varies)",
+      "value": "7 - 12  (varies)",
       "id": "03B33DD0B7BD43F28A4C5A"
     }
   ],
-  "overview": "A new high end residential development located in the district of Qiantan, Pudong near the centre of Shanghai. Located adjacent to generous riverside parklands, comprehensive sports facilities and the prestigious Wellington International School this is a highly desirable neighbourhood. \n\nThe project comprises 6 residential towers, ranging from eight to eleven stories. Dramatic glass sloped roof penthouses crown the eleven storey tower blocks, with simpler roofscapes to the shorter eight storey block buildings.  \n25 000 m2 of GFA is provided across 177 units with a variety of 2 bedroom, 3 bedroom, 3 bedroom plus study and duplex configurations. \nThe 6 buildings are sited to address the 4 street edges, creating a generous landscaped social heart to the site. \nAll units are minimum dual aspect, maximising views to the adjacent parkland and river, Southern daylight access and privacy. \n\nThe buildings feature a structural steel frame with composite deck flooring. Curtain wall cladding systems of glass, aluminium and dimensioned granite stone create a precise and restrained façade composition. Angular corner balconies hang from the primary structure offer prime promontories to the corner units and are celebrated in bright colour. Glazed and louvred balconies dress the other facades to allow full height operable glazing to all habitable rooms. The steel framed lift cores are expressed as separate towers with highly glazed link bridge connections.",
+  "overview": "Qiantan Shanghai Pudong is situated within the Qiantan District in Pudong, Shanghai, fronting the Huangpu River. The Qiantan location boasts a unique natural environment with large areas of rolling green lush riverside embankments and a vibrant waterfront.\n\nThe Qiantan Shanghai Pudong residential blocks and towers are positioned around the generous central garden creating a quiet and peaceful oasis for residents to promenade and relax on their way to enter the buildings. The three residential towers are located parallel to the river to maintain a formal visual street frontage. To permit extensive views over the Huangpu River and distant views back to Shanghai and the Lujiazui skyline from deeper within the development, the towers are staggered, with chamfered building corners maximising these view corridors.\n\nThe residential units vary from one- and two-bedroom apartments to extensive two-storey penthouses boasting living areas with extensive views, natural light and cross-ventilation for comfort. The living rooms with large expanses of glazing offer generous river views whilst the bedrooms focus on the quiet central garden. All apartments have access to an eternal space, a corner balcony or terrace, whilst narrow floor plates allow natural cross-ventilation. All parking has been contained below ground level to maximise the green public space.",
   "dimensions": [
     {
       "label": "Site Area",
-      "value": "12 258 m2",
+      "value": "12 260 m²",
       "id": "Iznz+IlQAk+09PvRD2imaQ"
     },
     {
-      "label": "Green Ratio",
-      "value": "35%",
-      "id": "SkX4cENTm0ufRKYS1DtxPw"
-    },
-    {
-      "label": "Green Area",
-      "value": "4 300 m2",
-      "id": "g3b9MpuP20KYUmtC4Y1QVg"
-    },
-    {
-      "label": "Floor Area Ratio",
-      "value": "2.0",
-      "id": "CC2ZhRiV+EmKv+lUz4x58Q"
-    },
-    {
       "label": "Gross Floor Area (above ground)",
-      "value": "25 430 m2",
+      "value": "25 430 m²",
       "id": "dWt97OXjVUiVwVaeZWkUHA"
     },
     {
       "label": "Gross Floor Area (below ground)",
-      "value": "26 800 m2",
+      "value": "26 800 m²",
       "id": "GPx/BI3gLkCfzelH0u/M2w"
-    },
-    {
-      "label": "Total Construction Area",
-      "value": "52 230 m2",
-      "id": "OvhJ+RTmAkmTwIwf4Ph89A"
-    },
-    {
-      "label": "Parking Spaces",
-      "value": "240 (all in basement)",
-      "id": "IY7qhtHfak+2TOZzR1uTrg"
-    },
-    {
-      "label": "Bike Parking",
-      "value": "252",
-      "id": "dDYFGUFRjE2yQLJEctD7kQ"
-    },
-    {
-      "label": "Total Units",
-      "value": "177",
-      "id": "kxCP6oJevUKYs/ZxP9tJfw"
-    },
-    {
-      "label": "Maximum Occupancy",
-      "value": "566 people (3.2 persons per unit)",
-      "id": "lchSh2MiTU26FNwm4N4f/w"
-    },
-    {
-      "label": "Total 2B Units",
-      "value": "88",
-      "id": "wHaK5boDY0+zuNUXjuF5Dg"
-    },
-    {
-      "label": "Total 3B Units",
-      "value": "28",
-      "id": "K5WAtJjLFkap2siLqo4++w"
-    },
-    {
-      "label": "Total 3B + Study Units",
-      "value": "56",
-      "id": "H7AxhHC25kqRhbrAWcYtVQ"
-    },
-    {
-      "label": "Total Duplex Units",
-      "value": "5",
-      "id": "jkAjjoUwLkyBadJifssSGQ"
-    },
-    {
-      "label": "Affordable Housing Units",
-      "value": "5.18%",
-      "id": "iRN2QU8dJE+2lsxbFJICYA"
-    },
-    {
-      "label": "Amenity Spaces",
-      "value": "Property Management Office, Community Spaces, Security Office, Residential Committee Office",
-      "id": "MWeVXWsqV0OKzEZa7IRTWg"
-    },
-    {
-      "label": "Civil Defence Area",
-      "value": "2 970 m2",
-      "id": "2g0o1XzClUmLJpeLR3eG6A"
-    },
-    {
-      "label": "North-South Unit Orientation",
-      "value": "72%",
-      "id": "/xU0QkjMp0KfZyC4PDoQdg"
-    },
-    {
-      "label": "East-West Unit Orientation",
-      "value": "28%",
-      "id": "ooo80f5JnkqCg30HnbxDfA"
-    },
-    {
-      "label": "Land Cost",
-      "value": "70 000 rmb/m2 approx",
-      "id": "F8wYImzLdk2eoGKoIMXg9A"
-    },
-    {
-      "label": "Construction Cost",
-      "value": "100 000 rmb/m2",
-      "id": "DBBMtVl1XEiZyLt/1VO2rQ"
-    },
-    {
-      "label": "Sales Price (desired)",
-      "value": "200 000 - 250 000 rmb/m2",
-      "id": "Fdb2PLKbLkO/sEUNAsUM0g"
-    },
-    {
-      "label": "Sales Price Cap (government)",
-      "value": "87 500 rmb/m2",
-      "id": "u9y6L3G5iU2kYed71eHE3w"
     }
   ],
   "companies": [
     {
-      "label": "Local/Executive Architect",
-      "value": "East China Architectural Design & Research Institute Co., Ltd (ECADI)",
-      "id": "deltek:local/ExecutiveArchitect"
+      "label": "Local Design Institute",
+      "value": "ECADI",
+      "id": "f2a480ef32e1478ea16bf3fe562ac720"
     },
     {
       "label": "Structural Engineer",
-      "value": "Schlaich Bergermann Partner (SBP)",
+      "value": "Schlaich Bergermann Partner",
       "id": "vYRtBwdM/EeHMBAvaDuH0Q"
     },
     {
-      "label": "MEP",
-      "value": "WSP Parsons Brinckerhoff",
-      "id": "DZGKFGXYTEyUdzMdYXZqgA"
-    },
-    {
-      "label": "Landscape",
+      "label": "Landscape Design",
       "value": "Gillespies",
       "id": "lv8cRPgX0U2RfngwZPGacA"
     },
     {
-      "label": "Visualisations",
-      "value": "ATCHAIN",
-      "id": "nLND3YNz1kqiINrst38rTA"
+      "label": "Interior Design",
+      "value": "Hirsch Bedner Associates",
+      "id": "f754af3648cf477d86e458ea727c5fc8"
     },
     {
-      "label": "Facade Engineer",
+      "label": "Facade Consultant",
       "value": "ALT",
       "id": "IYkcxpT3XkG0TgbrOyLeYQ"
+    },
+    {
+      "label": "General Contractor",
+      "value": "Shanghai Construction No.5 Group",
+      "id": "b919ea3941e942318afafea2fd0be1ab"
+    },
+    {
+      "label": "Lift Contractor",
+      "value": "KONE China",
+      "id": "bce1cf0bba884d7ba73fc5ae6f404990"
+    },
+    {
+      "label": "Steelwork Contractor",
+      "value": "Shanghai Mechanized Construction Corporation",
+      "id": "9fbdcebd4a2b4e45befa67b81312dca9"
     }
   ]
 }
