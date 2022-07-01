@@ -1,0 +1,71 @@
+{
+  "type": "Project",
+  "id": "00335",
+  "url": "440:residential/thames-reach-housing/",
+  "serializeDate": "'2022-07-01 13:33:11.159'",
+  "serialized": 1656682391159,
+  "serializedBy": "sreeve",
+  "title": "Thames Reach Housing",
+  "description": "The housing at Thames Reach takes its cue from the pre-existing warehousing and has a scale and form appropriate to the riverside.",
+  "date": "1984-1987",
+  "client": "Croudace Construction Ltd",
+  "location": "London, UK",
+  "longLat": "-0.225102 / 51.484766",
+  "longitude": "-0.225102",
+  "latitude": "51.484766",
+  "typologies": [
+    "Residential"
+  ],
+  "team": [
+    "Peter Angrave",
+    "Paul Cook",
+    "Ian Gibson",
+    "Marco Goldschmied",
+    "Sarah Granville",
+    "Ian Hopton",
+    "Tim Inskip",
+    "Janette Mackie",
+    "Mark Roche",
+    "Richard Rogers",
+    "John Young"
+  ],
+  "partners": [
+    "Richard Rogers",
+    "John Young"
+  ],
+  "overview": "The housing at Thames Reach takes its cue from the pre-existing warehousing and has a scale and form appropriate to the riverside.\n\nThe use of brick, (unusual in the work of the practice, reflects the attention paid to the surrounding context. On the street side (the ‘rear’ of the site) the scheme has a restrained design with visible articulated stair and lift towers which break up the scale of the building. Floor to ceiling glass walls address the impressive sweep of the Thames – generous cantilevered balconies are set between each block, so as not to interrupt the view.\n\nOn the river frontage, where living rooms are take advantage of the fine views, a regular grid of glazing is broken up by an expressive pattern of cantilevered balconies. The ‘nautical’ theme is applied with a lightness of touch which recalls the bridges and piers of the 19th century. The design aimed to help open up the river walk and encourage a more dynamic public space along the water’s edge.",
+  "dimensions": [
+    {
+      "label": "Area",
+      "value": "7 000 m²",
+      "id": "50269ebe66ea487ca33cec75c7dcf4d2"
+    }
+  ],
+  "companies": [
+    {
+      "label": "Structural Engineer",
+      "value": "Hay Barry and Partners",
+      "id": "d51cefe547334f7c8fc53d7593e115c5"
+    },
+    {
+      "label": "Services Engineer",
+      "value": "The Sinnett Partnership",
+      "id": "7a801d0b943041cc88a2d9452fb3f39a"
+    },
+    {
+      "label": "Quantity Surveyor",
+      "value": "Melvyn Newell",
+      "id": "27a3b0cdc8a34bd6836062f06ebc6a00"
+    },
+    {
+      "label": "Landscape Architect",
+      "value": "Rendel + Branch",
+      "id": "a817af4fe02c4b7fa2d7e2486add15da"
+    },
+    {
+      "label": "Contractor",
+      "value": "Croudace Construction Ltd",
+      "id": "bd9adc19ce9e4ab5886e3b56b6ddfa5f"
+    }
+  ]
+}
