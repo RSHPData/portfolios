@@ -1,0 +1,79 @@
+{
+  "type": "Project",
+  "id": "12050",
+  "url": "455:transport/les-routes-du-futur-du-grand-paris/",
+  "serializeDate": "'2022-07-01 08:26:48.571'",
+  "serialized": 1656664008571,
+  "serializedBy": "sreeve",
+  "title": "Les Routes du Futur du Grand Paris",
+  "description": "The Roads of the Future Grand Paris project explores how motorways can be transformed into a network of linear, multifunctional parks that complete and expand the existing public transport systems through multi-use armatures that privilege shared transport systems, walking and cycling.",
+  "date": "2018",
+  "client": "Forum métropolitain du Grand Paris",
+  "location": "Paris, France",
+  "longLat": "2.3419355 / 48.85847",
+  "longitude": "2.3419355",
+  "latitude": "48.85847",
+  "typologies": [
+    "Transport"
+  ],
+  "team": [
+    "Alessandro Blasucci",
+    "Stephen Barrett",
+    "Tom Birtles",
+    "Margot Courtemanche",
+    "Nicola Carnevali",
+    "Hamish Crockett",
+    "Luca D'Amico",
+    "Kelly Darlington",
+    "Isabelle David",
+    "Chris Dembinski",
+    "Jean-Baptiste Gilles",
+    "Sandra Goddard",
+    "Ed Hiscock",
+    "Adam Lampon",
+    "Vicki Macgregor",
+    "Jon Mercer",
+    "Thomas Olliver",
+    "Vajini Pannila",
+    "Amabel Richardson"
+  ],
+  "partners": [
+    "Lennart Grut",
+    "Stephen Barrett"
+  ],
+  "overview": "The Roads of the Future Grand Paris project explores how motorways can be transformed into a network of linear, multifunctional parks that complete and expand the existing public transport systems through multi-use armatures that privilege shared transport systems, walking and cycling.\n\nCommissioned by the Forum Métropolitain du Grand Paris, the study has two principal timelines, 2030 and 2050. It proposes to transform motorways into connected corridors of public infrastructure and seeks to explore the effect this transformation might contribute to generating more sustainable, productive and resilient urban cities in the age of “Intelligence”. This transformation would create linear parks that also serve as flexible armatures for renewable energy, biodiversity and water harvesting in the interests of the common good.\n\nThe 2030 scenarios extrapolate present trends in transport and urbanism, pedestrianising key segments of roadway and greening the city through a policy of extensive tree planting. Based on evolutions in shared electric and autonomous mobility, the more radical transformations for 2050 take two forms: one, a high-tech ‘smart’ system driven by advances in technology and artificial intelligence; the other, a sober but robust, low-cost/low-tech public space network that prioritises compact urban forms, walking and cycling. These two systems are not mutually exclusive and may in fact be complementary.\n\nIn both cases, the motorway forms part of a Shared Utility Network (or “SUN”): road systems that contribute to the quality, sustainability and health of urban life. These adaptable platforms provide a mechanism that helps address the challenges of climate change, resource and energy scarcity. In prioritising mobility for citizens currently deprived of viable public transport within walking distance, these networks also aim to redress the inequalities in transport provision that characterise large cities and thereby perpetuate the use of private vehicles.\n\nFor more insight into the project, watch the The Roads of the Future Grand Paris film on YouTube.",
+  "dimensions": [
+    {
+      "label": "Site Area",
+      "value": "Paris metropolitan area",
+      "id": "ce210e0c4d6342e3ad1df6177691b14b"
+    }
+  ],
+  "companies": [
+    {
+      "label": "Landscape Architect",
+      "value": "Michel Desvigne Paysagiste",
+      "id": "c8bc526c5d5249c482f2e984a80012d4"
+    },
+    {
+      "label": "Cost Consultant",
+      "value": "EY Consulting",
+      "id": "72277b9ee2d044a9a71817e4dde946b1"
+    },
+    {
+      "label": "Urban Planning",
+      "value": "AREP",
+      "id": "37efdb5c574a4616ba6b08e457db4fe4"
+    },
+    {
+      "label": "Engineering",
+      "value": "Artelia Group",
+      "id": "ebde10cb3f6e4faaa08bdd39775f4b36"
+    },
+    {
+      "label": "Transport Planning",
+      "value": "Artelia Group",
+      "id": "c3698e1f17684ecfadded22bc5341d37"
+    }
+  ]
+}
