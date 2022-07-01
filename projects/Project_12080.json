@@ -1,0 +1,62 @@
+{
+  "type": "Project",
+  "id": "12080",
+  "url": "282:health-and-science/oriel/",
+  "serializeDate": "'2022-07-01 11:59:56.754'",
+  "serialized": 1656676796754,
+  "serializedBy": "sreeve",
+  "title": "Oriel",
+  "description": "Oriel is a design concept for an eye-care, research and educational facility in the London-based hospital facility Moorfields Eye Hospital.",
+  "date": "2018",
+  "location": "London, UK",
+  "longLat": "-0.1340289 / 51.5373123",
+  "longitude": "-0.1340289",
+  "latitude": "51.5373123",
+  "typologies": [
+    "Health & Science"
+  ],
+  "team": [
+    "Ivan Harbour",
+    "Andrew Morris",
+    "Steve Martin",
+    "Joanna Pencakowski"
+  ],
+  "partners": [
+    "Ivan Harbour",
+    "Andrew Morris"
+  ],
+  "leaders": [
+    "Steve Martin"
+  ],
+  "floors": [
+    {
+      "value": "8",
+      "id": "1535bdf4add7400a9c0b7666318cc7e6"
+    }
+  ],
+  "overview": "Oriel is a design concept for an eye-care, research and educational facility in the London-based hospital facility Moorfields Eye Hospital. The project aims to bring eye-care, research, and education together for the first time whilst focusing on patients and attracting the best ophthalmic scientists, educators, and clinicians.\n\nThe competition scheme is designed to create its own world which is sheltered within the structure of the building. This area, known as the ‘Haven,’ aims to filter noise and the hectic activity from the city. It will serve as a social hub, heart, and garden that brings together all those who are visiting, working and learning. The Haven adapts its form throughout the building to respond to the activities occurring on each floor. There is flexibility within the building’s form as it can be arranged into a variety of different ways to absorb the inevitable changes that take place in healthcare, discovery, and delivery. As access to green space is important for well-being, the Haven provides a positive environment for all users of the buildings.\n\nDesigned with the concepts of wellness at its core - air, water, nourishment, light, movement, thermal comfort, sound, materials, mind, and community - the building is open-plan with daylight permeating throughout its structure.\n\nThe scheme comprises eight floors and a ground area of 41,000 m². It is conceived as a pair of linear buildings, enveloping an oasis, like a pair of hands embracing the Haven. The hands protect the entrances and Haven itself from the busy urban environment.\n\nAt the upper levels, terraced gardens are protected by a tree-like canopy. These outdoor spaces are available for everyone to use. The canopy is intended to give the project a unique identity, making the outdoor space semi-enclosed so that the area is protected from rain, with natural heating for year-round use. This roof also diffuses direct sunlight from the south to prevent shadows that can cause discomfort for the partially sighted.\n\nAs a public building, Oriel engages with and makes a positive contribution to the urban realm around it, with the inclusion of two squares at the southwest and northeast, one predominantly for patients and the public, the other for staff. These squares provide the two key entrances to Oriel and connect the scheme with its surroundings, allowing the rest of the St. Pancras Hospital site to be developed in a coherent way.\n\nAt the heart of our vision is a building which enables patients, their families and staff to access world-class healthcare and research within an environment that showcases the highest standards of ophthalmic care delivery..",
+  "dimensions": [
+    {
+      "label": "Site Area",
+      "value": "50 000 m²",
+      "id": "17298feeb4ed462a96a2588a0cea26ce"
+    }
+  ],
+  "companies": [
+    {
+      "label": "Co-Architect",
+      "value": "Stantec",
+      "id": "1ed6a0bb36524625a80afda47e764d3d"
+    },
+    {
+      "label": "Structural Engineer",
+      "value": "Arup",
+      "id": "82dfadc34e994267a1f5b7bdcab596ce"
+    },
+    {
+      "label": "Landscape Architect",
+      "value": "Gillespies",
+      "id": "64ea0170e18a4d2fa5ba74eb2506884e"
+    }
+  ]
+}
