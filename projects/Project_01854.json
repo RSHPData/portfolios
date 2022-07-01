@@ -1,0 +1,87 @@
+{
+  "type": "Project",
+  "id": "01854",
+  "url": "450:residential/daimler-chrysler-residential/",
+  "serializeDate": "'2022-07-01 13:56:52.137'",
+  "serialized": 1656683812137,
+  "serializedBy": "sreeve",
+  "title": "Daimler Chrysler Residential",
+  "description": "The three buildings designed by the practice for Daimler Chrysler on Berlin’s Linkstraße form part of the the Potsdamer Platz masterplan by Renzo Piano.",
+  "date": "1993-1999",
+  "client": "Daimler Chrysler debis Immobilienmanagement",
+  "location": "Berlin, Germany",
+  "longLat": "13.374552 / 52.507026",
+  "longitude": "13.374552",
+  "latitude": "52.507026",
+  "constructionCost": "DM 55 million",
+  "typologies": [
+    "Residential"
+  ],
+  "team": [
+    "Laurie Abbott",
+    "Yasmin Al-ani Spence",
+    "Michael Barth",
+    "Elliot Boyd",
+    "Sabine Coldrey",
+    "Hal Currey",
+    "Mike Davies",
+    "Michael Elkan",
+    "Barbara Faigle",
+    "Rowena Fuller",
+    "Marco Goldschmied",
+    "Lennart Grut",
+    "James Leathem",
+    "Nick Malby",
+    "Tina Manis",
+    "Richard Paul",
+    "Robert Peebles",
+    "Kim Quazi",
+    "Richard Rogers",
+    "Neil Southard",
+    "Martin White",
+    "John Young"
+  ],
+  "partners": [
+    "Richard Paul"
+  ],
+  "overview": "The three buildings designed by the practice for Daimler Chrysler on Berlin’s Linkstraße form part of the the Potsdamer Platz masterplan by Renzo Piano. B8 is predominantly residential, with retail areas on the ground, first and second floors.\n\nIn the original masterplan the three buildings are shown as closed blocks measuring c. 50 m square, but the design opens up the south-east side of the blocks facing the park. This building form allows light to penetrate into the courtyard, atrium and internal spaces, as well as providing all flats with unobstructed views out over the park.\n\nThe ratio of glazing areas to solid wall construction is determined by the orientation and analysis of heat losses and solar gains. Whereas the north-east and north-west façades have comparatively little glazing in order to minimise heat loss during the winter months, the south-west and south-east elevations is generously glazed, with living areas opening onto the garden courtyard.\n\nConservatories or ‘winter gardens’ adjacent to these living areas maximise the passive use of solar energy. The ‘winter gardens’ act as direct solar gain spaces and buffer zones, with pre-heated air used to ventilate or warm the internal accommodation space in winter. Sun shading provided by aluminium louvres on sliding tracks prevents overheating in summer.\n\nThe double-height penthouses are fully glazed to the courtyard side. The glazing system is supported by a water-filled steel structure which acts as a radiator during the winter. Electronically operated sun-shading devices and opening windows minimise solar gain and maximise natural ventilation during the summer.",
+  "dimensions": [
+    {
+      "label": "Residential area",
+      "value": "16 300 m²",
+      "id": "3c44224f717b445e9402a6ffbe9f5085"
+    }
+  ],
+  "companies": [
+    {
+      "label": "Structural Engineer",
+      "value": "Ove Arup + Partners  /  Knebel & Schumacher",
+      "id": "5633c91a30a64acf9c02aa95dcfb578e"
+    },
+    {
+      "label": "Services Engineer",
+      "value": "rp+sozietät",
+      "id": "0d377e44f81e41cfa79131904211f8b8"
+    },
+    {
+      "label": "Quantity Surveyor",
+      "value": "Davis Langdon & Everest / Drees & Sommer AG",
+      "id": "62f170803826483c9b027ec976f9689b"
+    },
+    {
+      "label": "Contractor",
+      "value": "Schmidt-Reuter und Partner",
+      "id": "c8535f47e1904a77a42d8088f487133e"
+    },
+    {
+      "label": "Thermal & Acoustic Installation",
+      "value": "Müller BBM GmbH",
+      "id": "db5a950ad43346219ac81d250baa8141"
+    },
+    {
+      "label": "Façade Engineer",
+      "value": "Institute für Fassadentechnik IFFT",
+      "id": "5d4d85421c494ff4b3bd663883366be2"
+    }
+  ]
+}
