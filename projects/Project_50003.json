@@ -1,0 +1,109 @@
+{
+  "type": "Project",
+  "id": "50003",
+  "url": "768:residential/crofts-street/",
+  "serializeDate": "'2022-07-01 11:16:15.652'",
+  "serialized": 1656674175652,
+  "serializedBy": "sreeve",
+  "title": "Crofts Street",
+  "description": "Crofts Street is a modular housing project comprising nine two-bedroom townhouses designed to be carbon positive in operation, built on brownfield land for council rent, built on brownfield land for council rent. It is the city’s first modular scheme and was awarded Welsh Government Innovative Housing Funding.",
+  "date": "2018 - 2021",
+  "client": "Cardiff Living",
+  "location": "Cardiff, Wales, UK",
+  "longLat": "-3.1640480168020035 / 51.490391086575436",
+  "longitude": "-3.1640480168020035",
+  "latitude": "51.490391086575436",
+  "typologies": [
+    "Residential"
+  ],
+  "team": [
+    "Ivan Harbour",
+    "Katherine Hegab",
+    "Lorna Jackson",
+    "Fruzsina Karig",
+    "Andrew Partridge",
+    "Jia Jian Saw",
+    "James Scrace"
+  ],
+  "partners": [
+    "Ivan Harbour",
+    "Lennart Grut"
+  ],
+  "leaders": [
+    "Andrew Partridge"
+  ],
+  "heights": [
+    {
+      "value": "7m / 23ft",
+      "id": "5f48093cadd7428a92440e6f6bf59382"
+    }
+  ],
+  "floors": [
+    {
+      "value": "2",
+      "id": "947ae082f06742d4bb842e71865408a3"
+    }
+  ],
+  "overview": "Crofts Street, Cardiff, is a modular housing project comprising nine two-bedroom townhouses, designed to be carbon positive in operation and built on brownfield land for council rent. It is the city’s first modular scheme and was awarded Welsh Government Innovative Housing Funding.\n\nThe INNO design, led by RSHP and AECOM and delivered by @HOME, uses a ‘fabric first’ approach to optimise the performance of each unit against weather conditions, fire and acoustics. This system reduces operational energy consumption, which can lead to major cost savings on utility bills for residents.\n\nThe townhouses prioritise the use of sustainable materials, which means that they have less embodied energy than other buildings.\n\nWith these considerations, the scheme is expected to surpass the current (Part L1A 2013) Building Regulations standards by 142% for regulated carbon emissions and 42% in fabric energy efficiency.\n\nThe homes use roof mounted solar panels and heat pumps instead of gas to provide energy. Mechanical ventilated heat recovery and natural ventilation are used to provide efficient year-round comfort to all internal spaces. \n\nAs a result, the Predicted Energy Assessment (PEA) for Crofts Street indicates a negative emission of at least -1.66 tonnes of CO2 per annum per home. \n\nThis shows that the simple addition of solar panels is sufficient to generate more energy than is required to run the regulated building services (i.e. heating, hot water, lighting, pumps and fans).\n\nThe scheme also promotes the efficient use of land, developing it at a practicable density in line with neighbouring developments and pre‐war terraces.\n\nThe ground floor of the houses has a brick slip system, reflective of the brick materiality that defines adjacent homes. Above this, Oko Skin cladding is arranged in the same orientation, but has double in width.\n\nThe different demises are identified by tonal differences between respective doors, windows and Juliette balconies.",
+  "dimensions": [
+    {
+      "label": "Site Area",
+      "value": "1390m²",
+      "id": "60791293015e45ce994308f503129295"
+    }
+  ],
+  "companies": [
+    {
+      "label": "Structural Engineer",
+      "value": "AECOM",
+      "id": "5f6d20b1da0b44c5850142dc0465fac5"
+    },
+    {
+      "label": "Services Engineer",
+      "value": "AECOM",
+      "id": "2d478d9dd9e84cb2a8e99ff9589e08d1"
+    },
+    {
+      "label": "Project Manager",
+      "value": "AECOM",
+      "id": "497d17609c2645fbb57ecb79896510bb"
+    },
+    {
+      "label": "Environmental Consultant",
+      "value": "AECOM",
+      "id": "481de1c93bff4dd085e9f35a3533c10d"
+    },
+    {
+      "label": "Manufacturer & Delivery",
+      "value": "@Home",
+      "id": "4cd848ed387845aeafd2877d08909b77"
+    },
+    {
+      "label": "Energy & Sustainability",
+      "value": "AECOM",
+      "id": "0dc79564bf7b4834923b525d94100e3f"
+    },
+    {
+      "label": "Fire Engineering",
+      "value": "AECOM",
+      "id": "c30bf1b175b24a0882512f288d19fdb5"
+    },
+    {
+      "label": "Geotechnical Engineering",
+      "value": "AECOM",
+      "id": "f9dc745e31414dffb4c3fa82c2a51e01"
+    },
+    {
+      "label": "Landscape Architect",
+      "value": "AECOM",
+      "id": "9322a16b84644b52929e8323a1e3f93d"
+    }
+  ],
+  "certificates": [
+    {
+      "authority": "Annual CO2 emissions (predicted)",
+      "rating": "KgCO2eq/m2 Negative emission of at least -1.66 tonnes of CO2 per annum per home",
+      "rowId": "caf30bf3355549f6b33196d3be96267b"
+    }
+  ]
+}
