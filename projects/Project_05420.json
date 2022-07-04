@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "05420",
   "url": "398:office/8-chifley/",
-  "serializeDate": "'2022-06-30 16:28:33.503'",
-  "serialized": 1656606513503,
+  "serializeDate": "'2022-07-04 11:14:52.769'",
+  "serialized": 1656933292769,
   "serializedBy": "sreeve",
   "title": "8 Chifley",
   "description": "8 Chifley is a premium grade office building in Sydney, Australia. The scheme – developed in conjunction with Lippmann Partnership – comprises of a 30-storey office building situated in the Central Business District of Sydney.",
@@ -92,20 +92,20 @@
     {
       "date": "2015-01-01",
       "year": "2015",
-      "award": "Property Council of Australia / Rider Levett Bucknall Innovation and Excellence Awards - Development of the year",
-      "rowId": "b4938d2e809f45febb2d52c0b9bb5c00"
+      "award": "Property Council of Australia / Rider Levett Bucknall Innovation and Excellence Awards - Best Sustainable Development (New Buildings)",
+      "rowId": "8e79ec2b4def40968a9002d6011dec04"
     },
     {
       "date": "2015-01-01",
       "year": "2015",
-      "award": "Property Council of Australia / Rider Levett Bucknall Innovation and Excellence Awards - Best office Development",
+      "award": "Property Council of Australia / Rider Levett Bucknall Innovation and Excellence Awards - Best Office Development",
       "rowId": "471cd8a5c788476b8c39423b9a60b70f"
     },
     {
       "date": "2015-01-01",
       "year": "2015",
-      "award": "Property Council of Australia / Rider Levett Bucknall Innovation and Excellence Awards - Best Sustainable Development (New Buildings)",
-      "rowId": "8e79ec2b4def40968a9002d6011dec04"
+      "award": "Property Council of Australia / Rider Levett Bucknall Innovation and Excellence Awards - Development of the Year",
+      "rowId": "b4938d2e809f45febb2d52c0b9bb5c00"
     },
     {
       "date": "2014-01-01",
@@ -116,7 +116,7 @@
     {
       "date": "2014-01-01",
       "year": "2014",
-      "award": "Sustainability Awards: Large Commercial category",
+      "award": "Sustainability Awards: Large Commercial Category",
       "rowId": "4e5c13303b304115aedb05197ed57e7f"
     },
     {
@@ -128,7 +128,7 @@
     {
       "date": "2014-01-01",
       "year": "2014",
-      "award": "UDIA Retail/Commercial development of the year",
+      "award": "UDIA Retail/Commercial Development of the Year",
       "rowId": "463489d482364c74ae54fe6eae6123b9"
     },
     {
@@ -140,7 +140,7 @@
     {
       "date": "2014-01-01",
       "year": "2014",
-      "award": "Sydney Design Award Commercial - constructed",
+      "award": "Sydney Design Award Commercial - Constructed",
       "rowId": "09ffc7abd10a426e916c291eaa89345b"
     },
     {
@@ -152,19 +152,19 @@
     {
       "date": "2014-01-01",
       "year": "2014",
-      "award": "COLORBOND Award for Steel Architecture - commendation",
+      "award": "COLORBOND® Award for Steel Architecture - commendation",
       "rowId": "bbfdbcb6f9af464099065252ba16a394"
     },
     {
       "date": "2014-01-01",
       "year": "2014",
-      "award": "COLORBOND Award for Sustainable Architecture - commendation",
+      "award": "COLORBOND® Award for Sustainable Architecture - commendation",
       "rowId": "ffc1adfa5d47482788e15d735152a6b9"
     },
     {
       "date": "2014-01-01",
       "year": "2014",
-      "award": "Sir Arthur G Stephenson Award for Commercial Architecture",
+      "award": "Sir Arthur G Stephenson Award",
       "rowId": "057fbd18caa248d5b93cd9952f522406"
     },
     {
