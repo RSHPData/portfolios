@@ -1,9 +1,9 @@
 {
   "type": "Project",
   "id": "01950",
-  "url": "masterplanning/shanghai-masterplan",
-  "serializeDate": "'2022-06-27 15:39:58.522'",
-  "serialized": 1656344398522,
+  "url": "345:masterplanning/shanghai-masterplan",
+  "serializeDate": "'2022-07-13 14:32:21.948'",
+  "serialized": 1657722741948,
   "serializedBy": "sreeve",
   "title": "Shanghai Masterplan",
   "description": "No city has gone through a more extreme period of growth and change in the last two decades than Shanghai.",
@@ -28,9 +28,9 @@
   ],
   "partners": [
     "Richard Rogers",
-    "Laurie Abbott"
+    "Laurie Abbott",
+    "Marco Goldschmied"
   ],
-  "leaders": [],
   "overview": "No city has gone through a more extreme period of growth and change in the last two decades than Shanghai. In that time it has gone from a city of low rise buildings and densely packed housing, crowded behind the historic European classical buildings of the Bund, to the skyscraper-studded skyline of the present.\n\nThe city authorities identified the Pudong area as a new financial district. The mayor authorised the removal of the shipyards and heavy industries that once occupied the area, and created a virtual free fire zone for development. At the same time, the city invited proposals from a group of architects from around the world, including RSHP’s team to put forward ideas for a masterplan to guide the redevelopment of Pudong, The brief was to propose ideas for major development in an area supporting 800,000 people.\n\n\nThe practice’s response applies the principles of a sustainable compact city, to create ‘a diverse commercial and residential quarter enhanced by a network of parks and public spaces’. A park forms the core of the district, with boulevards radiating outwards from it, and public transport nodes forming a ring around it.\n\nThese light rail nodes are linked to new pedestrian and cycle routes, and are the drivers of urban form: higher density high-rise development is clustered around these nodes to form six neighbourhoods. Commercial and residential areas are located within walking distance of each other and are also close to other infrastructure.",
   "dimensions": [
     {
@@ -45,7 +45,5 @@
       "value": "Ove Arup & Partners / Battle McCarthy",
       "id": "c25e935f416f4cec8b0c868d240f2891"
     }
-  ],
-  "awards": [],
-  "certificates": []
+  ]
 }
