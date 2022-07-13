@@ -1,9 +1,9 @@
 {
   "type": "Project",
   "id": "01570",
-  "url": "masterplanning/potsdamer-platz",
-  "serializeDate": "'2022-06-27 15:39:56.872'",
-  "serialized": 1656344396872,
+  "url": "349:masterplanning/potsdamer-platz",
+  "serializeDate": "'2022-07-13 14:31:32.430'",
+  "serialized": 1657722692430,
   "serializedBy": "sreeve",
   "title": "Potsdamer Platz",
   "description": "The brief required a masterplan to transform a million square metres of urban wasteland into a dynamic living space and major traffic inter-change, incorporating a mixed-use development.",
@@ -41,9 +41,9 @@
   ],
   "partners": [
     "Richard Paul",
-    "Graham Stirk"
+    "Graham Stirk",
+    "Marco Goldschmied"
   ],
-  "leaders": [],
   "overview": "This historic 80-acre site is situated at the heart of reunited Berlin between Alexander Platz and Kurfürstendamm.\n\nThe brief required a masterplan to transform a million square metres of urban wasteland into a dynamic living space and major traffic inter-change, incorporating a mixed-use development.\n\nThe masterplan study proposes a flexible site development framework that re-establishes Potsdamer Platz as the focus of the historic radial street pattern. The masterplan concept addresses the future traffic growth of Berlin, whilst offering new public transport routes and a major transport interchange accommodating some 250,000 people on a daily basis.\n\n\nThe proposed development creates a balanced community on the whole site, containing offices, retail, entertainment facilities and public amenities in an integrated concept with full commitment to the public realm. Green park and ecological linkage runs through the heart of the scheme from the Tiergarten to the Landwehrkanal, forming a series of linear parks.\n\n\n“This masterplan was not intended as an architectural statement or blueprint: it provides a suggested framework within which other architects and designers could contribute to a varied, rich and humane environment.”<strong>Richard Paul</strong>",
   "dimensions": [
     {
@@ -63,7 +63,5 @@
       "value": "Ove Arup & Partners",
       "id": "cda23ee6d03b45f9bc697b303156ceb6"
     }
-  ],
-  "awards": [],
-  "certificates": []
+  ]
 }
