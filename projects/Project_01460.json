@@ -1,9 +1,9 @@
 {
   "type": "Project",
   "id": "01460",
-  "url": "office/channel-4-hq/",
-  "serializeDate": "'2022-06-27 17:05:23.948'",
-  "serialized": 1656349523948,
+  "url": "416:office/channel-4-hq/",
+  "serializeDate": "'2022-07-13 14:30:32.591'",
+  "serialized": 1657722632591,
   "serializedBy": "sreeve",
   "title": "Channel 4 HQ",
   "description": "The Channel Four Television Headquarters building occupies a prominent corner plot near Victoria Station London and comprises approximately 15,000 m² of headquarters, broadcasting suites used for daily news and other associated digital channels, a studio, an underground car park and a landscaped garden square.",
@@ -31,7 +31,8 @@
     "John Young"
   ],
   "partners": [
-    "John Young"
+    "John Young",
+    "Marco Goldschmied"
   ],
   "leaders": [
     "Mark Darbon"
