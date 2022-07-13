@@ -1,9 +1,9 @@
 {
   "type": "Project",
   "id": "02101",
-  "url": "residential/montevetro",
-  "serializeDate": "'2022-06-27 15:40:01.960'",
-  "serialized": 1656344401960,
+  "url": "442:residential/montevetro",
+  "serializeDate": "'2022-07-13 14:18:55.557'",
+  "serialized": 1657721935557,
   "serializedBy": "sreeve",
   "title": "Montevetro",
   "description": "The Montevetro high-end residential project occupies a prime site fronting the River Thames, formerly occupied by the old Hovis flour mill, and faces west towards Cheyne Walk, Chelsea.",
@@ -32,7 +32,8 @@
   ],
   "partners": [
     "Andrew Morris",
-    "Mark Darbon"
+    "Mark Darbon",
+    "Marco Goldschmied"
   ],
   "floors": [
     {
