@@ -1,9 +1,9 @@
 {
   "type": "Project",
   "id": "11490",
-  "url": "civic/hammersmith-and-fulham-civic-campus/",
-  "serializeDate": "'2022-06-27 15:41:11.536'",
-  "serialized": 1656344471536,
+  "url": "212:civic/hammersmith-and-fulham-civic-campus/",
+  "serializeDate": "'2022-07-18 13:12:12.652'",
+  "serialized": 1658149932652,
   "serializedBy": "sreeve",
   "title": "Hammersmith & Fulham Civic Campus",
   "description": "RSHP has designed a new, high-quality Civic Campus to replace the existing Hammersmith & Fulham Town Hall extension and the adjacent large cinema site, located at the West of King Street in Hammersmith Town Centre.",
@@ -77,7 +77,7 @@
     },
     {
       "label": "Lighting Consultant",
-      "value": "Speirs + Major",
+      "value": "Speirs Major",
       "id": "08063b38f0fc41479fd55d5cf70bf8d7"
     },
     {
@@ -125,6 +125,5 @@
       "award": "Winner People’s Choice Award NLA New London Awards",
       "rowId": "2decb445bc624f48903e2764f7197774"
     }
-  ],
-  "certificates": []
+  ]
 }
