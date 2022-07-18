@@ -1,9 +1,9 @@
 {
   "type": "Project",
   "id": "06770",
-  "url": "culture-and-leisure/the-macallan-distillery-and-visitor-experience/",
-  "serializeDate": "'2022-06-27 15:40:49.234'",
-  "serialized": 1656344449234,
+  "url": "255:culture-and-leisure/the-macallan-distillery-and-visitor-experience/",
+  "serializeDate": "'2022-07-18 13:40:51.673'",
+  "serialized": 1658151651673,
   "serializedBy": "sreeve",
   "title": "The Macallan Distillery and Visitor Experience",
   "description": "The new Macallan Distillery is set into the landscape of the estate that has been responsible for creating the single malt whisky since 1824.",
@@ -99,7 +99,7 @@
     },
     {
       "label": "Lighting Consultant",
-      "value": "Speirs + Major",
+      "value": "Speirs Major",
       "id": "163f9c6b97324ee6aabe55bbe437dc4c"
     },
     {
@@ -175,6 +175,5 @@
       "award": "Scottish Design Awards - Leisure/Culture Building or Project",
       "rowId": "53848d6eb7ce40cda2b4250b5bd9974a"
     }
-  ],
-  "certificates": []
+  ]
 }
