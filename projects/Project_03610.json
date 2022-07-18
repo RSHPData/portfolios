@@ -1,9 +1,9 @@
 {
   "type": "Project",
   "id": "03610",
-  "url": "health-and-science/maggies-west-london-centre",
-  "serializeDate": "'2022-06-27 17:22:13.736'",
-  "serialized": 1656350533736,
+  "url": "286:health-and-science/maggies-west-london-centre",
+  "serializeDate": "'2022-07-18 13:31:04.063'",
+  "serialized": 1658151064063,
   "serializedBy": "sreeve",
   "title": "Maggie’s West London Centre",
   "description": "Maggie’s Centres offer support for people affected by cancer at any stage, be they patients, family members or friends. Their work is in complete support of conventional medical treatment.",
@@ -77,7 +77,7 @@
     },
     {
       "label": "Lighting Consultant",
-      "value": "Speirs and Major Associates",
+      "value": "Speirs Major",
       "id": "99c76ed237a94d28940f45a4486ddcef"
     },
     {
