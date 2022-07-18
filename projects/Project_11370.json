@@ -1,9 +1,9 @@
 {
   "type": "Project",
   "id": "11370",
-  "url": "office/the-hub-30-bay-street",
-  "serializeDate": "'2022-06-27 15:41:09.820'",
-  "serialized": 1656344469820,
+  "url": "410:office/the-hub-30-bay-street",
+  "serializeDate": "'2022-07-18 12:57:03.097'",
+  "serialized": 1658149023097,
   "serializedBy": "sreeve",
   "title": "The HUB, 30 Bay Street",
   "description": "Named for its proximity to Harbour, Union Station and Bay Street, the HUB will be one of the tallest commercial towers in downtown Toronto’s vibrant South Core neighbourhood.",
@@ -105,7 +105,7 @@
     },
     {
       "label": "Lighting Design",
-      "value": "Speirs + Major",
+      "value": "Speirs Major",
       "id": "574ddd7b66d041a2a615e0da4e553acc"
     }
   ]
