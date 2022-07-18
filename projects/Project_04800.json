@@ -1,9 +1,9 @@
 {
   "type": "Project",
   "id": "04800",
-  "url": "culture-and-leisure/the-berkeley-hotel-entrance/",
-  "serializeDate": "'2022-06-27 15:40:29.648'",
-  "serialized": 1656344429648,
+  "url": "223:culture-and-leisure/the-berkeley-hotel-entrance/",
+  "serializeDate": "'2022-07-18 13:39:06.250'",
+  "serialized": 1658151546250,
   "serializedBy": "sreeve",
   "title": "The Berkeley Hotel Entrance",
   "description": "The Berkeley Hotel has the charm and character of an English country residence, well-loved and looked after.",
@@ -74,7 +74,7 @@
     },
     {
       "label": "Lighting Consultant",
-      "value": "Speirs & Major",
+      "value": "Speirs Major",
       "id": "20d58a2fead746d982896e5c45b087f5"
     },
     {
