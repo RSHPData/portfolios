@@ -1,9 +1,9 @@
 {
   "type": "Project",
   "id": "10590",
-  "url": "office/rshp-studio-in-the-leadenhall-building/",
-  "serializeDate": "'2022-06-28 09:50:02.389'",
-  "serialized": 1656409802389,
+  "url": "419:office/rshp-studio-in-the-leadenhall-building/",
+  "serializeDate": "'2022-07-18 13:37:17.087'",
+  "serialized": 1658151437087,
   "serializedBy": "sreeve",
   "title": "RSHP Studio in The Leadenhall Building",
   "description": "After 30 years based at Thames Wharf in Hammersmith West London, the practice has moved to The Leadenhall Building, to a new studio that better suits the practice as it is now.",
@@ -55,7 +55,7 @@
       "id": "3B056FDEAAC54730A8CDC5"
     }
   ],
-  "overview": "After 30 years based at <a href=\"projects/office/thames-wharf-studios/\">Thames Wharf</a> in Hammersmith West London, the practice has moved to <a href=\"projects/office/the-leadenhall-building/\">The Leadenhall Building</a>, to a new studio that better suits the practice as it is now.\n\nIt sought an office space that could accommodate all its 200 staff on one floor, in order to promote communication and collaborative working. Level 14 of the RSHP designed Leadenhall Building gave the opportunity to do just this.\n\nThe fit-out design was undertaken in-house and reinterprets the design philosophy of the practice as flexible, legible space. The structure of the soffit and services are exposed, rather than using a suspended ceiling, and the full height of the space is revealed giving a greater sense of internal volume. In doing so, the materiality of the building becomes evident in the interior. The lighting design, by Speirs and Major is responsive to user needs, changing in tone through the day to mimic circadian patterns and promote wellbeing.\n\n\nThe studios are grouped to the south, giving sight lines across the whole studio, and beyond to St Paul’s Cathedral, Canary Wharf and Lloyd’s of London. Desks are arranged in three groups aligned to each of the façades, giving the best aspect for all staff. The more highly serviced areas to the north are closer to the service core. Generous circulation space and a large kitchen give opportunities for chance encounters and informal conversations. A large central meeting area, open on three sides and visible to all, provides flexible space capable of hosting either a number of small meetings; the weekly Monday Design Forum, open to all staff; or lectures and events for up to 200 people.\n\nThe modelshop is located by the front door in the main studio space and the entrance is lined with architectural models, exhibiting the work of the practice to visitors. Additionally, the servers are exposed as integral parts of the life of the practice.\n\nThere are no cellular offices at RSHP, reflecting the democratic philosophy of the practice. Instead, the corners are given over to quiet space, for meetings, reflection and relaxation.",
+  "overview": "After 30 years based at <a href=\"projects/office/thames-wharf-studios/\">Thames Wharf</a> in Hammersmith West London, the practice has moved to <a href=\"projects/office/the-leadenhall-building/\">The Leadenhall Building</a>, to a new studio that better suits the practice as it is now.\n\nIt sought an office space that could accommodate all its 200 staff on one floor, in order to promote communication and collaborative working. Level 14 of the RSHP designed Leadenhall Building gave the opportunity to do just this.\n\nThe fit-out design was undertaken in-house and reinterprets the design philosophy of the practice as flexible, legible space. The structure of the soffit and services are exposed, rather than using a suspended ceiling, and the full height of the space is revealed giving a greater sense of internal volume. In doing so, the materiality of the building becomes evident in the interior. The lighting design, by Speirs Major is responsive to user needs, changing in tone through the day to mimic circadian patterns and promote wellbeing.\n\n\nThe studios are grouped to the south, giving sight lines across the whole studio, and beyond to St Paul’s Cathedral, Canary Wharf and Lloyd’s of London. Desks are arranged in three groups aligned to each of the façades, giving the best aspect for all staff. The more highly serviced areas to the north are closer to the service core. Generous circulation space and a large kitchen give opportunities for chance encounters and informal conversations. A large central meeting area, open on three sides and visible to all, provides flexible space capable of hosting either a number of small meetings; the weekly Monday Design Forum, open to all staff; or lectures and events for up to 200 people.\n\nThe modelshop is located by the front door in the main studio space and the entrance is lined with architectural models, exhibiting the work of the practice to visitors. Additionally, the servers are exposed as integral parts of the life of the practice.\n\nThere are no cellular offices at RSHP, reflecting the democratic philosophy of the practice. Instead, the corners are given over to quiet space, for meetings, reflection and relaxation.",
   "dimensions": [
     {
       "label": "Area",
@@ -76,7 +76,7 @@
     },
     {
       "label": "Lighting Consultant",
-      "value": "Speirs + Major",
+      "value": "Speirs Major",
       "id": "5cc5e914759f41a7a15c8cd16d6098b0"
     },
     {
