@@ -1,9 +1,9 @@
 {
   "type": "Project",
   "id": "01066",
-  "url": "transport/air-traffic-control-tower-heathrow/",
-  "serializeDate": "'2022-06-27 15:39:52.267'",
-  "serialized": 1656344392267,
+  "url": "471:transport/air-traffic-control-tower-heathrow/",
+  "serializeDate": "'2022-07-18 13:24:06.075'",
+  "serialized": 1658150646075,
   "serializedBy": "sreeve",
   "title": "Air Traffic Control Tower, Heathrow",
   "description": "The commission for a new control tower at London Heathrow Airport followed on from the practice’s appointment to design the new Terminal 5 at Heathrow, and reflects the growth in traffic at Europe’s busiest airport.",
@@ -65,7 +65,7 @@
     },
     {
       "label": "Lighting Consultant",
-      "value": "Speirs and Major",
+      "value": "Speirs Major",
       "id": "cc6d0bbe753e492bb8b010b3095cc673"
     },
     {
