@@ -1,9 +1,9 @@
 {
   "type": "Project",
   "id": "02642",
-  "url": "transport/terminal-4-barajas-airport/",
-  "serializeDate": "'2022-06-27 15:40:08.270'",
-  "serialized": 1656344408270,
+  "url": "469:transport/terminal-4-barajas-airport/",
+  "serializeDate": "'2022-07-19 07:26:11.947'",
+  "serialized": 1658215571947,
   "serializedBy": "sreeve",
   "title": "Terminal 4, Barajas Airport",
   "description": "The terminal, which is the biggest in Spain, was commissioned to enable Barajas International Airport to compete with major hub airports within Europe.",
@@ -212,7 +212,7 @@
     },
     {
       "label": "Lighting Consultant",
-      "value": "Arup/Speirs and Major Associates",
+      "value": "Speirs Major",
       "id": "bcf2ca722d4a466895160eb0e3215a1a"
     },
     {
@@ -274,6 +274,5 @@
       "award": "RIBA Stirling Prize",
       "rowId": "a672c6e193a04c28b37ae517c1b2e782"
     }
-  ],
-  "certificates": []
+  ]
 }
