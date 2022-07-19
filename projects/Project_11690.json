@@ -1,9 +1,9 @@
 {
   "type": "Project",
   "id": "11690",
-  "url": "residential/marian-place-bethnal-green",
-  "serializeDate": "'2022-06-27 15:41:12.560'",
-  "serialized": 1656344472560,
+  "url": "835:residential/marian-place-bethnal-green",
+  "serializeDate": "'2022-07-19 12:38:51.466'",
+  "serialized": 1658234331466,
   "serializedBy": "sreeve",
   "title": "Marian Place Bethnal Green",
   "description": ".",
@@ -56,7 +56,8 @@
     "Stephen Light"
   ],
   "leaders": [
-    "Graham Stirk"
+    "Jack Newton",
+    "Maurice Brennan"
   ],
   "heights": [
     {
