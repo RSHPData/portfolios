@@ -1,14 +1,14 @@
 {
   "type": "Project",
   "id": "00338",
-  "url": "masterplanning/london-as-it-could-be",
-  "serializeDate": "'2022-06-27 15:39:41.328'",
-  "serialized": 1656344381328,
+  "url": "364:masterplanning/london-as-it-could-be",
+  "serializeDate": "'2022-07-20 10:59:49.903'",
+  "serialized": 1658314789903,
   "serializedBy": "sreeve",
-  "title": "London as it could be",
+  "title": "London as could be",
   "description": "The exhibition at the Royal Academy in 1986, featuring the work of Rogers, Norman Foster and James Stirling, gave the practice the opportunity to put forward a series of visionary proposals for transforming a large area of central London.",
   "date": "1986",
-  "client": "Royal Academy of Arts Exhibition",
+  "client": "Royal Academy of Art Exhibition",
   "location": "London, UK",
   "longLat": "-0.122150  / 51.506778",
   "longitude": "-0.122150 ",
@@ -25,10 +25,7 @@
   "partners": [
     "Richard Rogers"
   ],
-  "leaders": [],
   "overview": "The election of a Conservative government in Britain, followed by the greatest property boom of the century, led to massive redevelopment in London. Rogers felt great opportunities to improve the capital were being ignored in favour of a piecemeal approach to planning, led by market forces rather than by any consideration of the wider public interest. ‘In Britain’, declared Rogers, ‘the highest bidder wins’, whereas in other European countries urban life was undergoing a renaissance with the encouragement of far-sighted politicians.\n\nThe exhibition at the Royal Academy in 1986, featuring the work of Rogers, together with that of Norman Foster and James Stirling, gave the practice the opportunity to put forward a series of visionary, but not impractical, proposals for transforming a large area of central London.\n\n\nThe plan revolved on two axes: the Embankment along the Thames from Westminster to Blackfriars and the route across the Thames from Waterloo station (already projected as the terminus of the new Channel Tunnel rail link) to Trafalgar Square, perhaps the best-known public space in London but at that time surrounded by traffic and suffering consequently from noise and pollution.\n\nRogers proposed, in the spirit of the Embankment’s creator, Bazalgette, that the road along the embankment be sunk in a tunnel, allowing the river-side to become a new linear park. The Charing Cross terminus on the Thames’ north bank was relocated to the south-bank Waterloo Station, and a new light-weight pedestrian bridge, replacing the bulky Hungerford railway crossing, led directly to the heart of Trafalgar Square.",
   "dimensions": [],
-  "companies": [],
-  "awards": [],
-  "certificates": []
+  "companies": []
 }
