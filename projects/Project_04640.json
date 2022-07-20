@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "04640",
   "url": "810:residential/highpoint",
-  "serializeDate": "'2022-07-20 12:04:00.740'",
-  "serialized": 1658318640740,
+  "serializeDate": "'2022-07-20 12:10:18.369'",
+  "serialized": 1658319018369,
   "serializedBy": "sreeve",
   "title": "UNCLE Elephant and Castle",
   "description": "UNCLE Elephant and Castle comprises two residential buildings, one of 45 storeys and the other seven storeys. Apartments are allocated as a combination of rental housing, affordable housing through the London Wide Initiative (LWI) housing, and housing available through the open market. In addition to this, the scheme includes a theatre, community open space, cycle storage and recycling facilities at basement level.",
@@ -15,6 +15,51 @@
   "latitude": "51.49266397847788",
   "typologies": [
     "Residential"
+  ],
+  "team": [
+    "Dennis Austin",
+    "Elena Arzua Tourino",
+    "Ed Burgess",
+    "Nini Cheng",
+    "Davide Costa",
+    "Kelly Darlington",
+    "Mike Fairbrass",
+    "Rowena Fuller",
+    "Ivan Harbour",
+    "Ed Hiscock",
+    "Gethin Hooper",
+    "Siri Johansen",
+    "Stephen Macbean",
+    "Steve Martin",
+    "Adrian King",
+    "Tim Mason",
+    "Daniel Lewis",
+    "Faidra Matziaraki",
+    "Naomi Mcintosh",
+    "David Merllie",
+    "Juan Molina",
+    "Alison Oktay",
+    "Chi Park",
+    "Andrew Partridge",
+    "Jacopo V Pesciolini",
+    "Leonardo Pelleriti",
+    "Laura Salisbury",
+    "Mark Thompson",
+    "Paul Thompson",
+    "Simon Tonks",
+    "Michal Uchwat",
+    "Mat Venn",
+    "Rae Whittow-williams",
+    "William Wimshurst",
+    "Neil Wormsley",
+    "Iain Wright",
+    "Alex Zimmermann"
+  ],
+  "partners": [
+    "Ivan Soldo"
+  ],
+  "leaders": [
+    "Simon Tonks"
   ],
   "heights": [
     {
