@@ -1,13 +1,13 @@
 {
   "type": "Project",
   "id": "10690",
-  "url": "transport/taoyuan-airport-t3",
-  "serializeDate": "'2022-06-27 15:41:03.056'",
-  "serialized": 1656344463056,
-  "serializedBy": "sreeve",
+  "url": "470:transport/taoyuan-airport-t3",
+  "serializeDate": "'2022-07-20 13:19:55.442'",
+  "serialized": 1658323195442,
+  "serializedBy": "heatherp",
   "title": "Taoyuan Airport T3",
   "description": "The design for Taoyuan Terminal 3 synthesises the practice’s previous major airport experience with the specific brief.",
-  "date": "2015-ongoing",
+  "date": "2015 - in construction",
   "client": "Taoyuan International Airport Corporation",
   "location": "Taipei, Taiwan",
   "longLat": "121.234958  / 25.079800",
@@ -91,7 +91,5 @@
       "value": "OTC",
       "id": "9e706dc301bf424eb39508abc81c7e11"
     }
-  ],
-  "awards": [],
-  "certificates": []
+  ]
 }
