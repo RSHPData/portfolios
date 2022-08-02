@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "11010",
   "url": "881:mixed-use/british-library-extension",
-  "serializeDate": "'2022-08-02 08:34:34.837'",
-  "serialized": 1659429274837,
+  "serializeDate": "'2022-08-02 09:09:57.312'",
+  "serialized": 1659431397312,
   "serializedBy": "heatherp",
   "title": "British Library Extension",
   "name": "British Library Extension",
@@ -158,7 +158,7 @@
   "certificates": [
     {
       "authority": "BREEAM",
-      "rating": "Outstanding with aspiration for Outstanding",
+      "rating": "Excellent with aspiration for Outstanding",
       "rowId": "a8030e7b8f634ca3bc4a10b195e5f6dc"
     }
   ]
