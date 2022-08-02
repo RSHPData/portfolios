@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "11010",
   "url": "881:mixed-use/british-library-extension",
-  "serializeDate": "'2022-07-28 11:47:17.148'",
-  "serialized": 1659008837148,
+  "serializeDate": "'2022-08-02 08:34:34.837'",
+  "serialized": 1659429274837,
   "serializedBy": "heatherp",
   "title": "British Library Extension",
   "name": "British Library Extension",
@@ -15,7 +15,9 @@
   "longitude": "51.530002932139624,",
   "latitude": "-0.12766258191665053",
   "constructionCost": "£504M (including fit-out)",
-  "typologies": [],
+  "typologies": [
+    "Mixed Use"
+  ],
   "team": [
     "Ainhoa Abreu Diaz",
     "Andy Bryce",
@@ -61,16 +63,18 @@
   ],
   "partners": [
     "Graham Stirk",
-    "Andrew Morris"
+    "Andrew Morris",
+    "John McElgunn"
   ],
   "leaders": [
-    "Andy Bryce"
+    "Andy Bryce",
+    "Lorna Edwards"
   ],
-  "overview": "The British Library Expansion project is a once in a generation transformation opportunity to extend the British Library’s site to make it the most open, creative, and innovative institution of its kind anywhere in the world. \n\nThe development is located at the heart of London’s Knowledge Quarter and will provide 100,000 sqft of Library facilities to significantly expand its outreach, education, conservation, and exhibitions programmes. The Library accommodation is integrated with commercial uses, new headquarters for the Alan Turing Institute and Cross Rail 2 infrastructure.\n\nThe scheme will provide broad community benefits, including job and training opportunities for local people helping regenerate neighbouring communities. The existing Library will be opened up to the northeast and southwest, creating publicly accessible routes and a series of public realm improvements, including a major new cultural foyer at street level.\n\nExtensive landscaping and most of the ground floor of the extension will be open to the public. 600,000 sq ft of commercial space to support large, medium, and small enterprises is positioned above the library facilities responding to the space demand for life science, biotech, and related medical and science-based commerce. 50% percent of the commercial premises have the possibility of being configured as wet labs with the remaining spaces suitable for write-up areas, dry or computation labs or as standard offices. The holistic sustainability strategy has driven the design process with ambitious targets using the United Nations Sustainable Development Goals framework.\n\nThese targets take the environmental goals above and beyond current practice with a project ambition to reduce embodied carbon by 40%; operational energy by 60% and water use by 50% from current baseline. BREEAM ‘Excellent’ and WELL ‘Gold’ certifications are targeted with aspirations for BREEAM ‘Outstanding’.",
+  "overview": "The British Library Expansion project is a once in a generation transformation opportunity to extend the British Library’s site to make it the most open, creative, and innovative institution of its kind anywhere in the world. \n\nThe development is located at the heart of London’s Knowledge Quarter and will provide 100,000 sqft of Library facilities to significantly expand its outreach, education, conservation, and exhibitions programmes. The Library accommodation is integrated with commercial uses, new headquarters for the Alan Turing Institute and Cross Rail 2 infrastructure.\n\nThe scheme will provide broad community benefits, including job and training opportunities for local people helping regenerate neighbouring communities. The existing Library will be opened up to the northeast and southwest, creating publicly accessible routes and a series of public realm improvements, including a major new cultural foyer at street level. Extensive landscaping and most of the ground floor of the extension will be open to the public. \n\n600,000 sq ft of commercial space to support large, medium, and small enterprises is positioned above the library facilities responding to the space demand for life science, biotech, and related medical and science-based commerce. 50% percent of the commercial premises have the possibility of being configured as wet labs with the remaining spaces suitable for write-up areas, dry or computation labs or as standard offices. \n\nThe project's holistic sustainability strategy has driven the design process with ambitious targets using the United Nations Sustainable Development Goals framework. These targets take the environmental goals above and beyond current practice with a project ambition to reduce embodied carbon by 40%; operational energy by 60% and water use by 50% from current baseline. BREEAM ‘Excellent’ and WELL ‘Gold’ certifications are targeted with aspirations for BREEAM ‘Outstanding’.",
   "dimensions": [
     {
-      "label": "Site Area",
-      "value": "14,300sq m approx",
+      "label": "Area",
+      "value": "97,000m2",
       "id": "3b7dace4b0f14b06a6398fa24e94fac3"
     }
   ],
@@ -81,7 +85,7 @@
       "id": "592608f142e74d8f8cc0de38dfd0bc4e"
     },
     {
-      "label": "Developer",
+      "label": "Development Manager",
       "value": "Stanhope",
       "id": "6c3d2b48b5154efa92fc6c8f8ce4d4d8"
     },
@@ -111,8 +115,8 @@
       "id": "21c64caf508049b881f478bdd441ae4c"
     },
     {
-      "label": "Townscape Advisor",
-      "value": "Malcolm Reading Consultants",
+      "label": "Townscape Consultant",
+      "value": "Tavenor Consultancy",
       "id": "0c09ce353d684b3ebbbb2d54aa784d0a"
     },
     {
@@ -121,9 +125,41 @@
       "id": "8dd4b3bd7b074bca9d941fd5e0b5db5e"
     },
     {
-      "label": "Cost Advice",
+      "label": "Quantity Surveyor",
       "value": "Alinea Consulting",
       "id": "fe87022069484717949f3588cfa8d7f6"
+    },
+    {
+      "label": "Sustainability Consultant",
+      "value": "Arup",
+      "id": "e1c297a6e9384f37827b0f3b0622db32"
+    },
+    {
+      "label": "Fire Consultant",
+      "value": "Arup",
+      "id": "7e681f37ffa24797a6ebc6c3875e8221"
+    },
+    {
+      "label": "Acoustics Consultant",
+      "value": "Arup",
+      "id": "9b471d9712834dd29981ea12f617f212"
+    },
+    {
+      "label": "Transport Consultant",
+      "value": "Arup",
+      "id": "0bd42b8307b74452af1d06dcc11a32be"
+    },
+    {
+      "label": "Logistics Consultant",
+      "value": "Arup",
+      "id": "1b90bf52435b4c9fb0295efc1e18104a"
+    }
+  ],
+  "certificates": [
+    {
+      "authority": "BREEAM",
+      "rating": "Outstanding with aspiration for Outstanding",
+      "rowId": "a8030e7b8f634ca3bc4a10b195e5f6dc"
     }
   ]
 }
