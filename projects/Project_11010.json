@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "11010",
   "url": "881:mixed-use/british-library-extension",
-  "serializeDate": "'2022-08-02 09:09:57.312'",
-  "serialized": 1659431397312,
+  "serializeDate": "'2022-08-02 09:15:25.785'",
+  "serialized": 1659431725785,
   "serializedBy": "heatherp",
   "title": "British Library Extension",
   "name": "British Library Extension",
@@ -63,8 +63,8 @@
   ],
   "partners": [
     "Graham Stirk",
-    "Andrew Morris",
-    "John McElgunn"
+    "John McElgunn",
+    "Andrew Morris"
   ],
   "leaders": [
     "Andy Bryce",
