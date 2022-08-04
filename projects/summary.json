@@ -348,7 +348,7 @@
     "country": "UK",
     "client": "Clivedale",
     "longLat": "-0.144254 / 51.5130998",
-    "typology": "Residential"
+    "typology": "Culture & Leisure"
   },
   {
     "projectId": "11010",
@@ -356,8 +356,10 @@
     "date": "2015",
     "endDate": "",
     "location": "London",
-    "client": "SMBL Developments Ltd",
-    "longLat": "51.530002932139624, / -0.12766258191665053"
+    "country": "UK",
+    "client": "British Library and SMBL Developments Ltd",
+    "longLat": "51.530002932139624, / -0.12766258191665053",
+    "typology": "Mixed Use"
   },
   {
     "projectId": "10620",
