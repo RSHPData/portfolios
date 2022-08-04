@@ -2,9 +2,9 @@
   "type": "Project",
   "id": "10670",
   "url": "694:residential/22-hanover-square/",
-  "serializeDate": "'2022-07-01 15:06:32.081'",
-  "serialized": 1656687992081,
-  "serializedBy": "sreeve",
+  "serializeDate": "'2022-08-04 08:27:02.656'",
+  "serialized": 1659601622656,
+  "serializedBy": "heatherp",
   "title": "22 Hanover Square",
   "description": "Inspired by existing Georgian terraces on Hanover Square, RSHP have designed a grand townscape structure to hold a contemporary mixed-use development, providing residential and hotel accommodation in the heart of London’s Mayfair Conservation Area.",
   "date": "2015",
@@ -14,7 +14,7 @@
   "longitude": "-0.144254",
   "latitude": "51.5130998",
   "typologies": [
-    "Residential"
+    "Culture & Leisure"
   ],
   "team": [
     "Adam Lampon",
