@@ -739,7 +739,7 @@
     "typology": "Civic"
   },
   {
-    "projectId": "06120",
+    "projectId": "05625",
     "project": "Barangaroo South Masterplan",
     "date": "2009",
     "endDate": "2015",
@@ -750,7 +750,7 @@
     "typology": "Masterplanning"
   },
   {
-    "projectId": "05625",
+    "projectId": "06120",
     "project": "Barangaroo South Masterplan",
     "date": "2009",
     "endDate": "2015",
@@ -1375,7 +1375,7 @@
     "project": "Ashford Designer Retail Outlet",
     "date": "1996",
     "endDate": "2000",
-    "location": "Ashford, Kent",
+    "location": "Ashford",
     "country": "UK",
     "client": "BAA McArthurGlen UK Ltd",
     "longLat": "0.87768  / 51.13713",
