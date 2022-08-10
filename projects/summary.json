@@ -358,7 +358,7 @@
     "location": "London",
     "country": "UK",
     "client": "British Library and SMBL Developments Ltd",
-    "longLat": "51.530002932139624, / -0.12766258191665053",
+    "longLat": "-0.1276625 / 51.530002",
     "typology": "Mixed Use"
   },
   {
@@ -720,7 +720,7 @@
     "projectId": "11360",
     "project": "International Towers Sydney",
     "date": "2010",
-    "endDate": "2016",
+    "endDate": "2017",
     "location": "Sydney",
     "country": "Australia",
     "client": "Lendlease",
