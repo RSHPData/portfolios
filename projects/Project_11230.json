@@ -1,14 +1,14 @@
 {
   "type": "Project",
   "id": "11230",
-  "url": "education/h-farm/",
-  "serializeDate": "'2022-06-27 15:41:08.029'",
-  "serialized": 1656344468029,
-  "serializedBy": "sreeve",
+  "url": "280:education/h-farm/",
+  "serializeDate": "'2022-08-15 14:45:23.819'",
+  "serialized": 1660574723819,
+  "serializedBy": "heatherp",
   "title": "H-Farm",
-  "description": "Located on the outskirts of Venice, the H-Farm building is part of the wider masterplan for H-Campus.",
-  "date": "2016",
-  "client": "H-Farm",
+  "description": "Located on the outskirts of Venice, H-ILL is part of the wider masterplan for H-FARM",
+  "date": "2016 - 2021",
+  "client": "H-FARM",
   "location": "Roncade, Italy",
   "longLat": "12.4178116  / 45.5590441",
   "longitude": "12.4178116 ",
@@ -33,7 +33,19 @@
   "leaders": [
     "Stephen Spence"
   ],
-  "overview": "Located on the outskirts of Venice, the H-Farm building is part of the wider masterplan for H-Campus. The completed scheme is to include a primary school, secondary school, university and student accommodation, aiming to become a tech start-up orientated education facility for a world which is constantly reinventing itself. Students are to live alongside start uppers, entrepreneurs, teachers, experts and ma­nagers of large companies — a community of people who will participate in building a collecti­ve and cultural identity.\n\n\nThe RSHP-designed focal building will be a multi-purpose, flexible exhibition hall/conference signature building sitting within the centre of the scheme and linking all surrounding facilities. The east wing will comprise a large kitchen and seating area aiming to satisfy the needs of the entire campus, while the west wing will contain a flexible multipurpose hall with seating for 1000 people. This facility will accommodate a variety of events, including exhibitions, workshops and conferences.\n\n\nAt either end of the building, the ground will rise up creating a gentle pedestrian route up and over the building. In such a flat terrain, even this gentle gradient will provide distant views over the surrounding countryside.\n\nThe whole building will essentially perform as a covered arena, a real centre of gravity for the entire campus. It is conceived as a public square where students, digital district users and the external community can all meet.",
+  "heights": [
+    {
+      "value": "9m",
+      "id": "d2242916024b4e688cc732dae7284045"
+    }
+  ],
+  "floors": [
+    {
+      "value": "2",
+      "id": "fe500dce8671495eafe96f12d14e84d8"
+    }
+  ],
+  "overview": "Located on the outskirts of Venice, H-FARM is part of the wider masterplan for H-Campus. The completed scheme includes a primary school, secondary school, university, and student accommodation, aiming to become a tech start-up orientated education facility for a world which is constantly reinventing itself.\nStudents live alongside entrepreneurs, teachers, experts, and managers of large companies — a community of people who will participate in building a collective and cultural identity.\nThe RSHP-designed focal building - called H-ILL - is a multipurpose, flexible, auditorium, library and cafe sitting within the centre of the scheme and linking all surrounding facilities.\nThe east wing comprises a large kitchen and seating area aiming to satisfy the needs of the entire campus, while the west wing contains a flexible multipurpose hall with seating for 1000 people. This facility accommodates a variety of events, including exhibitions, workshops, and conferences.\nAt either end of the building, the ground rises creating a gentle pedestrian route up and over the building. In such a flat terrain, even this gentle gradient provides distant views over the surrounding countryside.\nThe whole building essentially performs as a covered arena, a real centre of gravity for the entire campus. It is conceived as a public square where students and the external community can all meet.",
   "design": "Centrally located within the masterplan, the building physically connects to each of its surrounding buildings through a network of pathways. The raised platform at either end creates an outdoor environment for both leisure and structured activities, whilst the main two elevations are formed with floor-to-ceiling glass, allowing for uninterrupted views through the building and out to low-level floodplain area beyond.\n\n\nHalf of the building comprises a multi-purpose conference centre designed to accommodate a wide and variety of events. The remainder of the building contains a restaurant designed to cater for large events, as well as for the daily requirements of the students on campus.\n\n\nThere are outdoor areas at roof level and to both sides of the building, allowing for the creation of a three-dimensional public piazza. Directly linked to the restaurant is a study/library area which sits at the upper level. As is it open-plan and flexible, it is neither an extension of the restaurant nor a library – but occupies a world containing both –a rich vibrant, dynamic area, open to change on a day-to-day basis.",
   "concept": "Surrounded by the green countryside of Treviso, near the Sile river and the Venetian lagoon, this is the location where H- Farm was born — a business and training centre gea­red towards innovation via new technologies. The renovation of abandoned farm buildings and the construction of new ones will mark the first intervention, where today, more than five hundred people are living and working.\n\n\nThe new expansion, the second phase of the project which is still in progress, concerns H-Campus, an international education district. H-Campus will cater to students, teachers and professionals — a multitude of people who come to this evolving place, configuring a new community and injecting new life into the forgotten countryside. As the dominant landscape is the main attraction of the site, the intention is to therefore establish an architectural style which is harmonious with the site’s history and surrounding nature.\n\n\nThe site is a 30-hectare sized park, all idyllically landscaped. The “H” stands for human, creating a farm of sorts, where people grow from learning. There are low-height restrictions for all the buildings so as to create the pastoral style setting that is so quintessential of a traditional farm. Vehicle access will be limited with the pedestrian routes and pathways forming an informal series of paths across the site. The essential characteristics of the complex are sustainability, modularity, its dialogue with the native territory, soft mobility, the coexistence of nature and architecture, renewable energy, implementation possibility, flexibility, the relationship between indoor and outdoor spaces, and reversibility.",
   "dimensions": [
@@ -66,10 +78,8 @@
     },
     {
       "label": "Project Manager",
-      "value": "PACM",
+      "value": "Manens-Tifs",
       "id": "ad37027c2a054fd2ab6b2c70a46d69fc"
     }
-  ],
-  "awards": [],
-  "certificates": []
+  ]
 }
