@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "11230",
   "url": "280:education/h-farm/",
-  "serializeDate": "'2022-08-18 09:44:04.956'",
-  "serialized": 1660815844956,
+  "serializeDate": "'2022-08-18 09:50:30.089'",
+  "serialized": 1660816230089,
   "serializedBy": "heatherp",
   "title": "H-Farm",
   "description": "Located on the outskirts of Venice, H-ILL is part of the wider masterplan for H-FARM",
@@ -80,6 +80,13 @@
       "label": "Project Manager",
       "value": "Manens-Tifs",
       "id": "ad37027c2a054fd2ab6b2c70a46d69fc"
+    }
+  ],
+  "certificates": [
+    {
+      "authority": "LEED",
+      "rating": "Platinum",
+      "rowId": "df7c9ad79df348d887fb0e7885ebf0a7"
     }
   ]
 }
