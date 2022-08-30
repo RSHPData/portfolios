@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "11230",
   "url": "280:education/h-farm/",
-  "serializeDate": "'2022-08-18 09:56:15.530'",
-  "serialized": 1660816575530,
+  "serializeDate": "'2022-08-30 17:03:05.537'",
+  "serialized": 1661878985537,
   "serializedBy": "heatherp",
   "title": "H-Farm",
   "description": "Located on the outskirts of Venice, HILL is part of the wider masterplan for H-FARM",
@@ -85,7 +85,7 @@
   "certificates": [
     {
       "authority": "LEED",
-      "rating": "Platinum",
+      "rating": "Gold",
       "rowId": "df7c9ad79df348d887fb0e7885ebf0a7"
     }
   ]
