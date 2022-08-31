@@ -90,7 +90,7 @@
     "projectId": "12115",
     "project": "Guangdong-Hong Kong-Macao Youth Entrepreneurship Zone",
     "date": "2018",
-    "endDate": "",
+    "endDate": "2020",
     "location": "Shenzhen",
     "country": "China",
     "client": "Qianhai Inno-tech Investment Holdings",
@@ -304,9 +304,10 @@
     "projectId": "11230",
     "project": "H-Farm",
     "date": "2016",
+    "endDate": "2021",
     "location": "Roncade",
     "country": "Italy",
-    "client": "H-Farm",
+    "client": "H-FARM",
     "longLat": "12.4178116  / 45.5590441",
     "typology": "Education"
   },
@@ -349,6 +350,17 @@
     "client": "Clivedale",
     "longLat": "-0.144254 / 51.5130998",
     "typology": "Culture & Leisure"
+  },
+  {
+    "projectId": "11010",
+    "project": "British Library Extension",
+    "date": "2015",
+    "endDate": "",
+    "location": "London",
+    "country": "UK",
+    "client": "British Library and SMBL Developments Ltd",
+    "longLat": "-0.1276625 / 51.530002",
+    "typology": "Mixed Use"
   },
   {
     "projectId": "10620",
