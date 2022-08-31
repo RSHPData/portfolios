@@ -1,0 +1,168 @@
+{
+  "type": "Project",
+  "id": "11010",
+  "url": "881:mixed-use/british-library-extension",
+  "serializeDate": "'2022-08-31 14:23:06.257'",
+  "serialized": 1661955786257,
+  "serializedBy": "heatherp",
+  "title": "British Library Extension",
+  "name": "British Library Extension",
+  "description": "The British Library Expansion project is a once in a generation transformation opportunity to extend the British Library’s site to make it the most open, creative, and innovative institution of its kind anywhere in the world.",
+  "date": "2015 -",
+  "client": "British Library and SMBL Developments Ltd",
+  "location": "London, UK",
+  "longLat": "-0.1276625 / 51.530002",
+  "longitude": "-0.1276625",
+  "latitude": "51.530002",
+  "constructionCost": "£500M (including CR2 and fit-out)",
+  "typologies": [
+    "Mixed Use",
+    "Culture & Leisure",
+    "Civic",
+    "Placemaking"
+  ],
+  "team": [
+    "Ainhoa Abreu Diaz",
+    "Andy Bryce",
+    "Alessandro Blasucci",
+    "Mafalda Brandao",
+    "Maurice Brennan",
+    "Matt Cooper",
+    "Jean Corona",
+    "Luca D'Amico",
+    "Kelly Darlington",
+    "Philip Dennis",
+    "John Dent",
+    "Ainhoa Abreu diaz",
+    "Lorna Edwards",
+    "Jean-Baptiste Gilles",
+    "Heidi Gillett",
+    "Ed Hiscock",
+    "Konrad Holtsmark",
+    "Will Jefferies",
+    "Tengku Sharil Bin Tengku Abdul Kadir",
+    "John Kennedy",
+    "Kinga Koren",
+    "Sim Yee Lee",
+    "Stephen Light",
+    "Nina Manchorova",
+    "John McElgunn",
+    "Jon Mercer",
+    "Andrew Morris",
+    "Jo Murtagh",
+    "Thomas Olliver",
+    "Katarzyna Penar",
+    "Joanna Pencakowski",
+    "Dan Rogers",
+    "Nicholas Salthouse",
+    "Anna Sebastia",
+    "Peter Shannon",
+    "Alleen Siu",
+    "Graham Stirk",
+    "Alejandro Terron",
+    "Edward Walker",
+    "Emily Wilkinson",
+    "Andrew Yek"
+  ],
+  "partners": [
+    "Graham Stirk",
+    "John McElgunn",
+    "Andrew Morris"
+  ],
+  "leaders": [
+    "Andy Bryce",
+    "Lorna Edwards"
+  ],
+  "overview": "<div><p>The British Library Expansion project is a once in a generation transformation opportunity to extend the British Library’s site to make it the most open, creative, and innovative institution of its kind anywhere in the world.</p><p>The development is located at the heart of London’s Knowledge Quarter and will provide 100,000 sqft of Library facilities to significantly expand its outreach, education, conservation, and exhibitions programmes. The Library accommodation is integrated with commercial uses, new headquarters for the Alan Turing Institute and Cross Rail 2 infrastructure.</p><p>The scheme will provide broad community benefits, including the creation of 3,303 new jobs, training and re-skilling opportunities for local people, and a range of affordable employment premises, which will help to regenerate neighbouring communities. The existing Library will be opened up to the northeast and southwest, creating publicly accessible routes and a series of public realm improvements, including a major new cultural foyer at street level. Extensive landscaping and most of the ground floor of the extension will be open to the public.</p><p>600,000 sq ft of commercial space to support large, medium, and small enterprises is positioned above the library facilities responding to the space demand for life science, biotech, and related medical and science-based commerce. 50% percent of the commercial premises have the possibility of being configured as wet labs with the remaining spaces suitable for write-up areas, dry or computation labs or as standard offices.</p><p>The project's holistic sustainability strategy has driven the design process with ambitious targets using the United Nations Sustainable Development Goals framework. These targets take the environmental goals above and beyond current practice with a project ambition to reduce embodied carbon by 40%; operational energy by 60% and water use by 50% from current baseline. BREEAM ‘Excellent’ and WELL ‘Gold’ certifications are targeted with aspirations for BREEAM ‘Outstanding’.</p></div>",
+  "dimensions": [
+    {
+      "label": "Area",
+      "value": "97,000m2 GIA",
+      "id": "3b7dace4b0f14b06a6398fa24e94fac3"
+    }
+  ],
+  "companies": [
+    {
+      "label": "Client",
+      "value": "British Library and SMBL Ltd",
+      "id": "592608f142e74d8f8cc0de38dfd0bc4e"
+    },
+    {
+      "label": "Development Manager",
+      "value": "Stanhope",
+      "id": "6c3d2b48b5154efa92fc6c8f8ce4d4d8"
+    },
+    {
+      "label": "Structural Engineer",
+      "value": "Arup",
+      "id": "69d5d65a58dc47ddaa07520e2e49bbc7"
+    },
+    {
+      "label": "MEP Engineer",
+      "value": "Arup",
+      "id": "b01850142a9f4e388847f7fd400654f7"
+    },
+    {
+      "label": "Landscape Architect",
+      "value": "DSDHA",
+      "id": "b43a004e92ca48109e73889c63b09198"
+    },
+    {
+      "label": "Community Consultation",
+      "value": "London Communications Agency",
+      "id": "2b1a2edbc40740cd813e0736538c6439"
+    },
+    {
+      "label": "Planning Consultants",
+      "value": "Gerald Eve",
+      "id": "21c64caf508049b881f478bdd441ae4c"
+    },
+    {
+      "label": "Townscape Consultant",
+      "value": "Tavenor Consultancy",
+      "id": "0c09ce353d684b3ebbbb2d54aa784d0a"
+    },
+    {
+      "label": "Heritage Advice",
+      "value": "Cordula Zeidler",
+      "id": "8dd4b3bd7b074bca9d941fd5e0b5db5e"
+    },
+    {
+      "label": "Quantity Surveyor",
+      "value": "Alinea Consulting",
+      "id": "fe87022069484717949f3588cfa8d7f6"
+    },
+    {
+      "label": "Sustainability Consultant",
+      "value": "Arup",
+      "id": "e1c297a6e9384f37827b0f3b0622db32"
+    },
+    {
+      "label": "Fire Consultant",
+      "value": "Arup",
+      "id": "7e681f37ffa24797a6ebc6c3875e8221"
+    },
+    {
+      "label": "Acoustics Consultant",
+      "value": "Arup",
+      "id": "9b471d9712834dd29981ea12f617f212"
+    },
+    {
+      "label": "Transport Consultant",
+      "value": "Arup",
+      "id": "0bd42b8307b74452af1d06dcc11a32be"
+    },
+    {
+      "label": "Logistics Consultant",
+      "value": "Arup",
+      "id": "1b90bf52435b4c9fb0295efc1e18104a"
+    }
+  ],
+  "certificates": [
+    {
+      "authority": "BREEAM",
+      "rating": "Excellent with aspiration for Outstanding",
+      "rowId": "a8030e7b8f634ca3bc4a10b195e5f6dc"
+    }
+  ]
+}
