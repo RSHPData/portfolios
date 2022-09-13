@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "11010",
   "url": "881:mixed-use/british-library-extension",
-  "serializeDate": "'2022-09-13 16:41:54.606'",
-  "serialized": 1663087314606,
+  "serializeDate": "'2022-09-13 16:46:47.078'",
+  "serialized": 1663087607078,
   "serializedBy": "heatherp",
   "title": "British Library Extension",
   "name": "British Library Extension",
@@ -17,8 +17,7 @@
   "constructionCost": "£500M (including CR2 and fit-out)",
   "typologies": [
     "Culture & Leisure",
-    "Health & Science",
-    "Culture & Leisure"
+    "Health & Science"
   ],
   "team": [
     "Ainhoa Abreu Diaz",
