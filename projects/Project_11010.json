@@ -2,8 +2,8 @@
   "type": "Project",
   "id": "11010",
   "url": "881:mixed-use/british-library-extension",
-  "serializeDate": "'2022-08-31 14:23:06.257'",
-  "serialized": 1661955786257,
+  "serializeDate": "'2022-09-13 16:41:54.606'",
+  "serialized": 1663087314606,
   "serializedBy": "heatherp",
   "title": "British Library Extension",
   "name": "British Library Extension",
@@ -16,10 +16,9 @@
   "latitude": "51.530002",
   "constructionCost": "£500M (including CR2 and fit-out)",
   "typologies": [
-    "Mixed Use",
     "Culture & Leisure",
-    "Civic",
-    "Placemaking"
+    "Health & Science",
+    "Culture & Leisure"
   ],
   "team": [
     "Ainhoa Abreu Diaz",
