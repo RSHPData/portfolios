@@ -1356,17 +1356,6 @@
     "typology": "Masterplanning"
   },
   {
-    "projectId": "03510",
-    "project": "The Leadenhall Building",
-    "date": "2000",
-    "endDate": "2014",
-    "location": "London",
-    "country": "UK",
-    "client": "The British Land Company PLC and Oxford Properties",
-    "longLat": "-0.0825941  / 51.5137204",
-    "typology": "Office"
-  },
-  {
     "projectId": "01455",
     "project": "Chiswick Park",
     "date": "1999",
