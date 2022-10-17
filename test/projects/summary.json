@@ -1242,6 +1242,16 @@
     "typology": "Masterplanning"
   },
   {
+    "projectId": "03370",
+    "project": "Silvertown Docks",
+    "date": "2001",
+    "location": "London",
+    "country": "UK",
+    "client": "Capital & Provident Regeneration Ltd",
+    "longLat": "0.0277766  / 51.5042426",
+    "typology": "Masterplanning"
+  },
+  {
     "projectId": "03340",
     "project": "Buena Vista",
     "date": "2000",
@@ -1260,7 +1270,7 @@
     "country": "UK",
     "client": "The British Land Company PLC and Oxford Properties",
     "longLat": "-0.0825941  / 51.5137204",
-    "typology": "Retail"
+    "typology": "Office"
   },
   {
     "projectId": "01455",
@@ -1544,6 +1554,17 @@
     "client": "BAA plc",
     "longLat": "-0.4504  / 51.47259",
     "typology": "Transport"
+  },
+  {
+    "projectId": "01950",
+    "project": "Shanghai Masterplan",
+    "date": "1992",
+    "endDate": "1994",
+    "location": "Shanghai",
+    "country": "China",
+    "client": "Pudong Development Office of Shanghai Municipality",
+    "longLat": "121.505995  / 31.237963",
+    "typology": "Masterplanning"
   },
   {
     "projectId": "01570",
@@ -1913,15 +1934,5 @@
     "client": "Marcus & Rene Brumwell",
     "longLat": "-5.046971  / 50.207945",
     "typology": "Residential"
-  },
-  {
-    "projectId": "12520",
-    "project": "Saxon Court Office",
-    "date": "",
-    "location": "Milton Keynes",
-    "country": "United Kingdom",
-    "client": "First Base",
-    "longLat": "0.00000 / 0.00000",
-    "typology": "Office"
   }
 ]
