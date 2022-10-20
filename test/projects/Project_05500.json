@@ -7,15 +7,15 @@
   ],
   "type": "Project",
   "id": "05500",
-  "serializeDate": "'2022-10-20 14:19:28.560'",
-  "serialized": 1666275568560,
+  "serializeDate": "'2022-10-20 14:55:21.227'",
+  "serialized": 1666277721227,
   "serializedBy": "sreeve",
-  "time": "2022-10-20T14:19:28.5292453Z",
+  "time": "2022-10-20T14:55:21.0804326Z",
   "status": "PU",
   "title": "Grand Paris",
   "description": "The practice was invited by the French President to study ‘Grand Paris’ looking at the future of the French capital as an integrated metropolitan region.",
   "date": "2008-2013",
-  "client": "Ministry of Culture and Communication",
+  "client": "Ministry silly walks",
   "location": "Paris, France",
   "city": "Paris",
   "country": "France",
@@ -24,12 +24,11 @@
   "latitude": "48.86545",
   "team": [
     "Jo-Anne Aldritt",
-    "Stephen Barrett",
+    "Stephen Brrett",
     "Kelly Darlington",
-    "Mike Davies",
     "Mike Fairbrass",
     "Henry Fletcher",
-    "Tobi Frenzen",
+    "Tobi Frezen",
     "Michael Hughes",
     "Maria Hadjinicolaou",
     "Jon Mercer",
@@ -41,12 +40,6 @@
   ],
   "leaders": [
     "Stephen Barrett"
-  ],
-  "heights": [
-    {
-      "value": "0 cm",
-      "id": "28b0ba42b5d74e4bb865593398f52f3e"
-    }
   ],
   "overview": "<div style =\"break-inside:avoid-column;\"><p>The practice was invited by the French President to study ‘Grand Paris’ looking at the future of the French capital as an integrated metropolitan region. A team comprising RSHP, the London School of Economics and Arup was commissioned to address the key social and environmental challenges facing Grand Paris in the 21st century.</p><p style='margin-bottom:22px'>As part of an integrated approach to public transport, the team proposed a series of circumferential metro lines linking strengthened poly centres in the Parisian suburbs and reinforcing the existing public transport network.</p></div><div style =\"break-inside:avoid-column;margin-top:22px\"><p>New ‘metropolitan armatures’ were also proposed, to be constructed over the divisive and inaccessible urban canyons formed by the existing rail lines and housing integrated infrastructure. These would link the centre of the city to the suburbs and also create lateral routes between previously separated neighbourhoods.</p><p style='margin-bottom:22px'>RSHP continues to work directly with the French Government to develop a more humane, responsive and ecologically sensitive Paris for the 21st Century.</p></div><div style =\"break-inside:avoid-column;margin-top:22px\"><p><strong>10 Principles for Metropolitan Paris</strong></p><p><ol>     <li>Restructure metropolitan governance in the Ile-de-France</li>     <li>Build Paris on Paris</li>     <li>Complete the metropolitan transport network</li>     <li>Create a polycentric Metropolitan Paris</li>     <li>Build balanced communities</li>     <li>Rebalance the regional economy</li>     <li>Bridge the physical barriers of the city</li>     <li>Create a metropolitan open space network</li>     <li>Reduce the environmental footprint of Metropolitan Paris</li>     <li>Invest in high-quality design</li> </ol></p></div>",
   "dimensions": [],
