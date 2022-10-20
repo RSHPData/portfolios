@@ -163,7 +163,7 @@
     "projectId": "12115",
     "project": "Guangdong-Hong Kong-Macao Youth Entrepreneurship Zone",
     "date": "2018",
-    "endDate": "2020",
+    "endDate": "",
     "location": "Shenzhen",
     "country": "China",
     "client": "Qianhai Inno-tech Investment Holdings",
@@ -744,12 +744,12 @@
   },
   {
     "projectId": "06770",
-    "project": "The Macallan Distillery and Visitor Experienceggg",
+    "project": "The Macallan Distillery and Visitor Experience",
     "date": "2012",
     "endDate": "2018",
     "location": "Speyside",
     "country": "UK",
-    "client": "Edringtonn",
+    "client": "Edrington",
     "longLat": "-3.20661  / 57.48868",
     "typology": "Culture & Leisure"
   },
@@ -1354,6 +1354,17 @@
     "client": "JTC Singapore",
     "longLat": "103.790880  / 1.305246",
     "typology": "Masterplanning"
+  },
+  {
+    "projectId": "03510",
+    "project": "The Leadenhall Building",
+    "date": "2000",
+    "endDate": "2014",
+    "location": "London",
+    "country": "UK",
+    "client": "The British Land Company PLC and Oxford Properties",
+    "longLat": "-0.0825941  / 51.5137204",
+    "typology": "Office"
   },
   {
     "projectId": "01455",
