@@ -1944,15 +1944,5 @@
     "client": "Marcus & Rene Brumwell",
     "longLat": "-5.046971  / 50.207945",
     "typology": "Residential"
-  },
-  {
-    "projectId": "12300",
-    "project": "Guiwan Apartment Towers",
-    "date": "",
-    "location": "Qianhai",
-    "country": "Shenzhen",
-    "client": "Shenzhen Qianhai Construction  Investment Holding Co.,Ltd.",
-    "longLat": "0.00000  / 0.00000",
-    "typology": "Residential"
   }
 ]
