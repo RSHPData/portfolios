@@ -1,15 +1,15 @@
 {
   "name": "Logicom Global Headquarter",
-  "webStatus": "Upload",
+  "webStatus": "Publish",
   "typologies": [
     "Office"
   ],
   "type": "Project",
   "id": "11650",
-  "serializeDate": "'2022-10-21 16:42:01.647'",
-  "serialized": 1666370521647,
+  "serializeDate": "'2022-10-21 16:42:44.180'",
+  "serialized": 1666370564180,
   "serializedBy": "sreeve",
-  "time": "2022-10-21T16:42:01.5731101Z",
+  "time": "2022-10-21T16:42:44.0968937Z",
   "status": "PU",
   "dimensions": [],
   "companies": []
