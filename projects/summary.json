@@ -90,7 +90,7 @@
     "projectId": "12115",
     "project": "Guangdong-Hong Kong-Macao Youth Entrepreneurship Zone",
     "date": "2018",
-    "endDate": "2020",
+    "endDate": "",
     "location": "Shenzhen",
     "country": "China",
     "client": "Qianhai Inno-tech Investment Holdings",
@@ -146,6 +146,7 @@
     "date": "2018",
     "endDate": "2019",
     "location": "Worldwide",
+    "country": "",
     "client": "",
     "typology": "Transport"
   },
@@ -208,6 +209,7 @@
     "date": "2017",
     "endDate": "2018",
     "location": "Deployable",
+    "country": "",
     "client": "Doctors of the World/Wellcome Collection",
     "longLat": "-0.1348145  / 51.5259774",
     "typology": "Health & Science"
@@ -236,7 +238,7 @@
   },
   {
     "projectId": "11550",
-    "project": "Melbourne Metro",
+    "project": "Metro Tunnel Project",
     "date": "2017",
     "endDate": "",
     "location": "Melbourne",
@@ -307,7 +309,7 @@
     "endDate": "2021",
     "location": "Roncade",
     "country": "Italy",
-    "client": "H-FARM",
+    "client": "Fondo “Ca’ Tron H-Campus” - Finanziaria Internazionale Investments Società di Gestione del Risparmio S.p.A.",
     "longLat": "12.4178116  / 45.5590441",
     "typology": "Education"
   },
@@ -338,6 +340,7 @@
     "project": "Tree House",
     "date": "2016",
     "location": "Various",
+    "country": "",
     "client": "",
     "typology": "Residential"
   },
@@ -360,7 +363,7 @@
     "country": "UK",
     "client": "British Library and SMBL Developments Ltd",
     "longLat": "-0.1276625 / 51.530002",
-    "typology": "Mixed Use"
+    "typology": "Health & Science"
   },
   {
     "projectId": "10620",
@@ -421,6 +424,7 @@
     "date": "2015",
     "endDate": "2016",
     "location": "",
+    "country": "",
     "client": "TROX GmbH",
     "longLat": "-0.009296  / 51.541224",
     "typology": "Office"
@@ -505,6 +509,7 @@
     "project": "Skyfarm",
     "date": "2014",
     "location": "",
+    "country": "",
     "client": "",
     "typology": "Health & Science"
   },
@@ -565,6 +570,7 @@
     "date": "2013",
     "endDate": "2015",
     "location": "",
+    "country": "",
     "client": "Galerie Patrick Seguin",
     "typology": "Residential"
   },
@@ -598,6 +604,16 @@
     "client": "Aéroports de Lyon",
     "longLat": "5.077658  / 45.716817",
     "typology": "Transport"
+  },
+  {
+    "projectId": "10250",
+    "project": "Thames Wharf Redevelopment",
+    "date": "2013",
+    "location": "London",
+    "country": "UK",
+    "client": "London + Regional Properties",
+    "longLat": "-0.224454 / 51.483758",
+    "typology": "Residential"
   },
   {
     "projectId": "10260",
@@ -713,6 +729,7 @@
     "date": "2010",
     "endDate": "2018",
     "location": "Hong Kong",
+    "country": "",
     "client": "Highways Department Government",
     "longLat": "113.9543183  / 22.316883",
     "typology": "Transport"
@@ -1016,6 +1033,7 @@
     "date": "2005",
     "endDate": "2010",
     "location": "Singapore",
+    "country": "",
     "client": "",
     "longLat": "103.821796  / 1.311977",
     "typology": "Residential"
@@ -1069,6 +1087,7 @@
     "date": "2004",
     "endDate": "2006",
     "location": "",
+    "country": "",
     "client": "Reggiani Spa Illuminazione",
     "typology": "Industrial"
   },
@@ -1247,6 +1266,7 @@
     "project": "Buena Vista",
     "date": "2000",
     "location": "Singapore",
+    "country": "",
     "client": "JTC Singapore",
     "longLat": "103.790880  / 1.305246",
     "typology": "Masterplanning"
@@ -1594,6 +1614,7 @@
     "date": "1990",
     "endDate": "1992",
     "location": "Korea",
+    "country": "",
     "client": "Hanssem Corporation",
     "typology": "Residential"
   },
@@ -1908,6 +1929,7 @@
     "date": "1967",
     "endDate": "1969",
     "location": "",
+    "country": "",
     "client": "DuPont",
     "longLat": "-1.117604  / 50.695374",
     "typology": "Residential"
@@ -1921,6 +1943,16 @@
     "country": "UK",
     "client": "Marcus & Rene Brumwell",
     "longLat": "-5.046971  / 50.207945",
+    "typology": "Residential"
+  },
+  {
+    "projectId": "12300",
+    "project": "Guiwan Apartment Towers",
+    "date": "",
+    "location": "Qianhai",
+    "country": "Shenzhen",
+    "client": "Shenzhen Qianhai Construction  Investment Holding Co.,Ltd.",
+    "longLat": "0.00000  / 0.00000",
     "typology": "Residential"
   }
 ]
