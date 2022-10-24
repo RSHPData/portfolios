@@ -1,22 +1,28 @@
 {
+  "name": "YMCA Romford",
+  "url": "residential/park-view/",
+  "webStatus": "Publish",
+  "typologies": [
+    "Residential"
+  ],
   "type": "Project",
   "id": "11950",
-  "url": "712:residential/park-view/",
-  "serializeDate": "'2022-07-19 07:58:37.108'",
-  "serialized": 1658217517108,
-  "serializedBy": "sreeve",
+  "serializeDate": "'2022-10-24 09:10:44.304'",
+  "serialized": 1666602644304,
+  "serializedBy": "heatherp",
+  "time": "2022-10-24T09:10:43.9584553Z",
+  "status": "PU",
   "title": "Park View",
   "description": "Park View – Romford YMCA comprises 39 modular residential units, allowing the YMCA to provide high-quality, affordable housing for single people who are moving on from the main hostel - also located on-site - and becoming independent.",
   "date": "2018 - 2021",
   "client": "YMCA Thames Gateway Group",
   "location": "London, UK",
+  "city": "London",
+  "country": "UK",
   "longLat": "0.18453547308976917 / 51.5651023780955",
   "longitude": "0.18453547308976917",
   "latitude": "51.5651023780955",
   "constructionCost": "£3.7m",
-  "typologies": [
-    "Residential"
-  ],
   "team": [
     "Vitika Agarwal",
     "Bevan Badenhorst",
@@ -59,7 +65,7 @@
       "id": "21dae845edbb4df1afcd28d9a0a4f61a"
     }
   ],
-  "overview": "Park View – Romford YMCA comprises 39 modular residential units, allowing the YMCA to provide high-quality, affordable housing for single people who are moving on from the main hostel - also located on-site - and becoming independent.\n\nThe YMCA anticipates tenants will require an average of three to five years to transition to full independence and will be issuing assured short hold tenancies, which are 100% affordable. By providing these flats on-site, the tenants can continue to access YMCA services and support from the hostel.\n\nAs a joint venture between RSHP and AECOM, with over 15 years of research and development, the design uses a fabric first approach to minimize energy consumption and reduce maintenance needs during the building’s life.\n\nNinety-five percent of the modules are manufactured off-site with a quality assured factory production.\nThey are fabricated from a hybrid of sustainable materials enabling them to exceed current regulations in fire, acoustics, and thermal insulation. Mechanical and natural ventilation provides efficient year-round comfort and annual heating bills are 90% less than a traditional build.\n\nPark View achieved a 72% regulated carbon emission reduction under the Greater London Authority method for assessing major developments within Greater London. This equates to a 37% improvement on the London Plan on-site target and significantly minimised the carbon offsetting obligations to London Borough of Barking and Dagenham. It surpassed the current (Part L1A 2013) Building Regulations standards by 63% for regulated carbon emissions and 37% in fabric energy efficiency.",
+  "overview": "<div><p>Park View – Romford YMCA comprises 39 modular residential units, allowing the YMCA to provide high-quality, affordable housing for single people who are moving on from the main hostel - also located on-site - and becoming independent.</p><p>The YMCA anticipates tenants will require an average of three to five years to transition to full independence and will be issuing assured short hold tenancies, which are 100% affordable. By providing these flats on-site, the tenants can continue to access YMCA services and support from the hostel.</p><p>As a joint venture between RSHP and AECOM, with over 15 years of research and development, the design uses a fabric first approach to minimize energy consumption and reduce maintenance needs during the building’s life.</p><p>Ninety-five percent of the modules are manufactured off-site with a quality assured factory production. They are fabricated from a hybrid of sustainable materials enabling them to exceed current regulations in fire, acoustics, and thermal insulation. Mechanical and natural ventilation provides efficient year-round comfort and annual heating bills are 90% less than a traditional build.</p><p>Park View achieved a 72% regulated carbon emission reduction under the Greater London Authority method for assessing major developments within Greater London. This equates to a 37% improvement on the London Plan on-site target and significantly minimised the carbon offsetting obligations to London Borough of Barking and Dagenham. It surpassed the current (Part L1A 2013) Building Regulations standards by 63% for regulated carbon emissions and 37% in fabric energy efficiency.</p></div>",
   "dimensions": [
     {
       "label": "Site Area",
@@ -107,6 +113,11 @@
       "label": "Lighting Consultant",
       "value": "NRG",
       "id": "e6232e716ae340c6bbbbfb8694e4bb8f"
+    },
+    {
+      "label": "Manufacturer",
+      "value": "@Home",
+      "id": "58bd44a4863146bc9e0e75bb7a5ae30a"
     }
   ],
   "certificates": [
