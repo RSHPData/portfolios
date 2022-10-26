@@ -299,15 +299,6 @@
     "typology": "Civic"
   },
   {
-    "projectId": "11650",
-    "project": "Logicom Global Headquarters",
-    "date": "2017",
-    "location": "Nicosia",
-    "country": "Cyprus",
-    "client": "Logicom Group (Cyprus)",
-    "typology": "Office"
-  },
-  {
     "projectId": "10460",
     "project": "Madrid Nuevo Norte, MNN",
     "date": "2017",
@@ -922,7 +913,7 @@
     "endDate": "2013",
     "location": "Paris",
     "country": "France",
-    "client": "Ministry silly walks",
+    "client": "Ministry of Culture and Communication",
     "longLat": "2.32114  / 48.86545",
     "typology": "Masterplanning"
   },
@@ -1193,6 +1184,16 @@
     "country": "UK",
     "client": "Wood Wharf (General Partner) Ltd",
     "longLat": "-0.013403  / 51.503062",
+    "typology": "Masterplanning"
+  },
+  {
+    "projectId": "04220",
+    "project": "Lea Valley and Olympics",
+    "date": "2003",
+    "location": "London",
+    "country": "UK",
+    "client": "London Development Agency",
+    "longLat": "-0.016310  / 51.538707",
     "typology": "Masterplanning"
   },
   {
