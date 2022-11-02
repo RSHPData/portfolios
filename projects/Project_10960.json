@@ -1,0 +1,62 @@
+{
+  "name": "151 East 60th Street NY",
+  "webStatus": "Upload",
+  "typologies": [
+    "Residential"
+  ],
+  "type": "Project",
+  "id": "10960",
+  "serializeDate": "'2022-11-02 12:43:12.200'",
+  "serialized": 1667392992200,
+  "serializedBy": "heatherp",
+  "time": "2022-11-02T12:43:12.1709288Z",
+  "status": "PU",
+  "title": "151 East 60th Street NY",
+  "date": "2015",
+  "client": "KUAFU Properties",
+  "location": "New York, United States",
+  "city": "New York",
+  "country": "United States",
+  "longLat": "40.763005791918836 / -73.9664612562424",
+  "longitude": "40.763005791918836",
+  "latitude": "-73.9664612562424",
+  "team": [
+    "Luca D'Amico",
+    "Da Feng",
+    "Tobi Frenzen",
+    "Alex Kitching",
+    "Jon Mercer",
+    "Andrew Morris",
+    "Richard Paul",
+    "Bibiana Quiñones",
+    "Robert Richardson",
+    "Neil Southard",
+    "Graham Stirk"
+  ],
+  "partners": [
+    "Graham Stirk",
+    "Richard Paul",
+    "Andrew Morris"
+  ],
+  "heights": [
+    {
+      "value": "1000ft /304.8m",
+      "id": "72dbff2b32984d37934231a98536de26"
+    }
+  ],
+  "floors": [
+    {
+      "value": "62",
+      "id": "df6b8d7de5f648f4a33a35146cce3ca7"
+    }
+  ],
+  "overview": "<div><p>The brief set by Kaufu Properties presented an exciting opportunity and challenge to create a new high-rise residential tower at the south-east corner of Central Park. Its location on the periphery of the emerging cluster of high-rise residential towers around the southern end of the park will ensure the tower preserves a prominent aspect as the urban fabric develops over time. Due to the surrounding zoning restrictions, 151 East 60th Street will enjoy uninterrupted views.  The site’s location presents a widely contrasting aspect in the surrounding street environs. The 61st Street frontage captures the typical terraced townhouse environment of the Upper East Side, whilst 60th Street has a clear service emphasis. The brief required the project to achieve a zoning area of approximately 32,000m2, whilst aiming to capitalise on the wonderful vistas of Central Park, which can be achieved at around 61 metres from ground level.  In the initial phases of the competition, alternative core positions were studied which involved investigations into a central core solution. The final solution adopted positioned the core on the south side of the floorplate, which created an asymmetry in the structural stability system for the building, whilst optimising the space available on the floorplate to prioritise the residential apartments to the north and north west views of Central Park.  The internal living room spaces flow out to the loggias on the north west and south east corners of the tower by incorporating a bi-folding door system. The external loggias have been configured so that their perimeter is greater than 50% of the enclosing façade, enabling them to be exempt from the zoning area. At the top of the tower the building slopes up to the northern façade. This contains double-height living spaces within the penthouse apartment with views over the park.</p></div>",
+  "dimensions": [],
+  "companies": [
+    {
+      "label": "Contact",
+      "value": "Corcoran Sunshine Marketing Group",
+      "id": "6103f14250254434bcbe4ac9d54e70e6"
+    }
+  ]
+}
