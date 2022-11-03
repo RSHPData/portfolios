@@ -6,10 +6,10 @@
   ],
   "type": "Project",
   "id": "10960",
-  "serializeDate": "'2022-11-03 11:27:12.288'",
-  "serialized": 1667474832288,
+  "serializeDate": "'2022-11-03 11:30:01.872'",
+  "serialized": 1667475001872,
   "serializedBy": "heatherp",
-  "time": "2022-11-03T11:27:12.190991Z",
+  "time": "2022-11-03T11:30:01.8556691Z",
   "status": "PU",
   "title": "151 East 60th Street NY",
   "date": "2015",
@@ -55,11 +55,5 @@
   ],
   "overview": "<div><p>The brief set by Kaufu Properties presented an exciting opportunity and challenge to create a new high-rise residential tower at the south-east corner of Central Park. Its location on the periphery of the emerging cluster of high-rise residential towers around the southern end of the park will ensure the tower preserves a prominent aspect as the urban fabric develops over time. Due to the surrounding zoning restrictions, 151 East 60th Street will enjoy uninterrupted views.  The site’s location presents a widely contrasting aspect in the surrounding street environs. The 61st Street frontage captures the typical terraced townhouse environment of the Upper East Side, whilst 60th Street has a clear service emphasis. The brief required the project to achieve a zoning area of approximately 32,000m2, whilst aiming to capitalise on the wonderful vistas of Central Park, which can be achieved at around 61 metres from ground level.  In the initial phases of the competition, alternative core positions were studied which involved investigations into a central core solution. The final solution adopted positioned the core on the south side of the floorplate, which created an asymmetry in the structural stability system for the building, whilst optimising the space available on the floorplate to prioritise the residential apartments to the north and north west views of Central Park.  The internal living room spaces flow out to the loggias on the north west and south east corners of the tower by incorporating a bi-folding door system. The external loggias have been configured so that their perimeter is greater than 50% of the enclosing façade, enabling them to be exempt from the zoning area. At the top of the tower the building slopes up to the northern façade. This contains double-height living spaces within the penthouse apartment with views over the park.</p></div>",
   "dimensions": [],
-  "companies": [
-    {
-      "label": "Contact",
-      "value": "Corcoran Sunshine Marketing Group",
-      "id": "6103f14250254434bcbe4ac9d54e70e6"
-    }
-  ]
+  "companies": []
 }
