@@ -1,21 +1,28 @@
 {
+  "name": "Innotech Guiwan",
+  "url": "mixed-use/guangdong-hong-kong-macao-youth-entrepreneurship-zone",
+  "webStatus": "Publish",
+  "typologies": [
+    "Mixed Use"
+  ],
   "type": "Project",
   "id": "12115",
-  "url": "379:mixed-use/guangdong-hong-kong-macao-youth-entrepreneurship-zone",
-  "serializeDate": "'2022-10-18 10:16:52.069'",
-  "serialized": 1666088212069,
+  "serializeDate": "'2022-11-03 13:38:02.437'",
+  "serialized": 1667482682437,
   "serializedBy": "heatherp",
+  "time": "2022-11-03T13:38:02.1966061Z",
+  "status": "PU",
   "title": "Guangdong-Hong Kong-Macao Youth Entrepreneurship Zone",
   "description": "Inno-tech Guiwan, a designated youth entrepreneurship zone, offers an oasis of innovation and creates an urban work‒life balance community in Qianhai.",
   "date": "2018 -",
   "client": "Qianhai Inno-tech Investment Holdings",
   "location": "Shenzhen, China",
+  "city": "Shenzhen",
+  "country": "China",
   "longLat": "113.8939153  / 22.5324168",
   "longitude": "113.8939153 ",
   "latitude": "22.5324168",
-  "typologies": [
-    "Mixed Use"
-  ],
+  "constructionCost": "£167m",
   "team": [
     "Juan Carpio",
     "Christophe Dembinski",
