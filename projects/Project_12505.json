@@ -1,0 +1,120 @@
+{
+  "name": "Shenzhen Hongkong Science Innovation C.",
+  "webStatus": "Upload",
+  "typologies": [
+    "Office"
+  ],
+  "type": "Project",
+  "id": "12505",
+  "serializeDate": "'2022-11-08 18:39:19.438'",
+  "serialized": 1667932759438,
+  "serializedBy": "heatherp",
+  "time": "2022-11-08T18:39:19.4069388Z",
+  "status": "PU",
+  "title": "Shenzhen-Hong Kong Innovation Integrated Service Centre",
+  "date": "2020 -",
+  "client": "Shenzhen-Hong Kong Innovation Integrated Service Centre",
+  "location": "Shenzhen, China",
+  "city": "Shenzhen",
+  "country": "China",
+  "longLat": "0.0000022.51018983694595 / 114.0492331839658",
+  "longitude": "0.0000022.51018983694595",
+  "latitude": "114.0492331839658",
+  "constructionCost": "£120m",
+  "team": [
+    "Giulio Asso",
+    "Anna Au",
+    "Alexander Balchin",
+    "Thomas Birtles",
+    "Richard Black",
+    "James Bradford",
+    "Jaime Cunha",
+    "Luca D'Amico",
+    "Kelly Darlington",
+    "Valentina Frieri",
+    "Jon Garmendia",
+    "Heidi Gillett",
+    "Nandi Han",
+    "Stephanie Liu",
+    "Elizabeth Low",
+    "Jon Mercer",
+    "Mark Ng",
+    "Richard Paul",
+    "Riccardo Pellizzon",
+    "Dan Rogers",
+    "Jose Roldan",
+    "Jia Jian Saw",
+    "Mariia Shapovalova",
+    "Francesca Taglieri",
+    "Alejandro Terron",
+    "Marco Tessaro",
+    "Chris Trundle",
+    "Ruoyi Wang",
+    "Ben Warner",
+    "Yue Zheng",
+    "Wenchao Zhou"
+  ],
+  "partners": [
+    "Richard Paul"
+  ],
+  "leaders": [
+    "Marco Tessaro"
+  ],
+  "heights": [
+    {
+      "value": "212m / 695ft",
+      "id": "427a3fd5cdbc4a4d8f3ff7c7668b7d08"
+    }
+  ],
+  "floors": [
+    {
+      "value": "45",
+      "id": "f5f9f8792af54bacafedfcf422271b1e"
+    }
+  ],
+  "overview": "<div><p>Located at the heart of the Hong Kong-Shenzhen free trade zone, south of the Futian Central Business District, the Shenzhen-Hong Kong Innovation Integrated Service Centre is a 45-storey, naturally ventilated tower with an integrated multi-level podium. The scheme will provide a vibrant shopping, leisure and workplace destination set within a culturally led public realm podium, which will connect to the existing Futian metro station below and street level public piazza.</p><p>Originally RSHP were presented with two briefs by different clients for a tower and a mixed-used podium on neighbouring plots. RSHP’s proposal was to merge the briefs by integrating the podium into the tower, providing one architectural identity, and introducing public realm and leisure facilities across the two developments.</p><p>With an area of 96223m2 and measuring 212m to the top of its central core, the tower’s plan adopts a butterfly layout with curved bays of east and west office wings. The lower levels contain a health centre, which is unusual in a commercial tower, and public offices for state-owned companies. Mid to higher levels will provide commercial office space and a collection of green external terraces for occupants.</p><p>The 13640m2 podium is a retail and cultural building of 6 levels that integrates into the tower’s south side with over 50% of its roof dedicated to green public space. The podium will provide public sports facilities, a library, retail, and a double height arts exhibition space. The tower’s entrance lobby is also positioned within the podium at street level. This double height glazed area is supported by slim columns, permitted by the mega triangular trusses above on the podium roof, transferring the load of the tower’s east wing to the building’s central core. The basement area is a sunken plaza with retail, integrating the concourse of the existing Fubao metro station.</p><p>A concrete central core provides the tower’s primary lateral stability system with mega trusses located every 12 levels, positioned on refuge/service floors to avoid any impact on the occupied office spaces. This enables flexible, unobstructed floorplates and cantilevered external bays free of primary structure, to maximise uninterrupted views from the curved glazed corners of the office wings.</p><p>With excellent views in all directions the tower embraces the opportunities of the building’s location, capturing wonderful panoramic vistas of Shenzhen Bay and the mangrove areas. The publicly accessible roof terrace on the building’s west wing makes this project an exceptional vantage point to observe passing birds on their migratory path - a popular activity for Shenzhen citizens. External panoramic glazed lifts - an architectural feature not usually seen in the area - capitalise on the views and animate the building’s north and south facades.</p><p>The scheme is designed to have an operational energy consumption that will achieve China’s 3-star sustainability certification, equivalent to LEED Gold. The tower will be completely naturally ventilated: 10% of the façade is openable and the glazing incorporates vents to allow external air to circulate, which significantly reduces the requirement for air-conditioning.</p><p>Currently onsite, the construction of the basement levels is expected to be complete by the end of this year.</p></div>",
+  "dimensions": [
+    {
+      "label": "Site Area",
+      "value": "11,118 m2",
+      "id": "3f14999f74584a93a263f6bad1c927ec"
+    },
+    {
+      "label": "GFA",
+      "value": "96223m2",
+      "id": "e98c4acac4ff4633bef15bddf9845fd8"
+    }
+  ],
+  "companies": [
+    {
+      "label": "Local Design Institute",
+      "value": "CCDI Group",
+      "id": "a782c7e2a7c14a2db0d5884fb0fa4744"
+    },
+    {
+      "label": "Structural Engineer",
+      "value": "CCDI Group",
+      "id": "b90ddc8cbce3456aa1f37199e02ddf85"
+    },
+    {
+      "label": "MEP",
+      "value": "CCDI Group",
+      "id": "4dc440e91ad24a52b034e1bcaf50778d"
+    },
+    {
+      "label": "Facade Consultant",
+      "value": "EFC",
+      "id": "d805fb218a0146969b6dcef7bf1fb02e"
+    },
+    {
+      "label": "Landscape Consultant",
+      "value": "CCDI Group",
+      "id": "beb6053630d54da5b4676952fc4f6724"
+    },
+    {
+      "label": "Lighting Consultant",
+      "value": "CCDI Group",
+      "id": "35d4186fdee549558179124080fa7d69"
+    }
+  ]
+}
