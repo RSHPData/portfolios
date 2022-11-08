@@ -1,21 +1,27 @@
 {
+  "name": "Cardiff Crofts Street",
+  "url": "residential/crofts-street/",
+  "webStatus": "Publish",
+  "typologies": [
+    "Residential"
+  ],
   "type": "Project",
   "id": "50003",
-  "url": "768:residential/crofts-street/",
-  "serializeDate": "'2022-07-01 11:16:15.652'",
-  "serialized": 1656674175652,
-  "serializedBy": "sreeve",
+  "serializeDate": "'2022-11-08 13:56:09.618'",
+  "serialized": 1667915769618,
+  "serializedBy": "heatherp",
+  "time": "2022-11-08T13:56:09.1492622Z",
+  "status": "PU",
   "title": "Crofts Street",
   "description": "Crofts Street is a modular housing project comprising nine two-bedroom townhouses designed to be carbon positive in operation, built on brownfield land for council rent, built on brownfield land for council rent. It is the city’s first modular scheme and was awarded Welsh Government Innovative Housing Funding.",
   "date": "2018 - 2021",
   "client": "Cardiff Living",
   "location": "Cardiff, Wales, UK",
+  "city": "Cardiff, Wales",
+  "country": "UK",
   "longLat": "-3.1640480168020035 / 51.490391086575436",
   "longitude": "-3.1640480168020035",
   "latitude": "51.490391086575436",
-  "typologies": [
-    "Residential"
-  ],
   "team": [
     "Ivan Harbour",
     "Katherine Hegab",
@@ -44,7 +50,7 @@
       "id": "947ae082f06742d4bb842e71865408a3"
     }
   ],
-  "overview": "Crofts Street, Cardiff, is a modular housing project comprising nine two-bedroom townhouses, designed to be carbon positive in operation and built on brownfield land for council rent. It is the city’s first modular scheme and was awarded Welsh Government Innovative Housing Funding.\n\nThe INNO design, led by RSHP and AECOM and delivered by @HOME, uses a ‘fabric first’ approach to optimise the performance of each unit against weather conditions, fire and acoustics. This system reduces operational energy consumption, which can lead to major cost savings on utility bills for residents.\n\nThe townhouses prioritise the use of sustainable materials, which means that they have less embodied energy than other buildings.\n\nWith these considerations, the scheme is expected to surpass the current (Part L1A 2013) Building Regulations standards by 142% for regulated carbon emissions and 42% in fabric energy efficiency.\n\nThe homes use roof mounted solar panels and heat pumps instead of gas to provide energy. Mechanical ventilated heat recovery and natural ventilation are used to provide efficient year-round comfort to all internal spaces. \n\nAs a result, the Predicted Energy Assessment (PEA) for Crofts Street indicates a negative emission of at least -1.66 tonnes of CO2 per annum per home. \n\nThis shows that the simple addition of solar panels is sufficient to generate more energy than is required to run the regulated building services (i.e. heating, hot water, lighting, pumps and fans).\n\nThe scheme also promotes the efficient use of land, developing it at a practicable density in line with neighbouring developments and pre‐war terraces.\n\nThe ground floor of the houses has a brick slip system, reflective of the brick materiality that defines adjacent homes. Above this, Oko Skin cladding is arranged in the same orientation, but has double in width.\n\nThe different demises are identified by tonal differences between respective doors, windows and Juliette balconies.",
+  "overview": "<div style =\"break-inside:avoid-column;\"><p>Crofts Street, Cardiff, is a modular housing project comprising nine two-bedroom townhouses, designed to be carbon positive in operation and built on brownfield land for council rent. It is the city’s first modular scheme and was awarded Welsh Government Innovative Housing Funding.</p><p style='margin-bottom:22px'>The INNO design, led by RSHP and AECOM and delivered by @HOME, uses a ‘fabric first’ approach to optimise the performance of each unit against weather conditions, fire and acoustics. This system reduces operational energy consumption, which can lead to major cost savings on utility bills for residents.</p></div><div style =\"break-inside:avoid-column;margin-top:22px\"><p>The townhouses prioritise the use of sustainable materials, which means that they have less embodied energy than other buildings. With these considerations, the scheme is expected to surpass the current (Part L1A 2013) Building Regulations standards by 142% for regulated carbon emissions and 42% in fabric energy efficiency.</p><p style='margin-bottom:22px'>The homes use roof mounted solar panels and heat pumps instead of gas to provide energy. Mechanical ventilated heat recovery and natural ventilation are used to provide efficient year-round comfort to all internal spaces. As a result, the Predicted Energy Assessment (PEA) for Crofts Street indicates a negative emission of at least -1.66 tonnes of CO2 per annum per home.</p></div><div style =\"break-inside:avoid-column;margin-top:22px\"><p>This shows that the simple addition of solar panels is sufficient to generate more energy than is required to run the regulated building services (i.e. heating, hot water, lighting, pumps and fans).</p><p style='margin-bottom:22px'>The scheme also promotes the efficient use of land, developing it at a practicable density in line with neighbouring developments and pre‐war terraces.</p></div><div style =\"break-inside:avoid-column;margin-top:22px\"><p>The ground floor of the houses has a brick slip system, reflective of the brick materiality that defines adjacent homes. Above this, Oko Skin cladding is arranged in the same orientation, but has double in width. The different demises are identified by tonal differences between respective doors, windows and Juliette balconies.</p></div>",
   "dimensions": [
     {
       "label": "Site Area",
