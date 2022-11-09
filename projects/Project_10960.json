@@ -1,15 +1,16 @@
 {
   "name": "151 East 60th Street NY",
+  "url": "residential/151-east-60th-street",
   "webStatus": "Upload",
   "typologies": [
     "Residential"
   ],
   "type": "Project",
   "id": "10960",
-  "serializeDate": "'2022-11-03 11:51:53.887'",
-  "serialized": 1667476313887,
-  "serializedBy": "sreeve",
-  "time": "2022-11-03T11:51:53.8613244Z",
+  "serializeDate": "'2022-11-09 09:59:40.485'",
+  "serialized": 1667987980485,
+  "serializedBy": "heatherp",
+  "time": "2022-11-09T09:59:39.8474385Z",
   "status": "PU",
   "title": "151 East 60th Street NY",
   "date": "2015",
@@ -39,11 +40,11 @@
     "Andrew Morris"
   ],
   "leaders": [
-    "Richard Rogers"
+    "Richard Paul"
   ],
   "heights": [
     {
-      "value": "1000ft /304.8m",
+      "value": "304.8m / 1000ft",
       "id": "72dbff2b32984d37934231a98536de26"
     }
   ],
