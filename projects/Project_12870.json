@@ -3,10 +3,10 @@
   "webStatus": "Upload",
   "type": "Project",
   "id": "12870",
-  "serializeDate": "'2022-11-09 11:46:49.630'",
-  "serialized": 1667994409630,
+  "serializeDate": "'2022-11-10 15:25:34.744'",
+  "serialized": 1668093934744,
   "serializedBy": "heatherp",
-  "time": "2022-11-09T11:46:49.4150486Z",
+  "time": "2022-11-10T15:25:34.333171Z",
   "status": "PU",
   "title": "Talgarth Student Accommodation",
   "date": "2021",
@@ -34,7 +34,11 @@
     "Walid Bhatt",
     "Dan Hanna",
     "Michael Rudko",
-    "Boji Hu"
+    "Boji Hu",
+    "Katherine Hegab",
+    "Adeline Wee",
+    "Holly Clarke",
+    "Dzidzor Kwaku"
   ],
   "partners": [
     "Ivan Harbour",
@@ -86,7 +90,7 @@
     },
     {
       "label": "Project Manager",
-      "value": "Consarc",
+      "value": "Circle",
       "id": "WkKb2DSZIUOk0KS2jKHadg"
     },
     {
@@ -101,7 +105,7 @@
     },
     {
       "label": "Environmental Consultant",
-      "value": "Storma",
+      "value": "Stroma",
       "id": "eGTWx13hj0anakm2el2MEA"
     },
     {
