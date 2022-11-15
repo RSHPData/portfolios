@@ -757,17 +757,6 @@
     "typology": "Civic"
   },
   {
-    "projectId": "05625",
-    "project": "Barangaroo South Masterplan",
-    "date": "2009",
-    "endDate": "2015",
-    "location": "Sydney",
-    "country": "Australia",
-    "client": "Lendlease / Barangaroo Delivery Authority",
-    "longLat": "151.2015  / -33.8605",
-    "typology": "Masterplanning"
-  },
-  {
     "projectId": "06120",
     "project": "Barangaroo South Masterplan",
     "date": "2009",
@@ -779,15 +768,15 @@
     "typology": "Masterplanning"
   },
   {
-    "projectId": "05670",
-    "project": "BBVA Bancomer Tower",
+    "projectId": "05625",
+    "project": "Barangaroo South Masterplan",
     "date": "2009",
-    "endDate": "2016",
-    "location": "Mexico City",
-    "country": "Mexico",
-    "client": "BBVA Bancomer",
-    "longLat": "-99.174650  / 19.422609",
-    "typology": "Office"
+    "endDate": "2015",
+    "location": "Sydney",
+    "country": "Australia",
+    "client": "Lendlease / Barangaroo Delivery Authority",
+    "longLat": "151.2015  / -33.8605",
+    "typology": "Masterplanning"
   },
   {
     "projectId": "06180",
@@ -799,6 +788,17 @@
     "client": "Ville de Paris, Direction de l’urbanisme",
     "longLat": "2.395946  / 48.828805",
     "typology": "Masterplanning"
+  },
+  {
+    "projectId": "05670",
+    "project": "IMG_8716",
+    "date": "2009",
+    "endDate": "2016",
+    "location": "Mexico City",
+    "country": "Mexico",
+    "client": "BBVA México",
+    "longLat": "-99.174650  / 19.422609",
+    "typology": "Office"
   },
   {
     "projectId": "05710",
