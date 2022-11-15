@@ -1,0 +1,97 @@
+{
+  "name": "210 South 12 Street",
+  "url": "residential/210-south-12-street/",
+  "webStatus": "Publish",
+  "typologies": [
+    "Residential"
+  ],
+  "type": "Project",
+  "id": "11980",
+  "serializeDate": "'2022-11-15 16:04:46.674'",
+  "serialized": 1668528286674,
+  "serializedBy": "sreeve",
+  "time": "2022-11-15T16:04:46.439341Z",
+  "status": "PU",
+  "title": "210 South 12 Streetg",
+  "description": "210 South 12th Street is a 32-floor residential tower near Philadelphia’s CBD, offering three retail units at its base, with 448 rental apartments above.",
+  "date": "2018",
+  "client": "Midwood",
+  "location": "Philadelphia, USA",
+  "city": "Philadelphia",
+  "country": "USA",
+  "longLat": "-75.1651319 / 39.9493319",
+  "longitude": "-75.1651319",
+  "latitude": "39.9493319",
+  "constructionCost": "$112,000,000",
+  "team": [
+    "Chiara Baiocco",
+    "Richard Black",
+    "Alessandro Blasucci",
+    "Luca D'Amico",
+    "Jon Garmendia",
+    "Richard Paul",
+    "Harjinder Singh",
+    "Alejandro Terron",
+    "Chris Trundle",
+    "Adeline Wee",
+    "Matt Wilson"
+  ],
+  "partners": [
+    "Richard Paul"
+  ],
+  "leaders": [
+    "Richard Black"
+  ],
+  "heights": [
+    {
+      "value": "121m / 398ft",
+      "id": "84ad6781afd243f592177484eecb1090"
+    }
+  ],
+  "floors": [
+    {
+      "value": "32",
+      "id": "8eb17b5d47c049d898a63a1074117209"
+    }
+  ],
+  "overview": "<div><p>210 South 12th Street is a 32-floor residential tower near Philadelphia’s CBD, offering three retail units at its base, with 448 rental apartments above.</p><p>The building adopts a rotational geometry that maximises daylight into the apartments and increases the number of dual aspect corner units; it also creates pockets of space at the ground floor to be articulated with landscaping.</p><p>The design echoes the former industrial heritage of the area, responding in a contemporary language which reinterprets the colouration and materials of the local architectural character. The perimeter structure is expressed with an extruded aluminium system, framing the floors into three-story rectangular modules.</p><p>Corrugated shadow box panels pick up on the tonality of the local brick vernacular and add a grain and human scale to the building. The upper floors of the tower are set back in to provide open-air amenity terraces at the upper levels with panoramic views of the city.</p><p>The tower is due for completion in 2023.</p></div>",
+  "dimensions": [
+    {
+      "label": "Site Area",
+      "value": "18,434 ft2",
+      "id": "ed2bb3e250fa446e9f569c989db52d5d"
+    },
+    {
+      "label": "Building Area",
+      "value": "376,000ft2",
+      "id": "10922ab476ec44489b8694bdb9d316d4"
+    }
+  ],
+  "companies": [
+    {
+      "label": "Co-Architect",
+      "value": "BLT Architects",
+      "id": "c476ce3a034640309f08990efa5d75fa"
+    },
+    {
+      "label": "Structural Engineer",
+      "value": "WSP",
+      "id": "b65256c2e4ca4f4aa0badbb8e3dd388c"
+    },
+    {
+      "label": "Services Engineer",
+      "value": "Bala",
+      "id": "467cae11685b45d49bbf29429bd4c3f2"
+    },
+    {
+      "label": "Landscape Architect",
+      "value": "Margie Ruddick",
+      "id": "1a4dee2dbc3442c7a6c64475ea11caf0"
+    },
+    {
+      "label": "Contractor",
+      "value": "Hunter Roberts",
+      "id": "109358d25fe54e5cb8c57bd720eafea4"
+    }
+  ]
+}
