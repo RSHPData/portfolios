@@ -6,10 +6,10 @@
   ],
   "type": "Project",
   "id": "12505",
-  "serializeDate": "'2022-12-08 17:58:59.984'",
-  "serialized": 1670522339984,
+  "serializeDate": "'2022-12-09 09:09:31.214'",
+  "serialized": 1670576971214,
   "serializedBy": "heatherp",
-  "time": "2022-12-08T17:58:59.9491322Z",
+  "time": "2022-12-09T09:09:30.8603325Z",
   "status": "PU",
   "title": "Shenzhen-Hong Kong Innovation Integrated Service Centre",
   "date": "2020 -",
@@ -17,9 +17,6 @@
   "location": "Shenzhen, China",
   "city": "Shenzhen",
   "country": "China",
-  "longLat": "0.0000022.51018983694595 / 114.0492331839658",
-  "longitude": "0.0000022.51018983694595",
-  "latitude": "114.0492331839658",
   "constructionCost": "£120m",
   "team": [
     "Giulio Asso",
@@ -115,6 +112,11 @@
       "label": "Lighting Consultant",
       "value": "CCDI Group",
       "id": "35d4186fdee549558179124080fa7d69"
+    },
+    {
+      "label": "Contractor",
+      "value": "CCDI Group",
+      "id": "648fdf1063924c699fcfa0569b4da1c6"
     }
   ],
   "certificates": [
