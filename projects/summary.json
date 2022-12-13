@@ -87,6 +87,16 @@
     "typology": "Residential"
   },
   {
+    "projectId": "11680",
+    "project": "Bourbon Distillery",
+    "date": "2018",
+    "location": "Bardstown, Kentucky",
+    "country": "USA",
+    "client": "SPI Group",
+    "longLat": "-85.5237484 / 37.8157008",
+    "typology": "Culture & Leisure"
+  },
+  {
     "projectId": "50003",
     "project": "Crofts Street",
     "date": "2018",
@@ -107,16 +117,6 @@
     "client": "Qianhai Inno-tech Investment Holdings",
     "longLat": "113.8939153  / 22.5324168",
     "typology": "Mixed Use"
-  },
-  {
-    "projectId": "11680",
-    "project": "Kentucky Owl Park",
-    "date": "2018",
-    "location": "Bardstown, Kentucky",
-    "country": "USA",
-    "client": "SPI Group",
-    "longLat": "-85.5237484 / 37.8157008",
-    "typology": "Culture & Leisure"
   },
   {
     "projectId": "11750",
