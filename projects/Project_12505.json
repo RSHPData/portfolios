@@ -6,10 +6,10 @@
   ],
   "type": "Project",
   "id": "12505",
-  "serializeDate": "'2022-12-09 09:17:25.525'",
-  "serialized": 1670577445525,
+  "serializeDate": "'2022-12-13 13:04:43.688'",
+  "serialized": 1670936683688,
   "serializedBy": "heatherp",
-  "time": "2022-12-09T09:17:25.5005618Z",
+  "time": "2022-12-13T13:04:43.0541182Z",
   "status": "PU",
   "title": "Shenzhen-Hong Kong Innovation Integrated Service Centre",
   "date": "2020 -",
@@ -81,7 +81,7 @@
     },
     {
       "label": "GFA",
-      "value": "96223m2",
+      "value": "96,223m2",
       "id": "e98c4acac4ff4633bef15bddf9845fd8"
     }
   ],
@@ -113,12 +113,12 @@
     },
     {
       "label": "Lighting Consultant",
-      "value": "CCDI Group",
+      "value": "PUDI",
       "id": "35d4186fdee549558179124080fa7d69"
     },
     {
-      "label": "Contractor",
-      "value": "CCDI Group",
+      "label": "General Contractor",
+      "value": "China Railway Construction Engineering Group (CRCEG)",
       "id": "648fdf1063924c699fcfa0569b4da1c6"
     }
   ],
