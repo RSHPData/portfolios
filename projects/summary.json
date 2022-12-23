@@ -77,6 +77,16 @@
     "typology": "Office"
   },
   {
+    "projectId": "12470",
+    "project": "Zurich Airport",
+    "date": "2019",
+    "location": "Zurich",
+    "country": "Switzerland",
+    "client": "Fughafen Zurich AG",
+    "longLat": "47.45133596912261 / 8.564826776423917",
+    "typology": "Transport"
+  },
+  {
     "projectId": "11980",
     "project": "210 South 12 Street",
     "date": "2018",
@@ -768,7 +778,7 @@
     "typology": "Civic"
   },
   {
-    "projectId": "06120",
+    "projectId": "05625",
     "project": "Barangaroo South Masterplan",
     "date": "2009",
     "endDate": "2015",
@@ -779,7 +789,7 @@
     "typology": "Masterplanning"
   },
   {
-    "projectId": "05625",
+    "projectId": "06120",
     "project": "Barangaroo South Masterplan",
     "date": "2009",
     "endDate": "2015",
