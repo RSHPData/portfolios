@@ -1,0 +1,85 @@
+{
+  "name": "Zurich Airport",
+  "webStatus": "Upload",
+  "typologies": [
+    "Transport"
+  ],
+  "type": "Project",
+  "id": "12470",
+  "serializeDate": "'2022-12-23 09:52:56.482'",
+  "serialized": 1671789176482,
+  "serializedBy": "heatherp",
+  "time": "2022-12-23T09:52:56.4548012Z",
+  "status": "PU",
+  "title": "Zurich Airport",
+  "date": "2019",
+  "client": "Fughafen Zurich AG",
+  "location": "Zurich, Switzerland",
+  "city": "Zurich",
+  "country": "Switzerland",
+  "longLat": "47.45133596912261 / 8.564826776423917",
+  "longitude": "47.45133596912261",
+  "latitude": "8.564826776423917",
+  "team": [
+    "Alessandro Blasucci",
+    "Torsten Burkhardt",
+    "Michael Corcoran",
+    "Jaime Cunha",
+    "Luca D'Amico",
+    "Kelly Darlington",
+    "Benjamin Darras",
+    "John Dent",
+    "Jolien Dirix",
+    "Lorenz Frenzen",
+    "Heidi Gillett",
+    "Lennart Grut",
+    "Vivien Hamer",
+    "Bonnie Han",
+    "Ed Hiscock",
+    "Toby Jeavons",
+    "Will Jefferies",
+    "Anja Kempa",
+    "Sim Yee Lee",
+    "Jack Newton",
+    "Dan Rogers",
+    "Jia Jian Saw",
+    "Peter Shannon",
+    "Graham Stirk",
+    "Alejandro Terron",
+    "Andrew Tyley",
+    "Edward Walker",
+    "Emily Wilkinson",
+    "Andrew Yek"
+  ],
+  "partners": [
+    "Graham Stirk",
+    "Andrew Tyley"
+  ],
+  "leaders": [
+    "Jack Newton"
+  ],
+  "overview": "<div><p>The Zurich Airport AG competition comprised a number of expansion projects at Zurich Airport, Switzerland, including an extension to Dock A, the air traffic control tower, the baggage sorting area, new connections, and a central bus station.</p><p>RSHP’s design proposal for Dock A, to be built north of the existing dock, was a contemporary Swiss chalet that would offer a clear and legible building form and complement the airport’s new additions.  This single-level departure dock would offer efficiency in circulation and utilisation of space, without loss of function for the airport, and provide an equality of experience for all passengers, since all Schengen and non-Schengen passengers would have a clear view of their gate and aircraft.</p><p>The air traffic control tower would be supported by a technical building and a base support building that could be integrated into the tower facility.</p><p>A new concourse would form a natural extension of the Airside Centre, and together with the Airport Forum, would form a generous expansion of the commercial areas. Spacious lounge and restaurant facilities would offer spectacular views over the entire airport, including the Control Tower, and the Swiss landscape.  A central atrium would be at the heart of the commercial space which would have expanded food and beverage areas to maximise commercial revenue and increase visual appeal on different levels.</p></div>",
+  "dimensions": [],
+  "companies": [
+    {
+      "label": "Airport Planning & Design Consultant",
+      "value": "OTC",
+      "id": "f9fbdb136e5c41069c84921eee173296"
+    },
+    {
+      "label": "Structural Engineer",
+      "value": "Gruner",
+      "id": "33ada267823541e2b5f3c141c5b1812c"
+    },
+    {
+      "label": "Construction Logistics",
+      "value": "Robert Bird Group",
+      "id": "7be745ff4c8e4e918de31489c55d12ef"
+    },
+    {
+      "label": "Strategic Aviation Advice",
+      "value": "Surbana Jurong",
+      "id": "f38eefcfce504970b1852b7cc2fa8ece"
+    }
+  ]
+}
