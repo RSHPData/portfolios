@@ -7,10 +7,10 @@
   ],
   "type": "Project",
   "id": "10670",
-  "serializeDate": "'2023-01-09 17:31:20.197'",
-  "serialized": 1673285480197,
+  "serializeDate": "'2023-01-09 17:33:27.440'",
+  "serialized": 1673285607440,
   "serializedBy": "heatherp",
-  "time": "2023-01-09T17:31:19.6160204Z",
+  "time": "2023-01-09T17:33:27.4130169Z",
   "status": "PU",
   "title": "22 Hanover Square",
   "description": "Inspired by existing Georgian terraces on Hanover Square, RSHP have designed a grand townscape structure to hold a contemporary mixed-use development, providing residential and hotel accommodation in the heart of London’s Mayfair Conservation Area.",
@@ -50,6 +50,11 @@
     }
   ],
   "companies": [
+    {
+      "label": "Delivery Architect",
+      "value": "AFK",
+      "id": "cfba607b3021456e9e8906e4bcc0c05e"
+    },
     {
       "label": "Structural Engineer",
       "value": "Ramboll UK",
