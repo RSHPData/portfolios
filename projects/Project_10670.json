@@ -1,21 +1,27 @@
 {
+  "name": "22 Hanover Square",
+  "url": "culture-and-leisure/22-hanover-square/",
+  "webStatus": "Publish",
+  "typologies": [
+    "Culture & Leisure"
+  ],
   "type": "Project",
   "id": "10670",
-  "url": "694:residential/22-hanover-square/",
-  "serializeDate": "'2022-08-04 08:34:23.702'",
-  "serialized": 1659602063702,
+  "serializeDate": "'2023-01-09 17:31:20.197'",
+  "serialized": 1673285480197,
   "serializedBy": "heatherp",
+  "time": "2023-01-09T17:31:19.6160204Z",
+  "status": "PU",
   "title": "22 Hanover Square",
   "description": "Inspired by existing Georgian terraces on Hanover Square, RSHP have designed a grand townscape structure to hold a contemporary mixed-use development, providing residential and hotel accommodation in the heart of London’s Mayfair Conservation Area.",
   "date": "2015",
   "client": "Clivedale",
   "location": "London, UK",
+  "city": "London",
+  "country": "UK",
   "longLat": "-0.144254 / 51.5130998",
   "longitude": "-0.144254",
   "latitude": "51.5130998",
-  "typologies": [
-    "Culture & Leisure"
-  ],
   "team": [
     "Adam Lampon",
     "Ainhoa Abreu diaz",
@@ -35,7 +41,7 @@
   "leaders": [
     "Maurice Brennan"
   ],
-  "overview": "Inspired by existing Georgian terraces on Hanover Square, RSHP have designed a grand townscape structure to hold a contemporary mixed-use development, providing residential and hotel accommodation in the heart of London’s Mayfair Conservation Area.\n\nAfter extensive consultation with the City Council’s planning and design officers, Historic England, the Greater London Authority, local stakeholders and interest groups, the existing building at 22 Hanover Square has been demolished, and the new scheme provides up to 80 residential units for The Residences at Mandarin Oriental Mayfair; 50-room hotel, a new public restaurant and glazed courtyard, bar and lounge, gym, and spa with pool for the Mandarin Oriental hotel.\n\nThe building takes the form of two pavilions, housing both hotel and residential accommodation and linked by a recessive stair and lift core that serves all levels and defines the two volumes of the building. Grand terraces are created at roof level to provide communal and private outdoor spaces overlooking Hanover Square.\n\nBehind a structural colonnade, the hotel and residential entrances take the form of a covered public entryway which provides access to a glazed double-height lower-level covered courtyard. On the lower two levels – six metres below ground - a pool, and restaurants and bars, are visible through glazed floors, giving a sense of drama and activity underfoot.\n\nThe facade is composed of a Vierendeel structural frame which expresses column and beam elements infilled with brick panels and glazed window openings. Vierendeel structures are traditionally horizontal and generally used in bridges, or long span industrial trusses, but RSHP have designed a vertically oriented Vierendeel structure to uniquely support a contemporary architectural expression of wide internal spans and a grand townscape facade. The structure embodies the client’s desire for flexible floorplates, but it is also a townscape response to the facade scale and rhythm of the historic urban grain and the neighbouring Georgian buildings.\n\nThe scheme acknowledges the expected significant increase in footfall due to the new Bond Street Crossrail station; the renewal of Hanover Square and associated public realm improvements and has made provision for high-quality paving and public art and created a drop-off area for hotel guests and residents. This wider strategy for the area will greatly enhance pedestrian experience as well as vehicular movement.",
+  "overview": "<div><p>Inspired by existing Georgian terraces on Hanover Square, RSHP have designed a grand townscape structure to hold a contemporary mixed-use development, providing residential and hotel accommodation in the heart of London’s Mayfair Conservation Area.</p><p>After extensive consultation with the City Council’s planning and design officers, Historic England, the Greater London Authority, local stakeholders and interest groups, the existing building at 22 Hanover Square has been demolished, and the new scheme provides up to 80 residential units for The Residences at Mandarin Oriental Mayfair; 50-room hotel, a new public restaurant and glazed courtyard, bar and lounge, gym, and spa with pool for the Mandarin Oriental hotel.</p><p>The building takes the form of two pavilions, housing both hotel and residential accommodation and linked by a recessive stair and lift core that serves all levels and defines the two volumes of the building. Grand terraces are created at roof level to provide communal and private outdoor spaces overlooking Hanover Square.</p><p>Behind a structural colonnade, the hotel and residential entrances take the form of a covered public entryway which provides access to a glazed double-height lower-level covered courtyard. On the lower two levels – six metres below ground - a pool, and restaurants and bars, are visible through glazed floors, giving a sense of drama and activity underfoot.</p><p>The facade is composed of a Vierendeel structural frame which expresses column and beam elements infilled with brick panels and glazed window openings. Vierendeel structures are traditionally horizontal and generally used in bridges, or long span industrial trusses, but RSHP have designed a vertically oriented Vierendeel structure to uniquely support a contemporary architectural expression of wide internal spans and a grand townscape facade. The structure embodies the client’s desire for flexible floorplates, but it is also a townscape response to the facade scale and rhythm of the historic urban grain and the neighbouring Georgian buildings.</p><p>The scheme acknowledges the expected significant increase in footfall due to the new Bond Street Crossrail station; the renewal of Hanover Square and associated public realm improvements and has made provision for high-quality paving and public art and created a drop-off area for hotel guests and residents. This wider strategy for the area will greatly enhance pedestrian experience as well as vehicular movement.</p></div>",
   "dimensions": [
     {
       "label": "Gross External Area",
