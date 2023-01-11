@@ -1,21 +1,27 @@
 {
+  "name": "Horse Soldier Bourbon Distillery",
+  "url": "industrial/horse-soldier-farms",
+  "webStatus": "Publish",
+  "typologies": [
+    "Industrial"
+  ],
   "type": "Project",
   "id": "12605",
-  "url": "industrial/horse-soldier-farms",
-  "serializeDate": "'2022-06-27 15:41:18.241'",
-  "serialized": 1656344478241,
-  "serializedBy": "sreeve",
+  "serializeDate": "'2023-01-11 10:25:01.285'",
+  "serialized": 1673432701285,
+  "serializedBy": "heatherp",
+  "time": "2023-01-11T10:25:00.7805158Z",
+  "status": "PU",
   "title": "Horse Soldier Farms",
   "description": "Horse Soldier Farms is a bourbon distillery complex and visitor resort in Somerset, Kentucky, USA",
   "date": "2020 -",
   "client": "American Freedom Distillery, LLC",
   "location": "Kentucky, USA",
+  "city": "Kentucky",
+  "country": "USA",
   "longLat": "-84.6376738560819  / 37.030419631500905",
   "longitude": "-84.6376738560819 ",
   "latitude": "37.030419631500905",
-  "typologies": [
-    "Industrial"
-  ],
   "team": [
     "Ainhoa Abreu Diaz",
     "Walid Bhatt",
@@ -39,7 +45,7 @@
   "leaders": [
     "Toby Jeavons"
   ],
-  "overview": "Horse Soldier Farms is a 227-acre masterplan, overlooking Lake Cumberland in Somerset, Kentucky, USA.\n\nAt the heart of the site is a bourbon distillery and production facility, comprising maturation warehouses, a bottling facility and finished logistics warehouse, which will produce between 3-5 million gallons of bourbon annually.\n\nThe distillery reflects the historic 12 Horse Soldiers story, including 12 fermentation vessels that circle the 54-foot column still. The Stillhouse is also articulated as an array of 12 inclined structural elements, reminiscent of the staves of a whiskey barrel under construction.\n\n\nThe inverse of the Stillhouse geometry is expressed in the form of an enclosed water garden called ‘The Everyday Heroes Gallery’. At the centre of this space is a replica of the Horse Soldier monument found near Ground Zero. When read together the two elements of the Stillhouse and the memorial water garden pay homage to the Twin Towers.\n\nThe primary built structures are simple long and low horizontal buildings, inspired by the traditional agricultural vernacular of barns and warehouses in Kentucky. These dominant forms, set amongst the undulating natural landscape, reinforce the salient lines and geometries of the site.\n\n\nBlack in colour, the warehouses and distillery echo the county’s traditional tobacco barns and provide a simple palette, which, along with the lush green landscape and accents of colour, are pertinent to the brand.\n\nA retail park, chapel, event centre, equestrian centre, community rooms, and health and wellness opportunities will welcome the estimated 200,000 annual visitors.\n\nA 60-room lodge complex with spa, will invite veterans, locals and bourbon connoisseurs to stay and reflect for longer.",
+  "overview": "<div><p>Horse Soldier Farms is a 227-acre masterplan, overlooking Lake Cumberland in Somerset, Kentucky, USA.</p><p>At the heart of the site is a bourbon distillery and production facility, comprising maturation warehouses, a bottling facility and finished logistics warehouse, which will produce between 3-5 million gallons of bourbon annually.</p><p>The distillery reflects the historic 12 Horse Soldiers story, including 12 fermentation vessels that circle the 54\" column still. The Stillhouse is also articulated as an array of 12 inclined structural elements, reminiscent of the staves of a whiskey barrel under construction.</p><p>The inverse of the Stillhouse geometry is expressed in the form of an enclosed water garden called ‘The Everyday Heroes Gallery’. At the centre of this space is a replica of the Horse Soldier monument found near Ground Zero. When read together the two elements of the Stillhouse and the memorial water garden pay homage to the Twin Towers.</p><p>The primary built structures are simple long and low horizontal buildings, inspired by the traditional agricultural vernacular of barns and warehouses in Kentucky. These dominant forms, set amongst the undulating natural landscape, reinforce the salient lines and geometries of the site.</p><p>Black in colour, the warehouses and distillery echo the county’s traditional tobacco barns and provide a simple palette, which, along with the lush green landscape and accents of colour, are pertinent to the brand.</p><p>A retail park, chapel, event centre, equestrian centre, community rooms, and health and wellness opportunities will welcome the estimated 200,000 annual visitors.</p><p>A 60-room lodge complex with spa, will invite veterans, locals and bourbon connoisseurs to stay and reflect for longer.</p></div>",
   "dimensions": [
     {
       "label": "Site Area",
