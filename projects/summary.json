@@ -800,6 +800,17 @@
     "typology": "Masterplanning"
   },
   {
+    "projectId": "05670",
+    "project": "BBVA México Tower",
+    "date": "2009",
+    "endDate": "2016",
+    "location": "Mexico City",
+    "country": "Mexico",
+    "client": "BBVA México",
+    "longLat": "-99.174650  / 19.422609",
+    "typology": "Office"
+  },
+  {
     "projectId": "06180",
     "project": "Bercy Charenton",
     "date": "2009",
@@ -809,17 +820,6 @@
     "client": "Ville de Paris, Direction de l’urbanisme",
     "longLat": "2.395946  / 48.828805",
     "typology": "Masterplanning"
-  },
-  {
-    "projectId": "05670",
-    "project": "IMG_8716",
-    "date": "2009",
-    "endDate": "2016",
-    "location": "Mexico City",
-    "country": "Mexico",
-    "client": "BBVA México",
-    "longLat": "-99.174650  / 19.422609",
-    "typology": "Office"
   },
   {
     "projectId": "05710",
