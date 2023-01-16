@@ -265,13 +265,13 @@
   },
   {
     "projectId": "05670",
-    "project": "IMG_8716",
+    "project": "BBVA México Tower",
     "year": "2018",
     "award": "LEED Platinum"
   },
   {
     "projectId": "05670",
-    "project": "IMG_8716",
+    "project": "BBVA México Tower",
     "year": "2018",
     "award": "RIBA Award for International Excellence 2018"
   },
@@ -366,6 +366,12 @@
     "award": "Qianjiang Cup Award - Qianjiang Cup for Quality Engineering Award"
   },
   {
+    "projectId": "05670",
+    "project": "BBVA México Tower",
+    "year": "2017",
+    "award": "ArchDaily 2017 Office Building of the Year"
+  },
+  {
     "projectId": "05370",
     "project": "British Museum WCEC",
     "year": "2017",
@@ -426,64 +432,58 @@
     "award": "Royal Institute of British Architects (RIBA) Awards - London regional"
   },
   {
-    "projectId": "05670",
-    "project": "IMG_8716",
-    "year": "2017",
-    "award": "ArchDaily 2017 Office Building of the Year"
-  },
-  {
     "projectId": "03510",
     "project": "The Leadenhall Building",
     "year": "2017",
     "award": "The British Constructional Steelwork Association Awards, Main National Award Winner and Special Award for Best Overall Project"
   },
   {
-    "projectId": "06130",
-    "project": "Cancer Centre at Guy’s Hospital",
-    "year": "2016",
-    "award": "Healthcare Business Awards - Best Hospital Building"
-  },
-  {
     "projectId": "05670",
-    "project": "IMG_8716",
+    "project": "BBVA México Tower",
     "year": "2016",
     "award": "American Architecture Prize - Institutional Architecture Bronze Medal"
   },
   {
     "projectId": "05670",
-    "project": "IMG_8716",
+    "project": "BBVA México Tower",
     "year": "2016",
     "award": "Bienal Nacional de Arquitectura Mexicana, Silver Medal"
   },
   {
     "projectId": "05670",
-    "project": "IMG_8716",
+    "project": "BBVA México Tower",
     "year": "2016",
     "award": "Council for Tall Buildings and Urban Habitat - Nomination"
   },
   {
     "projectId": "05670",
-    "project": "IMG_8716",
+    "project": "BBVA México Tower",
     "year": "2016",
     "award": "ENR Global Best Projects Awards 2016 - Office Category - Award of Merit"
   },
   {
     "projectId": "05670",
-    "project": "IMG_8716",
+    "project": "BBVA México Tower",
     "year": "2016",
     "award": "IStructe Award for Commercial or Retail Structures"
   },
   {
     "projectId": "05670",
-    "project": "IMG_8716",
+    "project": "BBVA México Tower",
     "year": "2016",
     "award": "MCHAP Awards - Nomination"
   },
   {
     "projectId": "05670",
-    "project": "IMG_8716",
+    "project": "BBVA México Tower",
     "year": "2016",
     "award": "World Architecture Festival 2016 - Completed Office Buildings - Shortlist"
+  },
+  {
+    "projectId": "06130",
+    "project": "Cancer Centre at Guy’s Hospital",
+    "year": "2016",
+    "award": "Healthcare Business Awards - Best Hospital Building"
   },
   {
     "projectId": "10410",
