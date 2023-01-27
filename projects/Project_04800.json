@@ -1,28 +1,34 @@
 {
+  "name": "The Berkeley Hotel",
+  "url": "culture-and-leisure/the-berkeley-hotel-entrance/",
+  "webStatus": "Publish",
+  "typologies": [
+    "Culture & Leisure"
+  ],
   "type": "Project",
   "id": "04800",
-  "url": "223:culture-and-leisure/the-berkeley-hotel-entrance/",
-  "serializeDate": "'2022-07-18 13:39:06.250'",
-  "serialized": 1658151546250,
-  "serializedBy": "sreeve",
+  "serializeDate": "'2023-01-27 11:35:08.465'",
+  "serialized": 1674819308465,
+  "serializedBy": "heatherp",
+  "time": "2023-01-27T11:35:08.1213059Z",
+  "status": "PU",
   "title": "The Berkeley Hotel Entrance",
   "description": "The Berkeley Hotel has the charm and character of an English country residence, well-loved and looked after.",
   "date": "2006-2016",
   "client": "The Berkeley Hotel",
   "location": "London, UK",
+  "city": "London",
+  "country": "UK",
   "longLat": "-0.156033  / 51.502238",
   "longitude": "-0.156033 ",
   "latitude": "51.502238",
-  "typologies": [
-    "Culture & Leisure"
-  ],
   "team": [
-    "Eleanora Bressie",
-    "Torsten Burkhart",
+    "Eleanora Bressi",
+    "Torsten Burkhardt",
     "Davide Costa",
     "Benjamin Darras",
     "Tessa Derry",
-    "Fregus Dinwiddie",
+    "Fergus Dinwiddie",
     "Rowena Fuller",
     "Lennart Grut",
     "Dan Hanna",
@@ -32,14 +38,15 @@
     "Amo Kalsi",
     "Faidra Matziaraki",
     "David Merllie",
-    "Louise Palomba",
-    "Will Wimshurst",
     "Alison Oktay",
+    "Louise Palomba",
     "Andrew Partridge",
     "Michiko Sumi",
     "Paul Thompson",
     "Simon Tonks",
-    "Laura Vega"
+    "Laura Vega",
+    "William Wimshurst",
+    "Patricia Andres"
   ],
   "partners": [
     "Ivan Harbour"
@@ -48,7 +55,7 @@
     "Louise Palomba",
     "Paul Thompson"
   ],
-  "overview": "The Berkeley Hotel has the charm and character of an English country residence, well-loved and looked after. As essentially residential in character the Hotel is a sequence of connected spaces and rooms with a comfortable and familiar scale and ambience.\n\nThe new entrance canopy, with glazed pavilions flanking the entrance doors, extends the Blue Bar and the Collins Room.\n\n\nThe practice’s work is defined by a clear structural approach which is evident in the composition. The canopy is supported by a series of expressed carbon fibre beams formed to describe their structural diagram. The beams and glazing system is supported by the existing building and a series of stainless steel columns - the composition is set out on a stone base. The glazing for the canopy and flank walls has a honeycomb insert which reflects light at night and allows for a sense of light, shadow and movement beyond, giving veiled views through the glass. The stone base integrates steps, a rising platform and series of sculpted timber fins forming a protective screen. This entrance design uses traditional and new materials and their composition is unique to The Berkeley.\n\n\nThe Iconic Blue Bar with its memorable interior is retained and the Collins Room has been refurbished with a new interior concept by Robert Angell Design International. With the addition of a new glazed pavilion to each space, their frontage is renewed and gives presence to the street. Internally the spaces feel more integrated and have a more settled sense of space.\n\nThroughout the works the hotel remained operational, reinvigorating this grand dame of hotels for the future.",
+  "overview": "<div><p>The Berkeley Hotel has the charm and character of an English country residence, well-loved and looked after. As essentially residential in character the Hotel is a sequence of connected spaces and rooms with a comfortable and familiar scale and ambience.</p><p>The new entrance canopy, with glazed pavilions flanking the entrance doors, extends the Blue Bar and the Collins Room.</p><p>The practice’s work is defined by a clear structural approach which is evident in the composition. The canopy is supported by a series of expressed carbon fibre beams formed to describe their structural diagram. The beams and glazing system is supported by the existing building and a series of stainless steel columns - the composition is set out on a stone base. The glazing for the canopy and flank walls has a honeycomb insert which reflects light at night and allows for a sense of light, shadow and movement beyond, giving veiled views through the glass. The stone base integrates steps, a rising platform and series of sculpted timber fins forming a protective screen. This entrance design uses traditional and new materials and their composition is unique to The Berkeley.</p><p>The iconic Blue Bar with its memorable interior is retained and the Collins Room has been refurbished with a new interior concept by Robert Angell Design International. With the addition of a new glazed pavilion to each space, their frontage is renewed and gives presence to the street. Internally the spaces feel more integrated and have a more settled sense of space.</p><p>Throughout the works the hotel remained operational, reinvigorating this grand dame of hotels for the future.</p></div>",
   "dimensions": [
     {
       "label": "Canopy Area",
