@@ -1,22 +1,28 @@
 {
+  "name": "210 South 12 Street",
+  "url": "residential/210-south-12-street/",
+  "webStatus": "Publish",
+  "typologies": [
+    "Residential"
+  ],
   "type": "Project",
   "id": "11980",
-  "url": "879:residential/210-south-12-street/",
-  "serializeDate": "'2022-08-04 11:57:55.434'",
-  "serialized": 1659614275434,
-  "serializedBy": "sreeve",
+  "serializeDate": "'2023-02-02 12:46:40.812'",
+  "serialized": 1675342000812,
+  "serializedBy": "heatherp",
+  "time": "2023-02-02T12:46:40.7816778Z",
+  "status": "PU",
   "title": "210 South 12 Street",
   "description": "210 South 12th Street is a 32-floor residential tower near Philadelphia’s CBD, offering three retail units at its base, with 448 rental apartments above.",
-  "date": "2018",
+  "date": "2018 - in construction",
   "client": "Midwood",
   "location": "Philadelphia, USA",
+  "city": "Philadelphia",
+  "country": "USA",
   "longLat": "-75.1651319 / 39.9493319",
   "longitude": "-75.1651319",
   "latitude": "39.9493319",
   "constructionCost": "$112,000,000",
-  "typologies": [
-    "Residential"
-  ],
   "team": [
     "Chiara Baiocco",
     "Alexander Balchin",
@@ -49,7 +55,7 @@
       "id": "8eb17b5d47c049d898a63a1074117209"
     }
   ],
-  "overview": "210 South 12th Street is a 32-floor residential tower near Philadelphia’s CBD, offering three retail units at its base, with 448 rental apartments above.\n\nThe building adopts a rotational geometry that maximises daylight into the apartments and increases the number of dual aspect corner units; it also creates pockets of space at the ground floor to be articulated with landscaping.\n\nThe design echoes the former industrial heritage of the area, responding in a contemporary language which reinterprets the colouration and materials of the local architectural character. The perimeter structure is expressed with an extruded aluminium system, framing the floors into three-story rectangular modules. \n\nCorrugated shadow box panels pick up on the tonality of the local brick vernacular and add a grain and human scale to the building. The upper floors of the tower are set back in to provide open-air amenity terraces at the upper levels with panoramic views of the city.\n\nThe tower is due for completion in 2023.",
+  "overview": "<div><p>210 South 12th Street is a 32-floor residential tower near Philadelphia’s CBD, offering three retail units at its base, with 448 rental apartments above.</p><p>The building adopts a rotational geometry that maximises daylight into the apartments and increases the number of dual aspect corner units; it also creates pockets of space at the ground floor to be articulated with landscaping.</p><p>The design echoes the former industrial heritage of the area, responding in a contemporary language which reinterprets the colouration and materials of the local architectural character. The perimeter structure is expressed with an extruded aluminium system, framing the floors into three-story rectangular modules.</p><p>Corrugated shadow box panels pick up on the tonality of the local brick vernacular and add a grain and human scale to the building. The upper floors of the tower are set back in to provide open-air amenity terraces at the upper levels with panoramic views of the city.</p><p>The tower is due for completion in 2023.</p></div>",
   "dimensions": [
     {
       "label": "Site Area",
