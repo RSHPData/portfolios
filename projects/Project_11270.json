@@ -1,5 +1,5 @@
 {
-  "name": "HYL Residential - Vanke",
+  "name": "Oriental One",
   "url": "residential/oriental-one",
   "webStatus": "Publish",
   "typologies": [
@@ -7,10 +7,10 @@
   ],
   "type": "Project",
   "id": "11270",
-  "serializeDate": "'2023-01-31 16:35:39.738'",
-  "serialized": 1675182939738,
+  "serializeDate": "'2023-02-02 11:08:31.569'",
+  "serialized": 1675336111569,
   "serializedBy": "heatherp",
-  "time": "2023-01-31T16:35:39.3481699Z",
+  "time": "2023-02-02T11:08:31.5378848Z",
   "status": "PU",
   "title": "Oriental One",
   "description": "Oriental One is a mixed-use development that combines places to live with a range of social spaces creating a new lively contemporary mixed-use destination in Shanghai, adding to the city’s dramatic skyline.",
@@ -87,10 +87,12 @@
       "id": "d8490df947a4432bae27eb30f5590c88"
     },
     {
+      "label": "Contractor - Curtain Wall",
       "value": "Meite",
       "id": "f40d8c49285d49d5928bfbc12d93a485"
     },
     {
+      "label": "Contractor - Curtain Wall",
       "value": "Fangda",
       "id": "0a3f2d876895480981bbb2fcb7a16b6a"
     }
