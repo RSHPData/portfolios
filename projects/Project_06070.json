@@ -1,21 +1,27 @@
 {
-  "type": "Project",
-  "id": "06070",
+  "name": "St Lawrence Market North",
   "url": "civic/st-lawrence-market-north",
-  "serializeDate": "'2022-06-27 15:40:42.065'",
-  "serialized": 1656344442065,
-  "serializedBy": "sreeve",
-  "title": "St Lawrence Market North",
-  "description": "St Lawrence Market North will combine courtrooms, offices and a large market hall as part of the St Lawrence complex.",
-  "date": "2010 -",
-  "client": "City of Toronto",
-  "location": "Toronto, Canada",
-  "longLat": "-79.372145  / 43.650345",
-  "longitude": "-79.372145 ",
-  "latitude": "43.650345",
+  "webStatus": "Publish",
   "typologies": [
     "Civic"
   ],
+  "type": "Project",
+  "id": "06070",
+  "serializeDate": "'2023-02-02 15:58:01.725'",
+  "serialized": 1675353481725,
+  "serializedBy": "heatherp",
+  "time": "2023-02-02T15:58:01.6940701Z",
+  "status": "PU",
+  "title": "St Lawrence Market North",
+  "description": "St Lawrence Market North will combine courtrooms, offices and a large market hall as part of the St Lawrence complex.",
+  "date": "2010 - in construction",
+  "client": "City of Toronto",
+  "location": "Toronto, Canada",
+  "city": "Toronto",
+  "country": "Canada",
+  "longLat": "-79.372145  / 43.650345",
+  "longitude": "-79.372145 ",
+  "latitude": "43.650345",
   "team": [
     "Lennart Grut",
     "Ivan Harbour",
@@ -28,7 +34,7 @@
     "Ivan Harbour",
     "Andrew Morris"
   ],
-  "overview": "St Lawrence Market North will combine courtrooms, offices and a large market hall as part of the St Lawrence complex. Home to a successful farmers market and Sunday antiques market; the design aims to reinstate these markets as a unified piece of the urban fabric. The marketplace itself is a covered outdoor space which can be enclosed or screened to allow other activities and functions and work with the seasons.\n\nThere has been a permanent market on the site since 1803 and the precedent for a civic use/market combination was set in 1831 when a new market building was constructed, incorporating an assembly hall at first floor level. In 1850, St Lawrence Hall was built to the north and the complex became the social centre of the city, hosting public meetings, concerts, lectures and exhibitions. The St Lawrence market quarter continues to have a rich street life and is popular with city residents and visitors.\n\n\nA glass spine runs the length of the five-storey market building, designed by RSHP, forming a bright, glass-ceilinged atrium. This covered street runs through the centre of the site and opens up views and pedestrian routes from the South Market, through the new building and into St Lawrence Hall to reunify the complex. The market area is maximised to create a flexible, permeable space with glass doors to the ground floor that, when opened, turn the building into an arcade allowing the market to spill out onto the neighbouring streets. A mezzanine floor provides space for a gallery, a café and support functions as well as providing flexibility for additional market space, concerts, receptions, weddings, product launches and other events. A direct entrance to St Lawrence Hall allows the buildings to function as a single facility.\n\nOn the upper floors, support accommodation is located on the second and third floors and the court rooms on the fifth floor, beneath the roof. The court rooms are accessed by the public from a wide balcony along the covered street and a separate entrance is provided for judges from their chambers on the floor below, avoiding the possibility of confrontation. The intention was to make the courts a tranquil environment, through north light, generous volumes and views to the sky.\n\n\nThe environmental strategy for the building is low-energy. Its simple form makes for a straightforward energy system that will exceed the latest city codes for environmental design: the spaces are designed for mixed-mode environmental conditioning to make the most of natural light and ventilation. Green roofs will minimise the heat island effect in the city, and solar water heating panels will supply the portable hot water needs of the building.",
+  "overview": "<div><p>St Lawrence Market North will combine courtrooms, offices and a large market hall as part of the St Lawrence complex. Home to a successful farmers market and Sunday antiques market; the design aims to reinstate these markets as a unified piece of the urban fabric. The marketplace itself is a covered outdoor space which can be enclosed or screened to allow other activities and functions and work with the seasons.</p><p>There has been a permanent market on the site since 1803 and the precedent for a civic use/market combination was set in 1831 when a new market building was constructed, incorporating an assembly hall at first floor level. In 1850, St Lawrence Hall was built to the north and the complex became the social centre of the city, hosting public meetings, concerts, lectures and exhibitions. The St Lawrence market quarter continues to have a rich street life and is popular with city residents and visitors.</p><p>A glass spine runs the length of the five-storey market building, designed by RSHP, forming a bright, glass-ceilinged atrium. This covered street runs through the centre of the site and opens up views and pedestrian routes from the South Market, through the new building and into St Lawrence Hall to reunify the complex. The market area is maximised to create a flexible, permeable space with glass doors to the ground floor that, when opened, turn the building into an arcade allowing the market to spill out onto the neighbouring streets. A mezzanine floor provides space for a gallery, a café and support functions as well as providing flexibility for additional market space, concerts, receptions, weddings, product launches and other events. A direct entrance to St Lawrence Hall allows the buildings to function as a single facility.</p><p>On the upper floors, support accommodation is located on the second and third floors and the court rooms on the fifth floor, beneath the roof. The court rooms are accessed by the public from a wide balcony along the covered street and a separate entrance is provided for judges from their chambers on the floor below, avoiding the possibility of confrontation. The intention was to make the courts a tranquil environment, through north light, generous volumes and views to the sky.</p><p>The environmental strategy for the building is low-energy. Its simple form makes for a straightforward energy system that will exceed the latest city codes for environmental design: the spaces are designed for mixed-mode environmental conditioning to make the most of natural light and ventilation. Green roofs will minimise the heat island effect in the city, and solar water heating panels will supply the portable hot water needs of the building.</p></div>",
   "dimensions": [
     {
       "label": "Gross Floor Area",
@@ -53,9 +59,44 @@
   ],
   "companies": [
     {
-      "label": "Co-Architect",
-      "value": "Adamson Associates",
+      "label": "Architect of Record",
+      "value": "Adamson Associates Architects",
       "id": "d83f7aeaf715400b8521af668c32dee8"
+    },
+    {
+      "label": "Structural Engineer",
+      "value": "Yolles / Entuitive",
+      "id": "28bcc750883a49a2af2f657eba3dc55a"
+    },
+    {
+      "label": "M&E Engineer",
+      "value": "Smith + Anderson",
+      "id": "b091719fe8464b8f9551e550e5fe8694"
+    },
+    {
+      "label": "Facade Engineer",
+      "value": "Entuitive",
+      "id": "17f07270fb644eb69d9586994c148e0a"
+    },
+    {
+      "label": "Landscape Architect",
+      "value": "Quinn Design Associates",
+      "id": "da9382ffe89c4207926ea7c95a6e72a7"
+    },
+    {
+      "label": "Lighting Design",
+      "value": "Smith + Anderson",
+      "id": "ac4f1038c54142648c667824049ba696"
+    },
+    {
+      "label": "Heritage Consultant",
+      "value": "ERA Architects",
+      "id": "a2d279f2726f4cdd90f85ac7bc9af5c8"
+    },
+    {
+      "label": "Main Contractor",
+      "value": "Buttcon Limited / Atlas Corporation",
+      "id": "f96f8470983f4527912175991d85d443"
     }
   ]
 }
