@@ -1,21 +1,27 @@
 {
-  "type": "Project",
-  "id": "11690",
-  "url": "835:residential/marian-place-bethnal-green",
-  "serializeDate": "'2022-07-19 12:38:51.466'",
-  "serialized": 1658234331466,
-  "serializedBy": "sreeve",
-  "title": "Marian Place Bethnal Green",
-  "description": ".",
-  "date": "2018 -",
-  "client": "St William Homes LLP",
-  "location": "London, UK",
-  "longLat": "-0.061724539814304785  / 51.53424062905374",
-  "longitude": "-0.061724539814304785 ",
-  "latitude": "51.53424062905374",
+  "name": "Bethnal Green Gasworks",
+  "url": "residential/marian-place-bethnal-green",
+  "webStatus": "Publish",
   "typologies": [
     "Residential"
   ],
+  "type": "Project",
+  "id": "11690",
+  "serializeDate": "'2023-02-02 13:09:43.568'",
+  "serialized": 1675343383568,
+  "serializedBy": "heatherp",
+  "time": "2023-02-02T13:09:43.552877Z",
+  "status": "PU",
+  "title": "Marian Place Bethnal Green",
+  "description": ".",
+  "date": "2018 - ongoing",
+  "client": "St William Homes LLP",
+  "location": "London, UK",
+  "city": "London",
+  "country": "UK",
+  "longLat": "-0.061724539814304785  / 51.53424062905374",
+  "longitude": "-0.061724539814304785 ",
+  "latitude": "51.53424062905374",
   "team": [
     "Lily Amar",
     "Uday Berry",
@@ -92,7 +98,7 @@
       "id": "B7A95CFF84B440A193B3AA"
     }
   ],
-  "overview": "Marian Place Bethnal Green will celebrate the unique industrial character of a London gasholder site, providing 555 new private and affordable homes; new spaces for jobs, socialising and leisure, and 1.75 acres of public open space and landscaping - all of which will be framed by Regent’s Canal and identified by the retention of the two existing iconic gasholder frames.\n\nThe scheme comprises 5 faceted buildings ranging from 6 – 13 storeys, which, in addition to the high-quality new homes, will provide 4,182sqm of flexible non-residential floorspace.\n\n\nGasholders no.2 and no.5 will be dismantled, refurbished, and reinstated to create a strong architectural narrative driven by an understanding of the industrial heritage of the site.\n\nResidential apartments will benefit from uninterrupted views of the landscape, the existing gasholder frames, Regent’s Canal, and mid and long-distance views between and beyond neighbouring buildings. Separating accommodation into five buildings will maximise visual and pedestrian permeability through the site.\n\n\nThe scheme will unify the townscape condition and generate new cross-site links to join neighbouring areas. This physical reintegration of the site into the surrounding area will permit the site adjacencies to naturally grow as well as developing Regent’s Canal’s substantial frontage, making it publicly accessible.",
+  "overview": "<div><p>Marian Place Bethnal Green will celebrate the unique industrial character of a London gasholder site, providing 555 new private and affordable homes; new spaces for jobs, socialising and leisure, and 1.75 acres of public open space and landscaping - all of which will be framed by Regent’s Canal and identified by the retention of the two existing iconic gasholder frames.</p><p>The scheme comprises 5 faceted buildings ranging from 6 – 13 storeys, which, in addition to the high-quality new homes, will provide 4,182sqm of flexible non-residential floorspace.</p><p>Gasholders no.2 and no.5 will be dismantled, refurbished, and reinstated to create a strong architectural narrative driven by an understanding of the industrial heritage of the site.</p><p>Residential apartments will benefit from uninterrupted views of the landscape, the existing gasholder frames, Regent’s Canal, and mid and long-distance views between and beyond neighbouring buildings. Separating accommodation into five buildings will maximise visual and pedestrian permeability through the site.</p><p>The scheme will unify the townscape condition and generate new cross-site links to join neighbouring areas. This physical reintegration of the site into the surrounding area will permit the site adjacencies to naturally grow as well as developing Regent’s Canal’s substantial frontage, making it publicly accessible.</p></div>",
   "dimensions": [
     {
       "label": "Site Area",
