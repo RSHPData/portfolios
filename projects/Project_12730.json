@@ -1,22 +1,28 @@
 {
+  "name": "MK Gateway",
+  "url": "mixed-use/mk-gateway/",
+  "webStatus": "Publish",
+  "typologies": [
+    "Mixed Use"
+  ],
   "type": "Project",
   "id": "12730",
-  "url": "859:mixed-use/mk-gateway/",
-  "serializeDate": "'2022-07-04 12:53:05.363'",
-  "serialized": 1656939185363,
-  "serializedBy": "sreeve",
+  "serializeDate": "'2023-02-02 10:03:09.107'",
+  "serialized": 1675332189107,
+  "serializedBy": "heatherp",
+  "time": "2023-02-02T10:03:09.075726Z",
+  "status": "PU",
   "title": "MK Gateway",
   "description": "MK Gateway is a mixed-use scheme, combining homes, workspace, shops, and an enhanced public realm at the centre of Milton Keynes.",
-  "date": "2020 -",
+  "date": "2020 - ongoing",
   "client": "Socius Development Limited",
   "location": "Milton Keynes, UK",
+  "city": "Milton Keynes",
+  "country": "UK",
   "longLat": "-0.7561504241845401 / 52.03932054542508",
   "longitude": "-0.7561504241845401",
   "latitude": "52.03932054542508",
   "constructionCost": "£190m",
-  "typologies": [
-    "Mixed Use"
-  ],
   "team": [
     "Dylan Davies",
     "Mariana Garza",
@@ -59,7 +65,7 @@
       "id": "ad8e0cf20b8c406f9bcfe6fe450b59ad"
     }
   ],
-  "overview": "MK Gateway is a mixed-use scheme, combining homes, workspace, shops, and an enhanced public realm at the centre of Milton Keynes.\n\nThe scheme’s three buildings – known as ‘Saxon Court’, ‘The Shed’ and ‘The Village’ – are set within a diverse public realm focussed on a new public square and landscaped green spaces that will serve as a new meeting point in the heart of the city. The project will be designed to support Milton Keynes’ target to be a net-zero carbon city by 2030.\n\nSaxon Court, which was one of the city’s first office buildings, will be repurposed to provide a mix of offices, flexible workspaces, local independent retail, and community spaces. \n\nAn extension of three levels will be added to the top and the existing atrium will be enhanced as an active and publicly accessible indoor space, linking the original entrance to a new outdoor public green. At ground level there will be public amenities including cafes, a community space and cycle parking.\n\nThe Village will be a 32-storey gateway tower, plus a 2-storey podium, featuring triple-height community sky gardens which divide the tower into villages, enabling residents to enjoy outdoor space and engage with their neighbours. At street level there will be an active frontage of shared amenities and services.\n\nThe Shed will be a three-storey incubator building, designed to meet the need for affordable workspace. The roof extends beyond the facade line on the west side, to generate an exterior canopy over the pedestrian access between the building and the residential tower.",
+  "overview": "<div><p>MK Gateway is a mixed-use scheme, combining homes, workspace, shops, and an enhanced public realm at the centre of Milton Keynes.</p><p>The scheme’s three buildings – known as ‘Saxon Court’, ‘The Shed’ and ‘The Village’ – are set within a diverse public realm focussed on a new public square and landscaped green spaces that will serve as a new meeting point in the heart of the city. The project will be designed to support Milton Keynes’ target to be a net-zero carbon city by 2030.</p><p>Saxon Court, which was one of the city’s first office buildings, will be repurposed to provide a mix of offices, flexible workspaces, local independent retail, and community spaces.</p><p>An extension of three levels will be added to the top and the existing atrium will be enhanced as an active and publicly accessible indoor space, linking the original entrance to a new outdoor public green. At ground level there will be public amenities including cafes, a community space and cycle parking.</p><p>The Village will be a 32-storey gateway tower, plus a 2-storey podium, featuring triple-height community sky gardens which divide the tower into villages, enabling residents to enjoy outdoor space and engage with their neighbours. At street level there will be an active frontage of shared amenities and services.</p><p>The Shed will be a three-storey incubator building, designed to meet the need for affordable workspace. The roof extends beyond the facade line on the west side, to generate an exterior canopy over the pedestrian access between the building and the residential tower.</p></div>",
   "dimensions": [
     {
       "label": "Site Area",
