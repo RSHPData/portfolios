@@ -1,20 +1,61 @@
 {
+  "name": "One Park Taipei",
+  "url": "residential/one-park-taipei",
+  "webStatus": "Publish",
+  "typologies": [
+    "Residential"
+  ],
   "type": "Project",
   "id": "05650",
-  "url": "residential/one-park-taipei",
-  "serializeDate": "'2022-06-27 15:40:39.572'",
-  "serialized": 1656344439572,
-  "serializedBy": "sreeve",
+  "serializeDate": "'2023-02-03 16:05:24.893'",
+  "serialized": 1675440324893,
+  "serializedBy": "heatherp",
+  "time": "2023-02-03T16:05:24.1068536Z",
+  "status": "PU",
   "title": "One Park Taipei",
   "description": "RSHP has designed two high-rise residential towers adjacent to Da-An Park in the city of Taipei. The site is located to the east side of Da-An Park along the Juanguo South Road.",
   "date": "2008-2018",
   "client": "Yuan Lih Construction",
   "location": "Taipei, Taiwan",
+  "city": "Taipei",
+  "country": "Taiwan",
   "longLat": "121.537765  / 25.030809",
   "longitude": "121.537765 ",
   "latitude": "25.030809",
-  "typologies": [
-    "Residential"
+  "team": [
+    "Peter Angrave",
+    "Elena Arzua Tourino",
+    "Xiaoying Chen",
+    "Kelly Darlington",
+    "Benjamin Darras",
+    "Mike Davies",
+    "Mike Fairbrass",
+    "Lu-Min Guo",
+    "Lennart Grut",
+    "Ivan Harbour",
+    "Ed Hiscock",
+    "Dennis Ho",
+    "Aki Kageyama",
+    "Dirk Krolikowski",
+    "Stephen Light",
+    "Freda Man Chong Yuen",
+    "Tim Mason",
+    "Marisa Mendes de Medeiros",
+    "Ann Miller",
+    "Richard Paul",
+    "Carmen Peña",
+    "Barbara Perez Marina",
+    "Matthew Rees",
+    "Richard Rogers",
+    "Laura Salisbury",
+    "Charlene Shum",
+    "Stephen Spence",
+    "Graham Stirk",
+    "Angela Tobin",
+    "Chun-Tai Tsai",
+    "Ben Warner",
+    "Freda Yuen",
+    "Alex Zimmermann"
   ],
   "partners": [
     "Lennart Grut",
@@ -23,21 +64,33 @@
   "leaders": [
     "Ben Warner"
   ],
-  "overview": "RSHP has designed two high-rise residential towers adjacent to Da-An Park in the city of Taipei. The site is located to the east side of Da-An Park along the Juanguo South Road. The towers are two of the highest residential buildings in Taipei. The design has set a new benchmark in high-rise residential projects in Taiwan, in terms of location, views and aspect, spatial quality, landscape design and public amenities. The external ground floor area provides private landscaped spaces as well as swimming pools for residents of each tower.\n\nThe towers – one at 35 storeys and the other at 31 storeys above ground – accommodate apartment types ranging from 300m² to 600m².\n\n\nThere are two apartments per floor for the small units and one apartment per floor for the large units at the top of the towers. Each apartment benefits from panoramic views of the park with generous external terraces.\n\nThe larger units have large double height terraces. Whilst the park elevations are articulated by external terraces, the north and south elevations are articulated by projecting windows and external shading elements. The east elevation offers unique city views of Taipei CBD and Taipei 101. This elevation is further accentuated by the colourful and slender stair cores.",
+  "heights": [
+    {
+      "value": "150 m",
+      "id": "10C9939699824A4B9ADDDE"
+    }
+  ],
+  "floors": [
+    {
+      "value": "Tower 1: 35 storeys; Tower 2: 31 storeys",
+      "id": "95d5fb766bda4b239cf2303005147c86"
+    }
+  ],
+  "overview": "<div><p>RSHP has designed two high-rise residential towers adjacent to Da-An Park in the city of Taipei. The site is located to the east side of Da-An Park along the Juanguo South Road. The towers are two of the highest residential buildings in Taipei. The design has set a new benchmark in high-rise residential projects in Taiwan, in terms of location, views and aspect, spatial quality, landscape design and public amenities. The external ground floor area provides private landscaped spaces as well as swimming pools for residents of each tower.</p><p>The towers – one at 35 storeys and the other at 31 storeys above ground – accommodate apartment types ranging from 300m² to 600m².</p><p>There are two apartments per floor for the small units and one apartment per floor for the large units at the top of the towers. Each apartment benefits from panoramic views of the park with generous external terraces.</p><p>The larger units have large double height terraces. Whilst the park elevations are articulated by external terraces, the north and south elevations are articulated by projecting windows and external shading elements. The east elevation offers unique city views of Taipei CBD and Taipei 101. This elevation is further accentuated by the colourful and slender stair cores.</p></div>",
   "dimensions": [
     {
-      "label": "Site Area",
-      "value": "63 538 m²",
+      "label": "Total Tower Area",
+      "value": "80,800 m²",
       "id": "66142988b0ec41dab861f81f85d8a1fe"
     },
     {
       "label": "North Tower",
-      "value": "3 748 m²",
+      "value": "37,480 m²",
       "id": "ee39f47a70c04f2e955c64e85c4029b6"
     },
     {
       "label": "South Tower",
-      "value": "4 332 m²",
+      "value": "43,320 m²",
       "id": "d16eed1d3e9444f4acc0e7c96996f7aa"
     }
   ],
