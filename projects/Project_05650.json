@@ -7,10 +7,10 @@
   ],
   "type": "Project",
   "id": "05650",
-  "serializeDate": "'2023-02-03 16:05:24.893'",
-  "serialized": 1675440324893,
+  "serializeDate": "'2023-02-06 09:31:43.029'",
+  "serialized": 1675675903029,
   "serializedBy": "heatherp",
-  "time": "2023-02-03T16:05:24.1068536Z",
+  "time": "2023-02-06T09:31:42.4643522Z",
   "status": "PU",
   "title": "One Park Taipei",
   "description": "RSHP has designed two high-rise residential towers adjacent to Da-An Park in the city of Taipei. The site is located to the east side of Da-An Park along the Juanguo South Road.",
@@ -66,32 +66,20 @@
   ],
   "heights": [
     {
-      "value": "150 m",
+      "value": "South Tower: 144.8 m / 35 stories",
       "id": "10C9939699824A4B9ADDDE"
-    }
-  ],
-  "floors": [
+    },
     {
-      "value": "Tower 1: 35 storeys; Tower 2: 31 storeys",
-      "id": "95d5fb766bda4b239cf2303005147c86"
+      "value": "North Tower: 130.3m / 31 stories",
+      "id": "f018a1db88074d74a2fdc8b8c3a11e74"
     }
   ],
   "overview": "<div><p>RSHP has designed two high-rise residential towers adjacent to Da-An Park in the city of Taipei. The site is located to the east side of Da-An Park along the Juanguo South Road. The towers are two of the highest residential buildings in Taipei. The design has set a new benchmark in high-rise residential projects in Taiwan, in terms of location, views and aspect, spatial quality, landscape design and public amenities. The external ground floor area provides private landscaped spaces as well as swimming pools for residents of each tower.</p><p>The towers – one at 35 storeys and the other at 31 storeys above ground – accommodate apartment types ranging from 300m² to 600m².</p><p>There are two apartments per floor for the small units and one apartment per floor for the large units at the top of the towers. Each apartment benefits from panoramic views of the park with generous external terraces.</p><p>The larger units have large double height terraces. Whilst the park elevations are articulated by external terraces, the north and south elevations are articulated by projecting windows and external shading elements. The east elevation offers unique city views of Taipei CBD and Taipei 101. This elevation is further accentuated by the colourful and slender stair cores.</p></div>",
   "dimensions": [
     {
-      "label": "Total Tower Area",
-      "value": "80,800 m²",
-      "id": "66142988b0ec41dab861f81f85d8a1fe"
-    },
-    {
-      "label": "North Tower",
+      "label": "Site Area",
       "value": "37,480 m²",
-      "id": "ee39f47a70c04f2e955c64e85c4029b6"
-    },
-    {
-      "label": "South Tower",
-      "value": "43,320 m²",
-      "id": "d16eed1d3e9444f4acc0e7c96996f7aa"
+      "id": "66142988b0ec41dab861f81f85d8a1fe"
     }
   ],
   "companies": [
