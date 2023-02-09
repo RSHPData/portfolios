@@ -1,21 +1,27 @@
 {
-  "type": "Project",
-  "id": "10750",
-  "url": "431:residential/qiantan-shanghai-pudong/",
-  "serializeDate": "'2022-06-30 14:45:48.325'",
-  "serialized": 1656600348325,
-  "serializedBy": "sreeve",
-  "title": "Qiantan Shanghai Pudong",
-  "description": "Qiantan Shanghai Pudong is situated within the Qiantan District in Pudong, Shanghai, fronting the Huangpu River.",
-  "date": "2015 - ongoing",
-  "client": "Gree Real Estate",
-  "location": "Shanghai, China",
-  "longLat": "121.4595387 / 31.1523733",
-  "longitude": "121.4595387",
-  "latitude": "31.1523733",
+  "name": "Qiantan Shanghai Pudong",
+  "url": "residential/qiantan-shanghai-pudong/",
+  "webStatus": "Publish",
   "typologies": [
     "Residential"
   ],
+  "type": "Project",
+  "id": "10750",
+  "serializeDate": "'2023-02-09 11:53:09.987'",
+  "serialized": 1675943589987,
+  "serializedBy": "heatherp",
+  "time": "2023-02-09T11:53:09.6721158Z",
+  "status": "PU",
+  "title": "Qiantan Shanghai Pudong",
+  "description": "Qiantan Shanghai Pudong is situated within the Qiantan District in Pudong, Shanghai, fronting the Huangpu River.",
+  "date": "2015 - under construction",
+  "client": "Gree Real Estate",
+  "location": "Shanghai, China",
+  "city": "Shanghai",
+  "country": "China",
+  "longLat": "121.4595387 / 31.1523733",
+  "longitude": "121.4595387",
+  "latitude": "31.1523733",
   "team": [
     "Stephen Spence",
     "Richard Black",
@@ -52,7 +58,7 @@
       "id": "03B33DD0B7BD43F28A4C5A"
     }
   ],
-  "overview": "Qiantan Shanghai Pudong is situated within the Qiantan District in Pudong, Shanghai, fronting the Huangpu River. The Qiantan location boasts a unique natural environment with large areas of rolling green lush riverside embankments and a vibrant waterfront.\n\nThe Qiantan Shanghai Pudong residential blocks and towers are positioned around the generous central garden creating a quiet and peaceful oasis for residents to promenade and relax on their way to enter the buildings. The three residential towers are located parallel to the river to maintain a formal visual street frontage. To permit extensive views over the Huangpu River and distant views back to Shanghai and the Lujiazui skyline from deeper within the development, the towers are staggered, with chamfered building corners maximising these view corridors.\n\nThe residential units vary from one- and two-bedroom apartments to extensive two-storey penthouses boasting living areas with extensive views, natural light and cross-ventilation for comfort. The living rooms with large expanses of glazing offer generous river views whilst the bedrooms focus on the quiet central garden. All apartments have access to an eternal space, a corner balcony or terrace, whilst narrow floor plates allow natural cross-ventilation. All parking has been contained below ground level to maximise the green public space.",
+  "overview": "<div><p>Qiantan Shanghai Pudong is situated within the Qiantan District in Pudong, Shanghai, fronting the Huangpu River. The Qiantan location boasts a unique natural environment with large areas of rolling green lush riverside embankments and a vibrant waterfront.</p><p>The Qiantan Shanghai Pudong residential blocks and towers are positioned around the generous central garden creating a quiet and peaceful oasis for residents to promenade and relax on their way to enter the buildings. The three residential towers are located parallel to the river to maintain a formal visual street frontage. To permit extensive views over the Huangpu River and distant views back to Shanghai and the Lujiazui skyline from deeper within the development, the towers are staggered, with chamfered building corners maximising these view corridors.</p><p>The residential units vary from one- and two-bedroom apartments to extensive two-storey penthouses boasting living areas with extensive views, natural light and cross-ventilation for comfort. The living rooms with large expanses of glazing offer generous river views whilst the bedrooms focus on the quiet central garden. All apartments have access to an eternal space, a corner balcony or terrace, whilst narrow floor plates allow natural cross-ventilation. All parking has been contained below ground level to maximise the green public space.</p></div>",
   "dimensions": [
     {
       "label": "Site Area",
