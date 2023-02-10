@@ -1,43 +1,47 @@
 {
-  "type": "Project",
-  "id": "12200",
-  "serializeDate": "'2022-06-27 15:41:16.569'",
-  "serialized": 1656344476569,
-  "serializedBy": "sreeve",
-  "title": "Fubon Renai",
-  "description": "A new commercial tower located on the corner of Renai Road and Jianguo Road in Taipei, Taiwan for our clients Fubon Insurance and Fubon Securities. \nFubon Financial Holding Co. is a large financial investment holding company with numerous subsidiaries. The building will serve as the headquarters for their Property and Casualty Insurance divisions.\nThe building is 120m tall with 27000m2 GFA spread over 27 floors.",
-  "date": "2019 - ongoing",
-  "client": "Fubon Insurance Co. Ltd",
-  "location": "Renai",
-  "longLat": "121.538553  / 25.037561",
-  "longitude": "121.538553 ",
-  "latitude": "25.037561",
-  "constructionCost": "3.5 billion NTD",
+  "name": "Fubon Renai",
+  "webStatus": "Upload",
   "typologies": [
     "Office",
     "Retail"
   ],
+  "type": "Project",
+  "id": "12200",
+  "serializeDate": "'2023-02-10 11:13:40.211'",
+  "serialized": 1676027620211,
+  "serializedBy": "heatherp",
+  "time": "2023-02-10T11:13:39.8522444Z",
+  "status": "PU",
+  "title": "Fubon Renai",
+  "date": "2019 -",
+  "client": "Fubon Insurance Co. Ltd / Fubon Securities Co. Ltd",
+  "location": "Taipei, Taiwan",
+  "city": "Taipei",
+  "country": "Taiwan",
+  "longLat": "121.538553  / 25.037561",
+  "longitude": "121.538553 ",
+  "latitude": "25.037561",
+  "constructionCost": "3.5 billion NTD",
   "team": [
-    "Addy Lin",
-    "Ann Miller",
-    "Ben Warner",
-    "Benjamin Darras",
-    "Bevan Badenhorst",
-    "Boji Hu",
-    "Dan Hanna",
-    "Ed Hiscock",
-    "Ivan Harbour",
-    "Janos Katona",
-    "Luca D'Amico",
-    "Matthew Jackson",
     "Patricia Andres",
-    "Pei-Yi Lin",
-    "Sim Yee Lee",
+    "Bevan Badenhorst",
     "Torsten Burkhardt",
-    "Alejandro Terron",
-    "Valentina Frieri",
+    "Luca D'Amico",
     "Kelly Darlington",
-    "Addy Lin"
+    "Benjamin Darras",
+    "Valentina Frieri",
+    "Dan Hanna",
+    "Ivan Harbour",
+    "Ed Hiscock",
+    "Boji Hu",
+    "Matthew Jackson",
+    "Janos Katona",
+    "Addy Lin",
+    "Pei-Yi Lin",
+    "Ann Miller",
+    "Alejandro Terron",
+    "Ben Warner",
+    "Sim Yee Lee"
   ],
   "partners": [
     "Ivan Harbour",
@@ -60,25 +64,29 @@
       "id": "9F086CC32A5F4BE9BCA8D3"
     }
   ],
-  "overview": "The project is a new commercial tower located on the corner of Renai Road and Jianguo Road in Taipei, Taiwan for our two client’s Fubon Insurance and Fubon Securities. \nTheir parent company Fubon Financial Holding Co. is a large financial investment holding company with numerous subsidiaries. The building will serve as the headquarters for their Property and Casualty Insurance divisions.\nThe site holds great significance for the current Tsai Brothers Chairmen as it is where Fubon was founded by their father. \n\nThe building addresses the two roads equally, with a gently curved NW corner to connect the two prime office elevations. A horizontal ribbon façade with articulated solar shading further binds the composition. This also provides scale and grain, and, crucial shading to the office floorplate. \nDouble height internal vertical villages animate the NW corner, providing dynamic, democratic spaces for employees to gather, collaborate and socialise. \nDiagonally opposite on the SE corner is a highly glazed and naturally ventilated circulation stair. Visually open and inviting, it encourages wellness through walking between adjacent floors, and its generous landings provide opportunity for chance encounters. \nThe other service elements of the core; lift banks, washrooms and MEP spaces unfold on either side of the corner stair and hold the South and Eastern edges of the building. \n\nThe office floorplate is defined by 9 equal squares on a 9x9m structural grid. \nOpen ceilings are proposed for the office fitout, giving maximum legibility to the structural frame and on floor servicing. \nExpressive steelwork framing defines the core within the overall eccentrically braced structural frame. \nA combination of precast concrete columns and steelwork creates an efficient structure attuned to the high seismic and wind load requirements. \n\nEach office floor provides approximately 1100m2 of GFA and 850m2 of usable office area. \n27 office floors deliver a total of approximately 27000m2 GFA within a height of 120m. \n\nAt the centre of the building height are the social spaces of canteen, gym and meeting rooms, served equally by the low rise and high rise lift banks. \n\nAt the pinnacle of the building is a special floor for the two Tsai Brother Chairmen, containing a memorial office for the Chairmen’s father and private landscaped external terrace which features several significant plants from the existing building. A green roof with photovoltaic array sits above along with centralised MEP plantroom spaces. \n\nAt the ground plane, the podium façade is setback on the diagonal, enhancing the corner address and creating a landscaped public agora beneath the tower above. \nAn entry canopy featuring LED display for public artwork and escalators animate this protected volume delivering visitors to a generous Level 2 lobby. A cafe and covered outdoor terrace provide opportunities for informal meetings and activity. \nSet within the monolithic stone podium is a retail tenancy for their Fubon bank branch, creating active street frontages, with through site connections to a sheltered pocket park and rear laneways.",
-  "construction": "The Client has embarked on an Integrated Project Delivery (IPD) method of project delivery.\nDacin were appointed in a Construction Manager - Contractor (CMc) role at the end of Schematic Design to allow for early engagement on issues of schedule, cost, construction and building technology.  \nMultiple contractors will be appointed beneath the CMc. \nDemolition of the existing building commenced in late 2021 and will complete in October 2022. \nConstruction of the basement is planned from late 2022 and will complete in late 2023. \nWith above ground construction to commence in late 2023 with practical completion for the building in October 2026.",
+  "overview": "<div><p>The project is a new commercial tower located on the corner of Renai Road and Jianguo Road in Taipei, Taiwan for our two client’s Fubon Insurance and Fubon Securities.  Their parent company Fubon Financial Holding Co. is a large financial investment holding company with numerous subsidiaries. The building will serve as the headquarters for their Property and Casualty Insurance divisions. The site holds great significance for the current Tsai Brothers Chairmen as it is where Fubon was founded by their father.</p><p>The building addresses the two roads equally, with a gently curved NW corner to connect the two prime office elevations. A horizontal ribbon façade with articulated solar shading further binds the composition. This also provides scale and grain, and, crucial shading to the office floorplate.  Double height internal vertical villages animate the NW corner, providing dynamic, democratic spaces for employees to gather, collaborate and socialise.  Diagonally opposite on the SE corner is a highly glazed and naturally ventilated circulation stair. Visually open and inviting, it encourages wellness through walking between adjacent floors, and its generous landings provide opportunity for chance encounters.  The other service elements of the core; lift banks, washrooms and MEP spaces unfold on either side of the corner stair and hold the South and Eastern edges of the building.</p><p>The office floorplate is defined by 9 equal squares on a 9x9m structural grid.  Open ceilings are proposed for the office fitout, giving maximum legibility to the structural frame and on floor servicing.  Expressive steelwork framing defines the core within the overall eccentrically braced structural frame.  A combination of precast concrete columns and steelwork creates an efficient structure attuned to the high seismic and wind load requirements.</p><p>Each office floor provides approximately 1100m2 of GFA and 850m2 of usable office area.  27 office floors deliver a total of approximately 27000m2 GFA within a height of 120m.</p><p>At the centre of the building height are the social spaces of canteen, gym and meeting rooms, served equally by the low rise and high rise lift banks.</p><p>At the pinnacle of the building is a special floor for the two Tsai Brother Chairmen, containing a memorial office for the Chairmen’s father and private landscaped external terrace which features several significant plants from the existing building. A green roof with photovoltaic array sits above along with centralised MEP plantroom spaces.</p><p>At the ground plane, the podium façade is setback on the diagonal, enhancing the corner address and creating a landscaped public agora beneath the tower above.  An entry canopy featuring LED display for public artwork and escalators animate this protected volume delivering visitors to a generous Level 2 lobby. A cafe and covered outdoor terrace provide opportunities for informal meetings and activity.  Set within the monolithic stone podium is a retail tenancy for their Fubon bank branch, creating active street frontages, with through site connections to a sheltered pocket park and rear laneways.</p></div>",
   "dimensions": [
     {
       "label": "Building Top",
       "value": "127.68m",
       "id": "4LV+ykMQwEatdGmWpp1gIQ"
+    },
+    {
+      "label": "Area",
+      "value": "27,000 m2 of office floorplate",
+      "id": "8b9c72f4a9314c2387362f60c5c6e5c0"
     }
   ],
   "companies": [
     {
-      "label": "Cladding Consultant",
-      "value": "CDC",
-      "id": "deltek:claddingContractor"
+      "label": "Executive Architect",
+      "value": "HOY",
+      "id": "sOYcoN9g1E+a6bs8ys34TA"
     },
     {
-      "label": "Traffic Engineer",
-      "value": "Easygogo",
-      "id": "deltek:traffic"
+      "label": "Structural Engineer - Lead",
+      "value": "WEB Structures",
+      "id": "DTQnWGJ2VEKMAirs5wdmqQ"
     },
     {
       "label": "Structural Engineer",
@@ -86,29 +94,29 @@
       "id": "deltek:consultant"
     },
     {
-      "label": "Landscape Designer",
-      "value": "Motif",
-      "id": "deltek:landscapeDesign"
-    },
-    {
-      "label": "Fire Consultant",
-      "value": "Taiwan Fire Service",
-      "id": "deltek:fireConsultant"
-    },
-    {
       "label": "MEP Consultant",
       "value": "Techkey",
       "id": "deltek:mEPConsultant"
     },
     {
+      "label": "IPD General Consultant",
+      "value": "Fubon Land",
+      "id": "072f6a9bd0424394b194b7a4940310d9"
+    },
+    {
+      "label": "Cladding Consultant",
+      "value": "CDC",
+      "id": "deltek:claddingContractor"
+    },
+    {
+      "label": "Landscape Designer",
+      "value": "Motif",
+      "id": "deltek:landscapeDesign"
+    },
+    {
       "label": "Project Manager",
       "value": "Yu Tai Sheng",
       "id": "deltek:projectManager"
-    },
-    {
-      "label": "Structural Engineer - Lead",
-      "value": "WEB Structures",
-      "id": "DTQnWGJ2VEKMAirs5wdmqQ"
     },
     {
       "label": "LEED Consultant",
@@ -126,11 +134,6 @@
       "id": "GIxXjyxSv0Cnc7UnhInhnQ"
     },
     {
-      "label": "Executive Architect",
-      "value": "HOY",
-      "id": "sOYcoN9g1E+a6bs8ys34TA"
-    },
-    {
       "label": "General Contractor",
       "value": "Dacin",
       "id": "5Jcpw3edUUSDPiJ+m6/rZw"
@@ -141,9 +144,14 @@
       "id": "UJ4uEde7v0qQs9ZjiALlsw"
     },
     {
-      "label": "Steelwork Contractor",
-      "value": "China Steel Corporation",
-      "id": "j2wOn5eaFEWv7ZJAWP/bkQ"
+      "label": "Traffic Engineer",
+      "value": "Easygogo",
+      "id": "deltek:traffic"
+    },
+    {
+      "label": "Fire Consultant",
+      "value": "Taiwan Fire Service",
+      "id": "deltek:fireConsultant"
     }
   ],
   "certificates": [
