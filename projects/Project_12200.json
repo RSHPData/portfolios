@@ -7,10 +7,10 @@
   ],
   "type": "Project",
   "id": "12200",
-  "serializeDate": "'2023-02-10 11:13:40.211'",
-  "serialized": 1676027620211,
+  "serializeDate": "'2023-02-10 12:05:51.185'",
+  "serialized": 1676030751185,
   "serializedBy": "heatherp",
-  "time": "2023-02-10T11:13:39.8522444Z",
+  "time": "2023-02-10T12:05:51.154485Z",
   "status": "PU",
   "title": "Fubon Renai",
   "date": "2019 -",
@@ -39,6 +39,9 @@
     "Addy Lin",
     "Pei-Yi Lin",
     "Ann Miller",
+    "Matilde Napoleao",
+    "Dawid Panek",
+    "Dan Rogers",
     "Alejandro Terron",
     "Ben Warner",
     "Sim Yee Lee"
@@ -157,7 +160,7 @@
   "certificates": [
     {
       "authority": "LEED Version 4",
-      "rating": "Platinum (brief aspiration) - grade TBC",
+      "rating": "Platinum - grade TBC",
       "rowId": "hijs33J0g061Sjgm6Ysfjg"
     }
   ]
