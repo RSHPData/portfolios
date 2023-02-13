@@ -1,21 +1,27 @@
 {
+  "name": "Shimen 1st Road Tower",
+  "url": "office/shimen-1st-road-tower/",
+  "webStatus": "Publish",
+  "typologies": [
+    "Office"
+  ],
   "type": "Project",
   "id": "12190",
-  "url": "834:office/shimen-1st-road-tower/",
-  "serializeDate": "'2022-06-30 11:35:53.899'",
-  "serialized": 1656588953899,
-  "serializedBy": "sreeve",
+  "serializeDate": "'2023-02-13 11:29:47.141'",
+  "serialized": 1676287787141,
+  "serializedBy": "heatherp",
+  "time": "2023-02-13T11:29:46.7667198Z",
+  "status": "PU",
   "title": "Shimen 1st Road Tower",
   "description": "Shimen 1st Road Tower is a 186m  / 610ft office in Jing’An, central Shanghai, China",
   "date": "2019 -",
   "client": "China Resources Land Limited",
   "location": "Shanghai, China",
+  "city": "Shanghai",
+  "country": "China",
   "longLat": "121.461809 / 31.228710",
   "longitude": "121.461809",
   "latitude": "31.228710",
-  "typologies": [
-    "Office"
-  ],
   "team": [
     "Alexander Balchin",
     "Chiara Baiocco",
@@ -83,7 +89,7 @@
       "id": "2036EF6A741F43818B3E68"
     }
   ],
-  "overview": "Shimen 1st Road Tower is a 186m  / 610ft office in Jing’An, central Shanghai, at the intersection of three subway lines, and close to the historical Zhang Garden and the Nanjing West Road.\n\nIt is a district known for its high-end office and retail development, and this high-rise building will form a unique, immediately recognisable landmark on the Shanghai skyline. \n\nThe tower creates a harmonious transition between the old and the new by engaging with the Zhang Garden and the open spaces at street level. It is integrated at B1 level to concourse of the adjacent stations and provides a direct internal route for people to circulate directly from the station to the building above in an internal retail environment.\n\nThe office tower, positioned above the retail, provides highly efficient floorplates which can be easily subdivided into a variety of tenancy sizes. \n\nA green roof garden at the top of the tower provides panoramic views across the city and sustainable architectural principles include biophilic design, effective use of natural light and solar shading, reduced environmental impact and efficient resources management.",
+  "overview": "<div><p>Shimen 1st Road Tower is a 186m  / 610ft office in Jing’An, central Shanghai, at the intersection of three subway lines, and close to the historical Zhang Garden and the Nanjing West Road.</p><p>It is a district known for its high-end office and retail development, and this high-rise building will form a unique, immediately recognisable landmark on the Shanghai skyline.</p><p>The tower creates a harmonious transition between the old and the new by engaging with the Zhang Garden and the open spaces at street level. It is integrated at B1 level to concourse of the adjacent stations and provides a direct internal route for people to circulate directly from the station to the building above in an internal retail environment.</p><p>The office tower, positioned above the retail, provides highly efficient floorplates which can be easily subdivided into a variety of tenancy sizes.</p><p>A green roof garden at the top of the tower provides panoramic views across the city and sustainable architectural principles include biophilic design, effective use of natural light and solar shading, reduced environmental impact and efficient resources management.</p></div>",
   "dimensions": [
     {
       "label": "Total Building Area",
