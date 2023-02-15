@@ -7,10 +7,10 @@
   ],
   "type": "Project",
   "id": "10750",
-  "serializeDate": "'2023-02-15 09:07:49.394'",
-  "serialized": 1676452069394,
+  "serializeDate": "'2023-02-15 15:59:36.073'",
+  "serialized": 1676476776073,
   "serializedBy": "heatherp",
-  "time": "2023-02-15T09:07:48.7729339Z",
+  "time": "2023-02-15T15:59:36.0545003Z",
   "status": "PU",
   "title": "Qiantan Shanghai Pudong",
   "description": "Qiantan Shanghai Pudong is situated within the Qiantan District in Pudong, Shanghai, fronting the Huangpu River.",
@@ -62,17 +62,17 @@
   "dimensions": [
     {
       "label": "Site Area",
-      "value": "12,258m2",
+      "value": "12,258 m²",
       "id": "Iznz+IlQAk+09PvRD2imaQ"
     },
     {
       "label": "Gross Floor Area (above ground)",
-      "value": "25 430 m²",
+      "value": "25 432 m²",
       "id": "dWt97OXjVUiVwVaeZWkUHA"
     },
     {
       "label": "Gross Floor Area (below ground)",
-      "value": "26 800 m²",
+      "value": "26 799 m²",
       "id": "GPx/BI3gLkCfzelH0u/M2w"
     }
   ],
