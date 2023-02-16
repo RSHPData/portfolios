@@ -55,6 +55,17 @@
     "typology": "Office"
   },
   {
+    "projectId": "12335",
+    "project": "Four Seasons Hotel Taipei",
+    "date": "2019",
+    "endDate": "under construction",
+    "location": "Taipei",
+    "country": "Taiwan",
+    "client": "Four Seasons Hotels and Resorts / Yuan Lih Construction Co., Ltd.",
+    "longLat": "25.041351101634593 / 121.57132902593965",
+    "typology": ""
+  },
+  {
     "projectId": "12005",
     "project": "Montparnasse Masterplan",
     "date": "2019",
