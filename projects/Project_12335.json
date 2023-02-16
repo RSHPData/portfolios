@@ -1,0 +1,148 @@
+{
+  "name": "Four Seasons Hotel Taipei",
+  "webStatus": "Publish",
+  "type": "Project",
+  "id": "12335",
+  "serializeDate": "'2023-02-16 12:08:28.458'",
+  "serialized": 1676549308458,
+  "serializedBy": "heatherp",
+  "time": "2023-02-16T12:08:28.4409071Z",
+  "status": "PU",
+  "title": "Four Seasons Hotel Taipei",
+  "date": "2019 - under construction",
+  "client": "Four Seasons Hotels and Resorts / Yuan Lih Construction Co., Ltd.",
+  "location": "Taipei, Taiwan",
+  "city": "Taipei",
+  "country": "Taiwan",
+  "team": [
+    "Anna Au",
+    "James Bradford",
+    "Andy Bryce",
+    "Torsten Burkhardt",
+    "Hechang Chen",
+    "Pablo Codesido",
+    "Jaime Cunha",
+    "Kelly Darlington",
+    "Dylan Davies",
+    "Simon Davis",
+    "Christophe Dembinski",
+    "Valentina Frieri",
+    "Alexandria Fu",
+    "Mariana Garza",
+    "Sebastien Gey",
+    "Ben Goble",
+    "Carlos Gonzalez",
+    "Lennart Grut",
+    "Lu-Min Guo",
+    "Ivan Harbour",
+    "Ed Hiscock",
+    "Taylor Huggins",
+    "Matthew Jackson",
+    "Will Jefferies",
+    "Tom Jones",
+    "Adam Lampon",
+    "Sim Yee Lee",
+    "Addy Lin",
+    "Pei-Yi Lin",
+    "Elizabeth Low",
+    "Ann Miller",
+    "Dawid Panek",
+    "Vajini Pannila",
+    "Amabel Richardson",
+    "Dan Rogers",
+    "Soki So",
+    "Alejandro Terron",
+    "Marco Tessaro",
+    "Victoria Tong",
+    "Edward Walker",
+    "Ruoyi Wang",
+    "Ben Warner",
+    "Siyang Yu"
+  ],
+  "partners": [
+    "Ivan Harbour",
+    "Ben Warner"
+  ],
+  "leaders": [
+    "Soki So",
+    "Addy Lin"
+  ],
+  "heights": [
+    {
+      "value": "180m / 591ft",
+      "id": "9e0219c10ce4461394be591cd14494b7"
+    }
+  ],
+  "floors": [
+    {
+      "value": "31",
+      "id": "0c3cc995def742738998b651da1f3fa2"
+    }
+  ],
+  "dimensions": [
+    {
+      "label": "Site Area",
+      "value": "5,121m²",
+      "id": "c3ad57ea6b5b451fa7a44f1e58361582"
+    }
+  ],
+  "companies": [
+    {
+      "label": "Local Architect",
+      "value": "CCJ",
+      "id": "c9086249600d4fc892d16d09d6650755"
+    },
+    {
+      "label": "Structural Engineer",
+      "value": "EGC",
+      "id": "3467a90b698942b9b73be5e0c1e8b831"
+    },
+    {
+      "label": "MEP",
+      "value": "WSP",
+      "id": "f058f69e8b284d5881a7c282254331fc"
+    },
+    {
+      "label": "MEP",
+      "value": "Spacetech",
+      "id": "177817ad20cb439bb0d32aede87c8814"
+    },
+    {
+      "label": "Landscape Designer",
+      "value": "Ecoscope",
+      "id": "04dfd8fde8e74dbfa2cbbbc609c363ba"
+    },
+    {
+      "label": "Exterior Lighting Designer",
+      "value": "J.Y. Lighting Design",
+      "id": "603ea451952e4db29421dfea1e44289e"
+    },
+    {
+      "label": "Curtain wall",
+      "value": "PKD",
+      "id": "937dcd8f54544ff394d267c673d69d00"
+    },
+    {
+      "label": "Acoustics",
+      "value": "SM&W",
+      "id": "b3815213903a4203a872e73669da285e"
+    },
+    {
+      "label": "General Contractor",
+      "value": "Yuan Lih Construction Co., Ltd.",
+      "id": "9584815b2b93483ea0cdab99e8a686ca"
+    }
+  ],
+  "certificates": [
+    {
+      "authority": "Taiwan Green Building",
+      "rating": "Gold - aspiration",
+      "rowId": "fd72c7229f8c459784e9db51945dedd4"
+    },
+    {
+      "authority": "LEED",
+      "rating": "Silver - aspiration",
+      "rowId": "35348d6bf20441baa3819d5f9739b953"
+    }
+  ]
+}
