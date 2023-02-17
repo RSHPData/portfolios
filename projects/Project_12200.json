@@ -1,5 +1,5 @@
 {
-  "name": "Fubon Renai",
+  "name": "Fubon Insurance HQ",
   "webStatus": "Upload",
   "typologies": [
     "Office",
@@ -7,13 +7,13 @@
   ],
   "type": "Project",
   "id": "12200",
-  "serializeDate": "'2023-02-10 12:05:51.185'",
-  "serialized": 1676030751185,
+  "serializeDate": "'2023-02-17 11:56:40.238'",
+  "serialized": 1676635000238,
   "serializedBy": "heatherp",
-  "time": "2023-02-10T12:05:51.154485Z",
+  "time": "2023-02-17T11:56:40.2143401Z",
   "status": "PU",
-  "title": "Fubon Renai",
-  "date": "2019 -",
+  "title": "Fubon Insurance HQ",
+  "date": "2019 - ongoing",
   "client": "Fubon Insurance Co. Ltd / Fubon Securities Co. Ltd",
   "location": "Taipei, Taiwan",
   "city": "Taipei",
@@ -57,7 +57,7 @@
   ],
   "heights": [
     {
-      "value": "120m",
+      "value": "119.5m / 392ft",
       "id": "E69159280E64404399BDF7"
     }
   ],
@@ -103,7 +103,7 @@
     },
     {
       "label": "IPD General Consultant",
-      "value": "Fubon Land",
+      "value": "Fubon Land Development Co. Ltd",
       "id": "072f6a9bd0424394b194b7a4940310d9"
     },
     {
@@ -160,7 +160,7 @@
   "certificates": [
     {
       "authority": "LEED Version 4",
-      "rating": "Platinum - grade TBC",
+      "rating": "Platinum - aspiration",
       "rowId": "hijs33J0g061Sjgm6Ysfjg"
     }
   ]
