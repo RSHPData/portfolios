@@ -1,0 +1,117 @@
+{
+  "name": "Qianhai Financial Holdings Building",
+  "webStatus": "Upload",
+  "typologies": [
+    "Office"
+  ],
+  "type": "Project",
+  "id": "12615",
+  "serializeDate": "'2023-02-17 13:49:50.096'",
+  "serialized": 1676641790096,
+  "serializedBy": "heatherp",
+  "time": "2023-02-17T13:49:50.0566758Z",
+  "status": "PU",
+  "title": "Qianhai Financial Holdings Building",
+  "date": "2020 -",
+  "client": "Qianhai Financial Holding Co. Ltd / Century Securities  Co. Ltd",
+  "location": "Shenzhen, China",
+  "city": "Shenzhen",
+  "country": "China",
+  "longLat": "22.554526174092256 / 114.05868531856522",
+  "longitude": "22.554526174092256",
+  "latitude": "114.05868531856522",
+  "constructionCost": "£206m",
+  "team": [
+    "Carlos García Criado",
+    "Luca D'Amico",
+    "Benjamin Darras",
+    "Sebastien Gey",
+    "Bonnie Han",
+    "Ivan Harbour",
+    "Ed Hiscock",
+    "Daniel Holmes",
+    "Ann Miller",
+    "Virginia Moreno",
+    "Dawid Panek",
+    "Stephanie Sinden",
+    "Simon Smithson",
+    "Alejandro Terron",
+    "Simon Tonks",
+    "Ruoyi Wang",
+    "Ben Warner",
+    "Keira Wu",
+    "Daniela Yaneva",
+    "Siyang Yu",
+    "Huijun Zhang",
+    "Wenchao Zhou"
+  ],
+  "partners": [
+    "Ivan Harbour"
+  ],
+  "leaders": [
+    "Simon Tonks"
+  ],
+  "heights": [
+    {
+      "value": "245m / 803ft",
+      "id": "a21fc1c68d5041eea5caa1ec1712438f"
+    }
+  ],
+  "floors": [
+    {
+      "value": "48",
+      "id": "e5701f83a3224772a3169e3b2deaf4b4"
+    }
+  ],
+  "overview": "<div><p>With a building height of 245m and clad in warm metallic finishes, Qianhai Financial Holdings Building is a mixed-use commercial high-rise in the centre of the Qianhai district, Shenzhen, China.  At street level, the four mega columns allow for a 5-storey podium building to be held aloft, creating a striking undercroft that makes way for a free-flowing public ground plane with a new park, underground retail, and connections to the metro. Punctuating and contrasting with the tower’s order and rectilinearity, are three triple-height sky lobbies - “vertical villages” – which frame views towards the mountains, bay, and river.  Each lobby takes a fluid, sculptural form, and is symbolically finished with a metal associated with finance that responds to the view captured with a hue of copper (river), silver (bay), or gold (mountains). At the top of the building there is a simple glazed octagon amenity space which offers 360° views of the wider bay area and beyond. Above the pagoda, further outdoor landscaped amenity space can be found under the soaring wings of the feature crown of the building. The crown is comprised of inclined double-mesh facades that catch the warmth of the daytime sun, and by night, becomes a beacon on the skyline.  RSHP will aim to achieve LEED International Platinum rating and the construction process will largely use off-site manufacturing and modularisation, to drive up quality and drive down waste.</p></div>",
+  "dimensions": [],
+  "companies": [
+    {
+      "label": "Co-Architect",
+      "value": "AUBE",
+      "id": "186b44eb6cef4963a7aad26b3b31a54b"
+    },
+    {
+      "label": "Structure Consultant",
+      "value": "CCDI",
+      "id": "864ab52a7737492d99ac4df624d10195"
+    },
+    {
+      "label": "MEP",
+      "value": "YMME",
+      "id": "a6b828e706bc428da8c3d03c3f00096d"
+    },
+    {
+      "label": "Facade Consultant",
+      "value": "SUP",
+      "id": "e5489341ca6143619b052ca5e40924fb"
+    },
+    {
+      "label": "Lighting Designer",
+      "value": "BPI",
+      "id": "59fb705959e1489494b07f6b55993805"
+    },
+    {
+      "label": "Landscape Designer",
+      "value": "ACLA",
+      "id": "4fac347985074cabbc63c894bb233ef5"
+    },
+    {
+      "label": "Project Manager",
+      "value": "Gemdale",
+      "id": "12601a3f798d49b6af3eb364d304fd84"
+    },
+    {
+      "label": "General Contractor",
+      "value": "CSCEC",
+      "id": "fe56f823d7a043229e3f63311e300f7a"
+    }
+  ],
+  "certificates": [
+    {
+      "authority": "LEED",
+      "rating": "Platinum - aspiration",
+      "rowId": "7ea58045e7b1426f868d5378c3f39b73"
+    }
+  ]
+}
