@@ -3,61 +3,47 @@
   "webStatus": "Publish",
   "type": "Project",
   "id": "12335",
-  "serializeDate": "'2023-02-16 12:08:28.458'",
-  "serialized": 1676549308458,
+  "serializeDate": "'2023-02-21 13:04:11.934'",
+  "serialized": 1676984651934,
   "serializedBy": "heatherp",
-  "time": "2023-02-16T12:08:28.4409071Z",
+  "time": "2023-02-21T13:04:11.3097125Z",
   "status": "PU",
   "title": "Four Seasons Hotel Taipei",
   "date": "2019 - under construction",
-  "client": "Four Seasons Hotels and Resorts / Yuan Lih Construction Co., Ltd.",
+  "client": "Yuan Lih Construction Co., Ltd.",
   "location": "Taipei, Taiwan",
   "city": "Taipei",
   "country": "Taiwan",
+  "longLat": "25.041351101634593 / 121.57132902593965",
+  "longitude": "25.041351101634593",
+  "latitude": "121.57132902593965",
   "team": [
-    "Anna Au",
-    "James Bradford",
     "Andy Bryce",
     "Torsten Burkhardt",
-    "Hechang Chen",
     "Pablo Codesido",
     "Jaime Cunha",
     "Kelly Darlington",
     "Dylan Davies",
-    "Simon Davis",
-    "Christophe Dembinski",
     "Valentina Frieri",
-    "Alexandria Fu",
     "Mariana Garza",
     "Sebastien Gey",
-    "Ben Goble",
-    "Carlos Gonzalez",
     "Lennart Grut",
-    "Lu-Min Guo",
     "Ivan Harbour",
     "Ed Hiscock",
-    "Taylor Huggins",
-    "Matthew Jackson",
     "Will Jefferies",
-    "Tom Jones",
     "Adam Lampon",
     "Sim Yee Lee",
     "Addy Lin",
     "Pei-Yi Lin",
-    "Elizabeth Low",
     "Ann Miller",
-    "Dawid Panek",
-    "Vajini Pannila",
     "Amabel Richardson",
     "Dan Rogers",
     "Soki So",
     "Alejandro Terron",
-    "Marco Tessaro",
     "Victoria Tong",
     "Edward Walker",
     "Ruoyi Wang",
-    "Ben Warner",
-    "Siyang Yu"
+    "Ben Warner"
   ],
   "partners": [
     "Ivan Harbour",
@@ -75,62 +61,103 @@
   ],
   "floors": [
     {
-      "value": "31",
+      "value": "31 above ground",
       "id": "0c3cc995def742738998b651da1f3fa2"
     }
   ],
+  "overview": "<div><p>Four Seasons Hotel Taipei is a 180m / 591ft tower located in the Xinyi District, directly opposite Taipei 101, one of the most iconic skyscrapers in Asia.  Through three significant outward facing spatial gestures across its elevation, the hotel will embrace the immediate public realm at street level, the rapidly growing Xinyi District at mid-level and Taipei’s incredible mountain setting at its peak, together creating a landmark building that is very much of its place. Surrounded by expansive glass panelling on both sides of the tower, the highest floors will offer wraparound views of the city and mountain ranges on the horizon, whilst the floor-to-ceiling design will allow guests to look out across the cityscape. In addition to the 260 light-filled rooms, the hotel will offer extensive meeting and event spaces, including a grand ballroom and a junior ballroom that will benefit from the same high ceilings and floor-to-ceiling glass panels on offer throughout the building. Ground level lush garden space will also be available for meetings and events. In addition, the hotel will also offer an executive club lounge, fitness centre with an outdoor pool and spa. Dining venues at the Hotel will include a high-end Chinese restaurant, destination bar, specialty restaurant, all-day restaurant, pool bar and lobby lounge.   From an efficient structure to supporting biodiversity with local vegetation species, the building design targets Taiwan Green Building Rating Gold and a minimum LEED silver.</p></div>",
   "dimensions": [
     {
+      "label": "Keys",
+      "value": "260",
+      "id": "9b51876dd6154f95afff5b7d317d3c36"
+    },
+    {
       "label": "Site Area",
-      "value": "5,121m²",
+      "value": "5,133 m²",
       "id": "c3ad57ea6b5b451fa7a44f1e58361582"
     }
   ],
   "companies": [
     {
+      "label": "General Contractor",
+      "value": "Yuan Lih Construction Co., Ltd.",
+      "id": "9584815b2b93483ea0cdab99e8a686ca"
+    },
+    {
+      "label": "Hotel Operator",
+      "value": "Four Seasons Hotels and Resorts",
+      "id": "ce42a75f7fcd406985989564a9d1ab0d"
+    },
+    {
       "label": "Local Architect",
-      "value": "CCJ",
-      "id": "c9086249600d4fc892d16d09d6650755"
+      "value": "C.C.Jen Architects & Associates",
+      "id": "e7bd47d7e4494cf7b7be4d14d31e3bbd"
     },
     {
       "label": "Structural Engineer",
-      "value": "EGC",
-      "id": "3467a90b698942b9b73be5e0c1e8b831"
+      "value": "Evergreen Consulting Engineering",
+      "id": "1637ede5b418447c82bb6cf3d0278ec9"
     },
     {
-      "label": "MEP",
+      "label": "MEP Peer Review",
       "value": "WSP",
-      "id": "f058f69e8b284d5881a7c282254331fc"
+      "id": "17c8351899024bab8a89c8a09be3f09a"
     },
     {
-      "label": "MEP",
-      "value": "Spacetech",
-      "id": "177817ad20cb439bb0d32aede87c8814"
+      "label": "Vertical Transportation Engineer",
+      "value": "WSP",
+      "id": "2e39701dc997411eb20dea4ebb58c67b"
+    },
+    {
+      "label": "Facade Engineer",
+      "value": "PKD",
+      "id": "d5a96434e1f94d5e90553385bf1aa37b"
+    },
+    {
+      "label": "Exterior Lighting Designer",
+      "value": "James Yuan Lighting Design",
+      "id": "967d10bd3eb846e7b862297494d705d1"
     },
     {
       "label": "Landscape Designer",
       "value": "Ecoscope",
-      "id": "04dfd8fde8e74dbfa2cbbbc609c363ba"
-    },
-    {
-      "label": "Exterior Lighting Designer",
-      "value": "J.Y. Lighting Design",
-      "id": "603ea451952e4db29421dfea1e44289e"
-    },
-    {
-      "label": "Curtain wall",
-      "value": "PKD",
-      "id": "937dcd8f54544ff394d267c673d69d00"
+      "id": "d08c5756f2e3436faafd143f3fe1b81d"
     },
     {
       "label": "Acoustics",
-      "value": "SM&W",
-      "id": "b3815213903a4203a872e73669da285e"
+      "value": "Shen Milsom & Wilke",
+      "id": "720aaad8c3e745b4bd0e7fc95eac295c"
     },
     {
-      "label": "General Contractor",
-      "value": "Yuan Lih Construction Co., Ltd.",
-      "id": "9584815b2b93483ea0cdab99e8a686ca"
+      "label": "AV / Security",
+      "value": "Shen Milsom & Wilke",
+      "id": "11dd0e90c7d4401781b24033691aaf35"
+    },
+    {
+      "label": "Fire Consultant",
+      "value": "Jensen Hughes",
+      "id": "2430d7b4d1714d39848d2adca466325b"
+    },
+    {
+      "label": "Local Sustainability Consultant",
+      "value": "Green Jump",
+      "id": "c98fb1258e764a148170d91bcb65904a"
+    },
+    {
+      "label": "Hotel Kitchen Designer",
+      "value": "Constructive Consultant Co. Ltd",
+      "id": "481a828bcdae46e6802954fb856b9641"
+    },
+    {
+      "label": "Signage Designer",
+      "value": "Mars",
+      "id": "62f27065c5ab43739a55aa4e098c5337"
+    },
+    {
+      "label": "Spa Designer",
+      "value": "The Wellness",
+      "id": "e679e4d328b940c1badb094761ef7cb0"
     }
   ],
   "certificates": [
@@ -141,7 +168,7 @@
     },
     {
       "authority": "LEED",
-      "rating": "Silver - aspiration",
+      "rating": "Silver - minimum",
       "rowId": "35348d6bf20441baa3819d5f9739b953"
     }
   ]
