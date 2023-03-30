@@ -1,0 +1,175 @@
+{
+  "name": "Oxley Woods",
+  "webStatus": "Publish",
+  "typologies": [
+    "Residential"
+  ],
+  "type": "Project",
+  "id": "05075",
+  "serializeDate": "'2023-03-30 17:53:48.843'",
+  "serialized": 1680198828843,
+  "serializedBy": "heatherp",
+  "time": "2023-03-30T17:53:48.8162376Z",
+  "status": "PU",
+  "title": "Oxley Woods",
+  "date": "2005 - 07",
+  "client": "English Partnerships",
+  "location": "Milton Keynes, UK",
+  "city": "Milton Keynes",
+  "country": "UK",
+  "longLat": "-0.806315 / 52.010035",
+  "longitude": "-0.806315",
+  "latitude": "52.010035",
+  "team": [
+    "Amy Coppock",
+    "Kelly Darlington",
+    "Benjamin Darras",
+    "Phillip Dennis",
+    "Mike Fairbrass",
+    "Lennart Grut",
+    "Mimi Hawley",
+    "Ed Hiscock",
+    "Stephen Light",
+    "Tim Mason",
+    "Jon Mercer",
+    "Andrew Morris",
+    "Alison Oktay",
+    "Andrew Partridge",
+    "Joanna Pencakowski",
+    "Jacopo V Pesciolini",
+    "Richard Rogers",
+    "Laura Salisbury",
+    "Paul Thompson",
+    "Angela Tobin",
+    "Simon Tonks",
+    "Jinbok Wee",
+    "Daniel Wright",
+    "Elizabeth Young"
+  ],
+  "partners": [
+    "Ivan Harbour",
+    "Lennart Grut"
+  ],
+  "leaders": [
+    "Andrew Partridge"
+  ],
+  "floors": [
+    {
+      "value": "3",
+      "id": "5228e93a032a4ef39677aa8c689d229b"
+    }
+  ],
+  "overview": "<div><p>English Partnerships and the Office of the Deputy Prime Minister launched the Design for Manufacture competition in 2005, with the aim of building high-quality homes at a construction cost of £60,000. The focus of the competition was to encourage architects and house builders to work together to achieve this.</p><p>RSHP’s response was to develop a generic house type that can be adapted to suit any location and site constraint using modern methods of construction. An emphasis is placed on the potential of adapting houses to suit their occupants’ lifestyle changes and family sizes. This mix of tenure and adaptability will create an accessible and adaptable community that can reflect and accommodate change over time.</p><p>RSHP’s approach pulls together house parts that are small and complex in nature into a highly standardised and thoroughly tested unit. The serviced spaces – including bathrooms, kitchens and heating/lighting centres – are standardised across the range of proposed house types and, along with the facades and ‘Eco-Hats’, are manufactured off site and transported to site for assembly. The remainder of the space is treated as a highly flexible shell, unencumbered by services and structural peculiarities. Through variations in cladding, the houses are able to have many variations which will allow them to adjust to the vernacular of the area by appropriating colours and textures typical of the surrounding area. The flexibility of cladding, living space, roof orientation and fenestration enable the houses to be located at any site, while at the same time being specific to the site.</p><p>In conjunction with George Wimpey Plc RSHP, was one of six winning partnerships, and was awarded the Oxley Park site, close to Milton Keynes, after a three stage competition. The site is just over three hectares in size and has 120 dwellings on it, providing a mixture of affordable housing and larger private dwellings in two and three-storey houses around a central high street.</p></div>",
+  "dimensions": [
+    {
+      "label": "Site Area",
+      "value": "3 hectares",
+      "id": "ff5fc7f504cf4ce984f856a67de2c7c2"
+    }
+  ],
+  "companies": [
+    {
+      "label": "Competition Initiator",
+      "value": "English Partnerships",
+      "id": "299b4a15c8084957ad79bbb52035b9eb"
+    },
+    {
+      "label": "Services Engineer",
+      "value": "RYBKA",
+      "id": "6ddb8ff5b9c545c8abf80300a0983c61"
+    },
+    {
+      "label": "Landscape Architects",
+      "value": "Gillespies",
+      "id": "e0711d9ae104469a8c794f64da25abeb"
+    },
+    {
+      "label": "Chief Engineer",
+      "value": "Woods Harwick",
+      "id": "8ecca2d41ca346d09bd435d996d68c09"
+    },
+    {
+      "label": "Disability Access Assessors",
+      "value": "David Bonnett Associates",
+      "id": "150f988236bb48e1b51399af600c76a9"
+    },
+    {
+      "label": "Eco-Hat Manufacturers",
+      "value": "Nuaire",
+      "id": "31afc1dbfebc416abaf91fca87b74536"
+    },
+    {
+      "label": "Developer",
+      "value": "George Wimpey - South Midlands",
+      "id": "5326445cfeb34c0d8e0f0556123f8464"
+    },
+    {
+      "label": "Manufacturer",
+      "value": "Wood Newton Ltd",
+      "id": "cd1ba1d0795f458d842460793f159f16"
+    }
+  ],
+  "awards": [
+    {
+      "date": "2009-01-01",
+      "year": "2009",
+      "award": "Chicago Athaneum International Architecture Good Green Award",
+      "rowId": "c7bc6760a5a048368c072ff92738922a"
+    },
+    {
+      "date": "2009-01-01",
+      "year": "2009",
+      "award": "Chicago Athaneum International Architecture Award",
+      "rowId": "c62682a2de3448dfba53278af67277bf"
+    },
+    {
+      "date": "2008-01-01",
+      "year": "2008",
+      "award": "Building for Life Gold Standard, The National Standard for Well-Designed Homes and Neighbourhoods, CABE and Home Builders Federation",
+      "rowId": "8605f70baf714eac912c52211494d595"
+    },
+    {
+      "date": "2008-01-01",
+      "year": "2008",
+      "award": "RIBA The Manser Medal for Housing",
+      "rowId": "099769412d014404903588c6355aeef6"
+    },
+    {
+      "date": "2008-01-01",
+      "year": "2008",
+      "award": "RICS Sustainability Award",
+      "rowId": "ad807bed49ef40af8c02af76b2dfd699"
+    },
+    {
+      "date": "2008-01-01",
+      "year": "2008",
+      "award": "RIBA South Award",
+      "rowId": "2b6fc43f0dea43ec8cc0d0b9f7796b72"
+    },
+    {
+      "date": "2008-01-01",
+      "year": "2008",
+      "award": "Housing Design Award - Large Housebuilder category",
+      "rowId": "524b361af3aa436ea060eed4ab4e5a2e"
+    },
+    {
+      "date": "2008-01-01",
+      "year": "2008",
+      "award": "Innovative Housebuilder of the Year",
+      "rowId": "22a922db652949a09dc90ba8f34a3c67"
+    },
+    {
+      "date": "2008-01-01",
+      "year": "2008",
+      "award": "Evening Standard Awards - Highly Commended for Best New Large Development",
+      "rowId": "775141dc51254f71a44191b9854bcec4"
+    }
+  ],
+  "certificates": [
+    {
+      "authority": "BREEAM",
+      "rating": "Very Good",
+      "rowId": "89de37cedf8345ce8534fc7cdfa62927"
+    }
+  ]
+}
