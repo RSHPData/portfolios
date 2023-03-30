@@ -1061,6 +1061,17 @@
     "typology": "Office"
   },
   {
+    "projectId": "05075",
+    "project": "Oxley Woods",
+    "date": "2005",
+    "endDate": "07",
+    "location": "Milton Keynes",
+    "country": "UK",
+    "client": "English Partnerships",
+    "longLat": "-0.806315 / 52.010035",
+    "typology": "Residential"
+  },
+  {
     "projectId": "05150",
     "project": "Private Residence, Singapore",
     "date": "2005",
