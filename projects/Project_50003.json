@@ -7,10 +7,10 @@
   ],
   "type": "Project",
   "id": "50003",
-  "serializeDate": "'2023-04-14 17:31:41.475'",
-  "serialized": 1681493501475,
+  "serializeDate": "'2023-04-17 13:33:46.605'",
+  "serialized": 1681738426605,
   "serializedBy": "heatherp",
-  "time": "2023-04-14T17:31:41.4520084Z",
+  "time": "2023-04-17T13:33:46.4585081Z",
   "status": "PU",
   "title": "Crofts Street",
   "description": "Crofts Street is a modular housing project comprising nine two-bedroom townhouses designed to be carbon positive in operation, built on brownfield land for council rent, built on brownfield land for council rent. It is the city’s first modular scheme and was awarded Welsh Government Innovative Housing Funding.",
@@ -50,7 +50,7 @@
       "id": "947ae082f06742d4bb842e71865408a3"
     }
   ],
-  "overview": "<div style =\"break-inside:avoid-column;\"><p>Crofts Street, Cardiff, is a modular housing project comprising nine two-bedroom townhouses, designed to be carbon positive in operation and built on brownfield land for council rent. It is the city’s first modular scheme and was awarded Welsh Government Innovative Housing Funding.</p><p style='margin-bottom:22px'>The INNO design, led by RSHP and AECOM and delivered by @HOME, uses a ‘fabric first’ approach to optimise the performance of each unit against weather conditions, fire and acoustics. This system reduces operational energy consumption, which can lead to major cost savings on utility bills for residents.</p></div><div style =\"break-inside:avoid-column;margin-top:22px\"><p>The townhouses prioritise the use of sustainable materials, which means that they have less embodied energy than other buildings. With these considerations, the scheme is expected to surpass the current (Part L1A 2013) Building Regulations standards by 142% for regulated carbon emissions and 42% in fabric energy efficiency.</p><p style='margin-bottom:22px'>The homes are all electric and use roof-mounted solar panels with far-infrared electric heaters and Showersave - a wastewater heat recovery system. They also have a whole-house mechanical ventilated heat recovery, and natural ventilation. As a result, the Predicted Energy Assessment (PEA) for Crofts Street indicates a negative emission of at least -1.66 tonnes of CO2 per annum per home.</p></div><div style =\"break-inside:avoid-column;margin-top:22px\"><p>This shows that the simple addition of solar panels is sufficient to generate more energy than is required to run the regulated building services (i.e. heating, hot water, lighting, pumps and fans).</p><p style='margin-bottom:22px'>The scheme also promotes the efficient use of land, developing it at a practicable density in line with neighbouring developments and pre‐war terraces.</p></div><div style =\"break-inside:avoid-column;margin-top:22px\"><p>The ground floor of the houses has a brick slip system, reflective of the brick materiality that defines adjacent homes. Above this, Oko Skin cladding is arranged in the same orientation, but has double in width. The different demises are identified by tonal differences between respective doors, windows and Juliette balconies.</p></div>",
+  "overview": "<div style =\"break-inside:avoid-column;\"><p>Crofts Street, Cardiff, is a modular housing project comprising nine two-bedroom townhouses, designed to be carbon positive in operation and built on brownfield land for council rent. It is the city’s first modular scheme and was awarded Welsh Government Innovative Housing Funding.</p><p style='margin-bottom:22px'>The INNO design, led by RSHP and AECOM and delivered by @HOME, uses a ‘fabric first’ approach to optimise the performance of each unit against weather conditions, fire and acoustics. This system reduces operational energy consumption, which can lead to major cost savings on utility bills for residents.</p></div><div style =\"break-inside:avoid-column;margin-top:22px\"><p>The townhouses prioritise the use of sustainable materials, which means that they have less embodied energy than other buildings. With these considerations, the scheme is expected to surpass the current (Part L1A 2013) Building Regulations standards by 142% for regulated carbon emissions and 42% in fabric energy efficiency.</p><p>The homes are all electric and use roof-mounted solar panels (predicted to generate 58 Kwh/m2/yr), with far-infrared electric heaters and Showersave - a wastewater heat recovery system. They also have a whole-house mechanical ventilated heat recovery, and natural ventilation.</p><p>The modules have an EPC Energy Performance Certificate of A111 with in use operational energy data showing 9.22 kwhr/m2/yr, well above the RIBA 2030 Challenge domestic 2030 target of 35kwhr/m2/yr. They also have have a Life Cycle Embodied Carbon (including modules A1-A5, B1,B4, C1-C4 and carbon sequestration) = 342.24 KgCO2e/m2, equivalent to LETI A rating and well above the RIBA 2030 Challenge domestic target of 625 KgCO2e/m2.</p><p style='margin-bottom:22px'>The scheme also promotes the efficient use of land, developing it at a practicable density in line with neighbouring developments and pre‐war terraces.</p></div><div style =\"break-inside:avoid-column;margin-top:22px\"><p>The ground floor of the houses has a brick slip system, reflective of the brick materiality that defines adjacent homes. Above this, Oko Skin cladding is arranged in the same orientation, but has double in width. The different demises are identified by tonal differences between respective doors, windows and Juliette balconies.</p></div>",
   "dimensions": [
     {
       "label": "Site Area",
@@ -107,9 +107,14 @@
   ],
   "certificates": [
     {
-      "authority": "Annual CO2 emissions (predicted)",
-      "rating": "KgCO2eq/m2 Negative emission of at least -1.66 tonnes of CO2 per annum per home",
-      "rowId": "caf30bf3355549f6b33196d3be96267b"
+      "authority": "EPC Energy Performance Certificate",
+      "rating": "A111 with in use operational energy data showing 9.22 kwhr/m2/yr , well above the RIBA 2030 Challenge domestic 2030 target of 35kwhr/m2/yr",
+      "rowId": "d9e2a055e0414c5484f5c988a1650d6a"
+    },
+    {
+      "authority": "Life Cycle Embodied Carbon (including modules A1-A5, B1,B4, C1-C4 and carbon sequestration)",
+      "rating": "342.24 KgCO2e/m2, equivalent to LETI A rating and well above the RIBA 2030 Challenge domestic target of 625 KgCO2e/m2",
+      "rowId": "dafa58dcccbf43d18c7c836862bdd601"
     }
   ]
 }
