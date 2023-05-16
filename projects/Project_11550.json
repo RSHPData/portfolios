@@ -7,10 +7,10 @@
   ],
   "type": "Project",
   "id": "11550",
-  "serializeDate": "'2023-03-06 09:59:54.650'",
-  "serialized": 1678096794650,
+  "serializeDate": "'2023-05-16 14:59:01.250'",
+  "serialized": 1684249141250,
   "serializedBy": "heatherp",
-  "time": "2023-03-06T09:59:54.0011679Z",
+  "time": "2023-05-16T14:59:00.6415903Z",
   "status": "PU",
   "title": "Metro Tunnel Project",
   "description": "The Metro Tunnel Project in Melbourne is building twin nine-kilometre tunnels and five new underground stations.",
@@ -86,7 +86,7 @@
   "companies": [
     {
       "label": "Architectural Team",
-      "value": "The design for the five stations was developed by international design practices HASSELL + Weston Williamson in conjunction with RSHP",
+      "value": "The design for the five stations was developed by international design practices Hassell and Weston Williamson + Partners in conjunction with RSHP",
       "id": "eb1f175f77ee47968d441d944e3cff82"
     }
   ],
