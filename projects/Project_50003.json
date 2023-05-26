@@ -7,10 +7,10 @@
   ],
   "type": "Project",
   "id": "50003",
-  "serializeDate": "'2023-04-17 15:01:36.989'",
-  "serialized": 1681743696989,
+  "serializeDate": "'2023-05-26 08:09:44.325'",
+  "serialized": 1685088584325,
   "serializedBy": "heatherp",
-  "time": "2023-04-17T15:01:36.971703Z",
+  "time": "2023-05-26T08:09:43.7108784Z",
   "status": "PU",
   "title": "Crofts Street",
   "description": "Crofts Street is a modular housing project comprising nine two-bedroom townhouses designed to be carbon positive in operation, built on brownfield land for council rent, built on brownfield land for council rent. It is the city’s first modular scheme and was awarded Welsh Government Innovative Housing Funding.",
@@ -110,6 +110,11 @@
       "authority": "EPC (Energy Performance",
       "rating": "Certifcate)  A111",
       "rowId": "d9e2a055e0414c5484f5c988a1650d6a"
+    },
+    {
+      "authority": "RIBA/RSAW",
+      "rating": "Award for Sustainability",
+      "rowId": "16cb0bad00ac44a1a1f38607340b8b5f"
     }
   ]
 }
