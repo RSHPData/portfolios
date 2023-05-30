@@ -1,0 +1,40 @@
+{
+  "name": "Transport Interchange at Terminal 5",
+  "webStatus": "Publish",
+  "typologies": [
+    "Transport"
+  ],
+  "type": "Project",
+  "id": "13425",
+  "serializeDate": "'2023-05-30 13:43:13.633'",
+  "serialized": 1685454193633,
+  "serializedBy": "heatherp",
+  "time": "2023-05-30T13:43:13.6020029Z",
+  "status": "PU",
+  "title": "Transport Interchange at Terminal 5",
+  "date": "1996 - 2008",
+  "client": "British Airports Authority (BAA) on behalf of London Underground Limited, Heathrow Express",
+  "location": "London, UK",
+  "city": "London",
+  "country": "UK",
+  "longLat": "51.47162636444096 / -0.4879913319130628",
+  "longitude": "51.47162636444096",
+  "latitude": "-0.4879913319130628",
+  "constructionCost": "£215 million (approx)",
+  "team": [
+    "Jimmy Abatti",
+    "Laurie Abbott",
+    "Jo-anne Alldritt"
+  ],
+  "partners": [
+    "Mike Davies",
+    "Amo Kalsi",
+    "Marco Goldschmied"
+  ],
+  "leaders": [
+    "Steve Martin"
+  ],
+  "overview": "<div><p>In 2008 BAA completed its £4.3 billion Terminal 5 capital improvements project with the opening of its landside rail station and airside track transit system. Together with the long distance coach station and regional bus station, the rail station forms the Transport Interchange at Terminal 5.</p><p>There are three landside rail platforms: one serving the London Underground Piccadilly Line, one serving the Heathrow Express — a fast link train to central London — and one built for the future installation of a heavy rail line. The approximate cost of the landside rail was £165 million. The airside track transit system – an automated transportation system with driverless trains – links the main terminal to its two satellite buildings.</p><p>The rail station is situated below the Terminal and links directly to the departures and arrivals levels by way of lifts and escalators. The three platforms share a common rail box measuring 90 metres wide by 196 metres long and 12 metres high. The three platforms are linked by a mezzanine level within the Transport Interchange. The light-weight, glazed mezzanine serves as a crossover between platforms and allows natural light to enter down to platform level below the terminal building. Way-finding is assisted by simple lift arrangements and the principle that passengers are guided from platform level to the Terminal by ‘following the light’. The Piccadilly Line loop ring that services Terminals 1–4 was extended to access to Terminal 5. This was achieved by broadening the loop and creating a new cross-over beyond the station box. The existing Heathrow Express fast speed link to central London was extended to terminate at Terminal 5. Future fit-out of the heavy rail platform can provide direct connection between the National Rail network and Terminal 5, as well as future fast speed trains to Glasgow and the north of England.</p><p>The airside track transit system consists of a split platform that allows a number of passenger flows reflecting different levels of security clearances. This system shuttles passengers between the main passenger processing terminal and the satellite buildings by means of the driverless trains. The system has cross-overs before and after each of the satellites, permitting one train to discharge and another to embark passengers simultaneously.</p><p>RSHP designed the rail systems as part of a fully-integrated approach between passenger movement within the Terminal and public transport throughout the Southeast of England. The passenger experience is a fluid one where the Terminal building and rail station become a single environment.</p></div>",
+  "dimensions": [],
+  "companies": []
+}
