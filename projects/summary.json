@@ -640,16 +640,6 @@
     "typology": "Transport"
   },
   {
-    "projectId": "10250",
-    "project": "Thames Wharf Redevelopment",
-    "date": "2013",
-    "location": "London",
-    "country": "UK",
-    "client": "London + Regional Properties",
-    "longLat": "-0.224454 / 51.483758",
-    "typology": "Residential"
-  },
-  {
     "projectId": "10260",
     "project": "Y:Cube",
     "date": "2013",
@@ -791,7 +781,7 @@
     "typology": "Civic"
   },
   {
-    "projectId": "05625",
+    "projectId": "06120",
     "project": "Barangaroo South Masterplan",
     "date": "2009",
     "endDate": "2015",
@@ -802,7 +792,7 @@
     "typology": "Masterplanning"
   },
   {
-    "projectId": "06120",
+    "projectId": "05625",
     "project": "Barangaroo South Masterplan",
     "date": "2009",
     "endDate": "2015",
