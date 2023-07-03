@@ -119,6 +119,17 @@
     "typology": "Culture & Leisure"
   },
   {
+    "projectId": "11690",
+    "project": "Broadway East Bethnal Green",
+    "date": "2018",
+    "endDate": "ongoing",
+    "location": "London",
+    "country": "UK",
+    "client": "St William Homes LLP",
+    "longLat": "-0.061724539814304785  / 51.53424062905374",
+    "typology": "Residential"
+  },
+  {
     "projectId": "50003",
     "project": "Crofts Street",
     "date": "2018",
@@ -161,17 +172,6 @@
     "client": "Forum métropolitain du Grand Paris",
     "longLat": "2.3419355 / 48.85847",
     "typology": "Transport"
-  },
-  {
-    "projectId": "11690",
-    "project": "Marian Place Bethnal Green",
-    "date": "2018",
-    "endDate": "ongoing",
-    "location": "London",
-    "country": "UK",
-    "client": "St William Homes LLP",
-    "longLat": "-0.061724539814304785  / 51.53424062905374",
-    "typology": "Residential"
   },
   {
     "projectId": "12095",
