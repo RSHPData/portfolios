@@ -792,6 +792,17 @@
     "typology": "Masterplanning"
   },
   {
+    "projectId": "06110",
+    "project": "Barangaroo South Masterplan",
+    "date": "2009",
+    "endDate": "2015",
+    "location": "Sydney",
+    "country": "Australia",
+    "client": "Lendlease / Barangaroo Delivery Authority",
+    "longLat": "-33.86454878898441, / 151.2011312812263",
+    "typology": "Masterplanning"
+  },
+  {
     "projectId": "05625",
     "project": "Barangaroo South Masterplan",
     "date": "2009",
