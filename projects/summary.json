@@ -777,7 +777,7 @@
     "location": "Toronto",
     "country": "Canada",
     "client": "City of Toronto",
-    "longLat": "-79.372145  / 43.650345",
+    "longLat": "-79.372145 / 43.650345",
     "typology": "Civic"
   },
   {
@@ -788,7 +788,7 @@
     "location": "Sydney",
     "country": "Australia",
     "client": "Lendlease / Barangaroo Delivery Authority",
-    "longLat": "-33.86369354312933 / 151.20100253519712",
+    "longLat": "151.201002 / -33.863693",
     "typology": "Masterplanning"
   },
   {
