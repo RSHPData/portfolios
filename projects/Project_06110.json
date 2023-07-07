@@ -1,15 +1,15 @@
 {
   "name": "Barangaroo South Masterplan",
-  "webStatus": "Publish",
+  "webStatus": "Upload",
   "typologies": [
     "Masterplanning"
   ],
   "type": "Project",
   "id": "06110",
-  "serializeDate": "'2023-07-07 16:05:52.707'",
-  "serialized": 1688745952707,
+  "serializeDate": "'2023-07-07 16:08:28.152'",
+  "serialized": 1688746108152,
   "serializedBy": "heatherp",
-  "time": "2023-07-07T16:05:52.6802522Z",
+  "time": "2023-07-07T16:08:28.1305176Z",
   "status": "PU",
   "title": "Barangaroo South Masterplan",
   "date": "2009 - 2015",
@@ -17,9 +17,9 @@
   "location": "Sydney, Australia",
   "city": "Sydney",
   "country": "Australia",
-  "longLat": "151.20095961985407 / -33.86369354312933",
-  "longitude": "151.20095961985407",
-  "latitude": "-33.86369354312933",
+  "longLat": "-33.86369354312933 / 151.20100253519712",
+  "longitude": "-33.86369354312933",
+  "latitude": "151.20100253519712",
   "constructionCost": "$6,000,000,000 AUS",
   "team": [
     "Benjamin Darras",
