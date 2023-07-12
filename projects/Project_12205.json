@@ -7,10 +7,10 @@
   ],
   "type": "Project",
   "id": "12205",
-  "serializeDate": "'2023-03-01 19:41:55.627'",
-  "serialized": 1677699715627,
+  "serializeDate": "'2023-07-12 13:47:05.485'",
+  "serialized": 1689169625485,
   "serializedBy": "heatherp",
-  "time": "2023-03-01T19:41:55.4787464Z",
+  "time": "2023-07-12T13:47:05.1147795Z",
   "status": "PU",
   "title": "Carlton House Terrace",
   "description": "20 Carlton House Terrace is a commercial refurbishment and expansion project in St James’s, London.",
@@ -44,6 +44,7 @@
   ],
   "partners": [
     "Graham Stirk",
+    "John McElgunn",
     "Andrew Morris"
   ],
   "leaders": [
