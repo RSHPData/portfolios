@@ -7,10 +7,10 @@
   ],
   "type": "Project",
   "id": "10620",
-  "serializeDate": "'2023-08-31 17:06:48.221'",
-  "serialized": 1693501608221,
+  "serializeDate": "'2023-09-22 14:30:03.111'",
+  "serialized": 1695393003111,
   "serializedBy": "heatherp",
-  "time": "2023-08-31T17:06:47.734195Z",
+  "time": "2023-09-22T14:30:02.8808562Z",
   "status": "PU",
   "title": "Centre de conservation du Louvre à Liévin",
   "description": "RSHP won an international competition to design a new collections facility for the Louvre in 2015. The facility is designed to integrate storage and conservation of more than 250,000 works of art that are currently distributed between 60 different locations around France. The winning proposals create an environmentally sensitive and elegantly understated facility emerging discretely from the landscape.",
@@ -22,7 +22,7 @@
   "longLat": "2.804547  / 50.431529",
   "longitude": "2.804547 ",
   "latitude": "50.431529",
-  "constructionCost": "€ 35 million",
+  "constructionCost": "€ 38.7 million",
   "team": [
     "Ainhoa Abreu Diaz",
     "Stephen Barrett",
@@ -68,6 +68,11 @@
       "label": "Gross Area",
       "value": "20 000 m²",
       "id": "b8ae1b61d9d441faa297062e966a7a97"
+    },
+    {
+      "label": "Net Area",
+      "value": "18 500 m²",
+      "id": "150fc914f4684bd386bbbd2dbd7c2c6a"
     }
   ],
   "companies": [
