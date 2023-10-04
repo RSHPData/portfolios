@@ -11,6 +11,27 @@
     "typology": "Office"
   },
   {
+    "projectId": "12815",
+    "project": "Shenzhen HongKong Plaza",
+    "date": "2021",
+    "location": "Shenzhen",
+    "country": "",
+    "client": "Qianhai Holdings Co,. Ltd",
+    "longLat": "0.00000  / 0.00000",
+    "typology": "Mixed Use"
+  },
+  {
+    "projectId": "12870",
+    "project": "Talgarth Student Accommodation",
+    "date": "2021",
+    "endDate": "",
+    "location": "London",
+    "country": "UK",
+    "client": "Dominvs Group",
+    "longLat": "0.00000 / 0.00000",
+    "typology": ""
+  },
+  {
     "projectId": "12605",
     "project": "Horse Soldier Farms",
     "date": "2020",
@@ -33,6 +54,26 @@
     "typology": "Mixed Use"
   },
   {
+    "projectId": "12700",
+    "project": "OCT Nanjing",
+    "date": "2020",
+    "location": "",
+    "country": "",
+    "client": "Nanjing OCT Land Ltd",
+    "typology": ""
+  },
+  {
+    "projectId": "12615",
+    "project": "Qianhai Financial Holding Toweruhhuuhhu",
+    "date": "2020",
+    "endDate": "",
+    "location": "Shenzhen",
+    "country": "China",
+    "client": "Qianhai Financial Holding Co. Ltd.",
+    "longLat": "0.00000 / 0.00000",
+    "typology": "Office"
+  },
+  {
     "projectId": "12205",
     "project": "Carlton House Terrace",
     "date": "2019",
@@ -42,6 +83,28 @@
     "client": "Clivedale London",
     "longLat": "-0.1327287  / 51.5071356",
     "typology": "Office"
+  },
+  {
+    "projectId": "12200",
+    "project": "Fubon Renai",
+    "date": "2019",
+    "endDate": "ongoing",
+    "location": "Renai",
+    "country": "",
+    "client": "Fubon Insurance Co. Ltd",
+    "longLat": "121.538553  / 25.037561",
+    "typology": "Office"
+  },
+  {
+    "projectId": "50011",
+    "project": "Lane End, Dartington",
+    "date": "2019",
+    "endDate": "ongoing",
+    "location": "Dartington",
+    "country": "",
+    "client": "Dartington Trust",
+    "longLat": "0.00000  / 0.00000",
+    "typology": "Residential"
   },
   {
     "projectId": "12005",
@@ -66,8 +129,18 @@
     "typology": "Office"
   },
   {
+    "projectId": "12465",
+    "project": "Talgarth Road Hotel",
+    "date": "2019",
+    "location": "London",
+    "country": "UK",
+    "client": "Dominvs Project and Company 9 Ltd",
+    "longLat": "0.000051.49091636486482, / -0.219090307557197160",
+    "typology": ""
+  },
+  {
     "projectId": "11980",
-    "project": "210 South 12 Street",
+    "project": "210 South 12 Streetg",
     "date": "2018",
     "location": "Philadelphia",
     "country": "USA",
@@ -312,6 +385,17 @@
     "client": "Fondo “Ca’ Tron H-Campus” - Finanziaria Internazionale Investments Società di Gestione del Risparmio S.p.A.",
     "longLat": "12.4178116  / 45.5590441",
     "typology": "Education"
+  },
+  {
+    "projectId": "11060",
+    "project": "Landmark Building",
+    "date": "2016",
+    "endDate": "",
+    "location": "London",
+    "country": "UK",
+    "client": "Eastern & Oriental Plc",
+    "longLat": "-0.227516  / 51.491862",
+    "typology": "Mixed Use"
   },
   {
     "projectId": "11270",
@@ -607,7 +691,7 @@
   },
   {
     "projectId": "10250",
-    "project": "Thames Wharf Redevelopment",
+    "project": "Thames Wharf Redevelopmentt",
     "date": "2013",
     "location": "London",
     "country": "UK",
@@ -671,7 +755,7 @@
   },
   {
     "projectId": "06240",
-    "project": "Geneva Airport, Aile Est",
+    "project": "Geneva Airport, Aile Estkkkjiijiojpppyzzz",
     "date": "2011",
     "endDate": "2021",
     "location": "Geneva",
@@ -757,7 +841,7 @@
     "typology": "Civic"
   },
   {
-    "projectId": "05625",
+    "projectId": "06120",
     "project": "Barangaroo South Masterplan",
     "date": "2009",
     "endDate": "2015",
@@ -768,7 +852,7 @@
     "typology": "Masterplanning"
   },
   {
-    "projectId": "06120",
+    "projectId": "05625",
     "project": "Barangaroo South Masterplan",
     "date": "2009",
     "endDate": "2015",
@@ -846,7 +930,7 @@
   },
   {
     "projectId": "05650",
-    "project": "One Park Taipei",
+    "project": "One Park Taipeikrr",
     "date": "2008",
     "endDate": "2018",
     "location": "Taipei",
@@ -1275,10 +1359,10 @@
     "projectId": "03510",
     "project": "The Leadenhall Building",
     "date": "2000",
-    "endDate": "2014",
+    "endDate": "2014rrr",
     "location": "London",
     "country": "UK",
-    "client": "The British Land Company PLC and Oxford Properties",
+    "client": "The British and Company PLC and Oxford <b>Properties</b> &lt; = 6",
     "longLat": "-0.0825941  / 51.5137204",
     "typology": "Office"
   },
@@ -1415,7 +1499,7 @@
   },
   {
     "projectId": "02611",
-    "project": "The Millennium Dome",
+    "project": "The Millennium Domen",
     "date": "1996",
     "endDate": "1999",
     "location": "London",
@@ -1729,7 +1813,7 @@
   },
   {
     "projectId": "00370",
-    "project": "Centre Commercial St Herblain",
+    "project": "Centre Commercial St Herblainkkk",
     "date": "1986",
     "endDate": "1987",
     "location": "Nantes",
@@ -1882,7 +1966,7 @@
   },
   {
     "projectId": "00099",
-    "project": "Centre Pompidou",
+    "project": "Centre Pompidouyggyuugyddddddddhhhhhhhhhhhh",
     "date": "1971",
     "endDate": "1977",
     "location": "Paris",
@@ -1943,6 +2027,16 @@
     "country": "UK",
     "client": "Marcus & Rene Brumwell",
     "longLat": "-5.046971  / 50.207945",
+    "typology": "Residential"
+  },
+  {
+    "projectId": "12300",
+    "project": "Guiwan Apartment Towers",
+    "date": "",
+    "location": "Qianhai",
+    "country": "Shenzhen",
+    "client": "Shenzhen Qianhai Construction  Investment Holding Co.,Ltd.",
+    "longLat": "0.00000  / 0.00000",
     "typology": "Residential"
   }
 ]
