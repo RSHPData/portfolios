@@ -7,27 +7,34 @@
   ],
   "type": "Project",
   "id": "03510",
-  "serializeDate": "'2023-10-04 13:33:44.829'",
-  "serialized": 1696426424829,
+  "serializeDate": "'2023-10-10 10:21:08.765'",
+  "serialized": 1696933268765,
   "serializedBy": "sreeve",
-  "time": "2023-10-04T13:31:38.1233074Z",
+  "time": "2023-10-10T10:20:42.6130189Z",
   "status": "PU",
-  "description": "This 50-storey tower <b>opposite</b> Lloyd’s of London44444 ris&lt;es to a height of 224.5 metres (802 feet), its slender formyyy creating its own distinctive profile withinddihhh4e44e44ee4kkttttttii88U8YYYFFFjjijikkk",
-  "client": "The British and Company PLC and Oxford <b>Properties</b> &lt; = 6",
-  "location": "UK",
+  "title": "The Leadenhall Building",
+  "description": "This 50-storey tower opposite Lloyd’s of London rises to a height of 224.5 metres (802 feet), its slender form creating its own distinctive profile within an emerging cluster of tall buildings in this part of the City of London.",
+  "date": "2000-2014",
+  "client": "The British Land Company PLC and Oxford Properties",
+  "location": "London, UK",
+  "city": "London",
   "country": "UK",
+  "longLat": "-0.0825941  / 51.5137204",
   "longitude": "-0.0825941 ",
+  "latitude": "51.5137204",
   "constructionCost": "£ 340 000 000",
   "team": [
-    "Maurice Brennn",
+    "Maurice Brennan",
     "Andy Bryce",
+    "Elisa Casciano",
     "James Chapman",
     "Serena Croxson",
-    "Philip Dennisg",
+    "Philip Dennis",
+    "Christopher Finkin",
     "Tobi Frenzen",
-    "Lennart Grut",
     "Russell Gilchrist",
     "Mark Gorton",
+    "Lennart Grut",
     "Jan Güell",
     "Mark Hallett",
     "Dirk Krolikowski",
@@ -51,6 +58,8 @@
     "Richard Rogers",
     "Laura Sandiford",
     "Patricia Sendin",
+    "Graham Stirk",
+    "Will Thorne",
     "Simon Tonks",
     "German De La Torre",
     "Kenny Tsui",
@@ -60,14 +69,29 @@
     "Andrew Yek",
     "Jacqueline Yeung"
   ],
+  "partners": [
+    "Graham Stirk",
+    "Andrew Morris"
+  ],
+  "leaders": [
+    "Maurice Brennan",
+    "Andy Bryce"
+  ],
+  "heights": [
+    {
+      "value": "224.5m",
+      "id": "2EBAA993AEF44703B56455"
+    }
+  ],
   "floors": [
     {
       "value": "48",
       "id": "16BD2D22CF1042A6812073"
     }
   ],
+  "overview": "<div><p>This 50-storey tower opposite <a href=\"projects/office/lloyds-of-london/\">Lloyd’s of London</a> rises to a height of 224.5 metres (802 feet), its slender form creating its own distinctive profile within an emerging cluster of tall buildings in this part of the City of London. The building’s tapering profile is prompted by a requirement to respect views of St Paul’s Cathedral, in particular from Fleet Street. The tower’s design ensures that from this key vantage point the cathedral’s dome is still framed by a clear expanse of sky.</p><p>The office floors are designed to meet the highest quality office space standards taking the form of rectangular floor plates which progressively diminish in depth towards the apex. Instead of a traditional central core providing structural stability, the building employs a full perimeter braced tube which defines the edge of the office floor plates and creates stability under wind loads. The circulation and servicing core is located in a detached north-facing tower, containing colour-coded passenger and goods lifts, service risers and on-floor plant and WCs.</p><p>The building’s envelope expresses the diversity of what it encloses, reinforcing the composition and providing legibility to the primary elements. Although the tower occupies the entire site, the scheme delivers an unprecedented allocation of public space – the lower levels are recessed on a raking diagonal to create a spectacular, sun-lit seven-storey high space complete with shops, and soft landscaped public space.</p><p>This public space offers a half-acre extension to the adjacent piazza of St Helen’s Square. Overlooking the space is a public bar and restaurant served by glazed lifts. This new public space provides a rare breathing space within the dense urban character of the City of London.</p></div>",
   "design": "<div><p>The Leadenhall Building comprises a number of distinct architectural elements that provide clarity to the composition both as a whole and as a legible expression of its constituent parts. These elements include the primary stability structure, the ladder frame, the office floor plates, the northern support core, the external envelope and the public realm.</p><p>The structure aims to reinforce the geometry defined by the development envelope, which in turn created the distinctive tapering form. The primary stability structure takes the form of a perimeter braced ‘tube’ that defines the extent of the floor plates. This tubular steel megaframe can be read at a macro level within the city and at a micro level in the immediate vicinity of the building, the vertical circulation systems are expressed behind a façade of clear glazing offering occupants and passers-by views into and out of the building.</p><p>The ladder frame contributes to the vertical emphasis of the building, and encloses the fire-fighting cores that serve the office floors. The frame also visually anchors the building to the ground.</p><p>The office floors take the form of simple rectangular floor plates which progressively diminish in depth by 750 millimetres towards the apex. Office floors are connected to the structural ‘tube’ at every floor level without the need for secondary vertical columns at the perimeter. The northern support core is conceived as a detached tower containing all passenger and goods lifts, service risers, on-floor plant and WCs. Three groups of passenger lifts serve the low-, mid- and high-rise sections of the building, and are connected by two transfer lobbies at levels 10 and 24.</p><p>The building is designed with the flexibility to be let either to a single tenant or to multiple tenants who would occupy any number of floors as necessary. The diminishing size of the floor plates allows for the possibility of creating south-facing atria with multi-floor tenancies.</p><p>The position of the northern support core relative to the office areas means that the structure is not required to be over-clad with fire protection, allowing the whole to be designed and expressed as visible steelwork. This articulated steel frame provides clarity to the complete assemblage.</p><p>The highly transparent glazed enclosure makes manifest the structureand movement systems within; its physical presence is a striking and dynamic addition to the City and a unique spectacle for the enjoyment for passers-by.</p><p>The building is designed to express all its constituent elements behind a single glazed envelope. Façades to the office areas require the highest comfort criteria in relation to heat loss, daylight, glare control and solar gain. Here, the façades are supplemented with an internal layer of double-glazing, forming a cavity which incorporates the structural frame. The external glazing incorporates vents at node levels to allow outside air to enter and discharge from the cavity. Controlled blinds in the cavity automatically adjust to limit unwanted solar gain and glare.</p><p>The lower levels of the building are recessed on a raking diagonal to create a large, seven-storey public space that opens up to the south. The spectacular scale of the semi-enclosed, cathedral-like space is without precedent in London and will create a major new meeting place and a unique destination in itself. Overlooking the space are a bar and restaurant with generous terrace areas that provide animation and views into the public space and beyond. Open at ground level to give access from all directions, the public space is fully accessible by means of a large, gently sloped surface connecting St Helen’s Square with Leadenhall Street.</p></div>",
-  "concept": "<div><p>The site <b>identified</b>  for a new speculatively let office tower in the City of London is surrounded by listed buildings and churches in the immediate vicinity of Leadenhall Street.  &lt; kkk ghh Initially, a number of design strategies were explored in terms of their relationship to the listed surroundings as well as to the existing cluster of nearby tall buildings, the neighbouring 1969 St Helen’s building (previously known as the Aviva Tower and CGNU), the impact on the view of Sir Christopher Wren’s St Paul’s Cathedral and the potential public realm benefits. These myriad factors led to the identification of a tall, tapered development envelope (the specifically designated area within which all structures are to be contained on a site).</p><p>Various potential solutions were explored within this envelope, including a mid-rise rectangular block that filled the site, a stepped profile building and a slender high-rise. The final tall, sloped form emerged following an examination of the relative merits of each option. As its height increases and profile narrows, the mass of the building pulls away from the sensitive view of St Paul’s from Fleet Street.</p><p>The inclined form, tapering away from the Cathedral, creates a spire-like western elevation which produces a contrasting form to the soft profile of the Cathedral’s dome and complements its setting within the existing spires of the north and south entry towers and Wren’s St Martin-within-Ludgate church. This important composition only becomes visible from the northern pavement of Fleet Street.</p><p>In addition, the decreasing profile provides a logical termination to a tall building, allowing it to create its own distinctive profile and to become a positive addition to the London skyline. The ability to build high within the development allows for the provision of a significant public space at the building’s base – maintaining existing pedestrian connections and creating an important new meeting space in the City – without compromising on lettable area.</p></div>",
+  "concept": "<div><p>The site identified for a new speculatively let office tower in the City of London is surrounded by listed buildings and churches in the immediate vicinity of Leadenhall Street.</p><p>Initially, a number of design strategies were explored in terms of their relationship to the listed surroundings as well as to the existing cluster of nearby tall buildings, the neighbouring 1969 St Helen’s building (previously known as the Aviva Tower and CGNU), the impact on the view of Sir Christopher Wren’s St Paul’s Cathedral and the potential public realm benefits. These myriad factors led to the identification of a tall, tapered development envelope (the specifically designated area within which all structures are to be contained on a site).</p><p>Various potential solutions were explored within this envelope, including a mid-rise rectangular block that filled the site, a stepped profile building and a slender high-rise. The final tall, sloped form emerged following an examination of the relative merits of each option. As its height increases and profile narrows, the mass of the building pulls away from the sensitive view of St Paul’s from Fleet Street.</p><p>The inclined form, tapering away from the Cathedral, creates a spire-like western elevation which produces a contrasting form to the soft profile of the Cathedral’s dome and complements its setting within the existing spires of the north and south entry towers and Wren’s St Martin-within-Ludgate church. This important composition only becomes visible from the northern pavement of Fleet Street.</p><p>In addition, the decreasing profile provides a logical termination to a tall building, allowing it to create its own distinctive profile and to become a positive addition to the London skyline. The ability to build high within the development allows for the provision of a significant public space at the building’s base – maintaining existing pedestrian connections and creating an important new meeting space in the City – without compromising on lettable area.</p></div>",
   "construction": "<div><p>The Leadenhall Building’s erection was one of the fastest pieces of large-scale construction to take place in the UK. Work recommenced on site in September 2011, following a pause in development during the economic downturn, with the superstructure given a planned completion timescale of just 11 months.</p><p>The Leadenhall’s construction site was extraordinarily tight, with the building’s footprint reaching right up to the perimeter. As a result, in combination with the building’s location in the City of London, there was no set-down space, storage or space to work on site. Every part of the building had to arrive on site prefabricated and ready for installation.</p><p>In collaboration with construction managers Laing O’Rourke, the construction processes were streamlined and the superstructure divided into large components to be prefabricated off-site and brought to site to a strict timetable. Much of the construction work for the building was done in factories and workshops around Europe, so only the final assembly of parts took place on site.</p><p>The yellow ‘tables’ which make up the north core were each designed to fit perfectly on a long-bed lorry, with three tables making up one level of the core. These were manufactured at a steelworks in Ireland, shipped to Liverpool where the concrete floors were added and services fixed before being driven to site. Each part of the megaframe was fabricated in Wolverhampton, coated with intumescant paint (for fire protection) and sent to site according to a strict timescale. Due to the large size of such components, deliveries to site could only take place outside of office hours to ensure that there was no impact on city trading.</p><p>The superstructure was completed in the summer of 2013 and the building was completed to ‘shell and core’ standard in July 2014. Internal tenants’ fit out and landscaping of the ground floor public space has followed on from this and the first tenants will move into the building in 2015.</p></div>",
   "dimensions": [
     {
@@ -76,25 +100,31 @@
       "id": "515d0a2ac9cc452898d8120331fbd804"
     },
     {
-      "value": "sss",
-      "id": "ebcb1b0a737e4ace80a43703cee2f3ff"
+      "label": "Gross Internal Area",
+      "value": "84 424 m²",
+      "id": "ea7674dd60154535b401aa04a9358a19"
+    },
+    {
+      "label": "Lettable Area",
+      "value": "60 250 m²",
+      "id": "f068051b67af40a986dadd06863bc97e"
     }
   ],
   "companies": [
     {
-      "label": "Bu",
+      "label": "Building owner since June 2017",
       "value": "CC Land Holdings Limited",
       "id": "99069e0dad4444a8930e62c96ffbe446"
+    },
+    {
+      "label": "Structural Engineer",
+      "value": "Arup",
+      "id": "6e56bb18404d4795a631a18d722cbcbf"
     },
     {
       "label": "Services Engineer",
       "value": "Arup",
       "id": "88d8defa60df46dfb1a3fdf02c76c72f"
-    },
-    {
-      "label": "Structural Engineer",
-      "value": "Arupp",
-      "id": "6e56bb18404d4795a631a18d722cbcbf"
     },
     {
       "label": "Quantity Surveyor",
@@ -117,7 +147,8 @@
       "id": "6739b7b34da44d1fa97a04982cb53c9a"
     },
     {
-      "label": "Planning Consultan",
+      "label": "Planning Consultant",
+      "value": "DP9",
       "id": "ae2b457773f24300b51ae315efcb62e2"
     },
     {
@@ -126,9 +157,89 @@
       "id": "7b1c995002e847afbdd31dba7b0604e9"
     },
     {
+      "label": "Townscape Consultant",
+      "value": "Francis Golding",
+      "id": "61df5a225a9c4f99be7855e98925bb4e"
+    },
+    {
       "label": "Project Manager",
       "value": "WSP",
       "id": "aa9bd35cec5c42db967fcb9919f55c7a"
+    }
+  ],
+  "awards": [
+    {
+      "date": "2018-01-01",
+      "year": "2018",
+      "award": "RIBA National Award",
+      "rowId": "392F74F9EF6F434AB9F378B94422FB5B"
+    },
+    {
+      "date": "2018-01-01",
+      "year": "2018",
+      "award": "RIBA London Award 2018",
+      "rowId": "36cae8786680436381afab03eaa2ec40"
+    },
+    {
+      "date": "2017-01-01",
+      "year": "2017",
+      "award": "The British Constructional Steelwork Association Awards, Main National Award Winner and Special Award for Best Overall Project",
+      "rowId": "deb4895904294d2b9d314120574aafc7"
+    },
+    {
+      "date": "2016-01-01",
+      "year": "2016",
+      "award": "BCO Best Design Innovation Award 2016 shortlist",
+      "rowId": "2778b39c4b0f439fa7d1155e9d463788"
+    },
+    {
+      "date": "2016-01-01",
+      "year": "2016",
+      "award": "BCO Best Commercial Workplace in the UK",
+      "rowId": "bc081e895bbd4c3c8d4ee16797029cb5"
+    },
+    {
+      "date": "2016-01-01",
+      "year": "2016",
+      "award": "NLA Best Commercial Building",
+      "rowId": "147fb5b1519f47818eb053f218450cda"
+    },
+    {
+      "date": "2015-01-01",
+      "year": "2015",
+      "award": "British Council for Offices Innovation Award",
+      "rowId": "72061676c3044a07bdf02311baee6b52"
+    },
+    {
+      "date": "2015-01-01",
+      "year": "2015",
+      "award": "British Council for Offices 'Best Commercial Office London and the South East'",
+      "rowId": "f671d29c78b74b958bfcdc162046f936"
+    },
+    {
+      "date": "2015-01-01",
+      "year": "2015",
+      "award": "City of London Building of the Year",
+      "rowId": "b92cf17af9294451bc890c8f3fc1e943"
+    },
+    {
+      "date": "2011-01-01",
+      "year": "2011",
+      "award": "Pre-certified BREEAM Excellent Rating",
+      "rowId": "977cde5adee847538060973864d77f5c"
+    },
+    {
+      "date": "2011-01-01",
+      "year": "2011",
+      "award": "Working (Unbuilt category): NLA Awards",
+      "rowId": "C8F3E56294504EBF999531153AF22224"
+    }
+  ],
+  "certificates": [
+    {
+      "authority": "BREEAM",
+      "rating": "Excellent",
+      "rowId": "1"
     }
   ]
 }
