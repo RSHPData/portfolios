@@ -1,21 +1,27 @@
 {
-  "type": "Project",
-  "id": "04640",
-  "url": "810:residential/highpoint",
-  "serializeDate": "'2022-07-20 12:16:37.019'",
-  "serialized": 1658319397019,
-  "serializedBy": "sreeve",
-  "title": "UNCLE Elephant and Castle",
-  "description": "UNCLE Elephant and Castle comprises two residential buildings, one of 45 storeys and the other seven storeys. Apartments are allocated as a combination of rental housing, affordable housing through the London Wide Initiative (LWI) housing, and housing available through the open market. In addition to this, the scheme includes a theatre, community open space, cycle storage and recycling facilities at basement level.",
-  "date": "2006 - 2017",
-  "client": "Mace, Realstar Group",
-  "location": "London, UK",
-  "longLat": "-0.10243932844630002 / 51.49266397847788",
-  "longitude": "-0.10243932844630002",
-  "latitude": "51.49266397847788",
+  "name": "UNCLE Elephant and Castle",
+  "url": "residential/highpoint",
+  "webStatus": "Publish",
   "typologies": [
     "Residential"
   ],
+  "type": "Project",
+  "id": "04640",
+  "serializeDate": "'2023-10-17 12:09:32.327'",
+  "serialized": 1697544572327,
+  "serializedBy": "heatherp",
+  "time": "2023-10-17T12:09:31.4945941Z",
+  "status": "PU",
+  "title": "UNCLE Elephant and Castle",
+  "description": "UNCLE Elephant and Castle comprises two residential buildings, one of 45 storeys and the other seven storeys. Apartments are allocated as a combination of rental housing, affordable housing through the London Wide Initiative (LWI) housing, and housing available through the open market. In addition to this, the scheme includes a theatre, community open space, cycle storage and recycling facilities at basement level.",
+  "date": "2006 - 2018",
+  "client": "Mace, Realstar Group",
+  "location": "London, UK",
+  "city": "London",
+  "country": "UK",
+  "longLat": "-0.10243932844630002 / 51.49266397847788",
+  "longitude": "-0.10243932844630002",
+  "latitude": "51.49266397847788",
   "team": [
     "Dennis Austin",
     "Elena Arzua Tourino",
@@ -73,7 +79,7 @@
       "id": "7f3dbf5f6a32413381d623f2ffaa0808"
     }
   ],
-  "overview": "RSHP was commissioned to design a high-density, mixed-tenure residential development on the site of the London Park Hotel in London’s Elephant and Castle area. Mace Developments, in conjunction with Axis Architects, developed and delivered the schematic design, completing in 2017.\n\nThe scheme comprises two residential buildings, one of 45 storeys and the other seven storeys. Apartments are allocated as a combination of rental housing, affordable housing through the London Wide Initiative (LWI) housing, and housing available through the open market. In addition to this, the scheme includes a theatre, community open space, cycle storage and recycling facilities at basement level.\n\nThe design comprises a compact, slender 142m tower, animated by suspended corner balconies which give the building a unique scale, grain and skyline and have panoramic views across London. The tower, which has a sky garden accessible to all residents, is accompanied by a lower terrace with multiple entrances which enliven the street.\n\nThe terraced building, an innovative timber construction building, has a planted roof which acts as a visual amenity, and sits below the height of the trees in the adjacent churchyard, a much-valued local green space.\n\nThe base of the tower has a residential lobby and café, adjacent to the Southwark Playhouse Theatre which is semi-submerged in a landscaped private garden. The approach to the tower and theatre is defined by a public piazza accessed from the main road (Newington Butts). The scheme aims to enhance the immediate local environment and to act as a catalyst for the wider revitalisation of Elephant and Castle.",
+  "overview": "<div><p>RSHP was commissioned to design a high-density, mixed-tenure residential development on the site of the London Park Hotel in London’s Elephant and Castle area. Mace Developments, in conjunction with Axis Architects, developed and delivered the schematic design, completing in 2017.</p><p>The scheme comprises two residential buildings, one of 45 storeys and the other seven storeys. Apartments are allocated as a combination of rental housing, affordable housing through the London Wide Initiative (LWI) housing, and housing available through the open market. In addition to this, the scheme includes a theatre, community open space, cycle storage and recycling facilities at basement level.</p><p>The design comprises a compact, slender 142m tower, animated by suspended corner balconies which give the building a unique scale, grain and skyline and have panoramic views across London. The tower, which has a sky garden accessible to all residents, is accompanied by a lower terrace with multiple entrances which enliven the street.</p><p>The terraced building, an innovative timber construction building, has a planted roof which acts as a visual amenity, and sits below the height of the trees in the adjacent churchyard, a much-valued local green space.</p><p>The base of the tower has a residential lobby and café, adjacent to the Southwark Playhouse Theatre which is semi-submerged in a landscaped private garden. The approach to the tower and theatre is defined by a public piazza accessed from the main road (Newington Butts). The scheme aims to enhance the immediate local environment and to act as a catalyst for the wider revitalisation of Elephant and Castle.</p></div>",
   "dimensions": [],
   "companies": [
     {
