@@ -1,25 +1,33 @@
 {
+  "name": "The Richard Rogers Drawing Gallery",
+  "url": "culture-and-leisure/the-richard-rogers-drawing-gallery",
+  "webStatus": "Publish",
+  "typologies": [
+    "Culture & Leisure"
+  ],
   "type": "Project",
   "id": "06650",
-  "url": "culture-and-leisure/the-richard-rogers-drawing-gallery",
-  "serializeDate": "'2022-06-27 15:40:48.015'",
-  "serialized": 1656344448015,
-  "serializedBy": "sreeve",
+  "serializeDate": "'2023-10-24 09:18:00.220'",
+  "serialized": 1698139080220,
+  "serializedBy": "heatherp",
+  "time": "2023-10-24T09:17:59.5717004Z",
+  "status": "PU",
   "title": "The Richard Rogers’ Drawing Gallery",
   "description": "The gallery is located within Château La Coste, a 200-hectare site (of which 130 hectares are devoted to vineyards) housing a unique mixture of contemporary art.",
   "date": "2017-2020",
   "client": "Château La Coste",
   "location": "Provence, France",
+  "city": "Provence",
+  "country": "France",
   "longLat": "5.418039  / 43.629662",
   "longitude": "5.418039 ",
   "latitude": "43.629662",
-  "typologies": [
-    "Culture & Leisure"
-  ],
   "team": [
     "Alba Fernández Arias",
     "Juan Carpio",
     "Kelly Darlington",
+    "Mark Darbon",
+    "Mike Fairbrass",
     "Ed Hiscock",
     "Annette Main",
     "Borja Muguiro",
@@ -37,7 +45,7 @@
   "leaders": [
     "Stephen Spence"
   ],
-  "overview": "The Richard Rogers Drawing Gallery is a 120m² simple orthogonal rectangle of 4m high by 5m wide. Opaque, except for floor-to-ceiling glazing at both ends, the gallery serves to concentrate the visitor’s gaze, directing them to unique and unexpected views.\n\nThe gallery is located within Château La Coste, a 200-hectare site (of which 130 hectares are devoted to vineyards) housing a unique mixture of contemporary art, architecture and the production of wine, each connected by a series of meandering pathways.\n\nHaving discussed a potential project over a number of years, Richard Rogers visited the site with the owner in 2017 and handpicked a location for the gallery. The site chosen was a remote, sloping, heavily-wooded area located off an isolated dirt track. However, located at a high point within the development, it offered unique and dramatic views both across Château La Coste and the surrounding Provence area.\n\n\nWith a desire to minimise disturbance to the natural landscape and the sloping nature of the site, the decision was made that the building should touch the ground lightly. The design concept quickly developed into that of a simple structure which cantilevers out dramatically into the crown of the trees.\n\nThe gallery is accessed via a lightweight bridge lightly tethered to the ground and responsive to movement, the intention being that the visitor is stepping off the solid ground into a more dynamic structure. At the far end is an external terrace where the visitor is face to face with nature.\n\n\nThe gallery space is lined with white walls and ceiling, and the open plan layout is designed for flexibility to accommodate a series of future temporary exhibitions. Air conditioning is via a floor plenum and introduced at low level. It is extracted at high level, but both primary air ducts run externally below the gallery back to a plant room discretely located in a separate building.\n\nLocated remotely, the design dictated that each of the building’s elements would be limited in size in order to facilitate transport to the site. The exposed primary structural frame was therefore designed with emphasis put into both the connection and articulation of the structural frame. Highlighted in a dramatic orange colour, it contrasts with the simplicity of the stainless steel-clad gallery box contained within.",
+  "overview": "<div><p>The Richard Rogers Drawing Gallery is a 120m² simple orthogonal rectangle of 4m high by 5m wide. Opaque, except for floor-to-ceiling glazing at both ends, the gallery serves to concentrate the visitor’s gaze, directing them to unique and unexpected views.</p><p>The gallery is located within Château La Coste, a 200-hectare site (of which 130 hectares are devoted to vineyards) housing a unique mixture of contemporary art, architecture and the production of wine, each connected by a series of meandering pathways.</p><p>Having discussed a potential project over a number of years, Richard Rogers visited the site with the owner in 2017 and handpicked a location for the gallery. The site chosen was a remote, sloping, heavily-wooded area located off an isolated dirt track. However, located at a high point within the development, it offered unique and dramatic views both across Château La Coste and the surrounding Provence area.</p><p>With a desire to minimise disturbance to the natural landscape and the sloping nature of the site, the decision was made that the building should touch the ground lightly. The design concept quickly developed into that of a simple structure which cantilevers out dramatically into the crown of the trees.</p><p>The gallery is accessed via a lightweight bridge lightly tethered to the ground and responsive to movement, the intention being that the visitor is stepping off the solid ground into a more dynamic structure. At the far end is an external terrace where the visitor is face to face with nature.</p><p>The gallery space is lined with white walls and ceiling, and the open plan layout is designed for flexibility to accommodate a series of future temporary exhibitions. Air conditioning is via a floor plenum and introduced at low level. It is extracted at high level, but both primary air ducts run externally below the gallery back to a plant room discretely located in a separate building.</p><p>Located remotely, the design dictated that each of the building’s elements would be limited in size in order to facilitate transport to the site. The exposed primary structural frame was therefore designed with emphasis put into both the connection and articulation of the structural frame. Highlighted in a dramatic orange colour, it contrasts with the simplicity of the stainless steel-clad gallery box contained within.</p></div>",
   "dimensions": [
     {
       "label": "Site Area",
@@ -81,7 +89,5 @@
       "value": "Rainey+Best",
       "id": "088e03759d7f40cb86c779d65f4791d1"
     }
-  ],
-  "awards": [],
-  "certificates": []
+  ]
 }
