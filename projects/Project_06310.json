@@ -1,15 +1,16 @@
 {
   "name": "Maryah Plaza",
+  "url": "mixed-use/maryah-plaza",
   "webStatus": "Publish",
   "typologies": [
     "Mixed Use"
   ],
   "type": "Project",
   "id": "06310",
-  "serializeDate": "'2023-10-26 14:40:51.565'",
-  "serialized": 1698331251565,
+  "serializeDate": "'2023-10-26 14:43:20.477'",
+  "serialized": 1698331400477,
   "serializedBy": "heatherp",
-  "time": "2023-10-26T14:40:51.5207994Z",
+  "time": "2023-10-26T14:43:20.4622955Z",
   "status": "PU",
   "title": "Maryah Plaza",
   "date": "2010 -",
