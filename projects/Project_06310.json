@@ -1,0 +1,101 @@
+{
+  "name": "Maryah Plaza",
+  "webStatus": "Publish",
+  "typologies": [
+    "Mixed Use"
+  ],
+  "type": "Project",
+  "id": "06310",
+  "serializeDate": "'2023-10-26 14:39:49.513'",
+  "serialized": 1698331189513,
+  "serializedBy": "heatherp",
+  "time": "2023-10-26T14:39:48.8401812Z",
+  "status": "PU",
+  "title": "Maryah Plaza",
+  "date": "2010 -",
+  "client": "Farglory Group",
+  "location": "Abu Dhabi, United Arab Emirates",
+  "city": "Abu Dhabi",
+  "country": "United Arab Emirates",
+  "longLat": "54.39136557267 / 24.51387145690",
+  "longitude": "54.39136557267",
+  "latitude": "24.51387145690",
+  "constructionCost": "£478 million overall   £95 million first phase",
+  "team": [
+    "Kairo Baden-Powell",
+    "Yuting Cheng",
+    "Kelly Darlington",
+    "John Dawson",
+    "Philip Dennis",
+    "Mike Fairbrass",
+    "Tobi Frenzen",
+    "Maria Golasowska",
+    "Lennart Grut",
+    "Khuzema Hussain",
+    "Kyle Hyde",
+    "Anja Kempa",
+    "Willem Kok",
+    "Kinga Koren",
+    "Elena Larriba",
+    "Minghao Liu",
+    "Avtar Lotay",
+    "Andrea Marini",
+    "Jon Mercer",
+    "Mark Ng",
+    "Obi Okoye",
+    "Joseph Park",
+    "Richard Paul",
+    "Laura Penman",
+    "Robert Richardson",
+    "Richard Rogers",
+    "Laura Salisbury",
+    "Neil Southard",
+    "Graham Stirk",
+    "Tomas Tvarijonas",
+    "Ben Warner",
+    "Matthew Wilmar"
+  ],
+  "partners": [
+    "Richard Paul",
+    "Lennart Grut"
+  ],
+  "leaders": [
+    "Richard Paul"
+  ],
+  "heights": [
+    {
+      "value": "165.3m / 542ft",
+      "id": "8c328bbfec9540acb58b302d01f451d9"
+    }
+  ],
+  "floors": [
+    {
+      "value": "37",
+      "id": "9331cf68a6fd4975b8167b3cbcc5165f"
+    }
+  ],
+  "overview": "<div><p>Maryah Plaza is a 114-hectare mixed-use residential, retail, leisure, hotel, and commercial development in the heart of Abu Dhabi. It is designated by the emirate’s Urban Planning Council to be the capital’s Central Business District (CBD).</p><p>Working together with Taiwanese property developer Farglory Group, RSHP has designed Maryah Plaza, a four-tower luxury waterfront complex on the island providing approximately 500 premium residences aimed at both locals and tourists and ranging from one-bedroom apartments to penthouses.</p><p>Maryah Plaza has been conceived to complement the waterfront position, with maritime themes running through the design and great views over the water. The masterplan for the development also includes beautifully landscaped parks and shaded open spaces, art galleries, community centres, and a wide range of retail spaces, creating a diverse, rich and vibrant public realm that maximises permeability and connectivity throughout the site.</p><p>Situated in close proximity to Sowwah Square, Maryah Plaza will also offer convenient access to the island’s commercial hub, which features luxury retail, dining destinations and five-star hotels.</p></div>",
+  "dimensions": [],
+  "companies": [
+    {
+      "label": "Architect of Record",
+      "value": "Pascall+Watson",
+      "id": "8f80a8d7039349a28600225ed93990de"
+    },
+    {
+      "label": "Interior Design",
+      "value": "Stuart Forbes Associates",
+      "id": "ba1a0ea226274f8789eac85c383045be"
+    },
+    {
+      "label": "Landscape Design",
+      "value": "Gillespies",
+      "id": "671f9b8785364b4d838d86f3c1ec0fcc"
+    },
+    {
+      "label": "Engineer of Record",
+      "value": "BuroHappold Engineering",
+      "id": "83ca9170979047f4a3c72200ae52ed57"
+    }
+  ]
+}
