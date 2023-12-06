@@ -7,10 +7,10 @@
   ],
   "type": "Project",
   "id": "50003",
-  "serializeDate": "'2023-12-06 18:32:05.724'",
-  "serialized": 1701887525724,
+  "serializeDate": "'2023-12-06 18:39:43.755'",
+  "serialized": 1701887983755,
   "serializedBy": "heatherp",
-  "time": "2023-12-06T18:32:04.9255858Z",
+  "time": "2023-12-06T18:39:43.7402237Z",
   "status": "PU",
   "title": "Crofts Street",
   "description": "Crofts Street is a modular housing project comprising nine two-bedroom townhouses designed to be carbon positive in operation, built on brownfield land for council rent, built on brownfield land for council rent. It is the city’s first modular scheme and was awarded Welsh Government Innovative Housing Funding.",
@@ -107,6 +107,36 @@
   ],
   "awards": [
     {
+      "date": "2019-01-01",
+      "year": "2019",
+      "award": "What House Awards/Best Starter Homes/Gold Winner",
+      "rowId": "6382563805c74ac28d47ecd74b404922"
+    },
+    {
+      "date": "2022-01-01",
+      "year": "2022",
+      "award": "Resi Awards Winner/Climate Crisis Initiative Residential",
+      "rowId": "5890da40e4d048e1b88308c5b8c95473"
+    },
+    {
+      "date": "2022-01-01",
+      "year": "2022",
+      "award": "What House Awards/Best Sustainable Development/Silver Winner",
+      "rowId": "b9dadf47293e45cda1cefe5f44f97104"
+    },
+    {
+      "date": "2022-01-01",
+      "year": "2022",
+      "award": "Finalist - Building Awards/Offsite Project of the Year",
+      "rowId": "f82b81b86cc74a52a042b4dcea12e257"
+    },
+    {
+      "date": "2022-01-01",
+      "year": "2022",
+      "award": "Winner - Constructing Excellence in Wales Awards/MMC Award",
+      "rowId": "c7ca33c6eecd4408ab00fb86eef4bc75"
+    },
+    {
       "date": "2023-05-25",
       "year": "2023",
       "award": "RIBA/RSAW Award for Sustainability",
@@ -123,6 +153,18 @@
       "year": "2023",
       "award": "RIBA/RSAW Regional Award",
       "rowId": "63dccd1eca0349c6b9a3beaf12fa0450"
+    },
+    {
+      "date": "2023-01-01",
+      "year": "2023",
+      "award": "Shortlisted - AJ Architecture Awards/Up to £5m Housing",
+      "rowId": "b2024d9c02cc4f4e87ec7da7d9d64125"
+    },
+    {
+      "date": "2023-01-01",
+      "year": "2023",
+      "award": "Shortlisted - Offsite Awards/Social Housing Project of the Year",
+      "rowId": "853ca68c77d84001baeb9e42c42fd47b"
     }
   ],
   "certificates": [
