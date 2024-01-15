@@ -7,10 +7,10 @@
   ],
   "type": "Project",
   "id": "04640",
-  "serializeDate": "'2023-10-17 12:09:32.327'",
-  "serialized": 1697544572327,
+  "serializeDate": "'2024-01-15 11:04:38.143'",
+  "serialized": 1705316678143,
   "serializedBy": "heatherp",
-  "time": "2023-10-17T12:09:31.4945941Z",
+  "time": "2024-01-15T11:04:37.5759691Z",
   "status": "PU",
   "title": "UNCLE Elephant and Castle",
   "description": "UNCLE Elephant and Castle comprises two residential buildings, one of 45 storeys and the other seven storeys. Apartments are allocated as a combination of rental housing, affordable housing through the London Wide Initiative (LWI) housing, and housing available through the open market. In addition to this, the scheme includes a theatre, community open space, cycle storage and recycling facilities at basement level.",
@@ -104,7 +104,7 @@
     },
     {
       "label": "Planning Consultant",
-      "value": "D9",
+      "value": "DP9",
       "id": "8a54a7bb016c45458df762824cf7e647"
     },
     {
