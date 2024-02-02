@@ -1,22 +1,28 @@
 {
+  "name": "Capodichino Metro Station",
+  "url": "transport/capodichino-metro-station",
+  "webStatus": "Publish",
+  "typologies": [
+    "Transport"
+  ],
   "type": "Project",
   "id": "05100",
-  "url": "transport/capodichino-metro-station",
-  "serializeDate": "'2022-06-27 17:40:05.267'",
-  "serialized": 1656351605267,
-  "serializedBy": "sreeve",
+  "serializeDate": "'2024-02-02 17:00:17.785'",
+  "serialized": 1706893217785,
+  "serializedBy": "heatherp",
+  "time": "2024-02-02T17:00:17.754153Z",
+  "status": "PU",
   "title": "Capodichino Metro Station",
   "description": "The extension to the city of Naples’ Metropolitana Linea 1, part of the Naples Metro system, is a showpiece development, with each station designed by an international artist or architect.",
-  "date": "2006 -",
+  "date": "2006 - under construction",
   "client": "Metropolitana di Napoli",
   "location": "Naples, Italy",
+  "city": "Naples",
+  "country": "Italy",
   "longLat": "14.282387  / 40.877753",
   "longitude": "14.282387 ",
   "latitude": "40.877753",
   "constructionCost": "€60,000,000",
-  "typologies": [
-    "Transport"
-  ],
   "team": [
     "Davide Costa",
     "Amarjit Kalsi",
@@ -35,7 +41,7 @@
     "Amo Kalsi",
     "Leonardo Pelleriti"
   ],
-  "overview": "The extension to the city of Naples’ Metropolitana Linea 1, part of the Naples Metro system, is a showpiece development, with each station designed by an international artist or architect. RSHP's design for the Capodichino Aeroporto Station, which is located at the end of the extension to Linea 1, represents a significant opportunity to contribute to the regeneration of the city and the airport itself.\n\nThe new station will transform the existing airport terminal into a sustainable transport hub linked to the Napoli Centrale railway station in Piazza Garibaldi and the ferry terminal at Piazza Municipio.\n\n\nThe masterplan positions the metro station at the very heart of the airport, with easy pedestrian access to the departure and arrival terminals.\n\nA repeated, overlapping segment of the main roof structure extends to form a ground-level ‘tail’, creating a shaded, tree lined walkway to the car park, via taxi pick-up and drop-off points as well as cafés and shops.\n\n\nThe elliptical ‘well’ that descends to the underground trains is a central focus of the station’s design, and becomes animated by the vertical movement of passengers down colour-coded escalators.\n\nAn open steel and glass canopy will stretch across and oversail a subterranean piazza. The form of the roof allows natural light to penetrate deep into the internal space of the station, as well as allowing natural ventilation to circulate. It also provides protection from sunlight and rain for the piazza, creating a public space that offers a safe, protected environment for those passengers travelling between the station and the airport.",
+  "overview": "<div><p>The extension to the city of Naples’ Metropolitana Linea 1, part of the Naples Metro system, is a showpiece development, with each station designed by an international artist or architect. RSHP's design for the Capodichino Aeroporto Station, which is located at the end of the extension to Linea 1, represents a significant opportunity to contribute to the regeneration of the city and the airport itself.</p><p>The new station will transform the existing airport terminal into a sustainable transport hub linked to the Napoli Centrale railway station in Piazza Garibaldi and the ferry terminal at Piazza Municipio.</p><p>The masterplan positions the metro station at the very heart of the airport, with easy pedestrian access to the departure and arrival terminals.</p><p>A repeated, overlapping segment of the main roof structure extends to form a ground-level ‘tail’, creating a shaded, tree lined walkway to the car park, via taxi pick-up and drop-off points as well as cafés and shops.</p><p>The elliptical ‘well’ that descends to the underground trains is a central focus of the station’s design, and becomes animated by the vertical movement of passengers down colour-coded escalators.</p><p>An open steel and glass canopy will stretch across and oversail a subterranean piazza. The form of the roof allows natural light to penetrate deep into the internal space of the station, as well as allowing natural ventilation to circulate. It also provides protection from sunlight and rain for the piazza, creating a public space that offers a safe, protected environment for those passengers travelling between the station and the airport.</p></div>",
   "dimensions": [
     {
       "label": "Site Area",
