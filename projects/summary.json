@@ -803,6 +803,17 @@
     "typology": "Civic"
   },
   {
+    "projectId": "05950",
+    "project": "The River ONE",
+    "date": "2010",
+    "endDate": "2016",
+    "location": "Ningbo",
+    "country": "China",
+    "client": "Hongtai Group",
+    "longLat": "121.607199  / 29.861021",
+    "typology": "Residential"
+  },
+  {
     "projectId": "06110",
     "project": "Barangaroo South Masterplan",
     "date": "2009",
@@ -844,17 +855,6 @@
     "country": "UK",
     "client": "St James Group Limited",
     "longLat": "-0.13915  / 51.48232",
-    "typology": "Residential"
-  },
-  {
-    "projectId": "05950",
-    "project": "The River ONE",
-    "date": "2009",
-    "endDate": "",
-    "location": "Ningbo",
-    "country": "China",
-    "client": "Hongtai Group",
-    "longLat": "121.607199  / 29.861021",
     "typology": "Residential"
   },
   {
