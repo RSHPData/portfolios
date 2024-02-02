@@ -955,6 +955,17 @@
     "typology": "Office"
   },
   {
+    "projectId": "05420",
+    "project": "8 Chifley",
+    "date": "2006",
+    "endDate": "2013",
+    "location": "Sydney",
+    "country": "Australia",
+    "client": "Mirvac",
+    "longLat": "151.211233 / -33.866730",
+    "typology": "Office"
+  },
+  {
     "projectId": "05100",
     "project": "Capodichino Metro Station",
     "date": "2006",
@@ -1018,16 +1029,6 @@
     "client": "Mace, Realstar Group",
     "longLat": "-0.10243932844630002 / 51.49266397847788",
     "typology": "Residential"
-  },
-  {
-    "projectId": "05420",
-    "project": "8 Chifley",
-    "date": "2005",
-    "location": "Sydney",
-    "country": "Australia",
-    "client": "Mirvac",
-    "longLat": "151.211233 / -33.866730",
-    "typology": "Office"
   },
   {
     "projectId": "05110",
