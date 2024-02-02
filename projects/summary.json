@@ -98,6 +98,17 @@
     "typology": "Transport"
   },
   {
+    "projectId": "11810",
+    "project": "Grand Marnier Visitor Centre",
+    "date": "2018 - 21",
+    "endDate": "Unrealised",
+    "location": "Bourg-Charente, Cognac",
+    "country": "France",
+    "client": "Société des Produits Marnier-Lapostolle",
+    "longLat": "-0.225511 / 45.676824",
+    "typology": "Culture & Leisure"
+  },
+  {
     "projectId": "11980",
     "project": "210 South 12 Street",
     "date": "2018",
@@ -139,17 +150,6 @@
     "client": "Cardiff Living",
     "longLat": "-3.1640480168020035 / 51.490391086575436",
     "typology": "Residential"
-  },
-  {
-    "projectId": "11810",
-    "project": "Grand Marnier Visitor Centre",
-    "date": "2018",
-    "endDate": "21 (Unbuilt)",
-    "location": "Bourg-Charente, Cognac",
-    "country": "France",
-    "client": "Société des Produits Marnier-Lapostolle",
-    "longLat": "-0.225511 / 45.676824",
-    "typology": "Culture & Leisure"
   },
   {
     "projectId": "12115",
