@@ -1,21 +1,27 @@
 {
-  "type": "Project",
-  "id": "02920",
+  "name": "Rome Congress Centre",
   "url": "civic/rome-congress-centre",
-  "serializeDate": "'2022-06-27 15:40:11.999'",
-  "serialized": 1656344411999,
-  "serializedBy": "sreeve",
-  "title": "Rome Congress Centre",
-  "description": "This competition scheme was designed for a site in the EUR district of Rome, an area planned in the 1930s as a demonstration of the monumental formalism that characterised fascist urbanism.",
-  "date": "1999",
-  "client": "Rome Council",
-  "location": "Rome, Italy",
-  "longLat": "12.326672  / 41.806287",
-  "longitude": "12.326672 ",
-  "latitude": "41.806287",
+  "webStatus": "Publish",
   "typologies": [
     "Civic"
   ],
+  "type": "Project",
+  "id": "02920",
+  "serializeDate": "'2024-02-03 11:39:29.893'",
+  "serialized": 1706960369893,
+  "serializedBy": "heatherp",
+  "time": "2024-02-03T11:39:29.8775191Z",
+  "status": "PU",
+  "title": "Rome Congress Centre",
+  "description": "This competition scheme was designed for a site in the EUR district of Rome, an area planned in the 1930s as a demonstration of the monumental formalism that characterised fascist urbanism.",
+  "date": "1999 - Competition",
+  "client": "Rome Council",
+  "location": "Rome, Italy",
+  "city": "Rome",
+  "country": "Italy",
+  "longLat": "12.326672  / 41.806287",
+  "longitude": "12.326672 ",
+  "latitude": "41.806287",
   "team": [
     "Louise Barnett",
     "Maurice Brennan",
@@ -37,7 +43,7 @@
   "partners": [
     "Graham Stirk"
   ],
-  "overview": "This competition scheme was designed for a site in the EUR district of Rome, an area planned in the 1930s as a demonstration of the monumental formalism that characterised fascist urbanism.\n\nThe scheme sets the main congress and exhibition areas in a cantilevered roof space, supported by central columns and surrounded by service towers. A wide public terrace runs around the edge of the roof, optimising views across the Rome skyline.\n\n\nBeneath the great over-sailing, timber-clad roof is a second building for offices, ticketing, restaurants, parking, shops and a hotel, its roof forming a wedge-shaped ramp of public space.\n\nThe public nature of the building is emphasised by the provision of a partially enclosed 2,000-seat amphitheatre within the lower building, alongside which runs a new pedestrian route, linking the Enrico Termi station with the existing Palazzo dei Congressi. Further shops are placed alongside this route, and around the edge of the building, to ensure an open relationship with the public domain.",
+  "overview": "<div><p>This competition scheme was designed for a site in the EUR district of Rome, an area planned in the 1930s as a demonstration of the monumental formalism that characterised fascist urbanism.</p><p>The scheme sets the main congress and exhibition areas in a cantilevered roof space, supported by central columns and surrounded by service towers. A wide public terrace runs around the edge of the roof, optimising views across the Rome skyline.</p><p>Beneath the great over-sailing, timber-clad roof is a second building for offices, ticketing, restaurants, parking, shops and a hotel, its roof forming a wedge-shaped ramp of public space.</p><p>The public nature of the building is emphasised by the provision of a partially enclosed 2,000-seat amphitheatre within the lower building, alongside which runs a new pedestrian route, linking the Enrico Termi station with the existing Palazzo dei Congressi. Further shops are placed alongside this route, and around the edge of the building, to ensure an open relationship with the public domain.</p></div>",
   "dimensions": [
     {
       "label": "Gross Floor Area",
