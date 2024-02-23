@@ -7,10 +7,10 @@
   ],
   "type": "Project",
   "id": "05100",
-  "serializeDate": "'2024-02-02 17:00:17.785'",
-  "serialized": 1706893217785,
+  "serializeDate": "'2024-02-23 14:58:17.123'",
+  "serialized": 1708700297123,
   "serializedBy": "heatherp",
-  "time": "2024-02-02T17:00:17.754153Z",
+  "time": "2024-02-23T14:58:16.847466Z",
   "status": "PU",
   "title": "Capodichino Metro Station",
   "description": "The extension to the city of Naples’ Metropolitana Linea 1, part of the Naples Metro system, is a showpiece development, with each station designed by an international artist or architect.",
@@ -41,7 +41,7 @@
     "Amo Kalsi",
     "Leonardo Pelleriti"
   ],
-  "overview": "<div><p>The extension to the city of Naples’ Metropolitana Linea 1, part of the Naples Metro system, is a showpiece development, with each station designed by an international artist or architect. RSHP's design for the Capodichino Aeroporto Station, which is located at the end of the extension to Linea 1, represents a significant opportunity to contribute to the regeneration of the city and the airport itself.</p><p>The new station will transform the existing airport terminal into a sustainable transport hub linked to the Napoli Centrale railway station in Piazza Garibaldi and the ferry terminal at Piazza Municipio.</p><p>The masterplan positions the metro station at the very heart of the airport, with easy pedestrian access to the departure and arrival terminals.</p><p>A repeated, overlapping segment of the main roof structure extends to form a ground-level ‘tail’, creating a shaded, tree lined walkway to the car park, via taxi pick-up and drop-off points as well as cafés and shops.</p><p>The elliptical ‘well’ that descends to the underground trains is a central focus of the station’s design, and becomes animated by the vertical movement of passengers down colour-coded escalators.</p><p>An open steel and glass canopy will stretch across and oversail a subterranean piazza. The form of the roof allows natural light to penetrate deep into the internal space of the station, as well as allowing natural ventilation to circulate. It also provides protection from sunlight and rain for the piazza, creating a public space that offers a safe, protected environment for those passengers travelling between the station and the airport.</p></div>",
+  "overview": "<div><p>The extension to Metropolitana Linea 1, part of the Naples Metro system, is a showpiece development, with each station designed by an international artist or architect.</p><p>RSHP’s design for the Capodichino Aeroporto Station, which is located at the end of the extension to Linea 1, is a celebration of movement and represents a significant opportunity to contribute to the regeneration of the city and the airport itself.  The new station will transform the existing airport terminal into a sustainable transport hub linked to the Napoli Centrale railway station in Piazza Garibaldi and the ferry terminal at Piazza Municipio.</p><p>With a nod to St. Patrick’s Well in Bologna, a central vertical lift structure exaggerates the 50m depth from surface to a platform level piazza, whilst four yellow emergency exit stairs spiral around the perimeter of the tube. The spatial interplay between the two, set against the background of the civil engineering, makes for a dynamic three-dimensional experience, sculpted by daylight, colour and the passengers themselves.</p><p>An open steel and glass canopy stretches across and oversails this subterranean piazza. The form of the roof allows natural light to penetrate deep into the internal space of the station and allows natural ventilation to circulate. It also offers a safe, protected environment for those passengers between the station and the airport. Aside from protecting the piazza from the rain, the roof signals the station’s presence when viewed from the airport and surroundings.</p></div>",
   "dimensions": [
     {
       "label": "Site Area",
@@ -52,7 +52,7 @@
   "companies": [
     {
       "label": "Co-Architect",
-      "value": "DA Studio",
+      "value": "Wimshurst Pelleriti",
       "id": "74066289c6cd46698bd6f8873269cfb9"
     },
     {
@@ -62,12 +62,12 @@
     },
     {
       "label": "Structural Engineer",
-      "value": "Expedition / Stipe",
+      "value": "Studio Cavuoto",
       "id": "52eca5bada3b4366a7914ebf41ec6dca"
     },
     {
       "label": "Contractor",
-      "value": "Astaldi - Moccia",
+      "value": "WeBuild",
       "id": "05d4165bcbab48f787a1269b6a4cccac"
     },
     {
@@ -77,13 +77,18 @@
     },
     {
       "label": "Civil Engineer",
-      "value": "Metropolitana Milanese / Stipe",
+      "value": "Studio Cavuoto",
       "id": "e4bde5cce5934b25b9ec5e1c0af52c58"
     },
     {
       "label": "Traffic Engineer",
-      "value": "Arup",
+      "value": "Metropolitana di Napoli",
       "id": "a6e896302aac400a82b7b77d93512673"
+    },
+    {
+      "label": "MEP",
+      "value": "Metropolitana di Napoli",
+      "id": "d40e37b4040f493cb25cc42fd66422e4"
     }
   ]
 }
