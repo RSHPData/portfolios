@@ -11,6 +11,17 @@
     "typology": "Office"
   },
   {
+    "projectId": "13150",
+    "project": "PLD Jean Moulin",
+    "date": "2022",
+    "endDate": "",
+    "location": "La Défense, Puteaux, Greater Paris",
+    "country": "France",
+    "client": "Paris La Défense (PLD)",
+    "longLat": "2.2402509269887805 / 48.887891300991484,",
+    "typology": "Mixed Use"
+  },
+  {
     "projectId": "12605",
     "project": "Horse Soldier Farms",
     "date": "2020",
