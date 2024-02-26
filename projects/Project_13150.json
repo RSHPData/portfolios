@@ -1,0 +1,108 @@
+{
+  "name": "PLD Jean Moulin",
+  "url": "mixed-use/pld-jean-moulin",
+  "webStatus": "Publish",
+  "typologies": [
+    "Mixed Use"
+  ],
+  "type": "Project",
+  "id": "13150",
+  "serializeDate": "'2024-02-26 13:29:14.147'",
+  "serialized": 1708954154147,
+  "serializedBy": "heatherp",
+  "time": "2024-02-26T13:29:14.1145233Z",
+  "status": "PU",
+  "title": "PLD Jean Moulin",
+  "date": "2022 -",
+  "client": "Paris La Défense (PLD)",
+  "location": "La Défense, Puteaux, Greater Paris, France",
+  "city": "La Défense, Puteaux, Greater Paris",
+  "country": "France",
+  "longLat": "2.2402509269887805 / 48.887891300991484,",
+  "longitude": "2.2402509269887805",
+  "latitude": "48.887891300991484,",
+  "constructionCost": "90 M euros",
+  "team": [
+    "Ad Aderet",
+    "Sarah Alsomly",
+    "Lorenzo Angoli",
+    "Stephen Barrett",
+    "Nicola Carnevali",
+    "Luca D'Amico",
+    "Benjamin Darras",
+    "Sebastien Gey",
+    "Jean-Baptiste Gilles",
+    "Ed Hiscock",
+    "Riccardo Mazzucco",
+    "Jon Mercer",
+    "Dan Rogers",
+    "John-Alexander Rudd",
+    "Helene Van Zon"
+  ],
+  "partners": [
+    "Stephen Barrett"
+  ],
+  "leaders": [
+    "Nicola Carnevali"
+  ],
+  "overview": "<div><p>PLD Jean Moulin is a mixed-use, low carbon project which aims to transform Paris La Défense (PLD) – the capital’s business district – and the surrounding area of Puteaux, to make it a multi-functional, greener, better connected, and more inclusive neighbourhood. At the heart of the scheme is a new green promenade which will connect Puteaux to the Esplanade de La Défense and offer multiple pedestrian links through a series of small pocket parks. The Avenue Jean Moulin becomes a tree-lined boulevard with reduced space for cars, two new bus stops and a cycle lane.</p><p>Two new buildings on Jean Moulin will introduce transparency and animation on two levels: on the lower level a Pavilion will offer 250m2 of social and cultural space, its specific uses  will be determined by residents; on the upper level, 1000m2 of space will be dedicated to a food court and indoor market. Its roof top terrace will offer spectacular views towards the south. To the north of the project, the area’s high demand for sports facilities is met with climbing walls, a yoga space, and a café. A taller and slender building, accommodating 200 homes for students and young professionals, will strengthen PLD’s attractiveness as a university campus. Its rotation through 45° optimizes the natural light and views through the neighbouring towers in a very dense urban environment.</p><p>A longer and lower building in the south will contrast with the orthogonal geometry of the surrounding buildings. It will offer a flexible office space, opening up to the south and creating a three-stepped green rooftop. A double lift core allows for multiple users, floor subdivision and for total adaptability of the floorplates, including a potential conversion to housing. The project aims to cut embodied and operational carbon by 50% through building the offices and residences in a modular prefabricated timber structure. Parts of the fit-out will be repurposed from other buildings, and the entire project will be prefabricated off-site to reduce waste and pollution.</p></div>",
+  "dimensions": [
+    {
+      "label": "Site Area",
+      "value": "7,000 m2",
+      "id": "ea32c729b4c54993b7f9147903cbf7b8"
+    },
+    {
+      "label": "Programme",
+      "value": "11,260 m2 adaptable offices, 5,450m2 student residences, 1,380m2 food court and indoor market, 840m2 sports facilities (climbing) 250 m2 social and cultural facilities",
+      "id": "f0b63622872d485ca9bcc7ba3515912f"
+    }
+  ],
+  "companies": [
+    {
+      "label": "Lead Developer",
+      "value": "BNP Paribas Real Estate",
+      "id": "159a35861d2f4d189ee03b5aa2e12892"
+    },
+    {
+      "label": "Co-Developer",
+      "value": "Spie batignolles immobilier",
+      "id": "c717eeeb6f7146c9be0d0d3ad62ba862"
+    },
+    {
+      "label": "Co-Architect",
+      "value": "AREP",
+      "id": "ad2a35383dfc4a05a40d601b7728bebf"
+    },
+    {
+      "label": "Structural Engineer",
+      "value": "Ingérop",
+      "id": "1a342a380f29424bbd2a22057102d532"
+    },
+    {
+      "label": "Landscape Architect",
+      "value": "Vogt",
+      "id": "e363e2dba2cc48eba151687b22e235f8"
+    },
+    {
+      "label": "Services Engineer",
+      "value": "Ingérop",
+      "id": "3477263c466b4cf28190c7bd282c08f0"
+    },
+    {
+      "label": "Environmental Consultant",
+      "value": "EODD",
+      "id": "2ec59f2e8f7f41519fa4c99aa06667e5"
+    },
+    {
+      "label": "Contractor",
+      "value": "Spie batignolles",
+      "id": "e45d7efb443340c0a8005c229f640a2c"
+    },
+    {
+      "label": "Fire Consultant",
+      "value": "SOCOTEC",
+      "id": "d531e4772796401ebc37dd29909630d0"
+    }
+  ]
+}
