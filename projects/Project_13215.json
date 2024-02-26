@@ -1,0 +1,116 @@
+{
+  "name": "Bayeux Tapestry Museum",
+  "url": "culture-and-leisure/bayeux-tapestry-museum",
+  "webStatus": "Upload",
+  "typologies": [
+    "Culture & Leisure"
+  ],
+  "type": "Project",
+  "id": "13215",
+  "serializeDate": "'2024-02-26 11:24:37.494'",
+  "serialized": 1708946677494,
+  "serializedBy": "heatherp",
+  "time": "2024-02-26T11:24:37.0833038Z",
+  "status": "PU",
+  "title": "Bayeux Tapestry Museum",
+  "date": "2023 -",
+  "client": "Ville de Bayeux",
+  "location": "Bayeux, France",
+  "city": "Bayeux",
+  "country": "France",
+  "longLat": "49.27457370664928, / -0.7005909407942106",
+  "longitude": "49.27457370664928,",
+  "latitude": "-0.7005909407942106",
+  "constructionCost": "€38M",
+  "team": [
+    "Ad Aderet",
+    "Sarah Alsomly",
+    "Lorenzo Angoli",
+    "Stephen Barrett",
+    "Uday Berry",
+    "Luca D'Amico",
+    "Benjamin Darras",
+    "Valentina Frieri",
+    "Lennart Grut",
+    "Ivan Harbour",
+    "Janos Katona",
+    "Mohamed Mansour",
+    "Riccardo Mazzucco",
+    "Jon Mercer",
+    "Noura Nassar",
+    "Theo Pagnon",
+    "Cecilia Pineiro Lopez",
+    "John-Alexander Rudd",
+    "Simon Smithson"
+  ],
+  "partners": [
+    "Stephen Barrett",
+    "Ivan Harbour",
+    "Simon Smithson"
+  ],
+  "leaders": [
+    "Ad Aderet",
+    "Cecilia Pineiro Lopez"
+  ],
+  "heights": [
+    {
+      "value": "25m",
+      "id": "0d4c0e1734dc41e79c9f5888751670a1"
+    }
+  ],
+  "overview": "<div><p>The new extension is carefully integrated into the historic fabric of this remarkable town. The materiality, scale and layout of the building on the site possess qualities that locate it within the formal and material palette of Bayeux, linking it sensitively to its setting. Our intention is to weave this building elegantly into the rich urban ‘tapestry’ to which it belongs. The extension is also designed to be contemporary, drawing visitors in with an iconic design that clearly places the extension in the present moment.  The museum is organised around a unique and singular object, the tapestry: the space housing it is the starting point for the extension. Its volume resolves the complex geometry of the site, is the result of alignments with neighbouring buildings and defined by the dynamic lines delimiting its roof, helping to reduce the perception of the volume of the extension, aligning its scale to that of the buildings that surround it. The monumental nature of the tapestry is reflected in the building’s horizontal presence on the street, underlining its exceptional dimensions.</p><p>The formal design of the extension is legible from the outside, making it easier to understand how the building is organised. The geometry of the space housing the tapestry is dictated by the spatial qualities that characterise it (depth of field, set-back distances, cones of vision, etc.) and by its relationship with the volume housing the permanent exhibition. It directly defines the sculptural expression of the building.</p><p>Our proposal offers views of the tapestry that embraces it at every scale. Focused on this singular object, the architecture and dispositions of the museum create the right conditions for viewing the tapestry, placing the visitor and the work in a privileged relationship: from an overview that reveals the work over 70m in a single sweep, celebrating its monumentality, to one that places the visitor in intimate contact with the tapestry, one in which each thread of the embroidery is revealed. The visitor circuit takes the form of a loop, one that offers views of the tapestry from a number of different vantage points, orienting the visitor and re-framing the work to its historical and cultural context, offering the visitor new perspectives on this emblematic artifact.</p></div>",
+  "dimensions": [
+    {
+      "label": "Gross internal floor area",
+      "value": "8000m2 (existing: 4650m2, extension: 3350m2)",
+      "id": "fb9abd4a2da2409bbdbb0f8e7fd08e5d"
+    }
+  ],
+  "companies": [
+    {
+      "label": "Heritage Architects",
+      "value": "Lympia Architecture",
+      "id": "3f94fcf0673f4a18b83bddbe1d6eb010"
+    },
+    {
+      "label": "Exhibition Designer",
+      "value": "Atelier Brückner",
+      "id": "2c18097dba494494b18e4d986974eed6"
+    },
+    {
+      "label": "Landscape Architects",
+      "value": "Bassinet Turquin Paysage",
+      "id": "21b4e85086c84de89a5f57670be1f44a"
+    },
+    {
+      "label": "Structural, Technical and Civil Engineering Design",
+      "value": "Ingérop",
+      "id": "bbb16d953c704850bcb9bbd6df64a519"
+    },
+    {
+      "label": "Acoustics",
+      "value": "Kahle Acoustics",
+      "id": "386674ebabe3419f8567dd7b554f51e4"
+    },
+    {
+      "label": "Lighting Designer",
+      "value": "Reflet",
+      "id": "1bc612a0d1ee4a83b98108fa78b3abcc"
+    },
+    {
+      "label": "Multimedia",
+      "value": "Create",
+      "id": "c7a99776ba1745efb9eeef7555cd71f2"
+    },
+    {
+      "label": "Cost Consultant",
+      "value": "VPEAS",
+      "id": "a4c4b10290c54e3db9df0c6ae3cf80a6"
+    },
+    {
+      "label": "Museographer",
+      "value": "FL&CO",
+      "id": "c7a0b08d900a4683ab0cddb735339bd7"
+    }
+  ]
+}
