@@ -7,10 +7,10 @@
   ],
   "type": "Project",
   "id": "13150",
-  "serializeDate": "'2024-02-26 13:29:14.147'",
-  "serialized": 1708954154147,
+  "serializeDate": "'2024-03-19 15:11:54.608'",
+  "serialized": 1710861114608,
   "serializedBy": "heatherp",
-  "time": "2024-02-26T13:29:14.1145233Z",
+  "time": "2024-03-19T15:11:54.1934348Z",
   "status": "PU",
   "title": "PLD Jean Moulin",
   "date": "2022 -",
@@ -21,7 +21,7 @@
   "longLat": "2.2402509269887805 / 48.887891300991484,",
   "longitude": "2.2402509269887805",
   "latitude": "48.887891300991484,",
-  "constructionCost": "90 M euros",
+  "constructionCost": "€90 million",
   "team": [
     "Ad Aderet",
     "Sarah Alsomly",
@@ -44,6 +44,18 @@
   ],
   "leaders": [
     "Nicola Carnevali"
+  ],
+  "floors": [
+    {
+      "label": "8",
+      "value": "Office Building",
+      "id": "2d9d7a57d56a4a9792fb66970cb0799f"
+    },
+    {
+      "label": "14",
+      "value": "Residential Building",
+      "id": "0d8ae7551e2443c4b50b05fb371de37e"
+    }
   ],
   "overview": "<div><p>PLD Jean Moulin is a mixed-use, low carbon project which aims to transform Paris La Défense (PLD) – the capital’s business district – and the surrounding area of Puteaux, to make it a multi-functional, greener, better connected, and more inclusive neighbourhood. At the heart of the scheme is a new green promenade which will connect Puteaux to the Esplanade de La Défense and offer multiple pedestrian links through a series of small pocket parks. The Avenue Jean Moulin becomes a tree-lined boulevard with reduced space for cars, two new bus stops and a cycle lane.</p><p>Two new buildings on Jean Moulin will introduce transparency and animation on two levels: on the lower level a Pavilion will offer 250m2 of social and cultural space, its specific uses  will be determined by residents; on the upper level, 1000m2 of space will be dedicated to a food court and indoor market. Its roof top terrace will offer spectacular views towards the south. To the north of the project, the area’s high demand for sports facilities is met with climbing walls, a yoga space, and a café. A taller and slender building, accommodating 200 homes for students and young professionals, will strengthen PLD’s attractiveness as a university campus. Its rotation through 45° optimizes the natural light and views through the neighbouring towers in a very dense urban environment.</p><p>A longer and lower building in the south will contrast with the orthogonal geometry of the surrounding buildings. It will offer a flexible office space, opening up to the south and creating a three-stepped green rooftop. A double lift core allows for multiple users, floor subdivision and for total adaptability of the floorplates, including a potential conversion to housing. The project aims to cut embodied and operational carbon by 50% through building the offices and residences in a modular prefabricated timber structure. Parts of the fit-out will be repurposed from other buildings, and the entire project will be prefabricated off-site to reduce waste and pollution.</p></div>",
   "dimensions": [
