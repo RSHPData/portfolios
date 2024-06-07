@@ -7,14 +7,14 @@
   ],
   "type": "Project",
   "id": "11980",
-  "serializeDate": "'2023-11-21 11:45:14.588'",
-  "serialized": 1700567114588,
+  "serializeDate": "'2024-06-07 14:09:52.259'",
+  "serialized": 1717769392259,
   "serializedBy": "heatherp",
-  "time": "2023-11-21T11:45:13.9093714Z",
+  "time": "2024-06-07T14:09:50.7068468Z",
   "status": "PU",
   "title": "210 South 12 Street",
   "description": "210 South 12th Street is a 32-floor residential tower near Philadelphia’s CBD, offering three retail units at its base, with 448 rental apartments above.",
-  "date": "2018 - under construction",
+  "date": "2018 - 2024",
   "client": "Midwood",
   "location": "Philadelphia, USA",
   "city": "Philadelphia",
@@ -55,7 +55,7 @@
       "id": "8eb17b5d47c049d898a63a1074117209"
     }
   ],
-  "overview": "<div><p>210 South 12th Street is a 32-floor residential tower near Philadelphia’s CBD, offering three retail units at its base, with 448 rental apartments above.</p><p>The building adopts a rotational geometry that maximises daylight into the apartments and increases the number of dual aspect corner units; it also creates pockets of space at the ground floor to be articulated with landscaping.</p><p>The design echoes the former industrial heritage of the area, responding in a contemporary language which reinterprets the colouration and materials of the local architectural character. The perimeter structure is expressed with an extruded aluminium system, framing the floors into three-story rectangular modules.</p><p>Corrugated shadow box panels pick up on the tonality of the local brick vernacular and add a grain and human scale to the building. The upper floors of the tower are set back in to provide open-air amenity terraces at the upper levels with panoramic views of the city.</p></div>",
+  "overview": "<div><p>210 South 12th Street is a 32-floor residential tower near Philadelphia’s CBD, offering 3 retail on the ground with one providing access to the 2nd floor retail space and 376 residential units above.</p><p>The building adopts a rotational geometry that maximises daylight into the apartments and increases the number of dual aspect corner units; it also creates pockets of space at the ground floor to be articulated with landscaping. The design echoes the former industrial heritage of the area, responding in a contemporary language which reinterprets the colouration and materials of the local architectural character.</p><p>The perimeter structure is expressed with an extruded aluminium system, framing the floors into three-story rectangular modules.</p><p>Corrugated shadow box panels pick up on the tonality of the local brick vernacular and add a grain and human scale to the building. The upper floors of the tower are set back in to provide open-air amenity terraces at the upper levels with panoramic views of the city.</p></div>",
   "dimensions": [
     {
       "label": "Site Area",
