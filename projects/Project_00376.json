@@ -1,21 +1,27 @@
 {
+  "name": "Rogers House",
+  "url": "residential/rogers-house",
+  "webStatus": "Publish",
+  "typologies": [
+    "Residential"
+  ],
   "type": "Project",
   "id": "00376",
-  "url": "residential/rogers-house",
-  "serializeDate": "'2022-06-27 15:39:45.409'",
-  "serialized": 1656344385409,
-  "serializedBy": "sreeve",
+  "serializeDate": "'2024-06-14 11:49:53.739'",
+  "serialized": 1718365793739,
+  "serializedBy": "heatherp",
+  "time": "2024-06-14T11:49:53.0636787Z",
+  "status": "PU",
   "title": "Rogers House",
   "description": "The house, commissioned by Richard Rogers’ parents, sits within a long and narrow wooded urban plot, opposite Wimbledon Common in South West London and adjoining a major road.",
   "date": "1968-1969",
   "client": "Dr and Mrs Rogers",
   "location": "London, UK",
+  "city": "London",
+  "country": "UK",
   "longLat": "-0.222387  / 51.427203",
   "longitude": "-0.222387 ",
   "latitude": "51.427203",
-  "typologies": [
-    "Residential"
-  ],
   "team": [
     "Pierre Botschi",
     "John Doggart",
@@ -29,8 +35,10 @@
     "Richard Rogers",
     "Su Rogers"
   ],
-  "leaders": [],
-  "overview": "The house, commissioned by Richard Rogers’ parents, sits within a long and narrow wooded urban plot, opposite Wimbledon Common in South West London and adjoining a major road. It is designed to provide maximum privacy and seclusion, and consists of two separate elements facing on to an internal garden courtyard. The small unit houses the separate flat and pottery studio and acts as a sound barrier between the house and the road. Rogers describes the house as ‘a transparent tube with solid boundary walls’.\n\n\nThe steel structure is brought inside the skin to eliminate maintenance and to simplify junctions between structure and skin. Eight welded clear-span rigid portals fabricated in standard steel sections permit maximum demountability and the re-use of the enclosing envelope and internal partitions. Walls are composite panels of plastic-coated aluminium inner skins with foam plastic core and neoprene jointing system. Flexibility was a high priority and most internal partitions are moveable. Maximum sized, double-glazed, sealed units in painted steel frames have been used and glazed roofs, neoprene zipped and solar reflecting, enclose the bathrooms.\n\n\nThe house was Grade 2* listed in 2013, putting it in the top 8% of all listed buildings in England.",
+  "leaders": [
+    "John Young"
+  ],
+  "overview": "<div><p>The house, commissioned by Richard Rogers’ parents, sits within a long and narrow wooded urban plot, opposite Wimbledon Common in South West London and adjoining a major road. It is designed to provide maximum privacy and seclusion, and consists of two separate elements facing on to an internal garden courtyard. The small unit houses the separate flat and pottery studio and acts as a sound barrier between the house and the road. Rogers describes the house as ‘a transparent tube with solid boundary walls’.</p><p>The steel structure is brought inside the skin to eliminate maintenance and to simplify junctions between structure and skin. Eight welded clear-span rigid portals fabricated in standard steel sections permit maximum demountability and the re-use of the enclosing envelope and internal partitions. Walls are composite panels of plastic-coated aluminium inner skins with foam plastic core and neoprene jointing system. Flexibility was a high priority and most internal partitions are moveable. Maximum sized, double-glazed, sealed units in painted steel frames have been used and glazed roofs, neoprene zipped and solar reflecting, enclose the bathrooms.</p><p>The house was Grade 2* listed in 2013, putting it in the top 8% of all listed buildings in England.</p></div>",
   "dimensions": [
     {
       "label": "Gross Floor Area",
@@ -72,6 +80,5 @@
       "award": "Represented British Architecture at Paris Biennale",
       "rowId": "3ccadee5bcd14991b5b5c4c4dfe7faa7"
     }
-  ],
-  "certificates": []
+  ]
 }
