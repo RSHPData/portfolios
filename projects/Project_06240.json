@@ -7,10 +7,10 @@
   ],
   "type": "Project",
   "id": "06240",
-  "serializeDate": "'2024-07-31 10:20:11.213'",
-  "serialized": 1722421211213,
+  "serializeDate": "'2024-07-31 10:25:25.252'",
+  "serialized": 1722421525252,
   "serializedBy": "heatherp",
-  "time": "2024-07-31T10:20:11.1560325Z",
+  "time": "2024-07-31T10:25:25.2233163Z",
   "status": "PU",
   "title": "Geneva Airport, Aile Est",
   "description": "The Aile Est (East wing) project represents an important improvement for Geneva Airport in terms of flexibility of its operation and passenger comfort.",
@@ -148,6 +148,14 @@
       "label": "Passenger Facilitation Consultant",
       "value": "Jacobs (CH2M)",
       "id": "6dafba60ff0d44e3a39c008967a115ed"
+    }
+  ],
+  "awards": [
+    {
+      "date": "2023-11-20",
+      "year": "2023",
+      "award": "GOLD AWARD - WAN Awards 2023 - Transport Sector",
+      "rowId": "16d89cd87d6447f9aa08d1d3e62a87d0"
     }
   ]
 }
