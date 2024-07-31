@@ -400,17 +400,6 @@
     "typology": "Residential"
   },
   {
-    "projectId": "10670",
-    "project": "22 Hanover Square",
-    "date": "2015",
-    "endDate": "under construction",
-    "location": "London",
-    "country": "UK",
-    "client": "Clivedale",
-    "longLat": "-0.144254 / 51.5130998",
-    "typology": "Culture & Leisure"
-  },
-  {
     "projectId": "11010",
     "project": "British Library Extension",
     "date": "2015",
@@ -441,6 +430,17 @@
     "country": "USA",
     "client": "The Malrite Company",
     "longLat": "-77.026140  / 38.884135",
+    "typology": "Culture & Leisure"
+  },
+  {
+    "projectId": "10670",
+    "project": "Mandarin Oriental Mayfair",
+    "date": "2015",
+    "endDate": "2024",
+    "location": "London",
+    "country": "UK",
+    "client": "Clivedale / Mandarin Oriental Hotel Group",
+    "longLat": "-0.144254 / 51.5130998",
     "typology": "Culture & Leisure"
   },
   {
