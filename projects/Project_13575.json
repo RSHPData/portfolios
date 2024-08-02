@@ -7,10 +7,10 @@
   ],
   "type": "Project",
   "id": "13575",
-  "serializeDate": "'2024-08-02 15:22:19.269'",
-  "serialized": 1722612139269,
+  "serializeDate": "'2024-08-02 15:29:08.197'",
+  "serialized": 1722612548197,
   "serializedBy": "heatherp",
-  "time": "2024-08-02T15:22:19.2267046Z",
+  "time": "2024-08-02T15:29:08.1685279Z",
   "status": "PU",
   "title": "Zhongyuan International Convention Centre Phase 2",
   "date": "2024 -",
@@ -69,6 +69,11 @@
   ],
   "companies": [
     {
+      "label": "Local Architect",
+      "value": "Tongji Architectural Design (Group) Co, Ltd",
+      "id": "1e2183da862c4b46bdddcca46b2b812d"
+    },
+    {
       "label": "General Contractor",
       "value": "China First Metallurgical Group Co., Ltd., China Railway Construction Engineering Group Co., Ltd and China Railway Tenth Bureau Group Co., Ltd",
       "id": "672e11d15c4c4cecb5b419cf386f34c6"
@@ -77,16 +82,6 @@
       "label": "Convention Centre Consultant",
       "value": "North Star Venue Management",
       "id": "60e3eac00fa94395b482507946a3d795"
-    },
-    {
-      "label": "Lighting",
-      "value": "Spiers Major",
-      "id": "771d8e1bd7a9420094bd86b201b6141c"
-    },
-    {
-      "label": "Local Architect",
-      "value": "Tongji Architectural Design (Group) Co, Ltd",
-      "id": "1e2183da862c4b46bdddcca46b2b812d"
     },
     {
       "label": "Facade Consultant",
@@ -102,6 +97,11 @@
       "label": "Fire Consultant",
       "value": "Arup",
       "id": "f5fed45b30c5408e8c10dd2648d9b628"
+    },
+    {
+      "label": "Lighting",
+      "value": "Speirs Major",
+      "id": "771d8e1bd7a9420094bd86b201b6141c"
     }
   ],
   "certificates": [
