@@ -1,0 +1,114 @@
+{
+  "name": "Zhongyuan International Convention Centr",
+  "url": "cultural/culture-and-leisure/zhongyuan-international-convention-centre-phase-2",
+  "webStatus": "Upload",
+  "typologies": [
+    "Culture & Leisure"
+  ],
+  "type": "Project",
+  "id": "13575",
+  "serializeDate": "'2024-08-02 15:08:13.268'",
+  "serialized": 1722611293268,
+  "serializedBy": "heatherp",
+  "time": "2024-08-02T15:08:13.2149612Z",
+  "status": "PU",
+  "title": "Zhongyuan International Convention Centre Phase 2",
+  "date": "2024 -",
+  "client": "Henan Airport Construction & Development Co., LTD",
+  "location": "Zhengzhou, China",
+  "city": "Zhengzhou",
+  "country": "China",
+  "longLat": "113.9107222222 / 34.4898611111",
+  "longitude": "113.9107222222",
+  "latitude": "34.4898611111",
+  "team": [
+    "Tadashi Arai",
+    "Michael Corcoran",
+    "Nandi Han",
+    "Joseph Park",
+    "Richard Paul",
+    "Shuo Qian",
+    "Callum Richardson",
+    "Richard Sullivan-Paul",
+    "Yu Sun",
+    "Ben Warner",
+    "Keira Wu",
+    "Min Zhang",
+    "Yue Zheng",
+    "Wenchao Zhou"
+  ],
+  "partners": [
+    "Richard Paul"
+  ],
+  "leaders": [
+    "Tadashi Arai"
+  ],
+  "heights": [
+    {
+      "value": "24-57.9m",
+      "id": "c00468d5eee8497f8039cd4c87b3bc69"
+    }
+  ],
+  "overview": "<div><p>Zhongyuan International Convention Centre (Phase 2is strategically located within the Zhengzhou Airport Economic Zone (ZAEZ), adjacent to the international airport. This prime location ensures extensive domestic and international transport links, making it ideal for hosting a wide range of national and global events.</p><p>Scheduled to host the 3rd China National Skill Competitions in 2025, the Zhongyuan International Convention and Conference Centre complex aims to create landmark buildings of national significance that are highly recognizable and visible from both land and air.</p><p>While embracing the ambitions and aspirations of the ZAEZ to create contemporary, innovative buildings, the architectural design with its sweeping roofs also reflects the rich cultural heritage and spectacular natural beauty of the region. The new development extends to the east and west of an existing park, situated south of the original Convention Centre. Our design comprises three key components: the Phase 2 Convention Centre, a Conference Centre, and a Hotel.  Connectivity and modularity are the starting points of the design, with a 1.7 km-long elevated floor plane or central spine connecting the three main entrances, exhibition halls, Conference Centre and the hotel to create a layout that is interconnected and easily accessible.</p><p>The design emphasizes pedestrian-friendliness and public realm, with two levels of the central spine creating separated circulation routes for fast and slow pedestrian traffic, splitting the flows for viewing exhibits and other activities such as dining and shopping. The Convention Centre features sixteen exhibition halls and related facilities, arranged on either side of the central spine. Each standard hall has an approximate net area of 12,500 m², with a clear span of 78.5 m x 161 m on level 1 accommodating a broad spectrum of exhibition and event requirements.</p><p>The upper level of the central spine crosses the park via the eastern entrance pavilion, connecting the Convention Centre to the grand Conference Centre and the adjacent hotel. The Conference Centre is primarily enclosed by a spectacular floating roof that rises over the main conference hall, with large cable-net facades providing transparency and clarity to the functionality contained within. The Conference Centre connects to the hotel, located at the far east of the complex, completing the overall design vision with its distinguished roofscape and central atrium.</p><p>The lower level of the central spine offers restaurants and public spaces where visitors and exhibitors can eat, relax, and enjoy the architectural splendour of their environment.</p><p>Three impressive entrance pavilions for ticketing and security functions provide access to the central spine, connecting the halls on upper and lower levels. After security clearance, visitors typically approach the halls via travelators on the upper level of the connecting spine. Upon reaching the desired hall on the mezzanine entrance level, they will have dramatic views of the exhibits below before taking escalators to the event itself.</p><p>The project aims to achieve the China Green Building rating, with plans to install a substantial number of photovoltaic panels on the roof of the entrance pavilion. The incorporation of natural daylight within the exhibition halls, along with the harvesting of rainwater for landscape irrigation, will promote and substantiate the use of passive sustainable systems.</p></div>",
+  "dimensions": [
+    {
+      "label": "Site Area",
+      "value": "691,511m2",
+      "id": "869e06d5b7774b149ccd248032c80795"
+    },
+    {
+      "label": "Construction Area",
+      "value": "527,440.5m2",
+      "id": "447f7c306b3f45acaa9133e4f1fb5469"
+    },
+    {
+      "label": "Accountable Area",
+      "value": "349,777m2",
+      "id": "95878b41b51c4194a0b456489cdc3667"
+    }
+  ],
+  "companies": [
+    {
+      "label": "General Contractor",
+      "value": "China First Metallurgical Group Co., Ltd., China Railway Construction Engineering Group Co., Ltd and China Railway Tenth Bureau Group Co., Ltd",
+      "id": "672e11d15c4c4cecb5b419cf386f34c6"
+    },
+    {
+      "label": "Convention Centre Consultant",
+      "value": "North Star Venue Management",
+      "id": "60e3eac00fa94395b482507946a3d795"
+    },
+    {
+      "label": "Lighting",
+      "value": "Spiers Major",
+      "id": "771d8e1bd7a9420094bd86b201b6141c"
+    },
+    {
+      "label": "Local Architect",
+      "value": "Tongji Architectural Design (Group) Co, Ltd",
+      "id": "1e2183da862c4b46bdddcca46b2b812d"
+    },
+    {
+      "label": "Facade Consultant",
+      "value": "EFC",
+      "id": "140a14566bf449b688acca75d5f752a2"
+    },
+    {
+      "label": "Structure Consultant",
+      "value": "SBP",
+      "id": "e25742ac9bd54ff5a1c9b753e155cea8"
+    },
+    {
+      "label": "Fire Consultant",
+      "value": "Arup",
+      "id": "f5fed45b30c5408e8c10dd2648d9b628"
+    }
+  ],
+  "certificates": [
+    {
+      "authority": "China Green Building",
+      "rating": "Target goal",
+      "rowId": "456c262bdc504ac8ac1d022c4e14f66f"
+    }
+  ]
+}
