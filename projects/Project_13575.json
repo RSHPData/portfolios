@@ -7,10 +7,10 @@
   ],
   "type": "Project",
   "id": "13575",
-  "serializeDate": "'2024-08-02 15:18:31.533'",
-  "serialized": 1722611911533,
+  "serializeDate": "'2024-08-02 15:19:30.594'",
+  "serialized": 1722611970594,
   "serializedBy": "heatherp",
-  "time": "2024-08-02T15:18:31.502248Z",
+  "time": "2024-08-02T15:19:30.5780628Z",
   "status": "PU",
   "title": "Zhongyuan International Convention Centre Phase 2",
   "date": "2024 -",
@@ -106,8 +106,8 @@
   ],
   "certificates": [
     {
-      "authority": "China Green Building -",
-      "rating": "Project aspiration",
+      "authority": "China Green Building - Project aspiration",
+      "rating": "",
       "rowId": "456c262bdc504ac8ac1d022c4e14f66f"
     }
   ]
