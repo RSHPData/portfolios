@@ -7,10 +7,10 @@
   ],
   "type": "Project",
   "id": "10890",
-  "serializeDate": "'2024-08-08 14:34:15.702'",
-  "serialized": 1723127655702,
+  "serializeDate": "'2024-08-08 15:15:56.536'",
+  "serialized": 1723130156536,
   "serializedBy": "heatherp",
-  "time": "2024-08-08T14:34:15.6563272Z",
+  "time": "2024-08-08T15:15:56.5053313Z",
   "status": "PU",
   "title": "The Emory",
   "date": "2004 - 2024",
@@ -75,7 +75,7 @@
   ],
   "heights": [
     {
-      "value": "39m",
+      "value": "39m / 128ft",
       "id": "a3b8219d1d1e4976b270b54d9ffe2047"
     }
   ],
