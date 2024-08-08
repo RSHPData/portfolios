@@ -1150,6 +1150,17 @@
     "typology": "Industrial"
   },
   {
+    "projectId": "10890",
+    "project": "The Emory",
+    "date": "2004",
+    "endDate": "2024",
+    "location": "London",
+    "country": "UK",
+    "client": "Maybourne Hotel Group",
+    "longLat": "-0.156149 / 51.502051",
+    "typology": "Culture & Leisure"
+  },
+  {
     "projectId": "04660",
     "project": "Wood Wharf",
     "date": "2004",
