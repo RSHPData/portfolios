@@ -7,10 +7,10 @@
   ],
   "type": "Project",
   "id": "10890",
-  "serializeDate": "'2024-08-08 11:13:26.890'",
-  "serialized": 1723115606890,
+  "serializeDate": "'2024-08-08 14:25:31.687'",
+  "serialized": 1723127131687,
   "serializedBy": "heatherp",
-  "time": "2024-08-08T11:13:26.8427615Z",
+  "time": "2024-08-08T14:25:31.6577761Z",
   "status": "PU",
   "title": "The Emory",
   "date": "2004 - 2024",
@@ -26,6 +26,7 @@
     "Jack Baker",
     "Mafalda Brandao",
     "Eleanora Bressi",
+    "Torsten Burkhardt",
     "Paul Challis",
     "Finbar Charleson",
     "Luca D'Amico",
@@ -70,8 +71,7 @@
   ],
   "leaders": [
     "Paul Thompson",
-    "Louise Palomba",
-    "Eleanora Bressi"
+    "Louise Palomba"
   ],
   "heights": [
     {
