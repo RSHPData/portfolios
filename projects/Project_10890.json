@@ -1,0 +1,283 @@
+{
+  "name": "The Emory",
+  "url": "culture-and-leisure/the-emory",
+  "webStatus": "Publish",
+  "typologies": [
+    "Culture & Leisure"
+  ],
+  "type": "Project",
+  "id": "10890",
+  "serializeDate": "'2024-08-08 11:13:26.890'",
+  "serialized": 1723115606890,
+  "serializedBy": "heatherp",
+  "time": "2024-08-08T11:13:26.8427615Z",
+  "status": "PU",
+  "title": "The Emory",
+  "date": "2004 - 2024",
+  "client": "Maybourne Hotel Group",
+  "location": "London, UK",
+  "city": "London",
+  "country": "UK",
+  "longLat": "-0.156149 / 51.502051",
+  "longitude": "-0.156149",
+  "latitude": "51.502051",
+  "team": [
+    "Patricia Andres",
+    "Jack Baker",
+    "Mafalda Brandao",
+    "Eleanora Bressi",
+    "Paul Challis",
+    "Finbar Charleson",
+    "Luca D'Amico",
+    "Kelly Darlington",
+    "Tom Davison",
+    "Fergus Dinwiddie",
+    "Da Feng",
+    "Tobi Frenzen",
+    "Christine Geneste",
+    "Iain Godwin",
+    "Lennart Grut",
+    "Dan Hanna",
+    "Ivan Harbour",
+    "Mimi Hawley",
+    "Ed Hiscock",
+    "Sirage Saudi Ibreek",
+    "Ben Morgan Jones",
+    "Willem Kok",
+    "Kinga Koren",
+    "Elena Larriba",
+    "Michael Macfarlane",
+    "Chris Mason",
+    "Ann Miller",
+    "Andrew Morris",
+    "Bridget Munro",
+    "Thomas Olliver",
+    "Louise Palomba",
+    "Vajini Pannila",
+    "Laura Penman",
+    "John Porral",
+    "Rosa Prichard",
+    "Bibiana Quiñones",
+    "Dan Rogers",
+    "Richard Rogers",
+    "Stephen Spence",
+    "James Stopps",
+    "Paul Thompson",
+    "Angela Tobin"
+  ],
+  "partners": [
+    "Ivan Harbour"
+  ],
+  "leaders": [
+    "Paul Thompson",
+    "Louise Palomba",
+    "Eleanora Bressi"
+  ],
+  "heights": [
+    {
+      "value": "39m",
+      "id": "a3b8219d1d1e4976b270b54d9ffe2047"
+    }
+  ],
+  "floors": [
+    {
+      "value": "10",
+      "id": "67e597c3cbfd4a0b95003dcc41791286"
+    }
+  ],
+  "overview": "<div><p>The distinctive contemporary insertion of The Emory into the Berkely Hotel site in Knightsbridge offers a contrast and a complementary addition to the existing building and the refurbished north block.</p><p>RSHP’s design concept for The Emory responds to severe site constraints: complexities within the ground, to the north Piccadilly Line tunnels running as close as 6m, and to the south bordered by the subterranean support areas of The Berkeley hotel. To overcome these constraints, a stability structure with a part-suspended floor system was incorporated into the fabric of the building and expressed on the skyline.</p><p>The whole structure top to bottom sits on bearings that minimise vibrations from passing trains impacting the hotel. The approach provides a structurally efficient solution, covering a very small footprint, minimising the impact on the internal layout of the superstructure, but also giving the new building a visually striking appearance, whilst achieving architectural clarity. The design creates eight levels of accommodation and a 9th level of social spaces, offering 60 sun-filled suites and one penthouse. The modular structure enables flexible use of the rooms that can be transformed from separate suites into one apartment on each floor.</p><p>The design includes a new destination wellness club and pool together with extended street-facing retail, restaurant / bar, and lounge spaces. The setting for The Emory has involved significant improvements to Old Barrack Yard to enable the creation of a unique arrival space for the hotel in the form of a light-filled indoor / outdoor courtyard area.</p><p>The Emory’s open street-front restaurant, abc kitchens, is raised above the pavement, offering diners views over passing cars towards Hyde Park whilst creating defensible space between the street and the welcome openness of the building.</p></div>",
+  "dimensions": [
+    {
+      "label": "Gross External Floor Area",
+      "value": "32,682m² (Emory and Berkeley Hotels combined)",
+      "id": "bd12f23c47954625b13759815cd9f5b6"
+    },
+    {
+      "label": "Gross Internal Floor Area",
+      "value": "30,415m² (Emory and Berkeley Hotels combined)",
+      "id": "8ba6dcfe571c405395d59e415b694e54"
+    }
+  ],
+  "companies": [
+    {
+      "label": "Executive Architect",
+      "value": "Blair Associates Architecture",
+      "id": "45752e58be01488b9d1fd9c703a3499d"
+    },
+    {
+      "label": "Site Architect",
+      "value": "Oscionn Ltd",
+      "id": "7b2b8c5882b34fa9be0362003e3939fa"
+    },
+    {
+      "label": "Planning Consultants",
+      "value": "DP9, Michael Blair Associates",
+      "id": "259b0ba4b0e74f5eb40f1d2db2d8253e"
+    },
+    {
+      "label": "Structural Engineers",
+      "value": "Expedition Engineering, WSP",
+      "id": "be42c81ca6fd4e53946bd81a14a702b5"
+    },
+    {
+      "label": "Services Engineers",
+      "value": "Ernest Griffin & Son, AECOM",
+      "id": "9a680dac783e4765917e79b660a13a4d"
+    },
+    {
+      "label": "Facade Engineers",
+      "value": "Arup, WSP",
+      "id": "e298e3d3b4104476b6e24ec9ebfb0e07"
+    },
+    {
+      "label": "Access Consultant",
+      "value": "Vin Goodwin Associates",
+      "id": "1297081c60be4281887c11c57340c068"
+    },
+    {
+      "label": "Quantity Surveyor",
+      "value": "Rainey & Best Ltd",
+      "id": "34f136c906b34034b83004dd2e161954"
+    },
+    {
+      "label": "Landscape Architects",
+      "value": "Gillespies, Bradley-Hole Schoenaich",
+      "id": "5f1259162b29478ea118aa8e2b3e650e"
+    },
+    {
+      "label": "Product Supplier/Manufacturer",
+      "value": "iQ Glass",
+      "id": "ba9c016ad0df49aebb4ad6776872f2e0"
+    },
+    {
+      "label": "Main Contractors",
+      "value": "Mastercraft, Corramore Construction Ltd, Piperhill Construction Ltd",
+      "id": "4b3efd0c8d3948a1a25d22b2dab2eda6"
+    },
+    {
+      "label": "Public Relations",
+      "value": "Four Communications",
+      "id": "92a2790c8ab3459bb198f1077599fc09"
+    },
+    {
+      "label": "Consultant",
+      "value": "WSP",
+      "id": "4f4dde59e82a4613ad860cd91353a8d5"
+    },
+    {
+      "label": "Acoustics",
+      "value": "WSP",
+      "id": "82098aad95d84e9a856bd007b99d72d0"
+    },
+    {
+      "label": "Drainage",
+      "value": "WSP",
+      "id": "8c0f6d6d8ab9404b9a4094d7ab5d938b"
+    },
+    {
+      "label": "Fire",
+      "value": "WSP",
+      "id": "878021e924d8476bb496b494509ce9eb"
+    },
+    {
+      "label": "Geotechnical",
+      "value": "WSP",
+      "id": "cec7c3fa988a43919c42ff4a5628342d"
+    },
+    {
+      "label": "Refuse & Transport",
+      "value": "WSP",
+      "id": "aeaf499bcf584c69af6e9b1140c51f63"
+    },
+    {
+      "label": "Vertical Transportation",
+      "value": "WSP",
+      "id": "3752895c87e14762858218efa8a45a12"
+    },
+    {
+      "label": "Acoustics",
+      "value": "Cole Jarman",
+      "id": "5f39c2bba39744919c55673ef4a8997b"
+    },
+    {
+      "label": "Pool Consultant",
+      "value": "Don Genders",
+      "id": "015212b9b33048dfbcc3db1aa1ff2836"
+    },
+    {
+      "label": "Visualisation",
+      "value": "7-t",
+      "id": "63948f9065b44a75beb734f2e0ea8cae"
+    },
+    {
+      "label": "Verified Views Visualisation",
+      "value": "GMJ",
+      "id": "0c9ec6fb557447d8aaac9c2ac61af929"
+    },
+    {
+      "label": "Kitchen Design",
+      "value": "Ken Winch",
+      "id": "6d03d6ba545742ffa85b8569770fa8f4"
+    },
+    {
+      "label": "Building Control",
+      "value": "MLM",
+      "id": "ea1329e41b1f4804982b202d0a3d049d"
+    },
+    {
+      "label": "Archaeology",
+      "value": "Mola",
+      "id": "5f0a1a18d5f048fbb9f8faada51f2a8e"
+    },
+    {
+      "label": "Specification Writers",
+      "value": "Schumann",
+      "id": "be23a99a5e7148d7a9bca53e8242fa6a"
+    },
+    {
+      "label": "Spa Consultant",
+      "value": "Greg Payne",
+      "id": "b479e6cabcae44749dd53abebcb52f1e"
+    },
+    {
+      "label": "Landscape Water Features and Sculpture",
+      "value": "Andrew Ewing",
+      "id": "ea7d07862fe6433cbbd0d704178ac2e2"
+    },
+    {
+      "label": "Interior Designers",
+      "value": "Rémi Tessier, André Fu, Patricia Urquiola, Champalimaud Design, Pierre-Yves Rochon and Rigby & Rigby, Robert Angell Design International",
+      "id": "92d4da746bce4d3f99b20fbe5d5ce41d"
+    },
+    {
+      "label": "New Build Facade and Structural Steelwork",
+      "value": "Bysteel",
+      "id": "3688611616da4853903e6ebf2be3cdd9"
+    },
+    {
+      "label": "Courtyard",
+      "value": "Design by Rémi Tessier, Structure by Frener & Reifer, Glass by Techniques Transparentes",
+      "id": "49c582a04da341ae820efc00abe54e58"
+    },
+    {
+      "label": "Project Managers",
+      "value": "Rainey & Best Ltd, Gleeds",
+      "id": "13fa464de7a241cdafc6a1efd9917fa8"
+    },
+    {
+      "label": "Principal Designer",
+      "value": "Kilcollum",
+      "id": "2b75e830643f453085be8bc6805b639a"
+    },
+    {
+      "label": "Approved Building Inspector",
+      "value": "MLM",
+      "id": "5e3adaa6cda24e928469a428c9bcdb33"
+    },
+    {
+      "label": "Lighting Design",
+      "value": "Isometrix",
+      "id": "d61e8f079da545a992b4132bcd4951a1"
+    }
+  ]
+}
