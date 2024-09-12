@@ -152,17 +152,6 @@
     "typology": "Culture & Leisure"
   },
   {
-    "projectId": "11690",
-    "project": "Broadway East Bethnal Green",
-    "date": "2018",
-    "endDate": "ongoing",
-    "location": "London",
-    "country": "UK",
-    "client": "St William Homes LLP",
-    "longLat": "-0.061724539814304785  / 51.53424062905374",
-    "typology": "Residential"
-  },
-  {
     "projectId": "50003",
     "project": "Crofts Street",
     "date": "2018",
@@ -235,6 +224,17 @@
     "country": "UK",
     "client": "YMCA Thames Gateway Group",
     "longLat": "0.18453547308976917 / 51.5651023780955",
+    "typology": "Residential"
+  },
+  {
+    "projectId": "11690",
+    "project": "Regent's View Bethnal Green",
+    "date": "2018",
+    "endDate": "ongoing",
+    "location": "London",
+    "country": "UK",
+    "client": "St William Homes LLP",
+    "longLat": "-0.061724539814304785  / 51.53424062905374",
     "typology": "Residential"
   },
   {
