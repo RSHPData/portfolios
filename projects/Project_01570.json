@@ -1,21 +1,27 @@
 {
+  "name": "Potsdamer Platz",
+  "url": "masterplanning/potsdamer-platz",
+  "webStatus": "Publish",
+  "typologies": [
+    "Masterplanning"
+  ],
   "type": "Project",
   "id": "01570",
-  "url": "349:masterplanning/potsdamer-platz",
-  "serializeDate": "'2022-07-13 14:31:32.430'",
-  "serialized": 1657722692430,
-  "serializedBy": "sreeve",
+  "serializeDate": "'2024-09-12 10:21:17.319'",
+  "serialized": 1726136477319,
+  "serializedBy": "heatherp",
+  "time": "2024-09-12T10:21:16.7218593Z",
+  "status": "PU",
   "title": "Potsdamer Platz",
   "description": "The brief required a masterplan to transform a million square metres of urban wasteland into a dynamic living space and major traffic inter-change, incorporating a mixed-use development.",
   "date": "1991",
   "client": "Daimler Benz AG, Sony AG, Hertie, ABB, Haus Vaterland",
   "location": "Berlin, Germany",
+  "city": "Berlin",
+  "country": "Germany",
   "longLat": "13.376052  / 52.509666",
   "longitude": "13.376052 ",
   "latitude": "52.509666",
-  "typologies": [
-    "Masterplanning"
-  ],
   "team": [
     "Laurie Abbott",
     "Peter Barber",
@@ -44,7 +50,7 @@
     "Graham Stirk",
     "Marco Goldschmied"
   ],
-  "overview": "This historic 80-acre site is situated at the heart of reunited Berlin between Alexander Platz and Kurfürstendamm.\n\nThe brief required a masterplan to transform a million square metres of urban wasteland into a dynamic living space and major traffic inter-change, incorporating a mixed-use development.\n\nThe masterplan study proposes a flexible site development framework that re-establishes Potsdamer Platz as the focus of the historic radial street pattern. The masterplan concept addresses the future traffic growth of Berlin, whilst offering new public transport routes and a major transport interchange accommodating some 250,000 people on a daily basis.\n\n\nThe proposed development creates a balanced community on the whole site, containing offices, retail, entertainment facilities and public amenities in an integrated concept with full commitment to the public realm. Green park and ecological linkage runs through the heart of the scheme from the Tiergarten to the Landwehrkanal, forming a series of linear parks.\n\n\n“This masterplan was not intended as an architectural statement or blueprint: it provides a suggested framework within which other architects and designers could contribute to a varied, rich and humane environment.”<strong>Richard Paul</strong>",
+  "overview": "<div><p>This historic 80-acre site is situated at the heart of reunited Berlin between Alexander Platz and Kurfürstendamm.</p><p>The brief required a masterplan to transform a million square metres of urban wasteland into a dynamic living space and major traffic inter-change, incorporating a mixed-use development.</p><p>The masterplan study proposes a flexible site development framework that re-establishes Potsdamer Platz as the focus of the historic radial street pattern. The masterplan concept addresses the future traffic growth of Berlin, whilst offering new public transport routes and a major transport interchange accommodating some 250,000 people on a daily basis.</p><p>The proposed development creates a balanced community on the whole site, containing offices, retail, entertainment facilities and public amenities in an integrated concept with full commitment to the public realm. Green park and ecological linkage runs through the heart of the scheme from the Tiergarten to the Landwehrkanal, forming a series of linear parks.</p><p>“This masterplan was not intended as an architectural statement or blueprint: it provides a suggested framework within which other architects and designers could contribute to a varied, rich and humane environment.” <strong>Richard Paul</strong></p><p>The competition to develop the masterplan was won by Hilmer Sattler Architekten.</p></div>",
   "dimensions": [
     {
       "label": "Site Area",
