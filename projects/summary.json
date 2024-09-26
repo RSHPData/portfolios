@@ -529,17 +529,6 @@
     "typology": "Culture & Leisure"
   },
   {
-    "projectId": "10380",
-    "project": "International Quarter London",
-    "date": "2014",
-    "endDate": "ongoing",
-    "location": "London",
-    "country": "UK",
-    "client": "Lend Lease and London Continental Railways",
-    "longLat": "-0.009296  / 51.541224",
-    "typology": "Office"
-  },
-  {
     "projectId": "10190",
     "project": "LSE Centre Building",
     "date": "2014",
@@ -579,6 +568,17 @@
     "country": "",
     "client": "",
     "typology": "Health & Science"
+  },
+  {
+    "projectId": "10380",
+    "project": "Stratford Cross",
+    "date": "2014",
+    "endDate": "2019",
+    "location": "London",
+    "country": "UK",
+    "client": "Lend Lease and London Continental Railways",
+    "longLat": "-0.009296  / 51.541224",
+    "typology": "Office"
   },
   {
     "projectId": "10110",
