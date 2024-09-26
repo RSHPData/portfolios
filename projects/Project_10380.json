@@ -1,58 +1,82 @@
 {
-  "type": "Project",
-  "id": "10380",
-  "url": "office/international-quarter-london",
-  "serializeDate": "'2022-06-27 15:40:58.172'",
-  "serialized": 1656344458172,
-  "serializedBy": "sreeve",
-  "title": "International Quarter London",
-  "description": "International Quarter London is a joint venture between Lend Lease and London Continental Railways to create a thriving business quarter at the heart of London’s newest metropolitan area, Stratford City, E20.",
-  "date": "2014-ongoing",
-  "client": "Lend Lease and London Continental Railways",
-  "location": "London, UK",
-  "longLat": "-0.009296  / 51.541224",
-  "longitude": "-0.009296 ",
-  "latitude": "51.541224",
-  "constructionCost": "£2.1 billion",
+  "name": "Stratford Cross",
+  "url": "office/stratford-cross",
+  "webStatus": "Publish",
   "typologies": [
     "Office"
   ],
+  "type": "Project",
+  "id": "10380",
+  "serializeDate": "'2024-09-26 17:42:44.580'",
+  "serialized": 1727372564580,
+  "serializedBy": "heatherp",
+  "time": "2024-09-26T17:42:44.0707854Z",
+  "status": "PU",
+  "title": "Stratford Cross",
+  "description": "Stratford Cross is a joint venture between Lend Lease and London Continental Railways to create a thriving business quarter at the heart of London’s newest metropolitan area, Stratford City, E20.",
+  "date": "2014 - 2019",
+  "client": "Lend Lease and London Continental Railways",
+  "location": "London, UK",
+  "city": "London",
+  "country": "UK",
+  "longLat": "-0.009296  / 51.541224",
+  "longitude": "-0.009296 ",
+  "latitude": "51.541224",
   "team": [
+    "Anna Au",
     "Juan Carpio",
     "Jean Corona",
     "Luca D'Amico",
+    "Lindsay Bresser",
+    "Richard Breen",
     "John Dawson",
     "Laurence Day",
+    "Oliver English",
     "Mike Fairbrass",
     "Da Feng",
     "Alba Fernández Arias",
     "David Flook",
     "Jon Garmendia",
     "Ivan Harbour",
+    "Mimi Hawley",
     "Dennis Ho",
     "Lizzie Holleyman",
+    "Daniel Holmes",
+    "Kyle Hyde",
     "Aki Kageyama",
     "Richard Keys",
+    "Alex Kitching",
     "Willem Kok",
+    "Dzidzor Kwaku",
     "Anthony Lau",
     "John Lowe",
-    "Chris McAnneny",
+    "Chris Mcanneny",
+    "Steve Martin",
     "Ann Miller",
     "Virginia Moreno",
     "Colin Moriarty",
     "Andrew Morris",
     "Borja Muguiro",
+    "Bridget Munro",
+    "Jonathan Niven",
     "Mark Ng",
     "Dawid Panek",
+    "Achilleas Papakyriakou",
     "Joseph Park",
     "Laura Penman",
     "John Porral",
+    "Rosa Prichard",
+    "Daniel Rusinski",
     "Marian San Emeterio",
+    "Harjinder Singh",
     "Soki So",
     "Neil Southard",
     "James Stopps",
     "Simon Tonks",
+    "Suzan Ucmaklioglu",
     "Luca Vernocchi",
+    "Matt Wilson",
+    "Sim Yee Lee",
     "Elizabeth Young"
   ],
   "partners": [
@@ -61,22 +85,27 @@
   "leaders": [
     "Steve Martin"
   ],
-  "overview": "International Quarter London is a joint venture between Lend Lease and London Continental Railways to create a thriving business quarter at the heart of London’s newest metropolitan area, Stratford City, E20. As well as new homes and community facilities, International Quarter London provides approximately 4,000,000 ft² of work space along with retail and a hotel, creating 25,000 jobs.\n\nThe commercial space is spread across two sites, North and South, and designed around the core values of promoting health and wellbeing in the workplace. RSHP has created a masterplan for both sites, including a design framework that enables buildings of different sizes and configurations to be created using the same basic components. This ‘kit-of-parts’ approach provides overall design coherence whilst allowing scope for the development of individual building identities as well as flexibility to adapt to specific tenant requirements.\n\n\nAll commercial buildings offer activity and variety at lower levels to create a vibrant public realm, whilst higher levels read as a composition of large elements when seen from distance. Natural daylight, views, connectivity and open spaces are all key considerations in the masterplan, which also includes 32,000 ft² of shops and restaurants as well as 350 new homes together with community facilities.\n\nIn addition to the masterplan, RSHP is also responsible for the design of individual office buildings on site. Building S5, which will form the new home of the Financial Conduct Authority, provides 515,000 ft² net internal office space over 20 storeys of flexible, open plan floorplates. Each floor plate is between 20,000 and 30,000 ft², wrapped around a perimeter atrium and split into three-storey high ‘villages’. This arrangement maximises horizontal and vertical connectivity and creates a vibrant hub at the heart of the building.\n\n\nBuilding S6, into which TfL will move, is the smaller of the two buildings, rising to 11 storeys and providing 265,000 ft² net internal office spaces, designed using the same principle of large open floor plates and central atrium. The two buildings form the enclosure of a significant new public space to be known as International Square where retail and ancillary accommodation at ground level enliven the public realm.",
+  "overview": "<div><p>Stratford Cross, formerly known as International Quarter London, (IQL) is an evolving cultural and commercial workplace destination in the east of London. Situated in 560 acres of the Queen Elizabeth Olympic Park, The London Stadium and the creative institutions of the East Bank, the area is joint venture between Lendlease and London Continental Railways to create a thriving business quarter at the heart of London’s newest metropolitan area, Stratford City, E20.</p><p>In 2014, RSHP was commissioned to create a masterplan for the commercial space, which is spread over north and south sites, and provide a design framework that enables buildings of varied sizes and configurations to be created using the same basic components. This ‘kit-of-parts’ approach provides overall design coherence, whilst allowing scope for the development of individual building identities as well as flexibility to adapt to specific tenant requirements.</p><p>In addition to the masterplan, RSHP was also responsible for the design of three individual office buildings promoting health and wellbeing in the workplace.</p><p>The Financial Conduct Authority provides 48,000m² NIA (net internal area) over twenty storeys of flexible, open plan floorplates. Each floor plate is wrapped around a perimeter atrium and split into three-storey high villages. This arrangement maximises horizontal and vertical connectivity and creates a vibrant hub at the heart of the building.</p><p>Transport for London (TfL) is the smaller of these two buildings, rising to eleven storeys and provides 24,619m² NIA, designed using the same principle of large open floor plates and a central atrium. The two buildings form the enclosure of a significant new public space, Endeavour Square, which accommodates retail and ancillary at ground level to activate the public realm.</p><p>2 Redman Place, the home of Cancer Research UK and the British Council, provides 26,000m² NIA of commercial office space with typical floors providing efficient sub-division into two tenancies, with the possibility of three tenancies. It has been awarded a certification of Outstanding by BREEAM, one of the world’s most recognised industry standards for setting standards of best practice in environmentally positive building design and construction, and a WELL Gold certification for promoting health and well-being through Air, Water, Thermal Comfort, Light, Movement, Nourishment, Sound, Mind, Community and Materials.</p></div>",
   "dimensions": [
     {
       "label": "Total Area",
-      "value": "371 000  m²",
+      "value": "371,000 m²",
       "id": "d834cf6f9c1f4eb0879f354bc0e969c7"
     },
     {
-      "label": "Building S5",
-      "value": "48 000  m² NIA",
+      "label": "Financial Conduct Authority",
+      "value": "48,000m² NIA",
       "id": "749d5899dfd9451fb51d8b893ecaf7db"
     },
     {
-      "label": "Building S6",
-      "value": "24 619 m² NIA",
+      "label": "Transport for London",
+      "value": "25,000m² NIA",
       "id": "c934c50a438240969de8124c1cef79e1"
+    },
+    {
+      "label": "Cancer Research UK and British Council",
+      "value": "26,000m² NIA",
+      "id": "1dd5485ff66b49f28aa1404a4ca1f79e"
     }
   ],
   "companies": [
@@ -97,25 +126,29 @@
     },
     {
       "label": "Contractor",
-      "value": "Lend Lease",
+      "value": "Lendlease",
       "id": "28a3a8bbe2224035b08ca8e0cdad3858"
     }
   ],
-  "awards": [],
   "certificates": [
     {
       "authority": "BREEAM",
-      "rating": "Outstanding (S9)",
+      "rating": "Outstanding - 2 Redman Place",
       "rowId": "1"
     },
     {
+      "authority": "WELL",
+      "rating": "Gold - 2 Redman Place",
+      "rowId": "e4e91257d2204962942cf88df6f2e058"
+    },
+    {
       "authority": "BREEAM",
-      "rating": "Excellent (S5)",
+      "rating": "Excellent - Financial Conduct Authority",
       "rowId": "2"
     },
     {
       "authority": "BREEAM",
-      "rating": "Excellent (S6)",
+      "rating": "Excellent - Transport for London (TfL)",
       "rowId": "3"
     }
   ]
