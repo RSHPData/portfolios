@@ -1,34 +1,43 @@
 {
-  "type": "Project",
-  "id": "11230",
-  "url": "280:education/h-farm/",
-  "serializeDate": "'2022-08-30 17:03:05.537'",
-  "serialized": 1661878985537,
-  "serializedBy": "heatherp",
-  "title": "H-Farm",
-  "description": "Located on the outskirts of Venice, HILL is part of the wider masterplan for H-FARM",
-  "date": "2016 - 2021",
-  "client": "H-FARM",
-  "location": "Roncade, Italy",
-  "longLat": "12.4178116  / 45.5590441",
-  "longitude": "12.4178116 ",
-  "latitude": "45.5590441",
+  "name": "H-FARM",
+  "url": "education/h-farm/",
+  "webStatus": "Publish",
   "typologies": [
     "Education"
   ],
+  "type": "Project",
+  "id": "11230",
+  "serializeDate": "'2024-10-03 14:30:29.456'",
+  "serialized": 1727965829456,
+  "serializedBy": "heatherp",
+  "time": "2024-10-03T14:30:29.4229006Z",
+  "status": "PU",
+  "title": "H-Farm",
+  "description": "Located on the outskirts of Venice, the Hill is part of the wider masterplan for H-FARM",
+  "date": "2016 - 2021",
+  "client": "Fondo “Ca’ Tron H-Campus” - Finanziaria Internazionale Investments Società di Gestione del Risparmio S.p.A.",
+  "location": "Roncade, Italy",
+  "city": "Roncade",
+  "country": "Italy",
+  "longLat": "12.4178116  / 45.5590441",
+  "longitude": "12.4178116 ",
+  "latitude": "45.5590441",
   "team": [
-    "Richard Rogers",
-    "Stephen Spence",
+    "Richard Black",
+    "Yuting Cheng",
+    "Mariana Garza",
     "Ed Hiscock",
+    "Tracy Meller",
     "Jo Murtagh",
     "Joseph Park",
-    "Mariana Garza",
-    "Richard Black",
-    "Yuting Cheng"
+    "Stephen Spence",
+    "Robert Richardson",
+    "Richard Rogers"
   ],
   "partners": [
     "Lennart Grut",
-    "Richard Rogers"
+    "Richard Rogers",
+    "Tracy Meller"
   ],
   "leaders": [
     "Stephen Spence"
@@ -45,9 +54,9 @@
       "id": "fe500dce8671495eafe96f12d14e84d8"
     }
   ],
-  "overview": "Located on the outskirts of Venice, H-FARM is part of the wider masterplan for H-Campus. The completed scheme includes a primary school, secondary school, university, and student accommodation, aiming to become a tech start-up orientated education facility for a world which is constantly reinventing itself.\nStudents live alongside entrepreneurs, teachers, experts, and managers of large companies — a community of people who will participate in building a collective and cultural identity.\nThe RSHP-designed focal building - called The Hill - is a multipurpose, flexible, auditorium, library and cafe sitting within the centre of the scheme and linking all surrounding facilities.\nThe east wing comprises a large kitchen and seating area aiming to satisfy the needs of the entire campus, while the west wing contains a flexible multipurpose hall with seating for 1000 people. This facility accommodates a variety of events, including exhibitions, workshops, and conferences.\nAt either end of the building, the ground rises creating a gentle pedestrian route up and over the building. In such a flat terrain, even this gentle gradient provides distant views over the surrounding countryside.\nThe whole building essentially performs as a covered arena, a real centre of gravity for the entire campus. It is conceived as a public square where students and the external community can all meet.",
-  "design": "Centrally located within the masterplan, the building physically connects to each of its surrounding buildings through a network of pathways. The raised platform at either end creates an outdoor environment for both leisure and structured activities, whilst the main two elevations are formed with floor-to-ceiling glass, allowing for uninterrupted views through the building and out to low-level floodplain area beyond.\n\n\nHalf of the building comprises a multi-purpose conference centre designed to accommodate a wide and variety of events. The remainder of the building contains a restaurant designed to cater for large events, as well as for the daily requirements of the students on campus.\n\n\nThere are outdoor areas at roof level and to both sides of the building, allowing for the creation of a three-dimensional public piazza. Directly linked to the restaurant is a study/library area which sits at the upper level. As is it open-plan and flexible, it is neither an extension of the restaurant nor a library – but occupies a world containing both –a rich vibrant, dynamic area, open to change on a day-to-day basis.",
-  "concept": "Surrounded by the green countryside of Treviso, near the Sile river and the Venetian lagoon, this is the location where H- Farm was born — a business and training centre gea­red towards innovation via new technologies. The renovation of abandoned farm buildings and the construction of new ones will mark the first intervention, where today, more than five hundred people are living and working.\n\n\nThe new expansion, the second phase of the project which is still in progress, concerns H-Campus, an international education district. H-Campus will cater to students, teachers and professionals — a multitude of people who come to this evolving place, configuring a new community and injecting new life into the forgotten countryside. As the dominant landscape is the main attraction of the site, the intention is to therefore establish an architectural style which is harmonious with the site’s history and surrounding nature.\n\n\nThe site is a 30-hectare sized park, all idyllically landscaped. The “H” stands for human, creating a farm of sorts, where people grow from learning. There are low-height restrictions for all the buildings so as to create the pastoral style setting that is so quintessential of a traditional farm. Vehicle access will be limited with the pedestrian routes and pathways forming an informal series of paths across the site. The essential characteristics of the complex are sustainability, modularity, its dialogue with the native territory, soft mobility, the coexistence of nature and architecture, renewable energy, implementation possibility, flexibility, the relationship between indoor and outdoor spaces, and reversibility.",
+  "overview": "<div style =\"break-inside:avoid-column;\"><p style='margin-bottom:22px'>Located on the outskirts of Venice, the Hill is the focal point for H-Campus. The completed scheme includes a primary school, secondary school, university, and student accommodation, aiming to become a tech start-up orientated education facility for a world which is constantly reinventing itself. Students live alongside entrepreneurs, teachers, experts, and managers of large companies — a community of people who will participate in building a collective and cultural identity.</p></div><div style =\"break-inside:avoid-column;margin-top:22px\"><p style='margin-bottom:22px'>The RSHP-designed focal building - called The Hill - is a multipurpose, flexible, auditorium, library and cafe sitting within the centre of the scheme and linking all surrounding facilities. The east wing comprises a large kitchen and seating area aiming to satisfy the needs of the entire campus, while the west wing contains a flexible multipurpose hall with seating for 1000 people. This facility accommodates a variety of events, including exhibitions, workshops, and conferences.</p></div><div style =\"break-inside:avoid-column;margin-top:22px\"><p>At either end of the building, the ground rises creating a gentle pedestrian route up and over the building. In such a flat terrain, even this gentle gradient provides distant views over the surrounding countryside. The whole building essentially performs as a covered arena, a real centre of gravity for the entire campus. It is conceived as a public square where students and the external community can all meet.</p></div>",
+  "design": "<div><p>Centrally located within the masterplan, the building physically connects to each of its surrounding buildings through a network of pathways. The raised platform at either end creates an outdoor environment for both leisure and structured activities, whilst the main two elevations are formed with floor-to-ceiling glass, allowing for uninterrupted views through the building and out to low-level floodplain area beyond.</p><p>Half of the building comprises a multi-purpose conference centre designed to accommodate a wide and variety of events. The remainder of the building contains a restaurant designed to cater for large events, as well as for the daily requirements of the students on campus.</p><p>There are outdoor areas at roof level and to both sides of the building, allowing for the creation of a three-dimensional public piazza. Directly linked to the restaurant is a study/library area which sits at the upper level. As is it open-plan and flexible, it is neither an extension of the restaurant nor a library – but occupies a world containing both –a rich vibrant, dynamic area, open to change on a day-to-day basis.</p></div>",
+  "concept": "<div><p>Surrounded by the green countryside of Treviso, near the Sile river and the Venetian lagoon, this is the location where H- Farm was born — a business and training centre gea­red towards innovation via new technologies. The renovation of abandoned farm buildings and the construction of new ones will mark the first intervention, where today, more than five hundred people are living and working.</p><p>The new expansion, the second phase of the project which is still in progress, concerns H-Campus, an international education district. H-Campus will cater to students, teachers and professionals — a multitude of people who come to this evolving place, configuring a new community and injecting new life into the forgotten countryside. As the dominant landscape is the main attraction of the site, the intention is to therefore establish an architectural style which is harmonious with the site’s history and surrounding nature.</p><p>The site is a 30-hectare sized park, all idyllically landscaped. The “H” stands for human, creating a farm of sorts, where people grow from learning. There are low-height restrictions for all the buildings so as to create the pastoral style setting that is so quintessential of a traditional farm. Vehicle access will be limited with the pedestrian routes and pathways forming an informal series of paths across the site. The essential characteristics of the complex are sustainability, modularity, its dialogue with the native territory, soft mobility, the coexistence of nature and architecture, renewable energy, implementation possibility, flexibility, the relationship between indoor and outdoor spaces, and reversibility.</p></div>",
   "dimensions": [
     {
       "label": "Site Area",
@@ -58,12 +67,12 @@
   "companies": [
     {
       "label": "Co-Architect",
-      "value": "zanonarchitettiassociati (ZAA)",
+      "value": "Zanon Architetti Associati (ZAA)",
       "id": "f9966556846c48478c2fe22c78acd968"
     },
     {
       "label": "Contractor",
-      "value": "Carron",
+      "value": "Carron Cav. Angelo S.p.A.",
       "id": "f1875b1ce3f441ce964c3288a40c96cf"
     },
     {
@@ -73,13 +82,23 @@
     },
     {
       "label": "Services Engineer",
-      "value": "Manens-Tifs",
+      "value": "Manens-Tifs and DBA Progetti S.p.A.",
       "id": "3bb0bf8e5fe54c74874a015d4d20ef35"
     },
     {
       "label": "Project Manager",
-      "value": "Manens-Tifs",
+      "value": "Manens-Tifs and DBA Progetti S.p.A.",
       "id": "ad37027c2a054fd2ab6b2c70a46d69fc"
+    },
+    {
+      "label": "BIM",
+      "value": "DVision Architecture (DVA)",
+      "id": "3cc86eedf5e64dd4b6a4da86e3c8d67e"
+    },
+    {
+      "label": "Interior Design",
+      "value": "RSHP and ZAA",
+      "id": "a44510be95d0421882f1605f48425760"
     }
   ],
   "certificates": [
