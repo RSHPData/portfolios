@@ -55,6 +55,17 @@
     "typology": "Mixed Use"
   },
   {
+    "projectId": "12615",
+    "project": "Qianhai Financial Holdings Building",
+    "date": "2020",
+    "endDate": "under construction",
+    "location": "Shenzhen",
+    "country": "China",
+    "client": "Qianhai Financial Holding Co. Ltd / Century Securities  Co. Ltd",
+    "longLat": "22.55452617409 / 114.0586853185",
+    "typology": "Office"
+  },
+  {
     "projectId": "12505",
     "project": "Shenzhen-Hong Kong Innovation Integrated Service Centre",
     "date": "2020",
