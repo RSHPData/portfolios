@@ -249,6 +249,17 @@
     "typology": "Residential"
   },
   {
+    "projectId": "11460",
+    "project": "South Kensington Station",
+    "date": "2018",
+    "endDate": "Ongoing",
+    "location": "London",
+    "country": "UK",
+    "client": "Native Land and Transport for London (TfL)",
+    "longLat": "-0.174371 / 51.494142",
+    "typology": "Mixed Use"
+  },
+  {
     "projectId": "12100",
     "project": "Tall Timber Tower",
     "date": "2018",
