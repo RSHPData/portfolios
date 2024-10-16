@@ -8,10 +8,10 @@
   ],
   "type": "Project",
   "id": "11460",
-  "serializeDate": "'2024-10-14 17:15:14.253'",
-  "serialized": 1728926114253,
+  "serializeDate": "'2024-10-16 10:10:01.349'",
+  "serialized": 1729073401349,
   "serializedBy": "heatherp",
-  "time": "2024-10-14T17:15:14.2240851Z",
+  "time": "2024-10-16T10:10:00.8664569Z",
   "status": "PU",
   "title": "South Kensington Station",
   "date": "2018 - ongoing",
@@ -57,24 +57,13 @@
   "leaders": [
     "Simon Davis"
   ],
-  "overview": "<div><p>In 2018, RSHP, part of a team led by developer Native Land, was appointed by Transport for London (TfL) for the redevelopment of South Kensington Tube station to create a mixed-use scheme. South Kensington Tube station, located in the Royal Borough of Kensington and Chelsea, welcomes over 34 million District and Circle and Piccadilly line customers a year to London’s museum quarter.</p><p>The new scheme provides step-free access to both the District and Circle line via a new station entrance on Thurloe Street and the pedestrian subway leading to local destinations including the Science Museum, Imperial College, the Natural History Museum and the Victoria and Albert Museum.</p><p>RSHP’s scheme improves the commercial and retail units of the station; refurbishes the four storey buildings at 20-34 Thurloe Street; extends the distinctive ‘Bullnose’ building and creates new opportunities along TfL’s stretch of land on Pelham Street. The project also includes the renovation of the main station entrances through the Grade II listed shopping arcade, which will be restored to its original state, and a second entrance via a Grade II listed pedestrian subway.</p></div>",
-  "dimensions": [
-    {
-      "label": "Area",
-      "value": "6,000m²",
-      "id": "137e0949a5464159be1c88c72fbddee3"
-    }
-  ],
+  "overview": "<div><p>In 2018, RSHP, part of a team led by developer Native Land, was appointed by Transport for London (TfL) for the redevelopment of the area around South Kensington Tube station. South Kensington Tube station, located in the Royal Borough of Kensington and Chelsea, welcomes over 34 million District and Circle and Piccadilly line customers a year to London’s museum quarter.</p><p>The new scheme provides step-free access to both the District and Circle line via a new station entrance on Thurloe Street and the pedestrian subway leading to local destinations including the Science Museum, Imperial College, the Natural History Museum and the Victoria and Albert Museum.</p><p>RSHP’s scheme improves the commercial and retail units of the station; refurbishes the four storey buildings at 20-34 Thurloe Street; extends the distinctive ‘Bullnose’ building and creates new opportunities along TfL’s stretch of land on Pelham Street. The project also includes the renovation of the main station entrances through the Grade II listed shopping arcade, which will be restored to its original state, and a second entrance via a Grade II listed pedestrian subway.</p></div>",
+  "dimensions": [],
   "companies": [
     {
       "label": "Structural Engineer",
       "value": "AKT II",
       "id": "340b9b62967247b5a5752bf88b4f2756"
-    },
-    {
-      "label": "Rail Interface Consultant",
-      "value": "ByrneLooby",
-      "id": "7e6136b059df4e249f61ead98122e612"
     },
     {
       "label": "Legal",
@@ -85,16 +74,6 @@
       "label": "Cost Consultant",
       "value": "Core Five",
       "id": "51613a65c56149f48ca8c3aff2d7a608"
-    },
-    {
-      "label": "Competitor",
-      "value": "Lifschutz Davidson Sandilands",
-      "id": "17820c20f0424a7e9c0a12bf66d99236"
-    },
-    {
-      "label": "Retail Consultant",
-      "value": "Cushman & Wakefield",
-      "id": "3a9978faef7c4a8fb4df8435c0915538"
     },
     {
       "label": "Planning Consultant",
@@ -122,24 +101,24 @@
       "id": "d1c89732b67e4a0a803d3e9811319815"
     },
     {
-      "label": "Contact",
+      "label": "Models",
       "value": "LL&Co",
       "id": "35986eee9bb14e749543292cd40239b4"
     },
     {
       "label": "Heritage Consultant",
-      "value": "Montagu Evans",
+      "value": "Alan Baxter",
       "id": "d832ec92dbb6472797e17337a48f69ba"
     },
     {
-      "label": "Consultant",
+      "label": "Services Engineer",
       "value": "Sweco UK Limited",
       "id": "138a8e52ca9c4ec1a153ae3f64075d87"
     },
     {
-      "label": "Statutory",
-      "value": "Transport for London",
-      "id": "0655446b37224f2cb2054ba5dda74bbc"
+      "label": "Landscape Consultant",
+      "value": "Tavernor Consultancy",
+      "id": "be0488bd7f5d42caac809c6e497dadc7"
     }
   ]
 }
