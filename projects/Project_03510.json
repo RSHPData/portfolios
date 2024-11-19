@@ -1,22 +1,28 @@
 {
+  "name": "The Leadenhall Building",
+  "url": "office/the-leadenhall-building",
+  "webStatus": "Publish",
+  "typologies": [
+    "Office"
+  ],
   "type": "Project",
   "id": "03510",
-  "url": "541:office/the-leadenhall-building",
-  "serializeDate": "'2022-09-13 10:44:53.144'",
-  "serialized": 1663065893144,
+  "serializeDate": "'2024-11-19 15:35:12.803'",
+  "serialized": 1732030512803,
   "serializedBy": "heatherp",
+  "time": "2024-11-19T15:35:12.5753946Z",
+  "status": "PU",
   "title": "The Leadenhall Building",
   "description": "This 50-storey tower opposite Lloyd’s of London rises to a height of 224.5 metres (802 feet), its slender form creating its own distinctive profile within an emerging cluster of tall buildings in this part of the City of London.",
   "date": "2000-2014",
   "client": "The British Land Company PLC and Oxford Properties",
   "location": "London, UK",
+  "city": "London",
+  "country": "UK",
   "longLat": "-0.0825941  / 51.5137204",
   "longitude": "-0.0825941 ",
   "latitude": "51.5137204",
   "constructionCost": "£ 340 000 000",
-  "typologies": [
-    "Office"
-  ],
   "team": [
     "Maurice Brennan",
     "Andy Bryce",
@@ -162,6 +168,12 @@
     }
   ],
   "awards": [
+    {
+      "date": "2024-09-25",
+      "year": "2024",
+      "award": "Award of Excellence - CTBUH 10 Year Award",
+      "rowId": "32f140d481184e798e70b38903fb3d68"
+    },
     {
       "date": "2018-01-01",
       "year": "2018",
