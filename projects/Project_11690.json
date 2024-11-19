@@ -7,10 +7,10 @@
   ],
   "type": "Project",
   "id": "11690",
-  "serializeDate": "'2024-11-08 17:50:20.965'",
-  "serialized": 1731088220965,
+  "serializeDate": "'2024-11-19 12:11:05.115'",
+  "serialized": 1732018265115,
   "serializedBy": "heatherp",
-  "time": "2024-11-08T17:50:20.1065545Z",
+  "time": "2024-11-19T12:11:04.1975083Z",
   "status": "PU",
   "title": "Regent's View Bethnal Green",
   "description": ".",
@@ -154,6 +154,14 @@
       "label": "Architecture and Heritage consultant",
       "value": "Tavernor Consultancy",
       "id": "91a77dbbae77438fa43a644d6f566d5a"
+    }
+  ],
+  "awards": [
+    {
+      "date": "2024-11-08",
+      "year": "2024",
+      "award": "WAF 24 - Winner - WAF Future Project: Residential",
+      "rowId": "2aeabcfa43244bf88b9bf0be294cb3bc"
     }
   ]
 }
