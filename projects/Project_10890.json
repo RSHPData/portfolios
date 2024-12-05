@@ -7,10 +7,10 @@
   ],
   "type": "Project",
   "id": "10890",
-  "serializeDate": "'2024-08-09 11:46:15.379'",
-  "serialized": 1723203975379,
+  "serializeDate": "'2024-12-05 12:08:41.114'",
+  "serialized": 1733400521114,
   "serializedBy": "heatherp",
-  "time": "2024-08-09T11:46:15.2918849Z",
+  "time": "2024-12-05T12:08:40.2708645Z",
   "status": "PU",
   "title": "The Emory",
   "date": "2004 - 2024",
@@ -278,6 +278,14 @@
       "label": "Lighting Design",
       "value": "Isometrix",
       "id": "d61e8f079da545a992b4132bcd4951a1"
+    }
+  ],
+  "awards": [
+    {
+      "date": "2024-01-01",
+      "year": "2024",
+      "award": "Tatler magazine: ‘Best Hotel for Design and Style’",
+      "rowId": "4396202807f94163a996e67af8821020"
     }
   ]
 }
