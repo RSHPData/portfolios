@@ -1,6 +1,6 @@
 {
   "name": "Vertical Gardens",
-  "url": "culture-and-leisure/vertical-gardens",
+  "url": "R&D/vertical-gardens",
   "webStatus": "Publish",
   "typologies": [
     "R & D",
@@ -8,16 +8,38 @@
   ],
   "type": "Project",
   "id": "12845",
-  "serializeDate": "'2024-12-11 12:58:02.231'",
-  "serialized": 1733921882231,
+  "serializeDate": "'2024-12-11 13:01:10.093'",
+  "serialized": 1733922070093,
   "serializedBy": "heatherp",
-  "time": "2024-12-11T12:58:02.2003949Z",
+  "time": "2024-12-11T13:01:10.0691363Z",
   "status": "PU",
   "title": "Vertical Gardens",
   "date": "2021",
+  "team": [
+    "Thomas Birtles",
+    "Alessandro Blasucci",
+    "Luca D'Amico",
+    "Kelly Darlington",
+    "Heidi Gillett",
+    "Ivan Harbour",
+    "Ed Hiscock",
+    "Steve Martin",
+    "John McElgunn",
+    "Kyle McGuinness",
+    "Jon Mercer",
+    "Dawid Panek",
+    "Andrew Partridge",
+    "Joanna Pencakowski",
+    "Dan Rogers",
+    "Stephanie Sinden",
+    "Alejandro Terron"
+  ],
   "partners": [
     "Ivan Harbour",
     "John McElgunn"
+  ],
+  "leaders": [
+    "Andrew Partridge"
   ],
   "overview": "<div><p>The Vertical Gardens represent a ground-breaking initiative redefining urban agriculture through state-of-the-art vertical farming techniques. This visionary project combines technology and sustainability to create an immersive experience for visitors while promoting innovative methods of food production. At its core, the Vertical Gardens feature a cluster of iconic towers designed to optimize plant growth using controlled-environment agriculture, including hydroponics, aquaponics, and aeroponics. Crops are grown in a fertiliser and pesticide-free environment.</p><p>These towers not only serve as functional growing spaces but also as architectural landmarks, reflecting their purpose through sustainable design elements such as self-shading facades, recycled water systems, and advanced LED lighting that enhances crop yield and quality.</p><p>Visitors journey through the vertical farm in glass elevators, gaining an intimate look at the processes behind the world’s most advanced indoor farming systems, culminating in vibrant markets, educational exhibitions, and rooftop dining spaces offering breath-taking views of the local area.</p><p>The project emphasizes community engagement by reconnecting people with their food heritage and showcasing the journey from plant to plate. Beyond its educational and experiential value, the Vertical Gardens stand as a model for sustainable development, integrating passive cooling technologies inspired by the regional vernacular and utilizing innovative environmental strategies to minimize resource consumption. This initiative celebrates the potential of urban farming to address food security challenges while contributing to the cultural and ecological fabric of a city.</p></div>",
   "dimensions": [],
