@@ -33,6 +33,16 @@
     "typology": "Mixed Use"
   },
   {
+    "projectId": "12845",
+    "project": "Vertical Gardens",
+    "date": "2021",
+    "location": "Riyadh",
+    "country": "Saudi Arabia",
+    "client": "The KSP Foundation",
+    "longLat": "0.00000 / 0.00000",
+    "typology": "R & D"
+  },
+  {
     "projectId": "12605",
     "project": "Horse Soldier Farms",
     "date": "2020",
