@@ -1,16 +1,20 @@
 {
-  "type": "Project",
-  "id": "06480",
+  "name": "Skyfarm",
   "url": "health-and-science/skyfarm/",
-  "serializeDate": "'2022-06-27 15:40:45.757'",
-  "serialized": 1656344445757,
-  "serializedBy": "sreeve",
-  "title": "Skyfarm",
-  "description": "Skyfarm was initiated as a research project in response to the 2015 Milan Expo theme ‘feed the world’. It is said that by the year 2050 nearly 80 per cent of the earth’s population will reside in urban centres.",
-  "date": "2014",
+  "webStatus": "Publish",
   "typologies": [
     "Health & Science"
   ],
+  "type": "Project",
+  "id": "06480",
+  "serializeDate": "'2024-12-11 13:20:22.096'",
+  "serialized": 1733923222096,
+  "serializedBy": "heatherp",
+  "time": "2024-12-11T13:20:22.0495949Z",
+  "status": "PU",
+  "title": "Skyfarm",
+  "description": "Skyfarm was initiated as a research project in response to the 2015 Milan Expo theme ‘feed the world’. It is said that by the year 2050 nearly 80 per cent of the earth’s population will reside in urban centres.",
+  "date": "2014",
   "team": [
     "Davide Costa",
     "Ivan Harbour",
@@ -24,7 +28,7 @@
   "leaders": [
     "Andrew Partridge"
   ],
-  "overview": "Skyfarm was initiated as a research project in response to the 2015 Milan Expo theme ‘feed the world’. It is said that by the year 2050 nearly 80 per cent of the earth’s population will reside in urban centres. Over the same period of time (36 years), the earth’s population is expected to grow by an additional 3 billion people. If we continue to use traditional farming practises, it is believed that an area of land larger than Brazil will be needed to feed these additional people.\n\nSkyfarm proposes an alternative to the typical land-intensive farming systems. A vertical farm, it is designed to produce crops in multi-storey structures within high density urban areas or where there is insufficient land or poor quality soil. The multi-storey tensegrity structure (isolated components in compression delineated by prestressed tension members) is made of light bamboo to create a rigid circular frame and maximise sun exposure onto the farm. These towers support several layers of agricultural cultivation and an aquaponics system that enables the growth of crops and fish together in a re-circulating system; nutrients derived from fish waste are fed to the plants and the plants provide filters for the fish to thrive in.\n\n\nThe structure is zoned to make the best use of water and nutrients, and to spread the weight of water efficiently across the tower. At ground level there is space for a market or restaurant to encourage the public into the farm and act as an education space or social hub, where all the growing parts of the tower are visible.\n\nAbove this is a large transparent tank where freshwater fish such as bass, tilapia and barramundi are farmed. In the middle of the structure, plants are grown hydroponically in water rather than soil. Above this, an aeroponic system, where plants are grown in a misty environment using minimal water and no soil, is used. The top of the tower houses water tanks and wind turbines.\n\n\nThe hyperboloid form of the tower enables it to be easily scaled. A 10-metre version could be constructed in a school, or an 80-metre farm built in a larger urban area. Its geometry can also be adapted depending on the earth’s latitude and the amount of sunlight available. In cooler climates, a double skinned enclosure and heating could be added to create optimum growing conditions.\n\nWhile the upfront costs of Skyfarm are higher than standard industrial scale agriculture, the ability to grow produce with a short shelf life, such as strawberries, spinach and lettuce, around the year and close to market without costly air-freighting, makes it an attractive, sustainable proposition.",
+  "overview": "<div><p>Skyfarm was initiated as a research project in response to the 2015 Milan Expo theme ‘feed the world’. It is said that by the year 2050 nearly 80 per cent of the earth’s population will reside in urban centres. Over the same period of time (36 years), the earth’s population is expected to grow by an additional 3 billion people. If we continue to use traditional farming practises, it is believed that an area of land larger than Brazil will be needed to feed these additional people.</p><p>Skyfarm proposes an alternative to the typical land-intensive farming systems. A vertical farm, it is designed to produce crops in multi-storey structures within high density urban areas or where there is insufficient land or poor quality soil. The multi-storey tensegrity structure (isolated components in compression delineated by prestressed tension members) is made of light bamboo to create a rigid circular frame and maximise sun exposure onto the farm. These towers support several layers of agricultural cultivation and an aquaponics system that enables the growth of crops and fish together in a re-circulating system; nutrients derived from fish waste are fed to the plants and the plants provide filters for the fish to thrive in.</p><p>The structure is zoned to make the best use of water and nutrients, and to spread the weight of water efficiently across the tower. At ground level there is space for a market or restaurant to encourage the public into the farm and act as an education space or social hub, where all the growing parts of the tower are visible.</p><p>Above this is a large transparent tank where freshwater fish such as bass, tilapia and barramundi are farmed. In the middle of the structure, plants are grown hydroponically in water rather than soil. Above this, an aeroponic system, where plants are grown in a misty environment using minimal water and no soil, is used. The top of the tower houses water tanks and wind turbines.</p><p>The hyperboloid form of the tower enables it to be easily scaled. A 10-metre version could be constructed in a school, or an 80-metre farm built in a larger urban area. Its geometry can also be adapted depending on the earth’s latitude and the amount of sunlight available. In cooler climates, a double skinned enclosure and heating could be added to create optimum growing conditions.</p><p>While the upfront costs of Skyfarm are higher than standard industrial scale agriculture, the ability to grow produce with a short shelf life, such as strawberries, spinach and lettuce, around the year and close to market without costly air-freighting, makes it an attractive, sustainable proposition.</p></div>",
   "dimensions": [],
   "companies": [
     {
@@ -40,6 +44,5 @@
       "award": "World Architecture Festival: Future Projects - Experimental",
       "rowId": "37c3811038a541f99723516175dc9067"
     }
-  ],
-  "certificates": []
+  ]
 }
