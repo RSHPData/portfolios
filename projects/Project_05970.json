@@ -7,11 +7,20 @@
   ],
   "type": "Project",
   "id": "05970",
-  "serializeDate": "'2024-12-16 17:52:27.400'",
-  "serialized": 1734371547400,
+  "serializeDate": "'2024-12-16 17:55:10.681'",
+  "serialized": 1734371710681,
   "serializedBy": "heatherp",
-  "time": "2024-12-16T17:52:27.3161973Z",
+  "time": "2024-12-16T17:55:10.6625447Z",
   "status": "PU",
+  "title": "Double Cove",
+  "date": "2009 - 16",
+  "client": "Henderson Real Estate Agency Limited",
+  "location": "Hong Kong, China",
+  "city": "Hong Kong",
+  "country": "China",
+  "longLat": "114.24236297294298 / 22.431736939734726",
+  "longitude": "114.24236297294298",
+  "latitude": "22.431736939734726",
   "team": [
     "Davide Costa",
     "Mike Fairbrass",
@@ -38,7 +47,74 @@
   ],
   "overview": "<div><p>Double Cove is a significant residential development in Hong Kong, situated in the suburban area of Lok Wo Sha. The project capitalizes on its natural surroundings, with panoramic views of Starfish Bay and Tolo Harbour, and is bordered by preserved woodland and coastline in the New Territories. The development emphasizes sustainable living and sets a new standard for large-scale residential developments in the region.</p><p>The masterplan delivers 265,000m² of luxury housing across twenty-one towers, most of which are arranged in pairs, along with 25,000m² of commercial and clubhouse facilities. The project also includes parking for 1,100 vehicles, situated beneath a central raised park that serves as the focal point of the development.</p><p>RSHP was appointed to take Phase 1 of the residential development, as well as the retail and community facilities, from concept design to detailed design stage. The raised park integrates community, retail, and leisure facilities beneath its surface and features a controlled 24-hour pedestrian footpath running through its centre. Residential towers are arranged along the park's perimeter, with lobby bridges providing direct connections to the park, Wu Kai Sha MTR station, and parking areas. The lobby bridges also mark the entry points to each pair of towers. The residential units at the base of the towers include two-storey villas with private external garden spaces. These villas extend beyond the footprint of the towers above and feature roof gardens that visually separate the base from the tower’s central section.</p><p>Duplex apartments and sky gardens are introduced at three levels along the tower height, creating visual breaks in the silhouette, adding scale and relief, and offering unique architectural elements. The towers are topped with penthouses featuring roof terraces around the perimeter of the lower penthouse level, visually lifting the uppermost floors. A framework of shading devices unifies the tower design, organizing façades, managing utilities like air-handling units, and adding to the buildings' sense of scale.</p><p>The development incorporates a retail centre located at the southern edge of the site, opposite the Wu Kai Sha MTR station. This retail center acts as a gateway to the development, primarily serving the residential community. A landscaped triangular plaza is designed across two levels, linking the MTR bridge to the upper level and Sai Sha Road to the lower level. The roof of the retail center is planted to create a green deck, adding to the site’s overall greenery.</p><p>A clubhouse, designed as a key gathering space for residents and visitors, is located along the southwest edge of the development. Sheltered by a large canopy, the clubhouse provides recreational facilities and is surrounded by landscaped areas, enhancing its role as a central social hub for the community. The project successfully integrates environmental sustainability, innovative architectural design, and community-focused amenities to deliver a landmark residential development that promotes luxury living in harmony with nature.</p></div>",
   "dimensions": [],
-  "companies": [],
+  "companies": [
+    {
+      "label": "Co-Architect",
+      "value": "Dennis Lau & Ng Chun Man",
+      "id": "4a4d878e89654d1a8da55faabef111cd"
+    },
+    {
+      "label": "Structural Engineer",
+      "value": "AECOM",
+      "id": "ce44fd8cec114a608f26dda8e790c25a"
+    },
+    {
+      "label": "Landscape Design",
+      "value": "Grant Associates and ADI Limited",
+      "id": "026c1d0bb96b48c8b4c1a1f04a8ff378"
+    },
+    {
+      "label": "Service Engineer",
+      "value": "J. Roger Preston Ltd",
+      "id": "30a8692766e14662971253768e4d6777"
+    },
+    {
+      "label": "Quantity Surveyor",
+      "value": "Davis Langdon & Seah",
+      "id": "bb68756e7b534dad913e0c577dbb11b7"
+    },
+    {
+      "label": "Facade Engineer",
+      "value": "Arup Facade (Hong Kong)",
+      "id": "c9499b4aca7e472a8003e42c714e8f1a"
+    },
+    {
+      "label": "Interior Designer (Clubhouse)",
+      "value": "Stephen Leung and Partners",
+      "id": "8c280a750d164c25aeff822aa630884e"
+    },
+    {
+      "label": "Interior Designer (Retail)",
+      "value": "Aedas (Hong Kong)",
+      "id": "a893f6315f314baf8b3667e45ebbd54a"
+    }
+  ],
+  "awards": [
+    {
+      "date": "2015-01-01",
+      "year": "2015",
+      "award": "International Property Awards Finalist: Architecture Multiple Residences (phase 4-5)",
+      "rowId": "44f7b12ce77c495faa0b88d15515d5e0"
+    },
+    {
+      "date": "2015-01-01",
+      "year": "2015",
+      "award": "International Property Awards Finalist: Mixed-Use Architecture",
+      "rowId": "e533076c1abd4399bcf158f6caa9e0ab"
+    },
+    {
+      "date": "2015-01-01",
+      "year": "2015",
+      "award": "International Property Awards Finalist: Residential High Rise (Phase 2-3)",
+      "rowId": "9af2a6ab3b0e4804905b0f4e953b0d1c"
+    },
+    {
+      "date": "2014-01-01",
+      "year": "2014",
+      "award": "China Property Award - Residential Category (China)",
+      "rowId": "a12bb8a7a1c945e7a98d4c1d6a2c5d06"
+    }
+  ],
   "certificates": [
     {
       "authority": "LEED",
