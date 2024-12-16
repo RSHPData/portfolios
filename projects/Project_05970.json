@@ -1,0 +1,54 @@
+{
+  "name": "Double Cove",
+  "url": "mixed-use/double-cove",
+  "webStatus": "Publish",
+  "typologies": [
+    "Mixed Use",
+    "Residential"
+  ],
+  "type": "Project",
+  "id": "05970",
+  "serializeDate": "'2024-12-16 16:46:26.191'",
+  "serialized": 1734367586191,
+  "serializedBy": "heatherp",
+  "time": "2024-12-16T16:46:26.1605461Z",
+  "status": "PU",
+  "team": [
+    "Davide Costa",
+    "Mike Fairbrass",
+    "Lennart Grut",
+    "Ivan Harbour",
+    "Ed Hiscock",
+    "Dennis Ho",
+    "Aki Kageyama",
+    "Amo Kalsi",
+    "Richard Rogers",
+    "Charlene Shum",
+    "Angela Tobin",
+    "Ben Warner",
+    "Freda Yuen"
+  ],
+  "partners": [
+    "Ivan Harbour",
+    "Lennart Grut",
+    "Ben Warner",
+    "Richard Rogers"
+  ],
+  "leaders": [
+    "Dennis Ho"
+  ],
+  "dimensions": [],
+  "companies": [],
+  "certificates": [
+    {
+      "authority": "LEED",
+      "rating": "Gold",
+      "rowId": "293e83500d274401a773961da62b5ec1"
+    },
+    {
+      "authority": "Green Building Evaluation Label (China Building Council )",
+      "rating": "3 Star",
+      "rowId": "1ee5d637e510424d8d28d5afedfbd300"
+    }
+  ]
+}
