@@ -901,6 +901,17 @@
     "typology": "Masterplanning"
   },
   {
+    "projectId": "05970",
+    "project": "Double Cove",
+    "date": "2009",
+    "endDate": "16",
+    "location": "Hong Kong",
+    "country": "China",
+    "client": "Henderson Real Estate Agency Limited",
+    "longLat": "114.24122811206519 / 22.43192497130942",
+    "typology": "Mixed Use"
+  },
+  {
     "projectId": "05710",
     "project": "Riverlight",
     "date": "2009",
