@@ -1,17 +1,16 @@
 {
   "name": "Double Cove",
-  "url": "mixed-use/double-cove",
+  "url": "residential/double-cove",
   "webStatus": "Publish",
   "typologies": [
-    "Mixed Use",
     "Residential"
   ],
   "type": "Project",
   "id": "05970",
-  "serializeDate": "'2024-12-16 16:47:43.552'",
-  "serialized": 1734367663552,
+  "serializeDate": "'2024-12-16 16:59:55.261'",
+  "serialized": 1734368395261,
   "serializedBy": "heatherp",
-  "time": "2024-12-16T16:47:43.5219049Z",
+  "time": "2024-12-16T16:59:55.1991583Z",
   "status": "PU",
   "team": [
     "Davide Costa",
