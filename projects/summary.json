@@ -184,17 +184,6 @@
     "typology": "Residential"
   },
   {
-    "projectId": "12115",
-    "project": "Guangdong-Hong Kong-Macao Youth Entrepreneurship Zone",
-    "date": "2018",
-    "endDate": "2023",
-    "location": "Shenzhen",
-    "country": "China",
-    "client": "Qianhai Inno-tech Investment Holdings",
-    "longLat": "113.8969276398857 / 22.51714664345182",
-    "typology": "Mixed Use"
-  },
-  {
     "projectId": "11750",
     "project": "Kingboard Qianhai Tower",
     "date": "2018",
@@ -246,6 +235,17 @@
     "client": "YMCA Thames Gateway Group",
     "longLat": "0.18453547308976917 / 51.5651023780955",
     "typology": "Residential"
+  },
+  {
+    "projectId": "12115",
+    "project": "Qianhai SZHK Youth Innovation and Entrepreneur Hub, Northern District",
+    "date": "2018",
+    "endDate": "2023",
+    "location": "Shenzhen",
+    "country": "China",
+    "client": "Qianhai Inno-tech Investment Holdings",
+    "longLat": "113.8969276398857 / 22.51714664345182",
+    "typology": "Mixed Use"
   },
   {
     "projectId": "11690",
