@@ -7,10 +7,10 @@
   ],
   "type": "Project",
   "id": "01530",
-  "serializeDate": "'2025-01-08 16:22:59.719'",
-  "serialized": 1736353379719,
+  "serializeDate": "'2025-01-08 16:25:36.734'",
+  "serialized": 1736353536734,
   "serializedBy": "heatherp",
-  "time": "2025-01-08T16:22:58.6391423Z",
+  "time": "2025-01-08T16:25:36.7029017Z",
   "status": "PU",
   "title": "Industrialised Housing",
   "description": "Rogers’ abiding concern for the social objectives of modern architecture is reflected in this project, intended to provide large numbers of homes at a cost of one-fifth that of more conventional construction methods.",
@@ -37,7 +37,7 @@
   ],
   "heights": [
     {
-      "value": "80 m",
+      "value": "80m",
       "id": "F7654CD011F94CCCB9928A"
     }
   ],
@@ -45,7 +45,7 @@
   "dimensions": [
     {
       "label": "Unit size",
-      "value": "27 m²",
+      "value": "27m²",
       "id": "e21b4383dfe24896b7a9fe1d5862015e"
     }
   ],
