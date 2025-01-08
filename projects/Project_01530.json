@@ -1,18 +1,24 @@
 {
+  "name": "Industrialised Housing",
+  "url": "residential/industrialised-housing",
+  "webStatus": "Publish",
+  "typologies": [
+    "Residential"
+  ],
   "type": "Project",
   "id": "01530",
-  "url": "residential/industrialised-housing",
-  "serializeDate": "'2022-06-27 15:39:56.188'",
-  "serialized": 1656344396188,
-  "serializedBy": "sreeve",
+  "serializeDate": "'2025-01-08 16:22:59.719'",
+  "serialized": 1736353379719,
+  "serializedBy": "heatherp",
+  "time": "2025-01-08T16:22:58.6391423Z",
+  "status": "PU",
   "title": "Industrialised Housing",
   "description": "Rogers’ abiding concern for the social objectives of modern architecture is reflected in this project, intended to provide large numbers of homes at a cost of one-fifth that of more conventional construction methods.",
   "date": "1990-1992",
   "client": "Hanssem Corporation",
-  "location": "Korea",
-  "typologies": [
-    "Residential"
-  ],
+  "location": "Seoul, South Korea",
+  "city": "Seoul",
+  "country": "South Korea",
   "team": [
     "Laurie Abbott",
     "Mike Davies",
@@ -35,7 +41,7 @@
       "id": "F7654CD011F94CCCB9928A"
     }
   ],
-  "overview": "Rogers’ abiding concern for the social objectives of modern architecture is reflected in this project, intended to provide large numbers of homes at a cost of one-fifth that of more conventional construction methods.\n\nThe basis of the project is the use of high-quality, factory-produced units on a modular system which, due to minimal connection points between one unit and the next, can be quickly assembled on site.\n\n\nHigh-performance, low-energy mechanical and electrical systems are part of an environmentally friendly programme. In addition to the normal services – such as heating, lighting and air-conditioning – the design envisaged provision of security systems, as well as communication, information and entertainment systems appropriate to 21st-century living.\n\nThe units were designed to be used in a flexible way, providing for the needs of a wide range of potential inhabitants. They can form towers or low-rise schemes, depending on the local terrain which in South Korea is often very hilly.",
+  "overview": "<div><p>Rogers’ abiding concern for the social objectives of modern architecture is reflected in this project, intended to provide large numbers of homes at a cost of one-fifth that of more conventional construction methods.</p><p>The basis of the project is the use of high-quality, factory-produced units on a modular system which, due to minimal connection points between one unit and the next, can be quickly assembled on site.</p><p>High-performance, low-energy mechanical and electrical systems are part of an environmentally friendly programme. In addition to the normal services – such as heating, lighting and air-conditioning – the design envisaged provision of security systems, as well as communication, information and entertainment systems appropriate to 21st-century living.</p><p>The units were designed to be used in a flexible way, providing for the needs of a wide range of potential inhabitants. They can form towers or low-rise schemes, depending on the local terrain which in South Korea is often very hilly.</p></div>",
   "dimensions": [
     {
       "label": "Unit size",
