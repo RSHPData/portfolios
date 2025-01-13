@@ -7,10 +7,10 @@
   ],
   "type": "Project",
   "id": "10890",
-  "serializeDate": "'2024-12-05 12:18:44.620'",
-  "serialized": 1733401124620,
+  "serializeDate": "'2025-01-13 17:59:30.525'",
+  "serialized": 1736791170525,
   "serializedBy": "heatherp",
-  "time": "2024-12-05T12:18:44.5737882Z",
+  "time": "2025-01-13T17:59:29.4319537Z",
   "status": "PU",
   "title": "The Emory",
   "date": "2004 - 2024",
@@ -284,8 +284,14 @@
     {
       "date": "2024-01-01",
       "year": "2024",
-      "award": "Tatler magazine: ‘Best Hotel for Design and Style’",
+      "award": "Tatler magazine: Best Hotel for Design and Style",
       "rowId": "4396202807f94163a996e67af8821020"
+    },
+    {
+      "date": "2025-01-10",
+      "year": "2025",
+      "award": "Wallpaper* Design Award: Best Suites",
+      "rowId": "c3ebe38f13bd4089855cb13ecfd152fd"
     }
   ]
 }
