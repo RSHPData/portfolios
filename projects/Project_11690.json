@@ -7,10 +7,10 @@
   ],
   "type": "Project",
   "id": "11690",
-  "serializeDate": "'2024-11-19 12:11:05.115'",
-  "serialized": 1732018265115,
+  "serializeDate": "'2025-01-15 10:59:25.932'",
+  "serialized": 1736938765932,
   "serializedBy": "heatherp",
-  "time": "2024-11-19T12:11:04.1975083Z",
+  "time": "2025-01-15T10:59:25.2400708Z",
   "status": "PU",
   "title": "Regent's View Bethnal Green",
   "description": ".",
@@ -154,6 +154,11 @@
       "label": "Architecture and Heritage consultant",
       "value": "Tavernor Consultancy",
       "id": "91a77dbbae77438fa43a644d6f566d5a"
+    },
+    {
+      "label": "Interior Design",
+      "value": "MAWD",
+      "id": "3a717d6c08504e2da978288d5f7eb1cf"
     }
   ],
   "awards": [
