@@ -912,6 +912,12 @@
     "award": "Sunday Times British Home Awards - Best Landscaped Development"
   },
   {
+    "projectId": "01065",
+    "project": "Terminal 5, Heathrow Airport",
+    "year": "2013",
+    "award": "Skytrax World’s Best Terminal"
+  },
+  {
     "projectId": "01455",
     "project": "Chiswick Park",
     "year": "2012",
@@ -970,6 +976,12 @@
     "project": "NEO Bankside",
     "year": "2012",
     "award": "Structural Steel Design Awards Commendation"
+  },
+  {
+    "projectId": "01065",
+    "project": "Terminal 5, Heathrow Airport",
+    "year": "2012",
+    "award": "Skytrax World’s Best Terminal"
   },
   {
     "projectId": "01455",
