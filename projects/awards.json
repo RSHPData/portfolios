@@ -318,6 +318,12 @@
     "award": "CTBUH Award of Excellence in the 100-199m category"
   },
   {
+    "projectId": "01065",
+    "project": "Terminal 5, Heathrow Airport",
+    "year": "2019",
+    "award": "Skytrax World’s Best Terminal"
+  },
+  {
     "projectId": "06770",
     "project": "The Macallan Distillery and Visitor Experience",
     "year": "2019",
@@ -412,6 +418,12 @@
     "project": "SKYBEAM",
     "year": "2018",
     "award": "German Design Awards – Energy Category, Excellent Product Design"
+  },
+  {
+    "projectId": "01065",
+    "project": "Terminal 5, Heathrow Airport",
+    "year": "2018",
+    "award": "Skytrax World’s Best Terminal"
   },
   {
     "projectId": "03510",
@@ -522,6 +534,12 @@
     "award": "Royal Institute of British Architects (RIBA) Awards - London regional"
   },
   {
+    "projectId": "01065",
+    "project": "Terminal 5, Heathrow Airport",
+    "year": "2017",
+    "award": "Skytrax World’s Best Terminal"
+  },
+  {
     "projectId": "03510",
     "project": "The Leadenhall Building",
     "year": "2017",
@@ -586,6 +604,12 @@
     "project": "PLACE / Ladywell",
     "year": "2016",
     "award": "NLA Best Temporary Building"
+  },
+  {
+    "projectId": "01065",
+    "project": "Terminal 5, Heathrow Airport",
+    "year": "2016",
+    "award": "Skytrax World’s Best Terminal"
   },
   {
     "projectId": "03510",
@@ -712,6 +736,12 @@
     "project": "NEO Bankside",
     "year": "2015",
     "award": "World Architecture News Residential Award - Shortlisted"
+  },
+  {
+    "projectId": "01065",
+    "project": "Terminal 5, Heathrow Airport",
+    "year": "2015",
+    "award": "Skytrax World’s Best Terminal"
   },
   {
     "projectId": "03510",
@@ -880,12 +910,6 @@
     "project": "NEO Bankside",
     "year": "2013",
     "award": "Sunday Times British Home Awards - Best Landscaped Development"
-  },
-  {
-    "projectId": "01065",
-    "project": "Terminal 5, Heathrow Airport",
-    "year": "2013",
-    "award": "Skytrax World’s Best Terminal"
   },
   {
     "projectId": "01455",
@@ -1191,6 +1215,24 @@
     "projectId": "01065",
     "project": "Terminal 5, Heathrow Airport",
     "year": "2008",
+    "award": "British Construction Awards - Highly Commended"
+  },
+  {
+    "projectId": "01065",
+    "project": "Terminal 5, Heathrow Airport",
+    "year": "2008",
+    "award": "Off Site Construction (OSC) Sustain Magazine"
+  },
+  {
+    "projectId": "01065",
+    "project": "Terminal 5, Heathrow Airport",
+    "year": "2008",
+    "award": "Off Site Construction Award - Best Commercial Project"
+  },
+  {
+    "projectId": "01065",
+    "project": "Terminal 5, Heathrow Airport",
+    "year": "2008",
     "award": "Off Site Construction Award - Best Commercial Project Off Site Construction (OSC)"
   },
   {
@@ -1215,6 +1257,12 @@
     "projectId": "01065",
     "project": "Terminal 5, Heathrow Airport",
     "year": "2008",
+    "award": "Structural Award for Commercial Structures, Institution of Structural Engineers (IStructE)"
+  },
+  {
+    "projectId": "01065",
+    "project": "Terminal 5, Heathrow Airport",
+    "year": "2008",
     "award": "Structural Steel Design Award"
   },
   {
@@ -1222,6 +1270,12 @@
     "project": "Terminal 5, Heathrow Airport",
     "year": "2008",
     "award": "Supreme Award for Structural Engineering Excellence Institution of Structural Engineers (IStructE)"
+  },
+  {
+    "projectId": "01065",
+    "project": "Terminal 5, Heathrow Airport",
+    "year": "2008",
+    "award": "Supreme Award for Structural Engineering Excellence, Institution of Structural Engineers (IStructE)"
   },
   {
     "projectId": "01065",
