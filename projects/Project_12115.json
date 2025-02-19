@@ -7,13 +7,12 @@
   ],
   "type": "Project",
   "id": "12115",
-  "serializeDate": "'2025-01-03 12:32:12.681'",
-  "serialized": 1735907532681,
+  "serializeDate": "'2025-02-19 18:01:19.819'",
+  "serialized": 1739988079819,
   "serializedBy": "heatherp",
-  "time": "2025-01-03T12:32:12.639899Z",
+  "time": "2025-02-19T18:01:18.8829921Z",
   "status": "PU",
   "title": "Qianhai SZHK Youth Innovation and Entrepreneur Hub, Northern District",
-  "description": "Inno-tech Guiwan, a designated youth entrepreneurship zone, offers an oasis of innovation and creates an urban work‒life balance community in Qianhai.",
   "date": "2018 - 2023",
   "client": "Qianhai Inno-tech Investment Holdings",
   "location": "Shenzhen, China",
@@ -104,6 +103,20 @@
       "label": "Fire Consultant",
       "value": "Hong Kong Huayi Design Consultants",
       "id": "0685861d07d54fd69ebf00080f097856"
+    }
+  ],
+  "awards": [
+    {
+      "date": "2025-01-16",
+      "year": "2025",
+      "award": "ARCASIA Award - Category E Integrated Development - Honorary Mention",
+      "rowId": "dc0396ff20a249939807ebfd109d74ce"
+    },
+    {
+      "date": "2023-12-14",
+      "year": "2023",
+      "award": "Dezeen China Awards - Best Mixed-Use Project",
+      "rowId": "8ba4688bdf384659bf957d974c10077a"
     }
   ]
 }
