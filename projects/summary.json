@@ -551,17 +551,6 @@
     "typology": "Transport"
   },
   {
-    "projectId": "10550",
-    "project": "Gare de Lyon",
-    "date": "2014",
-    "endDate": "ongoing",
-    "location": "Paris",
-    "country": "France",
-    "client": "Espaces Ferroviaires",
-    "longLat": "2.385568  / 48.841619",
-    "typology": "Masterplanning"
-  },
-  {
     "projectId": "10740",
     "project": "Guggenheim Helsinki",
     "date": "2014",
@@ -570,6 +559,17 @@
     "client": "City of Helsinki / Solomon R Guggenheim Foundation",
     "longLat": "24.95552  / 60.16370",
     "typology": "Culture & Leisure"
+  },
+  {
+    "projectId": "10550",
+    "project": "Les Messageries",
+    "date": "2014",
+    "endDate": "ongoing",
+    "location": "Paris",
+    "country": "France",
+    "client": "Espaces Ferroviaires",
+    "longLat": "2.385568  / 48.841619",
+    "typology": "Masterplanning"
   },
   {
     "projectId": "10190",
