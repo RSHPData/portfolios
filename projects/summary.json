@@ -173,6 +173,17 @@
     "typology": "Culture & Leisure"
   },
   {
+    "projectId": "12135",
+    "project": "Bromley-by-Bow Gasworks",
+    "date": "2018",
+    "endDate": "",
+    "location": "London",
+    "country": "UK",
+    "client": "St William Homes LLP",
+    "longLat": "-0.003385 / 51.525386",
+    "typology": "Residential"
+  },
+  {
     "projectId": "50003",
     "project": "Crofts Street",
     "date": "2018",
