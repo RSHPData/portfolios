@@ -7,13 +7,13 @@
   ],
   "type": "Project",
   "id": "12135",
-  "serializeDate": "'2025-03-05 12:43:50.826'",
-  "serialized": 1741178630826,
+  "serializeDate": "'2025-03-11 10:10:55.696'",
+  "serialized": 1741687855696,
   "serializedBy": "heatherp",
-  "time": "2025-03-05T12:43:50.7948653Z",
+  "time": "2025-03-11T10:10:55.0012919Z",
   "status": "PU",
   "title": "Bromley-by-Bow Gasworks",
-  "date": "2018 -",
+  "date": "2018 - ongoing",
   "client": "St William Homes LLP",
   "location": "London, UK",
   "city": "London",
@@ -22,7 +22,7 @@
   "longitude": "-0.003385",
   "latitude": "51.525386",
   "team": [
-    "Ainhoa Abreu diaz",
+    "Ainhoa Abreu Diaz",
     "Uday Berry",
     "Maurice Brennan",
     "Andy Bryce",
@@ -31,9 +31,12 @@
     "Jean Corona",
     "Luca D'Amico",
     "Kelly Darlington",
+    "Benjamin Darras",
     "Dylan Davies",
     "John Dent",
+    "Lorenz Frenzen",
     "Ed Hiscock",
+    "Boji Hu",
     "Toby Jeavons",
     "Will Jefferies",
     "Janos Katona",
@@ -46,6 +49,7 @@
     "Leo Kauntz Moderini",
     "Andrew Morris",
     "Jack Newton",
+    "Mark Ng",
     "Thomas Olliver",
     "Louise Palomba",
     "Joanna Pencakowski",
@@ -53,12 +57,14 @@
     "Dan Rogers",
     "Nicholas Salthouse",
     "Peter Shannon",
+    "Stephanie Sinden",
     "Alleen Siu",
     "Graham Stirk",
     "Alejandro Terron",
     "Albie Turner",
     "Edward Walker",
     "Jai Watts",
+    "Daniela Yaneva",
     "Andrew Yek"
   ],
   "partners": [
@@ -66,7 +72,8 @@
     "Tracy Meller"
   ],
   "leaders": [
-    "Andy Bryce"
+    "Andy Bryce",
+    "Alleen Siu"
   ],
   "floors": [
     {
@@ -86,6 +93,11 @@
       "label": "Structural Engineer",
       "value": "Ramboll",
       "id": "1fca04c64b61425bb476cf4033481df1"
+    },
+    {
+      "label": "Structural Engineer",
+      "value": "WSP",
+      "id": "819a89d808e8428ea8262b4086216f81"
     },
     {
       "label": "MEP Engineer",
