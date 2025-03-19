@@ -1,0 +1,111 @@
+{
+  "name": "99 Bishopsgate",
+  "url": "office/99-bishopsgate",
+  "webStatus": "Publish",
+  "typologies": [
+    "Office"
+  ],
+  "type": "Project",
+  "id": "13015",
+  "serializeDate": "'2025-03-19 10:08:37.991'",
+  "serialized": 1742378917991,
+  "serializedBy": "heatherp",
+  "time": "2025-03-19T10:08:37.0658024Z",
+  "status": "PU",
+  "title": "99 Bishopsgate",
+  "date": "2021 -",
+  "client": "99 Bishopsgate Real Estate SARL",
+  "location": "London, UK",
+  "city": "London",
+  "country": "UK",
+  "longLat": "51.51639919874005, / -0.0824464922695637",
+  "longitude": "51.51639919874005,",
+  "latitude": "-0.0824464922695637",
+  "team": [
+    "Ad Aderet",
+    "Maurice Brennan",
+    "Andy Bryce",
+    "Jean Corona",
+    "Luca D'Amico",
+    "Kelly Darlington",
+    "Benjamin Darras",
+    "Dylan Davies",
+    "John Dent",
+    "Lorna Edwards",
+    "Valentina Frieri",
+    "Ed Hiscock",
+    "Toby Jeavons",
+    "Will Jefferies",
+    "John Kennedy",
+    "Adam Lampon",
+    "Mohamed Mansour",
+    "John McElgunn",
+    "Jon Mercer",
+    "Dan Rogers",
+    "Nicholas Salthouse",
+    "Nichola Squires",
+    "Graham Stirk",
+    "Alejandro Terron",
+    "Daniel Wright"
+  ],
+  "partners": [
+    "Graham Stirk"
+  ],
+  "leaders": [
+    "Maurice Brennan"
+  ],
+  "heights": [
+    {
+      "value": "240m / 787ft",
+      "id": "8b560f2674f54eefb873de92136d6282"
+    }
+  ],
+  "floors": [
+    {
+      "value": "Office tower - 54 storeys; Cultural tower - 6 storeys",
+      "id": "03969d3eb269404a8a4bdbe68b100a93"
+    }
+  ],
+  "overview": "<div><p>99 Bishopsgate is a new 54 storey landmark building in the Eastern Cluster in the City of London, sensitively designed to respect protected views.</p><p>In order to retain the existing raft and pile foundations, the site utilises a perimeter based structure. This creates an elegant extrusion and provides opportunities for both wintergardens and open gardens to blur its edges and distribute greening across the full height of the building.</p><p>The lower 18m of the building is opened up to form an expansive public arcade that is consistent with the height of buildings to the north, providing open spaces at ground level that allows activity and animation of a newly formed, step-free, public realm.</p><p>The building seeks to maximise the amount of amenity space for future occupiers, whilst also introducing extensive urban greening across the building. As part of this approach, new visible, vertical garden and terrace spaces will maximise visual greening, while enhancing both occupier wellbeing and local biodiversity. Extensive urban greening is also proposed at ground level to enhance the visual amenity and experience for commuters and visitors to the City.</p><p>The scheme will facilitate the creation of a 6-storey standalone cultural building for public use on the site, offering new opportunities in line with the City’s Destination City objectives. Recognising the site’s history, our vision is for this to be a cultural gateway that becomes a new icon within the City, that is immediately visible and accessible, to all.</p></div>",
+  "dimensions": [
+    {
+      "label": "Area",
+      "value": "100,000m2",
+      "id": "af2b280aeea340cab1716850f377fafb"
+    }
+  ],
+  "companies": [
+    {
+      "label": "Development Manager",
+      "value": "Brookfield Properties",
+      "id": "4eaec39754414dd380310794f559012f"
+    },
+    {
+      "label": "Planning Consultant",
+      "value": "DP9",
+      "id": "adc5e2984e624246ac8a40daad038940"
+    },
+    {
+      "label": "Engagement Consultant",
+      "value": "Kanda Consulting",
+      "id": "4329187e00bd48b690b926c30f465337"
+    }
+  ],
+  "certificates": [
+    {
+      "authority": "BREEAM",
+      "rating": "Outstanding - Target goal",
+      "rowId": "e2f361460ce648368e399ab084291cd6"
+    },
+    {
+      "authority": "NABERS",
+      "rating": "Outstanding - Target goal",
+      "rowId": "c34cec6832c34bd79bb63eef78809af6"
+    },
+    {
+      "authority": "WELL",
+      "rating": "Outstanding - Target goal",
+      "rowId": "9bca978ea6bf41b2820c2be38fe76411"
+    }
+  ]
+}
