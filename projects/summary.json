@@ -33,6 +33,17 @@
     "typology": "Mixed Use"
   },
   {
+    "projectId": "13015",
+    "project": "99 Bishopsgate",
+    "date": "2021",
+    "endDate": "",
+    "location": "London",
+    "country": "UK",
+    "client": "99 Bishopsgate Real Estate SARL",
+    "longLat": "51.51639919874005, / -0.0824464922695637",
+    "typology": "Office"
+  },
+  {
     "projectId": "12845",
     "project": "Vertical Gardens",
     "date": "2021",
