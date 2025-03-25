@@ -1,0 +1,128 @@
+{
+  "name": "Nanjing Yuhua",
+  "url": "office/nanjing-yuhua",
+  "webStatus": "Publish",
+  "typologies": [
+    "Office"
+  ],
+  "type": "Project",
+  "id": "12900",
+  "serializeDate": "'2025-03-25 12:05:01.110'",
+  "serialized": 1742904301110,
+  "serializedBy": "heatherp",
+  "time": "2025-03-25T12:04:59.7924845Z",
+  "status": "PU",
+  "title": "Nanjing Yuhua",
+  "date": "2021 -",
+  "client": "China Resources Land",
+  "location": "Nanjing, China",
+  "city": "Nanjing",
+  "country": "China",
+  "longLat": "0.00000 / 0.00000",
+  "longitude": "0.00000",
+  "latitude": "0.00000",
+  "team": [
+    "Giulio Asso",
+    "Anna Au",
+    "Alexander Balchin",
+    "Richard Black",
+    "James Bradford",
+    "Torsten Burkhardt",
+    "Alexandra Campbell",
+    "Hechang Chen",
+    "Jaime Cunha",
+    "Luca D'Amico",
+    "Benjamin Darras",
+    "Simon Davis",
+    "Christophe Dembinski",
+    "Valentina Frieri",
+    "Alexandria Fu",
+    "Ben Goble",
+    "Carlos Gonzalez",
+    "Lennart Grut",
+    "Su Gu",
+    "Lu-Min Guo",
+    "Nandi Han",
+    "Ivan Harbour",
+    "Angel Hsiao",
+    "Taylor Huggins",
+    "Matthew Jackson",
+    "Will Jefferies",
+    "Tom Jones",
+    "Sim Yee Lee",
+    "Lucas Wei Zeng Ler",
+    "Pei-Yi Lin",
+    "Stephanie Liu",
+    "Elizabeth Low",
+    "Mohamed Mansour",
+    "Vincenzo Massa",
+    "Riccardo Mazzucco",
+    "Vajini Pannila",
+    "Richard Paul",
+    "Shuo Qian",
+    "Andra Samiș"
+  ],
+  "partners": [
+    "Richard Paul"
+  ],
+  "leaders": [
+    "Richard Black"
+  ],
+  "heights": [
+    {
+      "value": "200m",
+      "id": "e0be514821eb484bb5ec272b97325190"
+    }
+  ],
+  "floors": [
+    {
+      "value": "45 (36 office and 9 hotel)",
+      "id": "21ab0561bfff45c3bef9c368b0aa1c26"
+    }
+  ],
+  "overview": "<div><p>Nanjing Yuhua is a mixed-use 200m tower, comprising 36 floors of office space and 9 floors of hotel space, stacked above retail at podium level. The hotel is located at the top of the tower, benefitting from spectacular views across the city, and utilises an internal atrium to reduce the depth of the floor plate and bring in natural light. At podium level is located the larger dining and conference facilities for the hotel as well as retail to animate the streetscape.</p><p>Compositionally the scheme is made up of four stacked volumes articulated with recessed garden levels and accentuated by brightly coloured soffits. These visual breaks are used to break down the vertical scale of the tower and offer biodiverse roof terraces to the building users.</p><p>The scheme is orientated in an east - west direction with the east addressing the new retail street and the west addressing a main artery through the city. The building volumes are articulated on these ends to accentuate the building form and offer a window to the east and west.</p><p>The north and south facades are articulated with diagonal structural bracing and the south with horizontal louvres used to shade the façade from the sun and reduce the solar load on the building.</p></div>",
+  "dimensions": [
+    {
+      "label": "Total Area",
+      "value": "88,300m²",
+      "id": "3b82d42451b1472680e4465ec9891f29"
+    },
+    {
+      "label": "Office Area",
+      "value": "58,000m²",
+      "id": "ef29f36c267c4184af0367d11efba2ff"
+    },
+    {
+      "label": "Hotel Area",
+      "value": "29,000m²",
+      "id": "58d8737bd296442f803c6c3a1954bf1c"
+    },
+    {
+      "label": "Retail",
+      "value": "1,300m²",
+      "id": "15f18aa8d8264d3390020a8a7a886b7b"
+    }
+  ],
+  "companies": [
+    {
+      "label": "LDI",
+      "value": "JSAD",
+      "id": "42cbd3fcf69340da8433ff7bdf474ca3"
+    },
+    {
+      "label": "Structures",
+      "value": "RBS",
+      "id": "c7ff25398e16489883c17980068d43be"
+    },
+    {
+      "label": "MEP",
+      "value": "China Team",
+      "id": "493aa274af5d4ac48fa6f6eabe60334e"
+    },
+    {
+      "label": "Facades",
+      "value": "EFC",
+      "id": "62aa80eb179d4623a5ad69ccf6bfb0cf"
+    }
+  ]
+}
