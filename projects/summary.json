@@ -44,6 +44,17 @@
     "typology": "Office"
   },
   {
+    "projectId": "12900",
+    "project": "Nanjing Yuhua",
+    "date": "2021",
+    "endDate": "",
+    "location": "Nanjing",
+    "country": "China",
+    "client": "China Resources Land",
+    "longLat": "0.00000 / 0.00000",
+    "typology": "Office"
+  },
+  {
     "projectId": "12845",
     "project": "Vertical Gardens",
     "date": "2021",
