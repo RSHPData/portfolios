@@ -1,5 +1,16 @@
 [
   {
+    "projectId": "13725",
+    "project": "Pao Huei Renshen",
+    "date": "2024",
+    "endDate": "",
+    "location": "Taichung",
+    "country": "Taiwan",
+    "client": "Pao Huei Construction Co.",
+    "longLat": "24.160856925349865, / 120.6447573688115",
+    "typology": "Residential"
+  },
+  {
     "projectId": "13575",
     "project": "Zhongyuan International Convention Centre Phase 2",
     "date": "2024",
