@@ -66,6 +66,17 @@
     "typology": "Office"
   },
   {
+    "projectId": "12815",
+    "project": "Shenzhen Hong Kong Plaza",
+    "date": "2021",
+    "endDate": "ongoing",
+    "location": "Shenzhen",
+    "country": "China",
+    "client": "Shenzhen Qianhai Construction Investment Holding Group Co.,Ltd.",
+    "longLat": "113.906223 / 22.539689",
+    "typology": "Placemaking"
+  },
+  {
     "projectId": "12845",
     "project": "Vertical Gardens",
     "date": "2021",
