@@ -1,19 +1,26 @@
 {
+  "name": "Shenzhen Hong Kong Plaza",
+  "url": "placemaking-shenzhen-hong-kong-plaza",
+  "webStatus": "Publish",
+  "typologies": [
+    "Placemaking"
+  ],
   "type": "Project",
   "id": "12815",
-  "serializeDate": "'2022-06-27 15:41:19.328'",
-  "serialized": 1656344479328,
-  "serializedBy": "sreeve",
-  "title": "Shenzhen HongKong Plaza",
-  "date": "2021",
-  "client": "Qianhai Holdings Co,. Ltd",
-  "location": "Shenzhen",
-  "longLat": "0.00000  / 0.00000",
-  "longitude": "0.00000 ",
-  "latitude": "0.00000",
-  "typologies": [
-    "Mixed Use"
-  ],
+  "serializeDate": "'2025-03-26 18:05:37.996'",
+  "serialized": 1743012337996,
+  "serializedBy": "heatherp",
+  "time": "2025-03-26T18:05:36.8475918Z",
+  "status": "PU",
+  "title": "Shenzhen Hong Kong Plaza",
+  "date": "2021 - ongoing",
+  "client": "Shenzhen Qianhai Construction Investment Holding Group Co.,Ltd.",
+  "location": "Shenzhen, China",
+  "city": "Shenzhen",
+  "country": "China",
+  "longLat": "113.906223 / 22.539689",
+  "longitude": "113.906223",
+  "latitude": "22.539689",
   "team": [
     "Adam Lampon",
     "Alessandro Blasucci",
@@ -52,13 +59,40 @@
     "Yu Sun",
     "Yu Zhu"
   ],
-  "overview": "Qianhai Holdings intend to hold a competition starting in mid-December (provisional) for the development of the ULR, now renamed the Shenzhen Hong Kong Plaza.\n\nThis is reinforce the connection with HK and to ‘welcome’ as many visitors as possible.\n\n \n\nOn the 26th, I attended an EPR meeting (as one of the panel together with Huasen, CCDI, CR land and others) to listen and to comment on both a marketing strategy prepared by JLL and a technical analysis prepared by Huasen, the LDI responsible for coordinating infrastructure in the centrals Qianhai district.\n\nThe JLL presentation was much as expected (pages and pages of the usual bumf) and the Huasen analysis daunting in that, just as we expected, much of the basement infrastructure has been planned or even constructed. There are massive basement electrical sub stations which have also made a sudden appearance.\n\n \n\nDespite huge challenges, the ‘leaders’ have ordained that the SHKP is definitely going to happen in one form or another - and have laid out an ambitious and probably unrealistic schedule as noted below.\n\n \n\nBASIC INFORMATION\n\n \n\nNote the phasing diagram below together with the relevant GFA attributable to each stage.\n\nThis diagram does not include the landscape component of 215,000 in Phase 1 and a further combined 100,000 in phases 2,3 and 4.\n\n \n\nPhase 1 they want complete in 18 months\n\nPhase 2 in 36 months\n\nPhase 3 in 12 months (tis is Rocco’s trading plaza)\n\nPhase 4 in 17 years (following the dismantling of Innotech).\n\n \n\nFull service for phases 1,3 and 3 and SD only for Phase 4.\n\n \n\nA one stop shop (JV)  including LDI and other consultants. Aube has agreed to join us. They can cover most disciplines and also have a huge landscape department. They were responsible for the waterside park adjacent to the CR Land HQ (the rocket ship) in Shenzhen.\n\n \n\nInvited and paid competition to run for 50 days starting mid-December. Fee TBC",
+  "partners": [
+    "Ivan Harbour"
+  ],
+  "leaders": [
+    "Francis Yuen"
+  ],
+  "heights": [
+    {
+      "value": "24m",
+      "id": "44172bbe7a744f86ba534f67514a3a22"
+    }
+  ],
+  "overview": "<div><p>Shenzhen Hong Kong Plaza (SHKP) is a visionary urban development located in the Guangdong-Hong Kong–Macao Greater Bay Area, a region rapidly emerging as a global technology hub. As part of Shenzhen and Qianhai—two of China’s most forward-thinking cities—this scheme sets a new benchmark for innovative, people-oriented urban design.</p><p>The project aims to create a world-class public space in the heart of Qianhai, serving as a civic hub that embraces inclusivity, accessibility, and adaptability. Central to the design is a pragmatic approach that ensures constructability through in-depth site research and modular construction strategies. This method supports the development of a coherent, human-scaled public realm filled with joy and openness. Architectural nodes are strategically placed to activate the site, foster ceremonial connections, and reinforce a strong sense of place. These flexible nodes serve as gathering points that seamlessly integrate into the rhythm of daily urban life, enriching community interaction.</p><p>More than just a public space, SHKP acts as a vital piece of urban infrastructure, weaving together transit networks, active spaces, and parkland into a unified landscape. The gently rising deck, emerging from the bay, creates a new man-made ground that redefines the skyline while offering a powerful spatial experience.</p><p>Designed to adapt with time and context, SHKP reflects a forward-thinking approach to city-making. It is more than a development—it’s a landmark, a point of orientation, and a symbol of Qianhai’s global aspirations. Through its distinctive form and people-first philosophy, SHKP is set to become an iconic destination recognised around the world.</p></div>",
   "dimensions": [],
   "companies": [
     {
-      "label": "Contact",
-      "value": "Rocco Design Architects Associates Ltd",
-      "id": "deltek:contact"
+      "label": "Client",
+      "value": "Shenzhen Qianhai Construction Investment Holding Group Co.,Ltd.",
+      "id": "ce90b38d1de341cfa2fc6cfc33065a86"
+    },
+    {
+      "label": "Co-Architect",
+      "value": "AUBE",
+      "id": "c67e073b623840a79fc3421f089f9bb7"
+    },
+    {
+      "label": "Traffic Consultant",
+      "value": "MVA",
+      "id": "d2d91acbf742439da53f0d5d91195141"
+    },
+    {
+      "label": "Structure Consultant",
+      "value": "WEB Structure",
+      "id": "fb3712a4b3224e34b80ab34dcd09b0a2"
     }
   ]
 }
