@@ -7,10 +7,10 @@
   ],
   "type": "Project",
   "id": "12135",
-  "serializeDate": "'2025-03-11 10:10:55.696'",
-  "serialized": 1741687855696,
+  "serializeDate": "'2025-04-08 13:32:03.700'",
+  "serialized": 1744119123700,
   "serializedBy": "heatherp",
-  "time": "2025-03-11T10:10:55.0012919Z",
+  "time": "2025-04-08T13:32:02.6683542Z",
   "status": "PU",
   "title": "Bromley-by-Bow Gasworks",
   "date": "2018 - ongoing",
@@ -81,17 +81,12 @@
       "id": "8fb0518fb9f44889b0df371bcff55e23"
     }
   ],
-  "overview": "<div><p>Containing the largest, most signiﬁcant collection of protected Victorian gasholders anywhere in the world,  the redevelopment represents a unique opportunity to reconnect the site with surrounding local communities and create a memorable place that brings together the site’s natural, environment and industrial past with new buildings and public realm of the highest quality.</p><p>The project will deliver a comprehensive mixed-use development comprising circa 2,000 new homes including aﬀordable housing and homes for families, community uses, ﬂexible Class E ﬂoorspace and new public open space. New landscape proposals involve the remediation of the site and delivery of a new riverside park and the refurbishment of seven Grade II listed gasholder frames. The proposal will also provide circa 200 jobs and opportunities for employment skills and training for Newham residents.   The proposal also covers the refurbishment and relocation of the Grade II Listed radial truss bell structure of Gasholder No. 4, oﬀering a focal point as an accessible and inclusive space for resident and community use. Designed by Victorian Engineer Vitruvius Wyatt, the bell structure will be integrated into the new parkland landscape and incorporated into public routes through the site, providing a setting to host a ﬂexible range of potential community and residents’ events, including farmer’s markets, outdoor cinema, and ice rink.</p><p>The project proposals are expected to surpass the current Building Regulations standards by at least 70% for regulated carbon emissions, and 31% in fabric energy efficiency. A series of passive design measures are incorporated, including energy-efficient building fabric and triple-glazed windows; low-energy lighting utilising ASHP technology for heating and cooling demands of both the commercial and residential elements.</p><p>The project is following a BREEAM UK target of Excellent. It is designed to adhere to circular economy principles, by refurbishing and reusing the gasholders and having a structural grid that is standardised and can adapt to changes in use. The construction waste target includes a 95% diversion from landfill and 20% recycled and reused content for new materials. All internal finishes will be standardised to allow for easy replacement and maintenance..</p></div>",
+  "overview": "<div><p>Containing the largest, most signiﬁcant collection of protected Victorian gasholders anywhere in the world,  the redevelopment represents a unique opportunity to reconnect the site with surrounding local communities and create a memorable place that brings together the site’s natural, environment and industrial past with new buildings and public realm of the highest quality.</p><p>The project will deliver a comprehensive mixed-use development comprising circa 2,000 new homes including aﬀordable housing and homes for families, community uses, ﬂexible Class E ﬂoorspace and new public open space. New landscape proposals involve the remediation of the site and delivery of a new riverside park and the refurbishment of seven Grade II listed gasholder frames. The proposal will also provide circa 200 jobs and opportunities for employment skills and training for Newham residents.</p><p>The proposal also covers the refurbishment and relocation of the Grade II Listed radial truss bell structure of Gasholder No. 4, oﬀering a focal point as an accessible and inclusive space for resident and community use. Designed by Victorian Engineer Vitruvius Wyatt, the bell structure will be integrated into the new parkland landscape and incorporated into public routes through the site, providing a setting to host a ﬂexible range of potential community and residents’ events, including farmer’s markets, outdoor cinema, and ice rink.</p><p>The project proposals are expected to surpass the current Building Regulations standards by at least 70% for regulated carbon emissions, and 31% in fabric energy efficiency. A series of passive design measures are incorporated, including energy-efficient building fabric and triple-glazed windows; low-energy lighting utilising ASHP technology for heating and cooling demands of both the commercial and residential elements. The project is following a BREEAM UK target of Excellent.</p><p>It is designed to adhere to circular economy principles, by refurbishing and reusing the gasholders and having a structural grid that is standardised and can adapt to changes in use. The construction waste target includes a 95% diversion from landfill and 20% recycled and reused content for new materials. All internal finishes will be standardised to allow for easy replacement and maintenance.</p></div>",
   "dimensions": [],
   "companies": [
     {
-      "label": "Developmental Manager",
-      "value": "St William Homes LLP",
-      "id": "885ddfbb190141f68a410feb36ebe657"
-    },
-    {
       "label": "Structural Engineer",
-      "value": "Ramboll",
+      "value": "WSP",
       "id": "1fca04c64b61425bb476cf4033481df1"
     },
     {
@@ -123,11 +118,6 @@
       "label": "Heritage and Townscape",
       "value": "Montagu Evans",
       "id": "c60c823978f14891a46cb8fc44360d2e"
-    },
-    {
-      "label": "Cost Advice",
-      "value": "Core 5",
-      "id": "6b945346df94456d87380cd0b07f9f00"
     }
   ],
   "certificates": [
