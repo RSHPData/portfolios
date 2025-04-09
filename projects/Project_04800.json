@@ -7,10 +7,10 @@
   ],
   "type": "Project",
   "id": "04800",
-  "serializeDate": "'2025-04-09 17:12:13.928'",
-  "serialized": 1744218733928,
+  "serializeDate": "'2025-04-09 17:18:55.247'",
+  "serialized": 1744219135247,
   "serializedBy": "heatherp",
-  "time": "2025-04-09T17:12:13.8016299Z",
+  "time": "2025-04-09T17:18:55.1965241Z",
   "status": "PU",
   "title": "The Berkeley Hotel",
   "date": "2006 - 2024",
@@ -22,6 +22,7 @@
   "longitude": "-0.156033 ",
   "latitude": "51.502238",
   "team": [
+    "Patricia Andres",
     "Eleanora Bressi",
     "Torsten Burkhardt",
     "Davide Costa",
@@ -44,8 +45,7 @@
     "Paul Thompson",
     "Simon Tonks",
     "Laura Vega",
-    "William Wimshurst",
-    "Patricia Andres"
+    "William Wimshurst"
   ],
   "partners": [
     "Ivan Harbour"
