@@ -1,0 +1,117 @@
+{
+  "name": "Berkeley Hotel - Main Entrance",
+  "url": "culture-and-leisure/the-berkeley-hotel-entrance",
+  "webStatus": "Publish",
+  "typologies": [
+    "Culture & Leisure"
+  ],
+  "type": "Project",
+  "id": "04801",
+  "serializeDate": "'2025-04-09 14:19:58.147'",
+  "serialized": 1744208398147,
+  "serializedBy": "heatherp",
+  "time": "2025-04-09T14:19:58.1088326Z",
+  "status": "PU",
+  "team": [
+    "Ainhoa Abreu Diaz",
+    "Maurice Brennan",
+    "Eleanora Bressi",
+    "Torsten Burkhardt",
+    "Davide Costa",
+    "Kelly Darlington",
+    "Fergus Dinwiddie",
+    "Phillip Dennis",
+    "Tessa Derry",
+    "Vidal Fernandez Diez",
+    "Mike Fairbrass",
+    "Rowena Fuller",
+    "Pablo Gil",
+    "Lennart Grut",
+    "Dan Hanna",
+    "Ivan Harbour",
+    "Katherine Hegab",
+    "Jesse Hindle",
+    "Ed Hiscock",
+    "Gethin Hooper",
+    "Claire Hughes",
+    "Alex Kaiser",
+    "Amo Kalsi",
+    "Adrian King",
+    "Elena Larriba",
+    "Michael Macfarlane",
+    "Tim Mason",
+    "Steve Mason",
+    "David Merllie",
+    "Nicholas Mitchell",
+    "Alberto Morselli",
+    "Alison Oktay",
+    "Louise Palomba",
+    "Douglas Paul",
+    "Aleksandrina Rizova",
+    "Richard Rogers",
+    "James Stopps",
+    "Michiko Sumi",
+    "Paul Thompson",
+    "William Thorne",
+    "Angela Tobin",
+    "Simon Tonks",
+    "Laura Vega",
+    "William Wimshurst",
+    "Neil Wormsley",
+    "Elizabeth Young"
+  ],
+  "partners": [
+    "Ivan Harbour"
+  ],
+  "leaders": [
+    "Paul Thompson"
+  ],
+  "heights": [
+    {
+      "value": "5.58m",
+      "id": "b994ecf8f5654ef69106adf492366c8b"
+    }
+  ],
+  "overview": "<div><p>The Berkeley began in the early 18th century as a coffee house and coaching inn on the corner of Berkeley Street and Piccadilly. In 1897, it became The Berkeley Hotel. It relocated to its present site in 1972, featuring a Bath stone facade designed by architect Brian O’Rorke.</p><p>RSHP’s involvement with The Berkeley started in 2016. Our work included installing a striking glazed honeycomb entrance canopy and redesigning the public areas on the ground floor. The new entrance canopy, completed in 2016, stretches across the full 300m² frontage and is supported by 16 exposed carbon fibre beams.</p><p>The hotel’s iconic Blue Bar preserves its distinctive interior, while the former Caramel Room is transformed into the refined Collins Room. This space extends toward the street and is framed by glazed pavilions, bathed in natural light reflected through the glass canopy and walls.  These changes extend the hotel’s street presence and expand its most frequented public areas. The pavilions give both the Blue Bar and Collins Room a renewed identity and stronger connection to the street. Internally, the areas feel more integrated and spatially grounded.</p><p>The canopy roof, made from a composite of aluminium honeycomb and glass, provides exceptional stiffness, allowing for a broad span and slim profile. Light filtered through the honeycomb gains a soft, diffused glow, while its geometry helps reduce solar load and offers privacy.</p><p>The carbon fibre beams, inspired by racing bike frames, were engineered to express structural forces. With no existing building standards for carbon fibre, RSHP worked closely with racing industry experts, producing prototypes, and conducting extensive testing. The honeycomb glass composite, also a first in architectural use, was rigorously tested for durability under environmental exposure, offering a cutting-edge solution that redefines the hotel’s entrance design.</p></div>",
+  "dimensions": [],
+  "companies": [
+    {
+      "label": "Project Management/ QS",
+      "value": "Rainey & Best",
+      "id": "ed037d5e00034483a4c8c546916e5dc4"
+    },
+    {
+      "label": "Structural Engineer",
+      "value": "Expedition",
+      "id": "c6dd05c3a0684724b69e3f06ac22b8e6"
+    },
+    {
+      "label": "Facade Engineer",
+      "value": "ARUP",
+      "id": "7a764260103444219e20ffed46bac42a"
+    },
+    {
+      "label": "Services Engineer",
+      "value": "Ernest Griffiths Consulting Engineers",
+      "id": "1d526688e60c4f3dbcd85a46fcfc1463"
+    },
+    {
+      "label": "Main Contractor",
+      "value": "Mastercraft",
+      "id": "4c7c4f1c64b54b37b134a6570a275a82"
+    },
+    {
+      "label": "Facade & Structure Sub-Contractor",
+      "value": "Bellapart",
+      "id": "49240ae70a2343a9921e20f60138d88e"
+    }
+  ],
+  "awards": [
+    {
+      "date": "2017-01-01",
+      "year": "2017",
+      "award": "AJ Retrofit Award - Shortlisted",
+      "rowId": "4c5f8cc318cb423685873cc34669acc2"
+    }
+  ]
+}
