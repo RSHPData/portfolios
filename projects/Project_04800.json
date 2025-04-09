@@ -7,10 +7,10 @@
   ],
   "type": "Project",
   "id": "04800",
-  "serializeDate": "'2025-04-09 14:46:47.964'",
-  "serialized": 1744210007964,
+  "serializeDate": "'2025-04-09 17:12:13.928'",
+  "serialized": 1744218733928,
   "serializedBy": "heatherp",
-  "time": "2025-04-09T14:46:47.9219065Z",
+  "time": "2025-04-09T17:12:13.8016299Z",
   "status": "PU",
   "title": "The Berkeley Hotel",
   "date": "2006 - 2024",
@@ -88,8 +88,8 @@
       "id": "0cc248e0e34549b1bb0bbf10d62b9230"
     },
     {
-      "label": "Façade Consultant",
-      "value": "Arup Façades",
+      "label": "Facade Consultant",
+      "value": "Arup Facades",
       "id": "8ffd678fac0040b19b6800a36e387d69"
     },
     {
