@@ -1,21 +1,20 @@
 {
-  "name": "The Berkeley Hotel",
-  "url": "culture-and-leisure/the-berkeley-hotel-entrance/",
+  "name": "The Berkeley",
+  "url": "culture-and-leisure/the-berkeley",
   "webStatus": "Publish",
   "typologies": [
     "Culture & Leisure"
   ],
   "type": "Project",
   "id": "04800",
-  "serializeDate": "'2023-01-27 11:35:08.465'",
-  "serialized": 1674819308465,
+  "serializeDate": "'2025-04-09 14:34:26.802'",
+  "serialized": 1744209266802,
   "serializedBy": "heatherp",
-  "time": "2023-01-27T11:35:08.1213059Z",
+  "time": "2025-04-09T14:34:26.7556005Z",
   "status": "PU",
-  "title": "The Berkeley Hotel Entrance",
-  "description": "The Berkeley Hotel has the charm and character of an English country residence, well-loved and looked after.",
-  "date": "2006-2016",
-  "client": "The Berkeley Hotel",
+  "title": "The Berkeley Hotel",
+  "date": "2006 - 2024",
+  "client": "Maybourne Hotel Group",
   "location": "London, UK",
   "city": "London",
   "country": "UK",
@@ -55,18 +54,12 @@
     "Louise Palomba",
     "Paul Thompson"
   ],
-  "overview": "<div><p>The Berkeley Hotel has the charm and character of an English country residence, well-loved and looked after. As essentially residential in character the Hotel is a sequence of connected spaces and rooms with a comfortable and familiar scale and ambience.</p><p>The new entrance canopy, with glazed pavilions flanking the entrance doors, extends the Blue Bar and the Collins Room.</p><p>The practice’s work is defined by a clear structural approach which is evident in the composition. The canopy is supported by a series of expressed carbon fibre beams formed to describe their structural diagram. The beams and glazing system is supported by the existing building and a series of stainless steel columns - the composition is set out on a stone base. The glazing for the canopy and flank walls has a honeycomb insert which reflects light at night and allows for a sense of light, shadow and movement beyond, giving veiled views through the glass. The stone base integrates steps, a rising platform and series of sculpted timber fins forming a protective screen. This entrance design uses traditional and new materials and their composition is unique to The Berkeley.</p><p>The iconic Blue Bar with its memorable interior is retained and the Collins Room has been refurbished with a new interior concept by Robert Angell Design International. With the addition of a new glazed pavilion to each space, their frontage is renewed and gives presence to the street. Internally the spaces feel more integrated and have a more settled sense of space.</p><p>Throughout the works the hotel remained operational, reinvigorating this grand dame of hotels for the future.</p></div>",
-  "dimensions": [
-    {
-      "label": "Canopy Area",
-      "value": "300m²",
-      "id": "c45d5109fb7347389ed86f40fb490939"
-    }
-  ],
+  "overview": "<div><p>The Berkeley is a 5-star hotel located in Knightsbridge, London, owned and managed by the Maybourne Hotel Group. Essentially residential in character, the hotel is a sequence of connected rooms and suites with a comfortable and familiar scale and ambiance. Our work covers the refurbishment and redesign of the existing hotel and its facilities, the extension of the hotel’s north block and the insertion of a new hotel - The Emory - into the Berkeley site.</p><p>RSHP’s work on the Berkeley began in 2016 with a glazed honeycomb entrance canopy and the transformation of public areas at the ground floor. The hotel’s iconic Blue Bar retained its memorable interior, while the Caramel Room was developed into the elegant Collins Room which now extends towards the street, flanked by glazed pavilions, and illuminated by the glass canopy and walls that reflect light throughout the day.</p><p>Further additions to the hotel were three glass pavilions on the hotel’s corners which provide wrap-around terraces that create an immersive indoor-outdoor experience, and the redesigned heated rooftop pool with stunning views of Knightsbridge’s red brick buildings, the crescents of Belgravia, and the vast expanse of Hyde Park.</p><p>Throughout the works, the Berkeley remained operational with the various additions carefully woven into existing building to make a greater whole, reinvigorating the hotel for the future. The back-of house-operations were renovated with new MEP and plant enclosures, improved ventilation systems and a rooftop extension. RSHP also reinstated the facade on Old Barrack Yard and introduced new glazing on the ground floor, courtyard balconies with pop-out window screens, and a glazed corridor linking The Berkeley with The Emory.</p><p>A key change was removing two bays from The Berkeley’s brick Hyde Park-facing facade and installing full height windows and a stone facade in keeping with the main building. This unlocked the site as a dual hotel destination and enabled The Emory to stand as a jewel along Knightsbridge, completing the city block.</p></div>",
+  "dimensions": [],
   "companies": [
     {
       "label": "Structural Engineer",
-      "value": "Expedition Engineering",
+      "value": "Expedition Engineering and WSP",
       "id": "6980dd433e4949b79e62c7e897bdc594"
     },
     {
@@ -86,7 +79,7 @@
     },
     {
       "label": "Landscape Architect",
-      "value": "Gillespies",
+      "value": "Gillespies and Bradley-Hole Schoenaich",
       "id": "ae02ee9cdcf0478fae150626eea5f875"
     },
     {
@@ -108,6 +101,11 @@
       "label": "Manufacturer",
       "value": "Bellapart",
       "id": "3d80cc30f1124818b93dce22fd1a07dd"
+    },
+    {
+      "label": "Planning Consultant",
+      "value": "DP9 and Michael Blair Associates",
+      "id": "4b4cfc2fd120444e87868daf39d66c84"
     }
   ]
 }
