@@ -7,10 +7,10 @@
   ],
   "type": "Project",
   "id": "13725",
-  "serializeDate": "'2025-03-26 12:38:27.161'",
-  "serialized": 1742992707161,
+  "serializeDate": "'2025-04-10 11:26:55.851'",
+  "serialized": 1744284415851,
   "serializedBy": "heatherp",
-  "time": "2025-03-26T12:38:27.1311413Z",
+  "time": "2025-04-10T11:26:55.7721678Z",
   "status": "PU",
   "title": "Pao Huei Renshen",
   "date": "2024 -",
@@ -18,19 +18,20 @@
   "location": "Taichung, Taiwan",
   "city": "Taichung",
   "country": "Taiwan",
-  "longLat": "120.6447 / 24.1608",
-  "longitude": "120.6447",
-  "latitude": "24.1608",
+  "longLat": "120.6450 / 24.1614",
+  "longitude": "120.6450",
+  "latitude": "24.1614",
   "team": [
     "Holly Clarke",
-    "Valentina Frieri",
     "Dan Hanna",
     "Ivan Harbour",
     "James Jiang",
     "John Kennedy",
+    "Addy Lin",
     "Ramon F Roman",
     "Victoria Tong",
-    "Ben Warner"
+    "Ben Warner",
+    "Rosey Wilsdon"
   ],
   "partners": [
     "Ivan Harbour",
@@ -41,31 +42,38 @@
   ],
   "heights": [
     {
-      "value": "Tower A",
+      "value": "Tower A (south tower) - 190.2m",
       "id": "7e5d2e3897e74973a4b0938da058a023"
     },
     {
-      "value": "Tower B",
+      "value": "Tower B - (north tower) - 147m",
       "id": "b1dd49076ade4cd8822b1cdf4f1ce9fd"
     }
   ],
   "floors": [
     {
-      "value": "Tower A",
+      "value": "Tower A (south tower) - 37 storeys",
       "id": "0fe35803bb3647a8925298b3b2f335b5"
     },
     {
-      "value": "Tower B",
+      "value": "Tower B - (north tower) - 49 storeys",
       "id": "602a542cf6fd4f0a9fd28ef859c755ca"
     }
   ],
-  "overview": "<div><p>Pao Huei Renshen is a luxury residential development in Taichung, Taiwan’s second-largest city with over 2.85 million residents. Located near Shakeng Park, the scheme features two elegant towers set within a lushly landscaped site. Tower-A, in the southeast quadrant, rises 35 storeys, while Tower-B in the northwest reaches 44 storeys. Both towers are connected at ground and second floor via glazed corridors and share a seven-level basement.</p><p>The design emphasizes tall, slender forms that emerge from a planted ground plane. Each tower features an H-shaped floorplate, maximizing natural light and cross-ventilation while enabling the creation of elevated sky gardens at every third floor. These gardens reinforce the relationship between the architecture and the surrounding landscape.</p><p>Living areas and master bedrooms are positioned to capture long views to the north and south, with secondary rooms facing east and west. Green balconies at regular intervals establish a horizontal rhythm across the towers, contrasting with their vertical emphasis. Curved corners on balconies and modular bays define both the structural logic and the appearance of the buildings.</p><p>At ground level and Level 2, the towers are surrounded by a series of interconnected gardens, terraces, pavilions, and canopies that weave through the site. Residents and visitors arrive via a tree-lined avenue in the southwest quadrant, entering through a luminous, stone-clad reception pavilion. From here, they are directed to either tower through the shared lobby.</p><p>Conceptually, each tower aligns with a linear garden—Tower-A to the northeast and Tower-B to the southwest, where the visitor drop-off is also located. The overall composition creates a dialogue between architecture and nature, with the towers standing as vertical sentinels rooted in a landscape of privacy, greenery, and light.</p></div>",
+  "overview": "<div><p>Pao Huei Renshen is a luxury residential development in Taichung, Taiwan’s second-largest city with over 2.85 million residents. Located near Shakeng Park, the scheme features two elegant towers set within a lushly landscaped site. Tower A, in the southeast quadrant, rises 37 storeys, while Tower B in the northwest reaches 49 storeys. Both towers are connected at ground and second floor via glazed corridors and share a seven-level basement.</p><p>The design emphasizes tall, slender forms that emerge from a planted ground plane. Each tower features an H-shaped floorplate, maximizing natural light and cross-ventilation while enabling the creation of elevated sky gardens at every third floor. These gardens reinforce the relationship between the architecture and the surrounding landscape.</p><p>Living areas and master bedrooms are positioned to capture long views to the north and south, with secondary rooms facing east and west. Green balconies at regular intervals establish a horizontal rhythm across the towers, contrasting with their vertical emphasis. Curved corners on balconies and modular bays define both the structural logic and the appearance of the buildings.</p><p>At ground level and Level 2, the towers are surrounded by a series of interconnected gardens, terraces, pavilions, and canopies that weave through the site. Residents and visitors arrive via a tree-lined avenue in the southwest quadrant, entering through a luminous, stone-clad reception pavilion. From here, they are directed to either tower through the shared lobby.</p><p>Conceptually, each tower aligns with a linear garden -Tower A to the northeast and Tower B to the southwest, where the visitor drop-off is also located. The overall composition creates a dialogue between architecture and nature, with the towers standing as vertical sentinels rooted in a landscape of privacy, greenery, and light.</p></div>",
   "dimensions": [],
   "companies": [
     {
       "label": "Structural Engineer",
       "value": "Envision Engineering Consultants (EEC)",
       "id": "5ce4d3a871c54f589944bbcf7f5d487f"
+    }
+  ],
+  "certificates": [
+    {
+      "authority": "EEWH",
+      "rating": "Silver Label",
+      "rowId": "868ddb50f49d4254847829e29d320f66"
     }
   ]
 }
