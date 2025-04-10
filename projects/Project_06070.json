@@ -7,10 +7,10 @@
   ],
   "type": "Project",
   "id": "06070",
-  "serializeDate": "'2023-07-07 15:46:22.697'",
-  "serialized": 1688744782697,
+  "serializeDate": "'2025-04-10 11:59:36.338'",
+  "serialized": 1744286376338,
   "serializedBy": "heatherp",
-  "time": "2023-07-07T15:46:22.6561024Z",
+  "time": "2025-04-10T11:59:36.3071857Z",
   "status": "PU",
   "title": "St Lawrence Market North",
   "description": "St Lawrence Market North will combine courtrooms, offices and a large market hall as part of the St Lawrence complex.",
@@ -19,8 +19,8 @@
   "location": "Toronto, Canada",
   "city": "Toronto",
   "country": "Canada",
-  "longLat": "-79.372145  / 43.650345",
-  "longitude": "-79.372145 ",
+  "longLat": "-79.372145 / 43.650345",
+  "longitude": "-79.372145",
   "latitude": "43.650345",
   "team": [
     "Tadashi Arai",
@@ -101,6 +101,14 @@
       "label": "Main Contractor",
       "value": "Buttcon Limited / Atlas Corporation",
       "id": "f96f8470983f4527912175991d85d443"
+    }
+  ],
+  "awards": [
+    {
+      "date": "2025-04-09",
+      "year": "2025",
+      "award": "Award of Merit from the Canadian Institute of Steel Construction in the Institutional/industrial Project Category",
+      "rowId": "1ee66ed825b64db2a576e92ec4ebfb82"
     }
   ]
 }
