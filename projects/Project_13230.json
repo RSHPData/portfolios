@@ -1,0 +1,118 @@
+{
+  "name": "Peninsula Dubai",
+  "url": "residential/peninsula-dubai",
+  "webStatus": "Upload",
+  "type": "Project",
+  "id": "13230",
+  "serializeDate": "'2025-04-16 15:25:58.562'",
+  "serialized": 1744817158562,
+  "serializedBy": "heatherp",
+  "time": "2025-04-16T15:25:58.5348064Z",
+  "status": "PU",
+  "title": "Peninsula Dubai",
+  "date": "2023 -",
+  "client": "Dubai Peninsula LLC",
+  "location": "Dubai, United Arab Emirates",
+  "city": "Dubai",
+  "country": "United Arab Emirates",
+  "longLat": "25.1836 / 55.2678",
+  "longitude": "25.1836",
+  "latitude": "55.2678",
+  "team": [
+    "Jadene Aguilar",
+    "Giulio Asso",
+    "Alexander Balchin",
+    "Richard Black",
+    "Jaime Cunha",
+    "Luca D'Amico",
+    "Kelly Darlington",
+    "Benjamin Darras",
+    "Valentina Frieri",
+    "Harry Groom",
+    "Lennart Grut",
+    "Ed Hiscock",
+    "Janos Katona",
+    "Lucas Wei Zeng Ler",
+    "Iaia Loppi",
+    "Mohamed Mansour",
+    "Vincenzo Massa",
+    "Richard Paul",
+    "Shuo Qian",
+    "Callum Richardson",
+    "Dan Rogers",
+    "Joe Russell",
+    "Andra Samiș",
+    "Harjinder Singh",
+    "Richard Sullivan-Paul",
+    "Marco Tessaro"
+  ],
+  "partners": [
+    "Richard Paul"
+  ],
+  "leaders": [
+    "Marco Tessaro",
+    "Richard Black"
+  ],
+  "floors": [
+    {
+      "label": "Residential Tower 1",
+      "value": "37",
+      "id": "1bf07cfeedd640cf9a6635404c543d53"
+    },
+    {
+      "label": "Residential Tower 2",
+      "value": "28",
+      "id": "d3c7d229eaa94bc4865c81ae35685c74"
+    },
+    {
+      "label": "Hotel and Residences",
+      "value": "9",
+      "id": "916d98b2c60b42388806476c4285d054"
+    }
+  ],
+  "overview": "<div><p>Peninsula Dubai is a luxury residential development created around a marina to the west of a new beach front peninsula in Dubai.  Two buildings, comprising three pavilions each, provide serviced apartments, a hotel, and branded residences. Each pavilion is nine storeys high, maximising views towards both the marina and the city. Sharing a common language of design, their scale and articulated massing creates an air of exclusivity for the hotel and residences within.</p><p>The pavilions that house the hotel are connected via a series of glazed, elevated bridge links. These functional links allow for a high degree of efficiency when servicing the three volumes as they share means of escape and service elevators which are all positioned within the floorplates to give structural stability to the volumes. Sharing these functional elements allows the building to operate as one whilst maintaining their appearance as three exclusive pavilion buildings.</p><p>Guests of the hotel and the serviced apartment buildings arrive via the central drop off offering spectacular views of the marina before entering the buildings. The hotel and serviced apartments both have lobbies at this central drop-off space, whilst the lobby of the branded residences is served by a separate drop-off at the other end of the building. The ground floor is activated with lounges, bar, and restaurant spaces with access to the external terrace on the marina side.</p><p>Two residential towers bookend the scheme. Sky gardens and amenities feature throughout the towers to define the form and provide external areas for residents. The towers are punctuated at their peaks with distinctively shaped penthouses strategically perched above generous external terraces that allow for pools, water features and landscaped decks. These penthouses offer panoramic views over the marina, with extensive balconies providing a luxurious experience.</p></div>",
+  "dimensions": [
+    {
+      "label": "Site Area",
+      "value": "35,178m²",
+      "id": "70b84bf7bc374bb7a0624c089cfedcc2"
+    },
+    {
+      "label": "Residential Area",
+      "value": "125,522m² / 182 units",
+      "id": "67e2dce34cf44873b8945be70be00e71"
+    },
+    {
+      "label": "Hotel Area",
+      "value": "26,547m² / 182 keys",
+      "id": "1c65bb2024a5456bb98289bacd6f2f1e"
+    },
+    {
+      "label": "Serviced Apartments Area",
+      "value": "8,430m² / 23 units",
+      "id": "690ca70b344746a3b501fb63e5409040"
+    },
+    {
+      "label": "Branded Residential Area",
+      "value": "16,860m² / 36 units",
+      "id": "7fe083e1f0fd4d4ba8c607ab02c4c15a"
+    },
+    {
+      "label": "Retail / F&B:",
+      "value": "10,109m²",
+      "id": "44ceeda6256947ee8af7708b624523e5"
+    }
+  ],
+  "companies": [
+    {
+      "label": "Lead Design Consultant",
+      "value": "SSH",
+      "id": "fd0ec50c5baa4a64b6a87c56dd53679e"
+    },
+    {
+      "label": "Development Manager",
+      "value": "H+H",
+      "id": "160d20ccdf7546f39c8ca88b48757bea"
+    }
+  ]
+}
