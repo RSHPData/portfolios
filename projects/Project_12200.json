@@ -7,10 +7,10 @@
   ],
   "type": "Project",
   "id": "12200",
-  "serializeDate": "'2023-02-17 11:56:59.434'",
-  "serialized": 1676635019434,
+  "serializeDate": "'2025-04-22 11:22:14.682'",
+  "serialized": 1745320934682,
   "serializedBy": "heatherp",
-  "time": "2023-02-17T11:56:59.4107354Z",
+  "time": "2025-04-22T11:22:13.9424647Z",
   "status": "PU",
   "title": "Fubon Insurance HQ",
   "date": "2019 - ongoing",
@@ -63,21 +63,16 @@
   ],
   "floors": [
     {
-      "value": "29",
-      "id": "9F086CC32A5F4BE9BCA8D3"
+      "value": "27",
+      "id": "ecb95ade186444deaa8afe3b695103f3"
     }
   ],
   "overview": "<div><p>The project is a new commercial tower located on the corner of Renai Road and Jianguo Road in Taipei, Taiwan for our two client’s Fubon Insurance and Fubon Securities.  Their parent company Fubon Financial Holding Co. is a large financial investment holding company with numerous subsidiaries. The building will serve as the headquarters for their Property and Casualty Insurance divisions. The site holds great significance for the current Tsai Brothers Chairmen as it is where Fubon was founded by their father.</p><p>The building addresses the two roads equally, with a gently curved NW corner to connect the two prime office elevations. A horizontal ribbon façade with articulated solar shading further binds the composition. This also provides scale and grain, and, crucial shading to the office floorplate.  Double height internal vertical villages animate the NW corner, providing dynamic, democratic spaces for employees to gather, collaborate and socialise.  Diagonally opposite on the SE corner is a highly glazed and naturally ventilated circulation stair. Visually open and inviting, it encourages wellness through walking between adjacent floors, and its generous landings provide opportunity for chance encounters.  The other service elements of the core; lift banks, washrooms and MEP spaces unfold on either side of the corner stair and hold the South and Eastern edges of the building.</p><p>The office floorplate is defined by 9 equal squares on a 9x9m structural grid.  Open ceilings are proposed for the office fitout, giving maximum legibility to the structural frame and on floor servicing.  Expressive steelwork framing defines the core within the overall eccentrically braced structural frame.  A combination of precast concrete columns and steelwork creates an efficient structure attuned to the high seismic and wind load requirements.</p><p>Each office floor provides approximately 1100m2 of GFA and 850m2 of usable office area.  27 office floors deliver a total of approximately 27000m2 GFA within a height of 120m.</p><p>At the centre of the building height are the social spaces of canteen, gym and meeting rooms, served equally by the low rise and high rise lift banks.</p><p>At the pinnacle of the building is a special floor for the two Tsai Brother Chairmen, containing a memorial office for the Chairmen’s father and private landscaped external terrace which features several significant plants from the existing building. A green roof with photovoltaic array sits above along with centralised MEP plantroom spaces.</p><p>At the ground plane, the podium façade is setback on the diagonal, enhancing the corner address and creating a landscaped public agora beneath the tower above.  An entry canopy featuring LED display for public artwork and escalators animate this protected volume delivering visitors to a generous Level 2 lobby. A cafe and covered outdoor terrace provide opportunities for informal meetings and activity.  Set within the monolithic stone podium is a retail tenancy for their Fubon bank branch, creating active street frontages, with through site connections to a sheltered pocket park and rear laneways.</p></div>",
   "dimensions": [
     {
-      "label": "Building Top",
-      "value": "127.68m",
-      "id": "4LV+ykMQwEatdGmWpp1gIQ"
-    },
-    {
       "label": "Area",
-      "value": "27,000 m2 of office floorplate",
-      "id": "8b9c72f4a9314c2387362f60c5c6e5c0"
+      "value": "27,866m2 of office floorplate",
+      "id": "3f80bfe16b104e8cbac4e71ac70b3d7e"
     }
   ],
   "companies": [
