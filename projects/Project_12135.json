@@ -7,10 +7,10 @@
   ],
   "type": "Project",
   "id": "12135",
-  "serializeDate": "'2025-04-16 15:24:07.407'",
-  "serialized": 1744817047407,
+  "serializeDate": "'2025-04-23 19:18:16.617'",
+  "serialized": 1745435896617,
   "serializedBy": "heatherp",
-  "time": "2025-04-16T15:24:06.6615667Z",
+  "time": "2025-04-23T19:18:15.6519011Z",
   "status": "PU",
   "title": "Bromley-by-Bow Gasworks",
   "date": "2018 - ongoing",
@@ -87,11 +87,6 @@
     {
       "label": "Structural Engineer",
       "value": "WSP",
-      "id": "1fca04c64b61425bb476cf4033481df1"
-    },
-    {
-      "label": "Structural Engineer",
-      "value": "WSP",
       "id": "819a89d808e8428ea8262b4086216f81"
     },
     {
@@ -100,7 +95,7 @@
       "id": "7f353f828c5c4c25ad6a805d01d99b0d"
     },
     {
-      "label": "Community Consultantation",
+      "label": "Community Consultation",
       "value": "Iceni",
       "id": "96276386f8174fe98e5124c74fab4bc3"
     },
