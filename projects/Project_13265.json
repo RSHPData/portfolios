@@ -1,0 +1,69 @@
+{
+  "name": "Huimin 83",
+  "url": "culture-and-leisure/huimin-83/",
+  "webStatus": "Upload",
+  "typologies": [
+    "Culture & Leisure"
+  ],
+  "type": "Project",
+  "id": "13265",
+  "serializeDate": "'2025-04-30 10:48:23.571'",
+  "serialized": 1746010103571,
+  "serializedBy": "heatherp",
+  "time": "2025-04-30T10:48:23.5397832Z",
+  "status": "PU",
+  "title": "Huimin 83",
+  "date": "2022 - under construction",
+  "client": "Shu Ming Construction Co. Ltd",
+  "location": "Tai Chung, Taiwan",
+  "city": "Tai Chung",
+  "country": "Taiwan",
+  "longLat": "120°38'23\" E / 24°09'49\" N",
+  "longitude": "120°38'23\" E",
+  "latitude": "24°09'49\" N",
+  "constructionCost": "Unknown",
+  "team": [
+    "Tianyuan Fan",
+    "Addy Lin",
+    "Ivan Harbour",
+    "Matthew Jackson",
+    "Ann Miller",
+    "Ben Warner",
+    "Min Zhang"
+  ],
+  "partners": [
+    "Ivan Harbour"
+  ],
+  "leaders": [
+    "Dan Hanna"
+  ],
+  "overview": "<div><p>Occupying a prominent corner site opposite Taichung’s National Theatre, this pavilion serves as a marketing suite for the promotion of new residential developments. However, Pao Huei recognises the site’s cultural significance and has envisioned the building as a venue for public events, thereby enhancing the civic life of the city.</p><p>Designed as a standalone structure, the building contrasts deliberately with its taller urban surroundings. It is conceived as a flower on the forest floor—visually delicate yet distinctive and intended to be appreciated both at street level and from above as a subtle landmark in the cityscape.</p><p>A refined structural frame envelops the pavilion, presenting it as a singular ‘wrapped’ volume over four floors. Within this expressive framework lies a restrained, elegant core containing apartment display spaces. These are framed by two principal areas. At ground level, a reception space merges interior and exterior conditions, drawing in the landscape and guiding visitors along a formal promenade from the street. At the top of the building, a multifunctional, acoustically tuned performance hall sits beneath the apex of the frame, top-lit and offering a grand balcony with views toward the National Theatre.</p><p>A daylit staircase forms a central spine, rising through the building and visible from the main entrance. It connects all levels and emphasises the building’s formal organisation.</p><p>Internally, the pavilion is lined throughout with veneered timber panels, selected for both acoustic performance and aesthetic consistency. This continuous material treatment lends the interior the character of a finely crafted object—both warm and precise. Together, the structure and its envelope create an architecture of refined presence: modest in scale yet resonant in expression, a civic flower rooted in the cultural landscape of Taichung.</p></div>",
+  "dimensions": [],
+  "companies": [
+    {
+      "label": "Client",
+      "value": "Pao Huei Property Development",
+      "id": "79dc3aaea1124ffe9ee89f815eb46e4e"
+    },
+    {
+      "label": "MEP Consultant",
+      "value": "ARUP UK",
+      "id": "cbd2104239df4362bc0d96a1967c57e2"
+    },
+    {
+      "label": "Facade Consultant",
+      "value": "ARUP UK",
+      "id": "81f75427c5384cfe8cd9aecc978392f1"
+    },
+    {
+      "label": "Lighting Consultant",
+      "value": "ARUP UK",
+      "id": "f6ec9c2c86bf47b4a87e596335aadd28"
+    },
+    {
+      "label": "Venues Consultant",
+      "value": "ARUP UK",
+      "id": "0d03b94f74b54bd6a31cc7c9b9ffa731"
+    }
+  ]
+}
