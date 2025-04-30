@@ -7,10 +7,10 @@
   ],
   "type": "Project",
   "id": "13265",
-  "serializeDate": "'2025-04-30 11:56:57.821'",
-  "serialized": 1746014217821,
+  "serializeDate": "'2025-04-30 14:50:41.434'",
+  "serialized": 1746024641434,
   "serializedBy": "heatherp",
-  "time": "2025-04-30T11:56:57.7898145Z",
+  "time": "2025-04-30T14:50:41.4028339Z",
   "status": "PU",
   "title": "Huimin 83",
   "date": "2022 - under construction",
@@ -36,12 +36,24 @@
   "leaders": [
     "Dan Hanna"
   ],
-  "overview": "<div><p>Occupying a prominent corner site opposite Taichung’s National Theatre, this pavilion serves as a marketing suite for the promotion of new residential developments. However, Pao Huei recognises the site’s cultural significance and has envisioned the building as a venue for public events, thereby enhancing the civic life of the city.</p><p>Designed as a standalone structure, the building contrasts deliberately with its taller urban surroundings. It is conceived as a flower on the forest floor—visually delicate yet distinctive and intended to be appreciated both at street level and from above as a subtle landmark in the cityscape.</p><p>A refined structural frame envelops the pavilion, presenting it as a singular ‘wrapped’ volume over four floors. Within this expressive framework lies a restrained, elegant core containing apartment display spaces. These are framed by two principal areas. At ground level, a reception space merges interior and exterior conditions, drawing in the landscape and guiding visitors along a formal promenade from the street. At the top of the building, a multifunctional, acoustically tuned performance hall sits beneath the apex of the frame, top-lit and offering a grand balcony with views toward the National Theatre.</p><p>A daylit staircase forms a central spine, rising through the building and visible from the main entrance. It connects all levels and emphasises the building’s formal organisation.</p><p>Internally, the pavilion is lined throughout with veneered timber panels, selected for both acoustic performance and aesthetic consistency. This continuous material treatment lends the interior the character of a finely crafted object—both warm and precise. Together, the structure and its envelope create an architecture of refined presence: modest in scale yet resonant in expression, a civic flower rooted in the cultural landscape of Taichung.</p></div>",
+  "heights": [
+    {
+      "value": "25.725m",
+      "id": "4db10cd4c51c4331942cfb170600c25b"
+    }
+  ],
+  "floors": [
+    {
+      "value": "4",
+      "id": "6e983cfc72ed49dd964667d29d05a5ec"
+    }
+  ],
+  "overview": "<div><p>Occupying a prominent corner site opposite Taichung’s National Theatre, this pavilion serves as a marketing suite for the promotion of new residential developments. However, Pao Huei recognises the site’s cultural significance and has envisioned the building as a venue for public events, thereby enhancing the civic life of the city.</p><p>Designed as a standalone structure, the building contrasts deliberately with its taller urban surroundings. It is conceived as a flower on the forest floor - visually delicate yet distinctive and intended to be appreciated both at street level and from above as a subtle landmark in the cityscape.</p><p>A refined structural frame envelops the pavilion, presenting it as a singular ‘wrapped’ volume over four floors. Within this expressive framework lies a restrained, elegant core containing apartment display spaces. These are framed by two principal areas. At ground level, a reception space merges interior and exterior conditions, drawing in the landscape and guiding visitors along a formal promenade from the street. At the top of the building, a multifunctional, acoustically tuned performance hall sits beneath the apex of the frame, top-lit and offering a grand balcony with views toward the National Theatre.</p><p>A daylit staircase forms a central spine, rising through the building and visible from the main entrance. It connects all levels and emphasises the building’s formal organisation.</p><p>Internally, the pavilion is lined throughout with veneered timber panels, selected for both acoustic performance and aesthetic consistency. This continuous material treatment lends the interior the character of a finely crafted object - both warm and precise. Together, the structure and its envelope create an architecture of refined presence: modest in scale yet resonant in expression, a civic flower rooted in the cultural landscape of Taichung.</p></div>",
   "dimensions": [],
   "companies": [
     {
       "label": "Client",
-      "value": "Pao Huei Property Development",
+      "value": "Shu Ming Construction Co. Ltd",
       "id": "79dc3aaea1124ffe9ee89f815eb46e4e"
     },
     {
