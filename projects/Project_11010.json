@@ -8,10 +8,10 @@
   ],
   "type": "Project",
   "id": "11010",
-  "serializeDate": "'2025-05-16 10:57:09.056'",
-  "serialized": 1747393029056,
+  "serializeDate": "'2025-05-16 11:01:17.729'",
+  "serialized": 1747393277729,
   "serializedBy": "heatherp",
-  "time": "2025-05-16T10:57:09.024826Z",
+  "time": "2025-05-16T11:01:17.6967941Z",
   "status": "PU",
   "title": "British Library Extension",
   "description": "The British Library Expansion project is a once in a generation transformation opportunity to extend the British Library’s site to make it the most open, creative, and innovative institution of its kind anywhere in the world.",
@@ -80,7 +80,7 @@
   "dimensions": [
     {
       "label": "Area",
-      "value": "97,000m2 GIA (10,000 m2 of Library Premises)",
+      "value": "97,000m2 GIA (10,000m2 of Library Premises)",
       "id": "3b7dace4b0f14b06a6398fa24e94fac3"
     }
   ],
