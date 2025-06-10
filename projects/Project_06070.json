@@ -7,10 +7,10 @@
   ],
   "type": "Project",
   "id": "06070",
-  "serializeDate": "'2025-06-10 15:03:24.859'",
-  "serialized": 1749567804859,
+  "serializeDate": "'2025-06-10 15:06:09.211'",
+  "serialized": 1749567969211,
   "serializedBy": "heatherp",
-  "time": "2025-06-10T15:03:22.9325536Z",
+  "time": "2025-06-10T15:06:09.1749341Z",
   "status": "PU",
   "title": "St Lawrence Market North",
   "description": "St Lawrence Market North will combine courtrooms, offices and a large market hall as part of the St Lawrence complex.",
@@ -89,7 +89,7 @@
     },
     {
       "label": "Lighting Design",
-      "value": "Smith + Anderson",
+      "value": "Smith + Andersen",
       "id": "ac4f1038c54142648c667824049ba696"
     },
     {
