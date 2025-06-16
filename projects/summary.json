@@ -1,5 +1,15 @@
 [
   {
+    "projectId": "07119",
+    "project": "Architects in Dialogue Exhibition",
+    "date": "2025",
+    "location": "London",
+    "country": "UK",
+    "client": "St John Soane's Museum",
+    "longLat": "51.5171 / -0.1174",
+    "typology": "Culture & Leisure"
+  },
+  {
     "projectId": "13575",
     "project": "Zhongyuan International Convention Centre Phase 2",
     "date": "2024",
