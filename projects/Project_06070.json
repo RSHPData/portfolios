@@ -7,10 +7,10 @@
   ],
   "type": "Project",
   "id": "06070",
-  "serializeDate": "'2025-06-19 16:50:28.579'",
-  "serialized": 1750351828579,
+  "serializeDate": "'2025-06-30 18:29:57.592'",
+  "serialized": 1751308197592,
   "serializedBy": "heatherp",
-  "time": "2025-06-19T16:50:27.8748517Z",
+  "time": "2025-06-30T18:29:56.7048355Z",
   "status": "PU",
   "title": "St Lawrence Market North",
   "description": "St Lawrence Market North will combine courtrooms, offices and a large market hall as part of the St Lawrence complex.",
@@ -103,6 +103,11 @@
       "label": "Main Contractor",
       "value": "Buttcon Limited / Atlas Corporation",
       "id": "f96f8470983f4527912175991d85d443"
+    },
+    {
+      "label": "Civil Engineering",
+      "value": "WSP",
+      "id": "d8eb01dfef3949deabdf7932f6b07fc7"
     }
   ],
   "awards": [
