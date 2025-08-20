@@ -7,10 +7,10 @@
   ],
   "type": "Project",
   "id": "06310",
-  "serializeDate": "'2023-11-20 12:30:22.261'",
-  "serialized": 1700483422261,
+  "serializeDate": "'2025-08-20 16:39:22.790'",
+  "serialized": 1755707962790,
   "serializedBy": "heatherp",
-  "time": "2023-11-20T12:30:21.5841543Z",
+  "time": "2025-08-20T16:39:22.3794563Z",
   "status": "PU",
   "title": "Maryah Plaza",
   "date": "2010 - under construction",
@@ -75,8 +75,19 @@
       "id": "9331cf68a6fd4975b8167b3cbcc5165f"
     }
   ],
-  "overview": "<div><p>Maryah Plaza is a 114-hectare mixed-use residential, retail, leisure, hotel, and commercial development in the heart of Abu Dhabi. It is designated by the emirate’s Urban Planning Council to be the capital’s Central Business District (CBD).</p><p>Working together with Taiwanese property developer Farglory Group, RSHP has designed Maryah Plaza, a four-tower luxury waterfront complex on the island providing approximately 500 premium residences aimed at both locals and tourists and ranging from one-bedroom apartments to penthouses.</p><p>Maryah Plaza has been conceived to complement the waterfront position, with maritime themes running through the design and great views over the water. The masterplan for the development also includes beautifully landscaped parks and shaded open spaces, art galleries, community centres, and a wide range of retail spaces, creating a diverse, rich and vibrant public realm that maximises permeability and connectivity throughout the site.</p><p>Situated in close proximity to Sowwah Square, Maryah Plaza will also offer convenient access to the island’s commercial hub, which features luxury retail, dining destinations and five-star hotels.</p></div>",
-  "dimensions": [],
+  "overview": "<div><p>Maryah Plaza is a 16,952 sqm mixed-use residential, retail, leisure, hotel, and commercial development in the heart of Abu Dhabi. It is designated by the emirate’s Urban Planning Council to be the capital’s Central Business District (CBD).</p><p>Working together with Taiwanese property developer Farglory Group, RSHP has designed Maryah Plaza, a four-tower luxury waterfront complex on the island providing approximately 500 premium residences aimed at both locals and tourists and ranging from one-bedroom apartments to penthouses.</p><p>Maryah Plaza has been conceived to complement the waterfront position, with maritime themes running through the design and great views over the water. The masterplan for the development also includes beautifully landscaped parks and shaded open spaces, art galleries, community centres, and a wide range of retail spaces, creating a diverse, rich and vibrant public realm that maximises permeability and connectivity throughout the site.</p><p>Situated in close proximity to Sowwah Square, Maryah Plaza will also offer convenient access to the island’s commercial hub, which features luxury retail, dining destinations and five-star hotels.</p></div>",
+  "dimensions": [
+    {
+      "label": "Plot size",
+      "value": "16,952 sqm",
+      "id": "4b062cb1a252496eb35cf0a0e3ef7917"
+    },
+    {
+      "label": "GFA",
+      "value": "153,000 sqm",
+      "id": "27e4c7c5b69e437d97b655bab635effa"
+    }
+  ],
   "companies": [
     {
       "label": "Architect of Record",
