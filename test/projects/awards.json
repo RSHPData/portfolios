@@ -1,5 +1,29 @@
 [
   {
+    "projectId": "11690",
+    "project": "Regent's View Bethnal Green",
+    "year": "2024",
+    "award": "WAF 24 - Winner - WAF Future Project: Residential"
+  },
+  {
+    "projectId": "03510",
+    "project": "The Leadenhall Building",
+    "year": "2024",
+    "award": "Award of Excellence - CTBUH 10 Year Award"
+  },
+  {
+    "projectId": "10890",
+    "project": "The Emory",
+    "year": "2024",
+    "award": "Tatler magazine: ‘Best Hotel for Design and Style’"
+  },
+  {
+    "projectId": "06240",
+    "project": "Geneva Airport, Aile Est",
+    "year": "2023",
+    "award": "GOLD AWARD - WAN Awards 2023 - Transport Sector"
+  },
+  {
     "projectId": "50003",
     "project": "Crofts Street",
     "year": "2023",
@@ -16,6 +40,42 @@
     "project": "Crofts Street",
     "year": "2023",
     "award": "RIBA/RSAW Regional Award"
+  },
+  {
+    "projectId": "50003",
+    "project": "Crofts Street",
+    "year": "2023",
+    "award": "Shortlisted - AJ Architecture Awards/Up to £5m Housing"
+  },
+  {
+    "projectId": "50003",
+    "project": "Crofts Street",
+    "year": "2023",
+    "award": "Shortlisted - Offsite Awards/Social Housing Project of the Year"
+  },
+  {
+    "projectId": "50003",
+    "project": "Crofts Street",
+    "year": "2022",
+    "award": "Finalist - Building Awards/Offsite Project of the Year"
+  },
+  {
+    "projectId": "50003",
+    "project": "Crofts Street",
+    "year": "2022",
+    "award": "Resi Awards Winner/Climate Crisis Initiative Residential"
+  },
+  {
+    "projectId": "50003",
+    "project": "Crofts Street",
+    "year": "2022",
+    "award": "What House Awards/Best Sustainable Development/Silver Winner"
+  },
+  {
+    "projectId": "50003",
+    "project": "Crofts Street",
+    "year": "2022",
+    "award": "Winner - Constructing Excellence in Wales Awards/MMC Award"
   },
   {
     "projectId": "10700",
@@ -214,6 +274,12 @@
     "project": "Atrio",
     "year": "2019",
     "award": "LEED Gold certification (North Tower)"
+  },
+  {
+    "projectId": "50003",
+    "project": "Crofts Street",
+    "year": "2019",
+    "award": "What House Awards/Best Starter Homes/Gold Winner"
   },
   {
     "projectId": "06360",
@@ -594,6 +660,24 @@
     "award": "Architects for Health (AfH) award for Ideas or New Concepts"
   },
   {
+    "projectId": "05970",
+    "project": "Double Cove",
+    "year": "2015",
+    "award": "International Property Awards Finalist: Architecture Multiple Residences (phase 4-5)"
+  },
+  {
+    "projectId": "05970",
+    "project": "Double Cove",
+    "year": "2015",
+    "award": "International Property Awards Finalist: Mixed-Use Architecture"
+  },
+  {
+    "projectId": "05970",
+    "project": "Double Cove",
+    "year": "2015",
+    "award": "International Property Awards Finalist: Residential High Rise (Phase 2-3)"
+  },
+  {
     "projectId": "01120",
     "project": "European Court of Human Rights",
     "year": "2015",
@@ -718,6 +802,12 @@
     "project": "8 Chifley",
     "year": "2014",
     "award": "UDIA Retail/Commercial Development of the Year"
+  },
+  {
+    "projectId": "05970",
+    "project": "Double Cove",
+    "year": "2014",
+    "award": "China Property Award - Residential Category (China)"
   },
   {
     "projectId": "04230",
@@ -1447,19 +1537,19 @@
   },
   {
     "projectId": "00200",
-    "project": "Inmos Microprocessor Factory",
+    "project": "Inmos Microprocessor Factoryhh",
     "year": "1986",
     "award": "Constructa Preis for Overall Excellence in the Field of Architecture"
   },
   {
     "projectId": "00200",
-    "project": "Inmos Microprocessor Factory",
+    "project": "Inmos Microprocessor Factoryhh",
     "year": "1983",
     "award": "Eurostructpress Award"
   },
   {
     "projectId": "00200",
-    "project": "Inmos Microprocessor Factory",
+    "project": "Inmos Microprocessor Factoryhh",
     "year": "1983",
     "award": "Financial Times 'Architecture at Work' Award Commendation"
   },
@@ -1489,7 +1579,7 @@
   },
   {
     "projectId": "00200",
-    "project": "Inmos Microprocessor Factory",
+    "project": "Inmos Microprocessor Factoryhh",
     "year": "1982",
     "award": "The Structural Steel Design Award"
   },
