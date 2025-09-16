@@ -32,17 +32,6 @@
     "typology": "Education"
   },
   {
-    "projectId": "13045",
-    "project": "14A Konstitucijos Avenue",
-    "date": "2022",
-    "endDate": "under construction",
-    "location": "Vilnius",
-    "country": "Lithuania",
-    "client": "Lords LB Asset Management",
-    "longLat": "25.27787496394279 / 54.694386093658125",
-    "typology": "Office"
-  },
-  {
     "projectId": "13150",
     "project": "PLD Jean Moulin",
     "date": "2022",
@@ -52,6 +41,17 @@
     "client": "Paris La Défense (PLD)",
     "longLat": "2.2402509269887805 / 48.887891300991484,",
     "typology": "Mixed Use"
+  },
+  {
+    "projectId": "13045",
+    "project": "Sąvaržėlė",
+    "date": "2022",
+    "endDate": "under construction",
+    "location": "Vilnius",
+    "country": "Lithuania",
+    "client": "Lords LB Asset Management",
+    "longLat": "25.27787496394279 / 54.694386093658125",
+    "typology": "Office"
   },
   {
     "projectId": "12900",
