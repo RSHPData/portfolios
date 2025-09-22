@@ -7,10 +7,10 @@
   ],
   "type": "Project",
   "id": "10690",
-  "serializeDate": "'2024-09-03 13:54:24.492'",
-  "serialized": 1725371664492,
+  "serializeDate": "'2025-09-22 16:31:14.422'",
+  "serialized": 1758558674422,
   "serializedBy": "heatherp",
-  "time": "2024-09-03T13:54:22.7968536Z",
+  "time": "2025-09-22T16:31:14.3916896Z",
   "status": "PU",
   "title": "Taoyuan Airport T3",
   "description": "The design for Taoyuan Terminal 3 synthesises the practice’s previous major airport experience with the specific brief.",
@@ -19,8 +19,8 @@
   "location": "Taipei, Taiwan",
   "city": "Taipei",
   "country": "Taiwan",
-  "longLat": "121.234958  / 25.079800",
-  "longitude": "121.234958 ",
+  "longLat": "121.234958 / 25.079800",
+  "longitude": "121.234958",
   "latitude": "25.079800",
   "team": [
     "Tadashi Arai",
@@ -123,7 +123,7 @@
     "Georgina Robledo",
     "Simon Tonks"
   ],
-  "overview": "<div><p>The design for Taoyuan Terminal 3 synthesises the practice’s previous major airport experience with the specific brief. It has brought together the flexibility of the single span, loose fit volume of Heathrow Terminal 5 with the warmth and human qualities of the flowing interior spaces of Barajas Terminal 4. The result is a unique, dynamic and fluid architecture that allows for easy adaption and future transformation of airport functions without compromising the passenger experience or the architectural integrity.</p><p>The RSHP proposal is inherently simple in its concept. The design is inspired by Taiwan’s beautiful landscapes, the seas surrounding it, its rhythms of nature and life to create a series of unique interior places designed for their purpose and protected beneath an elegant hard shell roof. Within, a soft inner surface is malleable and dynamic to celebrate and form the ever changing spaces below.</p><p>The nature of the interior spaces whether grand, intimate, uniform or dramatic and the extent of those spaces too can be changed. This adjustable scaling will give passengers spatial clarity in all areas; large, small, busy or quiet, to reduce stress and improve wellbeing and comfort. This flexibility ensures the airport is always at its best and suitably presented as the principal gateway to and from Taiwan to the rest of the world.</p><p>This terminal will be the first of a new generation, a highlight in the journey for new and seasoned travellers alike. It will offer arriving passengers an equality of spatial experience to those departing. Its rational plan arrangement is forecast to deliver minimum connection times of just 40 minutes, the best in the region, with simple way-finding and airside connectivity.</p></div>",
+  "overview": "<div><p>The design for Taoyuan Terminal 3 synthesises the practice’s previous major airport experience with the specific brief. It has brought together the flexibility of the single span, loose-fit volume of Heathrow Terminal 5 – the span for the unique banyan columns is 72m - with the warmth and human qualities of the flowing interior spaces of Barajas Terminal 4. The result is a unique, dynamic, and fluid architecture that allows for easy adaptation and future transformation of airport functions without compromising the passenger experience or the architectural integrity.</p><p>The RSHP proposal is inherently simple in its concept: the rolling roof is informed by the flight of migratory birds which use Taiwan as a vital midway resting point. This undulating, diaphanous space, with its light-scattering cloud ceiling, creates a range of interior spaces which can be grand, intimate, uniform, or dramatic and whose activities can be curated and changed over time. This adjustable scaling will give passengers spatial clarity in all areas: large, small, busy, or quiet, to reduce stress and improve wellbeing and comfort. This flexibility ensures the airport is always at its best and suitably presented as the principal gateway to and from Taiwan to the rest of the world.</p><p>T3 will be the first of a new generation, a highlight in the journey for new and seasoned travellers alike. It will offer arriving passengers an equality of spatial experience to those departing. Its rational plan arrangement is forecast to deliver minimum connection times of just 40 minutes, the best in the region, with simple wayfinding and airside connectivity.</p></div>",
   "dimensions": [
     {
       "label": "Gross Area",
