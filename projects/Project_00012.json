@@ -1,22 +1,28 @@
 {
+  "name": "IRCAM",
+  "url": "culture-and-leisure/ircam/",
+  "webStatus": "Publish",
+  "typologies": [
+    "Culture & Leisure"
+  ],
   "type": "Project",
   "id": "00012",
-  "url": "culture-and-leisure/ircam/",
-  "serializeDate": "'2022-06-27 15:39:34.917'",
-  "serialized": 1656344374917,
-  "serializedBy": "sreeve",
+  "serializeDate": "'2025-09-25 11:28:49.266'",
+  "serialized": 1758799729266,
+  "serializedBy": "heatherp",
+  "time": "2025-09-25T11:28:48.915983Z",
+  "status": "PU",
   "title": "IRCAM",
   "description": "The Centre Pompidou brings together the themes which have characterised Rogers’ architecture from the mid 1960s – skin and structure, technology and flexibility, movement and anti-monumentalism.",
   "date": "1971-1977",
   "client": "Ministére des Affaires Culturelles, Ministére de l’Education Nationale",
   "location": "Paris, France",
+  "city": "Paris",
+  "country": "France",
   "longLat": "2.3506263  / 48.8601633",
   "longitude": "2.3506263 ",
   "latitude": "48.8601633",
   "constructionCost": "£4,750,000",
-  "typologies": [
-    "Culture & Leisure"
-  ],
   "team": [
     "Mike Davies",
     "Alphons Oberhofer",
@@ -31,8 +37,7 @@
   "partners": [
     "Mike Davies"
   ],
-  "leaders": [],
-  "overview": "The <a href=\"https://www.rsh-p.com/manager/projects/education/lse-centre-building/\">Centre Pompidou</a> brings together the themes which have characterised Rogers’ architecture from the mid 1960s – skin and structure, technology and flexibility, movement and anti-monumentalism.\n\nThe building was envisaged as a cross between ‘an information-oriented computerised Times Square and the British Museum’, a democratic place for all people and the centrepiece of a regenerated quarter of the city.\n\nHalf of the total available site area was set aside as a public square which meant that the Centre had to be tall enough to accommodate 90,000 m² (one million ft2) of space. The decision to place structure and services on the outside was driven by the need for internal flexibility, as a result providing huge expanses of uninterrupted space on massive, open floors – the staggering scale of these internal spaces is free from the intrusion of services and stairs.\n\nThe structural system provided for a braced and exposed steel superstructure with reinforced concrete floors.\n\n\nExternal services give scale and detail to the façades, while celebration of movement and access is provided by lifts and escalators. The result is a highly expressive, strongly articulated building that has come to be seen as a Parisian landmark.\n\nYet the achievement at Beaubourg is urbanistic as much as architectural. The building and great public square were intended to revitalise an area of Paris that had been in decline. The neighbouring Marais district, now vibrant and multi-cultural, underlines the success of the Pompidou’s role as a catalyst for urban regeneration.\n\nThe Pompidou’s radicalism is still striking and has proved attractive to a vast public: more than seven million people visit the building every year. The building and its extraordinary contents remain as popular as ever, while crowds fill the square, clustering around musicians, acrobats and fire-eaters. Beaubourg – inside and out – remains as magnetic as ever.",
+  "overview": "<div><p>IRCAM (Institute for Research and Co-ordination in Acoustics and Music) was built as the domain of the presiding genius of modern French music, Pierre Boulez, and as a centre for leading-edge musical research and experimentation. Research is carried out by scientists and musicians into psycho-acoustics, electronics, computer science, artificial intelligence, neuro-psychology, linguistics and sociology, in addition to more traditional musical disciplines. Though open to the public, IRCAM did not easily fit within the Centre Pompidou. In particular, a high degree of sound insulation was necessary to eliminate external noise and permit a wide range of concerts and rehearsals to take place simultaneously. Flexibility of the spaces within the Centre was neither possible nor desirable. The result was that the Institute’s accommodation was created as a highly serviced subterranean building beneath the Place Igor Stravinsky next to Beaubourg. The concert halls and studios are approached via a ‘cascade’ of stairs which is the inversion of the escalators which crawl across the front of the Centre Pompidou.</p><p>IRCAM has four main departments: instrument and voice, electro-acoustics, computer, and general acoustics research and co-ordination, each with its own offices, labs and studios. The building is divided into compartments which house suspended studios and high performance inner acoustic shells, within which the main research and experimental activities take place. The choice of studio types with variable properties allows for a wide range of acoustic flexibility. The main product of the building – sound – can be  piped anywhere. Any combination of spaces, listeners and sound inputs can be linked together as one participatory unit, giving virtually total acoustic flexibility within the building. The main studio is a superbly-equipped experimental facility – suspended within the main structure and thus isolated from airborne sound and external vibrations. Measuring 18 metres in height, it can accommodate 400 people and is equipped with an acoustically variable, vertically mobile ceiling in three elements, programmable by computer</p></div>",
   "dimensions": [
     {
       "label": "Area",
@@ -76,7 +81,5 @@
       "value": "G L Francois",
       "id": "64c8ce9be81a4af194e3a32e25d81c93"
     }
-  ],
-  "awards": [],
-  "certificates": []
+  ]
 }
