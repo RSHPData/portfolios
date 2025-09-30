@@ -7,10 +7,10 @@
   ],
   "type": "Project",
   "id": "10460",
-  "serializeDate": "'2025-07-28 15:16:13.086'",
-  "serialized": 1753715773086,
+  "serializeDate": "'2025-09-30 14:47:16.390'",
+  "serialized": 1759243636390,
   "serializedBy": "heatherp",
-  "time": "2025-07-28T15:16:13.0391484Z",
+  "time": "2025-09-30T14:47:15.8794242Z",
   "status": "PU",
   "title": "Madrid Nuevo Norte, MNN",
   "description": "The objective of this ambitious project is to close a major split in the city where the railway alignment running north out of Madrid divides the city in two.",
@@ -25,7 +25,7 @@
   "constructionCost": "Construction Investment Estimate 6 Billion Euro",
   "team": [
     "Paz Armenta",
-    "Carlos Garcia Criado",
+    "Carlos García Criado",
     "Jaime Cunha",
     "Amparo Galvan",
     "Mark Gorton",
@@ -63,6 +63,11 @@
     }
   ],
   "companies": [
+    {
+      "label": "Co-Architect",
+      "value": "luis vidal + arquitectos",
+      "id": "5a3f4d6e79d14b9a9441bb382df4420f"
+    },
     {
       "label": "Services Engineer",
       "value": "BuroHappold Engineering",
