@@ -1,5 +1,15 @@
 [
   {
+    "projectId": "07119",
+    "project": "Richard Rogers: Talking Buildings / RSHP Architects in Dialogue",
+    "date": "2025",
+    "location": "London",
+    "country": "UK",
+    "client": "Sir John Soane's Museum",
+    "longLat": "-0.1174 / 51.5171",
+    "typology": "Culture & Leisure"
+  },
+  {
     "projectId": "13575",
     "project": "Zhongyuan International Convention Centre Phase 2",
     "date": "2024",
@@ -11,15 +21,15 @@
     "typology": "Culture & Leisure"
   },
   {
-    "projectId": "13045",
-    "project": "14A Konstitucijos Avenue",
-    "date": "2022",
-    "endDate": "under construction",
-    "location": "Vilnius",
-    "country": "Lithuania",
-    "client": "Lords LB Asset Management",
-    "longLat": "25.27787496394279 / 54.694386093658125",
-    "typology": "Office"
+    "projectId": "13400",
+    "project": "HEC Campus Saclay",
+    "date": "2023",
+    "endDate": "2025 (Unrealised)",
+    "location": "Paris",
+    "country": "France",
+    "client": "GSE",
+    "longLat": "2.1687 / 48.7572",
+    "typology": "Education"
   },
   {
     "projectId": "13150",
@@ -31,6 +41,39 @@
     "client": "Paris La Défense (PLD)",
     "longLat": "2.2402509269887805 / 48.887891300991484,",
     "typology": "Mixed Use"
+  },
+  {
+    "projectId": "13045",
+    "project": "Sąvaržėlė",
+    "date": "2022",
+    "endDate": "under construction",
+    "location": "Vilnius",
+    "country": "Lithuania",
+    "client": "Lords LB Asset Management",
+    "longLat": "25.27787496394279 / 54.694386093658125",
+    "typology": "Office"
+  },
+  {
+    "projectId": "12900",
+    "project": "Nanjing Yuhua",
+    "date": "2021",
+    "endDate": "",
+    "location": "Nanjing",
+    "country": "China",
+    "client": "China Resources Land",
+    "longLat": "118.7828 / 31.9704",
+    "typology": "Office"
+  },
+  {
+    "projectId": "12815",
+    "project": "Shenzhen Hong Kong Plaza",
+    "date": "2021",
+    "endDate": "ongoing",
+    "location": "Shenzhen",
+    "country": "China",
+    "client": "Shenzhen Qianhai Construction Investment Holding Group Co.,Ltd.",
+    "longLat": "113.906223 / 22.539689",
+    "typology": "Placemaking"
   },
   {
     "projectId": "12845",
@@ -112,7 +155,7 @@
     "projectId": "12005",
     "project": "Montparnasse Masterplan",
     "date": "2019",
-    "endDate": "ongoing",
+    "endDate": "2021",
     "location": "Paris",
     "country": "France",
     "client": "Ville de Paris",
@@ -171,6 +214,17 @@
     "client": "SPI Group",
     "longLat": "-85.5237484 / 37.8157008",
     "typology": "Culture & Leisure"
+  },
+  {
+    "projectId": "12135",
+    "project": "Bromley-by-Bow Gasworks",
+    "date": "2018",
+    "endDate": "ongoing",
+    "location": "London",
+    "country": "UK",
+    "client": "St William Homes LLP",
+    "longLat": "-0.003385 / 51.525386",
+    "typology": "Residential"
   },
   {
     "projectId": "50003",
@@ -327,7 +381,7 @@
     "projectId": "10460",
     "project": "Madrid Nuevo Norte, MNN",
     "date": "2017",
-    "endDate": "ongoing",
+    "endDate": "2020",
     "location": "Madrid",
     "country": "Spain",
     "client": "Distrito Castellana Norte (BBVA-San Jose)",
@@ -536,19 +590,8 @@
     "location": "Taipei",
     "country": "Taiwan",
     "client": "Taoyuan International Airport Corporation",
-    "longLat": "121.234958  / 25.079800",
+    "longLat": "121.234958 / 25.079800",
     "typology": "Transport"
-  },
-  {
-    "projectId": "10550",
-    "project": "Gare de Lyon",
-    "date": "2014",
-    "endDate": "ongoing",
-    "location": "Paris",
-    "country": "France",
-    "client": "Espaces Ferroviaires",
-    "longLat": "2.385568  / 48.841619",
-    "typology": "Masterplanning"
   },
   {
     "projectId": "10740",
@@ -559,6 +602,17 @@
     "client": "City of Helsinki / Solomon R Guggenheim Foundation",
     "longLat": "24.95552  / 60.16370",
     "typology": "Culture & Leisure"
+  },
+  {
+    "projectId": "10550",
+    "project": "Les Messageries",
+    "date": "2014",
+    "endDate": "ongoing",
+    "location": "Paris",
+    "country": "France",
+    "client": "Espaces Ferroviaires",
+    "longLat": "2.385568  / 48.841619",
+    "typology": "Masterplanning"
   },
   {
     "projectId": "10190",
@@ -849,7 +903,7 @@
     "projectId": "06070",
     "project": "St Lawrence Market North",
     "date": "2010",
-    "endDate": "under construction",
+    "endDate": "2025",
     "location": "Toronto",
     "country": "Canada",
     "client": "City of Toronto",
@@ -1075,13 +1129,24 @@
   },
   {
     "projectId": "04800",
+    "project": "The Berkeley Hotel",
+    "date": "2006",
+    "endDate": "2024",
+    "location": "London",
+    "country": "UK",
+    "client": "Maybourne Hotel Group",
+    "longLat": "-0.156033 / 51.502238",
+    "typology": "Culture & Leisure"
+  },
+  {
+    "projectId": "04801",
     "project": "The Berkeley Hotel Entrance",
     "date": "2006",
     "endDate": "2016",
     "location": "London",
     "country": "UK",
-    "client": "The Berkeley Hotel",
-    "longLat": "-0.156033  / 51.502238",
+    "client": "Maybourne Hotel Group",
+    "longLat": "-0.156259 / 51.501951",
     "typology": "Culture & Leisure"
   },
   {
@@ -1424,7 +1489,7 @@
     "location": "Barcelona",
     "country": "Spain",
     "client": "Hespería Hotels SA",
-    "longLat": "2.108951  / 41.34628",
+    "longLat": "2.108951 / 41.34628",
     "typology": "Culture & Leisure"
   },
   {
@@ -1747,8 +1812,8 @@
     "project": "Industrialised Housing",
     "date": "1990",
     "endDate": "1992",
-    "location": "Korea",
-    "country": "",
+    "location": "Seoul",
+    "country": "South Korea",
     "client": "Hanssem Corporation",
     "typology": "Residential"
   },
@@ -1789,7 +1854,7 @@
     "project": "Marseille Provence Airport",
     "date": "1989",
     "endDate": "1992",
-    "location": "Marseilles",
+    "location": "Marseille",
     "country": "France",
     "client": "Aéroport Marseille Provence",
     "longLat": "5.22181  / 43.44185",
@@ -1939,7 +2004,7 @@
   },
   {
     "projectId": "00200",
-    "project": "Inmos Microprocessor Factoryhh",
+    "project": "Inmos Microprocessor Factory",
     "date": "1982",
     "endDate": "1987",
     "location": "Gwent, Wales",
