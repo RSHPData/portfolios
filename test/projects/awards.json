@@ -1,5 +1,23 @@
 [
   {
+    "projectId": "06070",
+    "project": "St Lawrence Market North",
+    "year": "2025",
+    "award": "Award of Merit from the Canadian Institute of Steel Construction in the Institutional/industrial Project Category"
+  },
+  {
+    "projectId": "12115",
+    "project": "Qianhai SZHK Youth Innovation and Entrepreneur Hub, Northern District",
+    "year": "2025",
+    "award": "ARCASIA Award - Category E Integrated Development - Honorary Mention"
+  },
+  {
+    "projectId": "10890",
+    "project": "The Emory",
+    "year": "2025",
+    "award": "Wallpaper* Design Award: Best Suites"
+  },
+  {
     "projectId": "11690",
     "project": "Regent's View Bethnal Green",
     "year": "2024",
@@ -15,7 +33,13 @@
     "projectId": "10890",
     "project": "The Emory",
     "year": "2024",
-    "award": "Tatler magazine: ‘Best Hotel for Design and Style’"
+    "award": "Tatler magazine: Best Hotel for Design and Style"
+  },
+  {
+    "projectId": "12115",
+    "project": "Qianhai SZHK Youth Innovation and Entrepreneur Hub, Northern District",
+    "year": "2023",
+    "award": "Dezeen China Awards - Best Mixed-Use Project"
   },
   {
     "projectId": "06240",
@@ -171,7 +195,7 @@
     "projectId": "11490",
     "project": "Hammersmith & Fulham Civic Campus",
     "year": "2020",
-    "award": "NLA Finalist Mixing Catergory"
+    "award": "NLA Finalist Mixing Category"
   },
   {
     "projectId": "11490",
@@ -312,6 +336,12 @@
     "award": "CTBUH Award of Excellence in the 100-199m category"
   },
   {
+    "projectId": "01065",
+    "project": "Terminal 5, Heathrow Airport",
+    "year": "2019",
+    "award": "Skytrax World’s Best Terminal"
+  },
+  {
     "projectId": "06770",
     "project": "The Macallan Distillery and Visitor Experience",
     "year": "2019",
@@ -406,6 +436,12 @@
     "project": "SKYBEAM",
     "year": "2018",
     "award": "German Design Awards – Energy Category, Excellent Product Design"
+  },
+  {
+    "projectId": "01065",
+    "project": "Terminal 5, Heathrow Airport",
+    "year": "2018",
+    "award": "Skytrax World’s Best Terminal"
   },
   {
     "projectId": "03510",
@@ -516,6 +552,18 @@
     "award": "Royal Institute of British Architects (RIBA) Awards - London regional"
   },
   {
+    "projectId": "01065",
+    "project": "Terminal 5, Heathrow Airport",
+    "year": "2017",
+    "award": "Skytrax World’s Best Terminal"
+  },
+  {
+    "projectId": "04801",
+    "project": "The Berkeley Hotel Entrance",
+    "year": "2017",
+    "award": "AJ Retrofit Award - Shortlisted"
+  },
+  {
     "projectId": "03510",
     "project": "The Leadenhall Building",
     "year": "2017",
@@ -580,6 +628,12 @@
     "project": "PLACE / Ladywell",
     "year": "2016",
     "award": "NLA Best Temporary Building"
+  },
+  {
+    "projectId": "01065",
+    "project": "Terminal 5, Heathrow Airport",
+    "year": "2016",
+    "award": "Skytrax World’s Best Terminal"
   },
   {
     "projectId": "03510",
@@ -706,6 +760,12 @@
     "project": "NEO Bankside",
     "year": "2015",
     "award": "World Architecture News Residential Award - Shortlisted"
+  },
+  {
+    "projectId": "01065",
+    "project": "Terminal 5, Heathrow Airport",
+    "year": "2015",
+    "award": "Skytrax World’s Best Terminal"
   },
   {
     "projectId": "03510",
@@ -940,6 +1000,12 @@
     "project": "NEO Bankside",
     "year": "2012",
     "award": "Structural Steel Design Awards Commendation"
+  },
+  {
+    "projectId": "01065",
+    "project": "Terminal 5, Heathrow Airport",
+    "year": "2012",
+    "award": "Skytrax World’s Best Terminal"
   },
   {
     "projectId": "01455",
@@ -1185,6 +1251,24 @@
     "projectId": "01065",
     "project": "Terminal 5, Heathrow Airport",
     "year": "2008",
+    "award": "British Construction Awards - Highly Commended"
+  },
+  {
+    "projectId": "01065",
+    "project": "Terminal 5, Heathrow Airport",
+    "year": "2008",
+    "award": "Off Site Construction (OSC) Sustain Magazine"
+  },
+  {
+    "projectId": "01065",
+    "project": "Terminal 5, Heathrow Airport",
+    "year": "2008",
+    "award": "Off Site Construction Award - Best Commercial Project"
+  },
+  {
+    "projectId": "01065",
+    "project": "Terminal 5, Heathrow Airport",
+    "year": "2008",
     "award": "Off Site Construction Award - Best Commercial Project Off Site Construction (OSC)"
   },
   {
@@ -1209,6 +1293,12 @@
     "projectId": "01065",
     "project": "Terminal 5, Heathrow Airport",
     "year": "2008",
+    "award": "Structural Award for Commercial Structures, Institution of Structural Engineers (IStructE)"
+  },
+  {
+    "projectId": "01065",
+    "project": "Terminal 5, Heathrow Airport",
+    "year": "2008",
     "award": "Structural Steel Design Award"
   },
   {
@@ -1216,6 +1306,12 @@
     "project": "Terminal 5, Heathrow Airport",
     "year": "2008",
     "award": "Supreme Award for Structural Engineering Excellence Institution of Structural Engineers (IStructE)"
+  },
+  {
+    "projectId": "01065",
+    "project": "Terminal 5, Heathrow Airport",
+    "year": "2008",
+    "award": "Supreme Award for Structural Engineering Excellence, Institution of Structural Engineers (IStructE)"
   },
   {
     "projectId": "01065",
@@ -1537,19 +1633,19 @@
   },
   {
     "projectId": "00200",
-    "project": "Inmos Microprocessor Factoryhh",
+    "project": "Inmos Microprocessor Factory",
     "year": "1986",
     "award": "Constructa Preis for Overall Excellence in the Field of Architecture"
   },
   {
     "projectId": "00200",
-    "project": "Inmos Microprocessor Factoryhh",
+    "project": "Inmos Microprocessor Factory",
     "year": "1983",
     "award": "Eurostructpress Award"
   },
   {
     "projectId": "00200",
-    "project": "Inmos Microprocessor Factoryhh",
+    "project": "Inmos Microprocessor Factory",
     "year": "1983",
     "award": "Financial Times 'Architecture at Work' Award Commendation"
   },
@@ -1579,7 +1675,7 @@
   },
   {
     "projectId": "00200",
-    "project": "Inmos Microprocessor Factoryhh",
+    "project": "Inmos Microprocessor Factory",
     "year": "1982",
     "award": "The Structural Steel Design Award"
   },
