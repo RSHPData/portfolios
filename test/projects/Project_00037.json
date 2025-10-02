@@ -1,0 +1,42 @@
+{
+  "name": "Zip-Up House",
+  "url": "residential/zipup-house",
+  "webStatus": "Publish",
+  "typologies": [
+    "Residential"
+  ],
+  "type": "Project",
+  "id": "00037",
+  "serializeDate": "'2025-10-02 15:31:15.452'",
+  "serialized": 1759419075452,
+  "serializedBy": "sreeve",
+  "time": "2025-10-02T15:30:39.9839258Z",
+  "status": "PU",
+  "title": "ZipUp House",
+  "description": "Originally designed in response to a competition for innovation in domestic architecture, the Zip-Up House, and a later development of it, Zip-Up 2, were Rogers’ first speculative exploration of what a modern house could be like.",
+  "date": "1967-1969",
+  "client": "DuPont",
+  "longLat": "-1.117604  / 50.695374",
+  "longitude": "-1.117604 ",
+  "latitude": "50.695374",
+  "team": [
+    "Sally Appleby",
+    "John Doggart",
+    "Marco Goldschmeid",
+    "Richard Rogers",
+    "Su Rogers",
+    "John Young"
+  ],
+  "partners": [
+    "Richard Rogers"
+  ],
+  "overview": "<div><p>Originally designed in response to a competition for innovation in domestic architecture, the Zip-Up House, and a later development of it, Zip-Up 2, were Rogers’ first speculative exploration of what a modern house could be like, free of the constraints of traditional methods of construction. Though never fully realised, it was a model for the house that Rogers built for his parents in Wimbledon.</p><p>Following Charles and Ray Eames’ own house in California assembled in 1949 like a kit of parts from prefabricated components, the Zip-Up House would have been based on mass-produced parts. It was designed to use panels originally intended for refrigerated trucks. Its windows were made by automotive industry manufacturers for use in buses, sealed with neoprene zips.</p><p>It would have offered excellent insulation and rapid construction at low cost. Extending the house with extra modules would have been a simple process. The interior, with no fixed structural walls to contend with, would have been equally adaptable.</p><p>Running costs would also be minimised – the structural panels giving insulation value seven times that of a traditional house of the 1970s so that a three bedroom house could be heated by no more than a three-kilowatt heater.</p></div>",
+  "dimensions": [],
+  "companies": [
+    {
+      "label": "Architect",
+      "value": "Richard + Su Rogers",
+      "id": "f487de867e8f4d0f996a9e66f0851ac0"
+    }
+  ]
+}
