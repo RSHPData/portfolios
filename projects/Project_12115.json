@@ -7,10 +7,10 @@
   ],
   "type": "Project",
   "id": "12115",
-  "serializeDate": "'2025-02-19 18:01:19.819'",
-  "serialized": 1739988079819,
+  "serializeDate": "'2025-10-06 17:57:02.153'",
+  "serialized": 1759773422153,
   "serializedBy": "heatherp",
-  "time": "2025-02-19T18:01:18.8829921Z",
+  "time": "2025-10-06T17:57:01.5803259Z",
   "status": "PU",
   "title": "Qianhai SZHK Youth Innovation and Entrepreneur Hub, Northern District",
   "date": "2018 - 2023",
@@ -117,6 +117,13 @@
       "year": "2023",
       "award": "Dezeen China Awards - Best Mixed-Use Project",
       "rowId": "8ba4688bdf384659bf957d974c10077a"
+    }
+  ],
+  "certificates": [
+    {
+      "authority": "BEAM Plus",
+      "rating": "Excellent in Management and Energy Use",
+      "rowId": "156b579c1f4c40a687b117fccddab742"
     }
   ]
 }
