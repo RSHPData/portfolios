@@ -7,10 +7,10 @@
   ],
   "type": "Project",
   "id": "10750",
-  "serializeDate": "'2023-02-15 16:00:47.520'",
-  "serialized": 1676476847520,
+  "serializeDate": "'2025-10-06 18:02:24.422'",
+  "serialized": 1759773744422,
   "serializedBy": "heatherp",
-  "time": "2023-02-15T16:00:47.5020774Z",
+  "time": "2025-10-06T18:02:24.3980435Z",
   "status": "PU",
   "title": "Qiantan Shanghai Pudong",
   "description": "Qiantan Shanghai Pudong is situated within the Qiantan District in Pudong, Shanghai, fronting the Huangpu River.",
@@ -116,6 +116,18 @@
       "label": "Steelwork Contractor",
       "value": "Shanghai Mechanized Construction Corporation",
       "id": "9fbdcebd4a2b4e45befa67b81312dca9"
+    }
+  ],
+  "certificates": [
+    {
+      "authority": "BREEAM",
+      "rating": "Very Good",
+      "rowId": "85f94f44c66a49e1ae6ea5951895ee39"
+    },
+    {
+      "authority": "China Green Building",
+      "rating": "2-star",
+      "rowId": "166f6b9b02b44abf909cc557b7613b76"
     }
   ]
 }
