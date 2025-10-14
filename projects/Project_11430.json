@@ -7,13 +7,12 @@
   ],
   "type": "Project",
   "id": "11430",
-  "serializeDate": "'2024-02-02 17:49:30.661'",
-  "serialized": 1706896170661,
+  "serializeDate": "'2025-10-14 12:01:29.620'",
+  "serialized": 1760443289620,
   "serializedBy": "heatherp",
-  "time": "2024-02-02T17:49:30.6457441Z",
+  "time": "2025-10-14T12:01:29.2975965Z",
   "status": "PU",
   "title": "Parcs en Scène, Thiais",
-  "description": "The Parcs en Scène project is a mixed-use masterplan and development located on a challenging site near Orly Airport in Paris.",
   "date": "2017 - ongoing",
   "client": "Linkcity, Ile-de-France SAS",
   "location": "Paris, France",
@@ -39,8 +38,7 @@
     "Alejandro Terron and Helene Van Zon"
   ],
   "partners": [
-    "Stephen Barrett",
-    "Lennart Grut"
+    "Stephen Barrett"
   ],
   "leaders": [
     "Stephen Barrett"
@@ -49,7 +47,7 @@
   "dimensions": [
     {
       "label": "Site Area",
-      "value": "300 000 m²",
+      "value": "15 Ha",
       "id": "b1a95c526fb24bd39c1595ddf874f284"
     }
   ],
