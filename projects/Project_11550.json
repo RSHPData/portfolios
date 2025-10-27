@@ -7,10 +7,10 @@
   ],
   "type": "Project",
   "id": "11550",
-  "serializeDate": "'2025-09-08 16:17:33.178'",
-  "serialized": 1757348253178,
-  "serializedBy": "heatherp",
-  "time": "2025-09-08T16:17:32.6911153Z",
+  "serializeDate": "'2025-10-27 16:26:33.949'",
+  "serialized": 1761582393949,
+  "serializedBy": "jonm",
+  "time": "2025-10-27T16:26:33.6026424Z",
   "status": "PU",
   "title": "Metro Tunnel Project",
   "description": "The Metro Tunnel Project in Melbourne is building twin nine-kilometre tunnels and five new underground stations.",
@@ -76,8 +76,6 @@
     "Lennart Grut"
   ],
   "leaders": [
-    "Ivan Harbour",
-    "Lennart Grut",
     "Avtar Lotay",
     "Paul Thompson"
   ],
