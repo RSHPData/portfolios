@@ -7,10 +7,10 @@
   ],
   "type": "Project",
   "id": "06110",
-  "serializeDate": "'2025-10-31 11:56:10.215'",
-  "serialized": 1761911770215,
+  "serializeDate": "'2025-10-31 13:02:52.277'",
+  "serialized": 1761915772277,
   "serializedBy": "heatherp",
-  "time": "2025-10-31T11:56:09.7853154Z",
+  "time": "2025-10-31T13:02:52.2431921Z",
   "status": "PU",
   "title": "Barangaroo South Masterplan",
   "date": "2009 - 2015",
@@ -55,7 +55,7 @@
   "dimensions": [
     {
       "label": "Site Area",
-      "value": "22 ha (of which 6 hectares will be developed for commercial, residential, hotel, cultural and transport uses)",
+      "value": "22 ha (of which 6 hectares developed for commercial, residential, hotel, cultural and transport uses)",
       "id": "fa747118d1b441f087cea30791cc3151"
     }
   ],
@@ -74,6 +74,13 @@
       "label": "Landscape Architect",
       "value": "Gustafson Guthrie Nichol (GGN)",
       "id": "ef103942c2974354b7b5f335fce3c16c"
+    }
+  ],
+  "certificates": [
+    {
+      "authority": "Commonwealth Government's Climate Active program",
+      "rating": "Australia’s first carbon-neutral precinct",
+      "rowId": "ee638332d2b7430c860ae35f7f1fffcb"
     }
   ]
 }
