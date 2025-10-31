@@ -7,10 +7,10 @@
   ],
   "type": "Project",
   "id": "06110",
-  "serializeDate": "'2025-10-31 13:02:52.277'",
-  "serialized": 1761915772277,
+  "serializeDate": "'2025-10-31 14:07:29.805'",
+  "serialized": 1761919649805,
   "serializedBy": "heatherp",
-  "time": "2025-10-31T13:02:52.2431921Z",
+  "time": "2025-10-31T14:07:29.7654606Z",
   "status": "PU",
   "title": "Barangaroo South Masterplan",
   "date": "2009 - 2015",
@@ -81,6 +81,16 @@
       "authority": "Commonwealth Government's Climate Active program",
       "rating": "Australia’s first carbon-neutral precinct",
       "rowId": "ee638332d2b7430c860ae35f7f1fffcb"
+    },
+    {
+      "authority": "Green Building Council of Australia",
+      "rating": "6 Star Green Star rating  for all three towers",
+      "rowId": "c2a0f15ed7cc4e9cb8c1025221a4eed6"
+    },
+    {
+      "authority": "WELL",
+      "rating": "Platinum level for all three towers",
+      "rowId": "60cca9bfce1d4773a5a1c61726c4cf9b"
     }
   ]
 }
