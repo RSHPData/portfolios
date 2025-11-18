@@ -7,10 +7,10 @@
   ],
   "type": "Project",
   "id": "06110",
-  "serializeDate": "'2025-10-31 14:07:29.805'",
-  "serialized": 1761919649805,
+  "serializeDate": "'2025-11-18 14:26:18.092'",
+  "serialized": 1763475978092,
   "serializedBy": "heatherp",
-  "time": "2025-10-31T14:07:29.7654606Z",
+  "time": "2025-11-18T14:26:17.7389932Z",
   "status": "PU",
   "title": "Barangaroo South Masterplan",
   "date": "2009 - 2015",
@@ -74,6 +74,11 @@
       "label": "Landscape Architect",
       "value": "Gustafson Guthrie Nichol (GGN)",
       "id": "ef103942c2974354b7b5f335fce3c16c"
+    },
+    {
+      "label": "Lighting consultant",
+      "value": "Speirs Major",
+      "id": "e0c4a30bbe714d59aa0cbd8c6c780ca9"
     }
   ],
   "certificates": [
