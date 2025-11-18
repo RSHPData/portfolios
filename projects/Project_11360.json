@@ -7,10 +7,10 @@
   ],
   "type": "Project",
   "id": "11360",
-  "serializeDate": "'2024-11-04 16:56:44.449'",
-  "serialized": 1730739404449,
+  "serializeDate": "'2025-11-18 14:30:08.175'",
+  "serialized": 1763476208175,
   "serializedBy": "heatherp",
-  "time": "2024-11-04T16:56:44.3873551Z",
+  "time": "2025-11-18T14:30:08.1386555Z",
   "status": "PU",
   "title": "International Towers Sydney",
   "description": "The towers are conceived as three sibling buildings within the RSHP masterplan for Barangaroo South, each with their own identity.",
@@ -140,6 +140,11 @@
       "label": "Contractor",
       "value": "Lendlease",
       "id": "37710e0b94234cfb91a56c35c7f69cd1"
+    },
+    {
+      "label": "Lighting Consultant",
+      "value": "Speirs Major",
+      "id": "7d225aa0c267434488dcd0a14a6709f2"
     }
   ],
   "awards": [
