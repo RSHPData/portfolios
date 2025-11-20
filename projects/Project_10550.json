@@ -7,10 +7,10 @@
   ],
   "type": "Project",
   "id": "10550",
-  "serializeDate": "'2025-03-05 15:21:30.694'",
-  "serialized": 1741188090694,
+  "serializeDate": "'2025-11-20 11:16:53.976'",
+  "serialized": 1763637413976,
   "serializedBy": "heatherp",
-  "time": "2025-03-05T15:21:30.5544634Z",
+  "time": "2025-11-20T11:16:53.6430041Z",
   "status": "PU",
   "title": "Les Messageries",
   "description": "Located in the 12th district of Paris near the town hall, along the Gare de Lyon station and the Bercy railway station, the Gare de Lyon - Daumesnil sector is bounded by the streets of Rambouillet-Charolais, Boulevard de Bercy, and the major railway artery serving the station.",
@@ -82,6 +82,14 @@
       "label": "Sustainability Consultant",
       "value": "Frank Boutté Consultants",
       "id": "447965254d0442f099ff5702e4fb7245"
+    }
+  ],
+  "awards": [
+    {
+      "date": "2025-11-20",
+      "year": "2025",
+      "award": "Journal du Grand Paris Architecture Category: Low Carbon Grand Prize",
+      "rowId": "84f706c461cb40c0a0c26c59526c58e2"
     }
   ]
 }
