@@ -7,10 +7,10 @@
   ],
   "type": "Project",
   "id": "12115",
-  "serializeDate": "'2025-10-06 17:57:02.153'",
-  "serialized": 1759773422153,
+  "serializeDate": "'2025-11-24 09:54:53.416'",
+  "serialized": 1763978093416,
   "serializedBy": "heatherp",
-  "time": "2025-10-06T17:57:01.5803259Z",
+  "time": "2025-11-24T09:54:53.0431476Z",
   "status": "PU",
   "title": "Qianhai SZHK Youth Innovation and Entrepreneur Hub, Northern District",
   "date": "2018 - 2023",
@@ -49,9 +49,15 @@
     "Harjinder Singh",
     "Francis Yuen"
   ],
+  "heights": [
+    {
+      "value": "All buildings: 24m in height except for the Cultural Landmark Building: 47.6m",
+      "id": "6fc363a731a549b6b1f15eba22873afc"
+    }
+  ],
   "floors": [
     {
-      "value": "Typically 6. Landmark Building 8",
+      "value": "Typically 6. Cultural Landmark Building: 8",
       "id": "70A5D37D86F64596B5D32C"
     }
   ],
