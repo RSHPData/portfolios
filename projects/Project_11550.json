@@ -7,10 +7,10 @@
   ],
   "type": "Project",
   "id": "11550",
-  "serializeDate": "'2025-11-28 18:19:08.379'",
-  "serialized": 1764353948379,
+  "serializeDate": "'2025-11-28 18:42:43.651'",
+  "serialized": 1764355363651,
   "serializedBy": "heatherp",
-  "time": "2025-11-28T18:19:08.3478359Z",
+  "time": "2025-11-28T18:42:43.6202417Z",
   "status": "PU",
   "title": "Metro Tunnel Project",
   "description": "The Metro Tunnel Project in Melbourne is building twin nine-kilometre tunnels and five new underground stations.",
@@ -106,7 +106,7 @@
     },
     {
       "label": "Lighting Consultant",
-      "value": "Speirs Major",
+      "value": "SpeirsMajor",
       "id": "02082d08e5874eb5bd8329c4928e1e12"
     }
   ],
