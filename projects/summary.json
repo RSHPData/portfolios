@@ -32,6 +32,17 @@
     "typology": "Education"
   },
   {
+    "projectId": "13230",
+    "project": "Peninsula Dubai",
+    "date": "2023",
+    "endDate": "",
+    "location": "Dubai",
+    "country": "United Arab Emirates",
+    "client": "Dubai Peninsula LLC",
+    "longLat": "55.2332 / 25.19830",
+    "typology": "Mixed Use"
+  },
+  {
     "projectId": "13150",
     "project": "PLD Jean Moulin",
     "date": "2022",
