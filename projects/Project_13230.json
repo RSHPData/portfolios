@@ -1,13 +1,16 @@
 {
   "name": "Peninsula Dubai",
   "url": "residential/peninsula-dubai",
-  "webStatus": "Upload",
+  "webStatus": "Publish",
+  "typologies": [
+    "Mixed Use"
+  ],
   "type": "Project",
   "id": "13230",
-  "serializeDate": "'2025-04-16 15:36:23.799'",
-  "serialized": 1744817783799,
+  "serializeDate": "'2025-12-09 16:31:57.437'",
+  "serialized": 1765297917437,
   "serializedBy": "heatherp",
-  "time": "2025-04-16T15:36:23.7690921Z",
+  "time": "2025-12-09T16:31:57.3969478Z",
   "status": "PU",
   "title": "Peninsula Dubai",
   "date": "2023 -",
@@ -15,11 +18,16 @@
   "location": "Dubai, United Arab Emirates",
   "city": "Dubai",
   "country": "United Arab Emirates",
+  "longLat": "55.2332 / 25.19830",
+  "longitude": "55.2332",
+  "latitude": "25.19830",
   "team": [
     "Jadene Aguilar",
+    "Tadashi Arai",
     "Giulio Asso",
     "Alexander Balchin",
     "Richard Black",
+    "Alicia Caro",
     "Jaime Cunha",
     "Luca D'Amico",
     "Kelly Darlington",
@@ -27,28 +35,35 @@
     "Valentina Frieri",
     "Harry Groom",
     "Lennart Grut",
+    "Will Handyside",
     "Ed Hiscock",
     "Janos Katona",
+    "Sam Ki",
+    "Vero Li",
     "Lucas Wei Zeng Ler",
     "Iaia Loppi",
     "Mohamed Mansour",
-    "Vincenzo Massa",
+    "Dominik Mrozinski",
+    "Pinelopi Papadimitraki",
     "Richard Paul",
-    "Shuo Qian",
     "Callum Richardson",
     "Dan Rogers",
-    "Joe Russell",
     "Andra Samiș",
     "Harjinder Singh",
+    "Liubov Subbotina",
     "Richard Sullivan-Paul",
-    "Marco Tessaro"
+    "Stephy Sum-ying to",
+    "Marco Tessaro",
+    "Angela Vassis",
+    "Tommy Wong"
   ],
   "partners": [
     "Richard Paul"
   ],
   "leaders": [
-    "Marco Tessaro",
-    "Richard Black"
+    "Tadashi Arai",
+    "Richard Black",
+    "Marco Tessaro"
   ],
   "floors": [
     {
@@ -76,27 +91,22 @@
     },
     {
       "label": "Residential Area",
-      "value": "125,522m² / 182 units",
+      "value": "66,900m² / 168 units",
       "id": "67e2dce34cf44873b8945be70be00e71"
     },
     {
       "label": "Hotel Area",
-      "value": "26,547m² / 182 keys",
+      "value": "26,150m² / 182 keys",
       "id": "1c65bb2024a5456bb98289bacd6f2f1e"
     },
     {
-      "label": "Serviced Apartments Area",
-      "value": "8,430m² / 23 units",
-      "id": "690ca70b344746a3b501fb63e5409040"
-    },
-    {
       "label": "Branded Residential Area",
-      "value": "16,860m² / 36 units",
+      "value": "22,250m² / 63 units",
       "id": "7fe083e1f0fd4d4ba8c607ab02c4c15a"
     },
     {
       "label": "Retail / F&B:",
-      "value": "10,109m²",
+      "value": "10,200m²",
       "id": "44ceeda6256947ee8af7708b624523e5"
     }
   ],
