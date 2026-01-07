@@ -7,10 +7,10 @@
   ],
   "type": "Project",
   "id": "11270",
-  "serializeDate": "'2024-04-11 13:08:22.403'",
-  "serialized": 1712840902403,
+  "serializeDate": "'2026-01-07 16:10:40.665'",
+  "serialized": 1767802240665,
   "serializedBy": "heatherp",
-  "time": "2024-04-11T13:08:22.1039432Z",
+  "time": "2026-01-07T16:10:40.2628905Z",
   "status": "PU",
   "title": "Oriental One",
   "description": "Oriental One is a mixed-use development that combines places to live with a range of social spaces creating a new lively contemporary mixed-use destination in Shanghai, adding to the city’s dramatic skyline.",
@@ -95,6 +95,14 @@
       "label": "Contractor - Curtain Wall",
       "value": "Fangda",
       "id": "0a3f2d876895480981bbb2fcb7a16b6a"
+    }
+  ],
+  "awards": [
+    {
+      "date": "2025-10-01",
+      "year": "2025",
+      "award": "China Engineering Survey and Design Association: 1st prize - National Award for Excellence in Engineering Survey and Design",
+      "rowId": "087dd7c0af4448c0bad6688d93b7bbac"
     }
   ]
 }
