@@ -1,21 +1,27 @@
 {
-  "type": "Project",
-  "id": "02216",
+  "name": "ParcBIT 2",
   "url": "masterplanning/parcbit",
-  "serializeDate": "'2022-06-27 15:40:03.963'",
-  "serialized": 1656344403963,
-  "serializedBy": "sreeve",
-  "title": "ParcBIT",
-  "description": "Parc Balearic Information Technology (ParcBIT) is an initiative by the Balearic Government, as part of the ExpoCities Project under the European Union Thermie Programme, to generate a new approach to living and working environments.",
-  "date": "1994-1999",
-  "client": "Ministry of Economic Development for the Balearics Region",
-  "location": "Mallorca, Spain",
-  "longLat": "2.650666  / 39.587077",
-  "longitude": "2.650666 ",
-  "latitude": "39.587077",
+  "webStatus": "Publish",
   "typologies": [
     "Masterplanning"
   ],
+  "type": "Project",
+  "id": "02216",
+  "serializeDate": "'2026-01-08 14:51:50.789'",
+  "serialized": 1767883910789,
+  "serializedBy": "heatherp",
+  "time": "2026-01-08T14:51:50.764241Z",
+  "status": "PU",
+  "title": "ParcBIT",
+  "description": "Parc Balearic Information Technology (ParcBIT) is an initiative by the Balearic Government, as part of the ExpoCities Project under the European Union Thermie Programme, to generate a new approach to living and working environments.",
+  "date": "1994 - 1999",
+  "client": "Ministry of Economic Development for the Balearics Region",
+  "location": "Mallorca, Spain",
+  "city": "Mallorca",
+  "country": "Spain",
+  "longLat": "2.650666  / 39.587077",
+  "longitude": "2.650666 ",
+  "latitude": "39.587077",
   "team": [
     "Andy Bryce",
     "Lennart Grut",
@@ -26,9 +32,14 @@
   "partners": [
     "Simon Smithson"
   ],
-  "leaders": [],
-  "overview": "Parc Balearic Information Technology (ParcBIT) is an initiative by the Balearic Government, as part of the ExpoCities Project under the European Union Thermie Programme, to generate a new approach to living and working environments.\n\nDrivers of the scheme are the provision of leading edge telecommunications links, a modern, sustainable and efficient infrastructure, and a high quality built environment.\n\nAfter winning an international competition in 1994, the practice was commissioned to plan a mixed use live/work community for some 5,000 inhabitants on a site that lies 12 kilometres north of Palma. Located on agricultural land next to Mallorca’s university campus, ParcBIT, is bounded to the east and west by development but by open country to the north. An existing Finca (farm house) which is preserved in the new plan is sited on the prow of the ridge in the centre of the site, between two torrent valleys which take water run-off from the mountains to the sea.\n\n\nResponding to the client’s manifesto, the proposal is highly sustainable, implementing systems that balance the cycle of supply and demand within the community. The scheme can also be ‘read’ as a physical manifestation of the age of telematics – ParcBit recognises that work location is no longer defined by historic centres of occupation but will increasingly be determined by key issues such as the quality of life and the environment. The scheme is deferential to the existing terrain, recognising that landscape is the collective memory of a culture. The new development complements rather than compromises the landscape and its local ecology – the existing topography has played a significant role in the definition of built form and circulation patterns, with buildings located on the terraces which wrap around the Finca and the ridge, following the contours of the land. In addition the scheme gives clear priority to a pedestrian environment, with parking contained at the perimeter of the site.\n\n\nParcBIT reduces water use while providing a landscape which benefits both people and local ecology – tertiary treated water is used for irrigation. The masterplan’s energy system ensures a high level of comfort in buildings while minimising environmental impact and carbon dioxide emissions. It does this through a high-efficiency central CHCP plant which incorporates an innovative approach to the integration of renewable solar energy.",
-  "dimensions": [],
+  "overview": "<div><p>Parc Balearic Information Technology (ParcBIT) is an initiative by the Balearic Government, as part of the ExpoCities Project under the European Union Thermie Programme, to generate a new approach to living and working environments.</p><p>Drivers of the scheme are the provision of leading edge telecommunications links, a modern, sustainable and efficient infrastructure, and a high quality built environment.</p><p>After winning an international competition in 1994, the practice was commissioned to plan a mixed use live/work community for some 5,000 inhabitants on a site that lies 12 kilometres north of Palma. Located on agricultural land next to Mallorca’s university campus, ParcBIT, is bounded to the east and west by development but by open country to the north. An existing Finca (farm house) which is preserved in the new plan is sited on the prow of the ridge in the centre of the site, between two torrent valleys which take water run-off from the mountains to the sea.</p><p>Responding to the client’s manifesto, the proposal is highly sustainable, implementing systems that balance the cycle of supply and demand within the community. The scheme can also be ‘read’ as a physical manifestation of the age of telematics – ParcBit recognises that work location is no longer defined by historic centres of occupation but will increasingly be determined by key issues such as the quality of life and the environment. The scheme is deferential to the existing terrain, recognising that landscape is the collective memory of a culture. The new development complements rather than compromises the landscape and its local ecology – the existing topography has played a significant role in the definition of built form and circulation patterns, with buildings located on the terraces which wrap around the Finca and the ridge, following the contours of the land. In addition the scheme gives clear priority to a pedestrian environment, with parking contained at the perimeter of the site.</p><p>ParcBIT reduces water use while providing a landscape which benefits both people and local ecology – tertiary treated water is used for irrigation. The masterplan’s energy system ensures a high level of comfort in buildings while minimising environmental impact and carbon dioxide emissions. It does this through a high-efficiency central CHCP plant which incorporates an innovative approach to the integration of renewable solar energy.</p></div>",
+  "dimensions": [
+    {
+      "label": "Area",
+      "value": "44 hectares",
+      "id": "101c85a1b40240e2bb1f99ecadb548a1"
+    }
+  ],
   "companies": [
     {
       "label": "Services Engineer",
@@ -65,7 +76,5 @@
       "value": "Ove Arup & Partners",
       "id": "bc1c360dd6be49c4b1218c350e942c68"
     }
-  ],
-  "awards": [],
-  "certificates": []
+  ]
 }
