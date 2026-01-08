@@ -1,21 +1,27 @@
 {
+  "name": "Convoys Wharf",
+  "url": "masterplanning/convoys-wharf",
+  "webStatus": "Publish",
+  "typologies": [
+    "Masterplanning"
+  ],
   "type": "Project",
   "id": "03600",
-  "url": "masterplanning/convoys-wharf",
-  "serializeDate": "'2022-06-27 15:40:17.530'",
-  "serialized": 1656344417530,
-  "serializedBy": "sreeve",
+  "serializeDate": "'2026-01-08 14:40:09.302'",
+  "serialized": 1767883209302,
+  "serializedBy": "heatherp",
+  "time": "2026-01-08T14:40:09.2511224Z",
+  "status": "PU",
   "title": "Convoys Wharf",
   "description": "This masterplan envisages the site in south east London as a destination along the River Thames. As the Thames finds a new role in the economic and social life of the city, there is the potential for Convoys Wharf to establish itself as one of the key destinations along the river.",
   "date": "2002",
   "client": "News International plc",
   "location": "London, UK",
+  "city": "London",
+  "country": "UK",
   "longLat": "-0.0391989  / 51.4865061",
   "longitude": "-0.0391989 ",
   "latitude": "51.4865061",
-  "typologies": [
-    "Masterplanning"
-  ],
   "team": [
     "Joveria Baig",
     "Mark Darbon",
@@ -24,15 +30,20 @@
     "Toby Jeavons",
     "Tracy Meller",
     "Jon Mercer",
-    "Georgina Robledon",
+    "Georgina Robledo Padilla",
     "Carl Smith"
   ],
   "partners": [
     "Andrew Morris"
   ],
-  "leaders": [],
-  "overview": "This masterplan envisages the site in south east London as a destination along the River Thames. As the Thames finds a new role in the economic and social life of the city, there is the potential for Convoys Wharf to establish itself as one of the key destinations along the river, the aspiration being a new cultural quarter centred on the Olympia Warehouse and the historic basin of ‘Kings Yard’.\n\nThe unlocking of the riverside and the connection to Deptford High Street form the cornerstone of the design concept, directly linking the heart of the area to the riverside and creating a strong sense of identity as well as a central focus for cultural and social amenities. Convoys Wharf will become a new mixed-use neighbourhood balancing employment, culture, residential, educational, retail and leisure uses.\n\n\nEmployment is a key factor in creating a vibrant mixed community. River-based job opportunities which historically existed on the site have evaporated with the changes in river-based industrial processes. The reinvigoration of the Thames as a working river, new riverside recycling and manufacturing processes, the creation of a new cultural area, provision for small businesses and for retail, leisure and community facilities will generate a wide range of employment. A mixed residential population is envisaged – key workers, shared ownership, rented accommodation, small and large family units – all combining to produce a thriving well-balanced community.\n\n\nEmphasis on the public realm is key to this masterplan which is designed to be highly accessible and ‘permeable’. The new public space at the heart of the masterplan will be the nucleus for all new routes. All public activities will benefit from this natural focus point, resulting in a strong link between the northern and southern parts of Deptford for the first time in over 50 years.",
-  "dimensions": [],
+  "overview": "<div><p>This masterplan envisages the site in south east London as a destination along the River Thames. As the Thames finds a new role in the economic and social life of the city, there is the potential for Convoys Wharf to establish itself as one of the key destinations along the river, the aspiration being a new cultural quarter centred on the Olympia Warehouse and the historic basin of ‘Kings Yard’.</p><p>The unlocking of the riverside and the connection to Deptford High Street form the cornerstone of the design concept, directly linking the heart of the area to the riverside and creating a strong sense of identity as well as a central focus for cultural and social amenities. Convoys Wharf will become a new mixed-use neighbourhood balancing employment, culture, residential, educational, retail and leisure uses.</p><p>Employment is a key factor in creating a vibrant mixed community. River-based job opportunities which historically existed on the site have evaporated with the changes in river-based industrial processes. The reinvigoration of the Thames as a working river, new riverside recycling and manufacturing processes, the creation of a new cultural area, provision for small businesses and for retail, leisure and community facilities will generate a wide range of employment. A mixed residential population is envisaged – key workers, shared ownership, rented accommodation, small and large family units – all combining to produce a thriving well-balanced community.</p><p>Emphasis on the public realm is key to this masterplan which is designed to be highly accessible and ‘permeable’. The new public space at the heart of the masterplan will be the nucleus for all new routes. All public activities will benefit from this natural focus point, resulting in a strong link between the northern and southern parts of Deptford for the first time in over 50 years.</p></div>",
+  "dimensions": [
+    {
+      "label": "Area",
+      "value": "16 hectares",
+      "id": "b18fba8e2e51430cbcb2bb14cd828a9c"
+    }
+  ],
   "companies": [
     {
       "label": "Civil Engineer",
@@ -64,7 +75,5 @@
       "value": "Faithful & Gould",
       "id": "b4661084970f45d487aede040e86644a"
     }
-  ],
-  "awards": [],
-  "certificates": []
+  ]
 }
