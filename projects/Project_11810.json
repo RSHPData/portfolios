@@ -6,10 +6,10 @@
   ],
   "type": "Project",
   "id": "11810",
-  "serializeDate": "'2024-02-02 17:41:33.231'",
-  "serialized": 1706895693231,
+  "serializeDate": "'2026-01-08 14:54:48.629'",
+  "serialized": 1767884088629,
   "serializedBy": "heatherp",
-  "time": "2024-02-02T17:41:33.2159525Z",
+  "time": "2026-01-08T14:54:48.5954014Z",
   "status": "PU",
   "title": "Grand Marnier Visitor Centre",
   "date": "2018 - 21 - Unrealised",
@@ -46,7 +46,13 @@
     "Toby Jeavons"
   ],
   "overview": "<div style =\"break-inside:avoid-column;\"><p>RSHP was commissioned by Campari to design a unique visitor centre for Grand Marnier at the brand’s 16th-century chateau in a listed natural site in the Cognac region. Our proposal was a holistic VIP guest experience, which encompassed a brand exhibition, tasting bar, hospitality suites and amenities aimed at hosting a discerning clientele.</p><p style='margin-bottom:22px'>To preserve the exceptional views of the chateau and the natural beauty of its setting beyond, the scheme integrates the new facilities into the hidden voids of the estate’s existing dry moat and walled gardens.</p></div><div style =\"break-inside:avoid-column;margin-top:22px\"><p>The use of these “found” volumes exploits the topography of the site, celebrating the unique history of the chateau, and in revealing the geology of the site, referencing the Grand Marnier terroir.</p><p>This strategy not only provided the means by which a contemporary architectural intervention could be discreetly introduced into a sensitive historical context, but there were a number of notable environmental benefits to this approach; an economy of means and materials, optimizing thermal inertia whilst also providing solar and wind protection.</p><p style='margin-bottom:22px'>The moat thus provides a unique opportunity to experience the chateau’s unique topography as part of a connected journey of discovery, a “Cordon Rouge” loop, linking the new sunken visitor centre and bar-restaurant, the gardens and chateau.</p></div><div style =\"break-inside:avoid-column;margin-top:22px\"><p>The visitor centre’s glass roof functions conceptually as if it were water within the moat, reflecting the chateau and hinting at the activity beneath its rippled surface. This also allows for views from within its hidden spaces back towards the chateau.</p><p>RSHP’s discreet contemporary intervention is bold and dynamic, whilst also respectful of a many-layered historical setting. The proposal engages with this legacy, the established traditions of a great cognac, whilst introducing a modern twist. The design thus reflects the revitalized identity Grand Marnier sought to establish for the brand with the design of this new visitor centre.</p></div>",
-  "dimensions": [],
+  "dimensions": [
+    {
+      "label": "Area",
+      "value": "2,000 m²",
+      "id": "cc1d762170504510ac230f3b813522ee"
+    }
+  ],
   "companies": [
     {
       "label": "Contact",
