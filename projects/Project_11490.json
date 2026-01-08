@@ -7,10 +7,10 @@
   ],
   "type": "Project",
   "id": "11490",
-  "serializeDate": "'2025-07-18 08:58:30.981'",
-  "serialized": 1752829110981,
+  "serializeDate": "'2026-01-08 14:32:08.775'",
+  "serialized": 1767882728775,
   "serializedBy": "heatherp",
-  "time": "2025-07-18T08:58:30.9506894Z",
+  "time": "2026-01-08T14:32:08.3509875Z",
   "status": "PU",
   "title": "Hammersmith & Fulham Civic Campus",
   "description": "RSHP has designed a new, high-quality Civic Campus to replace the existing Hammersmith & Fulham Town Hall extension and the adjacent large cinema site, located at the West of King Street in Hammersmith Town Centre.",
@@ -53,6 +53,11 @@
       "label": "Site Area",
       "value": "17,628 m²",
       "id": "2cec97f21a4e45b6ab58a6299421c59d"
+    },
+    {
+      "label": "Gross External Area",
+      "value": "34,000 m²",
+      "id": "9337841e24ce4fa6b605974ce5c9e04b"
     }
   ],
   "companies": [
