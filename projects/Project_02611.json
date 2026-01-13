@@ -7,10 +7,10 @@
   ],
   "type": "Project",
   "id": "02611",
-  "serializeDate": "'2025-11-18 14:28:29.719'",
-  "serialized": 1763476109719,
+  "serializeDate": "'2026-01-13 16:11:07.222'",
+  "serialized": 1768320667222,
   "serializedBy": "heatherp",
-  "time": "2025-11-18T14:28:29.6880705Z",
+  "time": "2026-01-13T16:11:06.6287286Z",
   "status": "PU",
   "title": "The Millennium Dome",
   "description": "Commissioned to mark the beginning of the twenty-first century, the Millennium Dome was intended as a celebratory, emblematic and non-hierarchical structure that offered a vast, flexible space.",
@@ -150,8 +150,12 @@
     },
     {
       "label": "Lighting Consultant",
-      "value": "Speirs Major",
+      "value": "Speirs",
       "id": "6192275b429b4ce09deaab8454566a00"
+    },
+    {
+      "value": "Major",
+      "id": "c52bbe6ce02e48f2b30d19e57436eb07"
     }
   ],
   "awards": [
