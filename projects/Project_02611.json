@@ -7,10 +7,10 @@
   ],
   "type": "Project",
   "id": "02611",
-  "serializeDate": "'2026-01-13 16:40:44.295'",
-  "serialized": 1768322444295,
+  "serializeDate": "'2026-01-13 16:41:09.353'",
+  "serialized": 1768322469353,
   "serializedBy": "heatherp",
-  "time": "2026-01-13T16:40:44.2679883Z",
+  "time": "2026-01-13T16:41:09.3179333Z",
   "status": "PU",
   "title": "The Millennium Dome",
   "description": "Commissioned to mark the beginning of the twenty-first century, the Millennium Dome was intended as a celebratory, emblematic and non-hierarchical structure that offered a vast, flexible space.",
@@ -139,6 +139,11 @@
       "id": "e2a64b454c764364a47d47c4bcb1a308"
     },
     {
+      "label": "Lighting",
+      "value": "Speirs Major",
+      "id": "6192275b429b4ce09deaab8454566a00"
+    },
+    {
       "label": "Fire Consultant",
       "value": "Buro Happold / Fedra",
       "id": "b1fdf5f34c06409ab423cee4c2ad2c4b"
@@ -147,11 +152,6 @@
       "label": "Specification Consultant",
       "value": "Davis Langdon Everest / Schumann Smith",
       "id": "88f180b6aa8541bc86d56c1f7bdb1877"
-    },
-    {
-      "label": "Lighting",
-      "value": "Speirs Major",
-      "id": "6192275b429b4ce09deaab8454566a00"
     }
   ],
   "awards": [
