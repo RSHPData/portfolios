@@ -7,10 +7,10 @@
   ],
   "type": "Project",
   "id": "02611",
-  "serializeDate": "'2026-01-13 16:41:09.353'",
-  "serialized": 1768322469353,
+  "serializeDate": "'2026-01-13 16:43:00.973'",
+  "serialized": 1768322580973,
   "serializedBy": "heatherp",
-  "time": "2026-01-13T16:41:09.3179333Z",
+  "time": "2026-01-13T16:43:00.940031Z",
   "status": "PU",
   "title": "The Millennium Dome",
   "description": "Commissioned to mark the beginning of the twenty-first century, the Millennium Dome was intended as a celebratory, emblematic and non-hierarchical structure that offered a vast, flexible space.",
@@ -124,6 +124,11 @@
       "id": "d69d64e9c1474c25b587c434e1770e95"
     },
     {
+      "label": "Lighting",
+      "value": "Speirs Major",
+      "id": "6192275b429b4ce09deaab8454566a00"
+    },
+    {
       "label": "Acoustic Consultant",
       "value": "Sandy Brown Associates",
       "id": "d8e13d7a2372490787b5f6aed2d95ead"
@@ -137,11 +142,6 @@
       "label": "Environmental Consultant",
       "value": "Battle McCarthy",
       "id": "e2a64b454c764364a47d47c4bcb1a308"
-    },
-    {
-      "label": "Lighting",
-      "value": "Speirs Major",
-      "id": "6192275b429b4ce09deaab8454566a00"
     },
     {
       "label": "Fire Consultant",
