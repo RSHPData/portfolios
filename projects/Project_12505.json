@@ -1,15 +1,16 @@
 {
   "name": "Hetao Alpha",
+  "url": "office/hetao-alpha",
   "webStatus": "Publish",
   "typologies": [
     "Office"
   ],
   "type": "Project",
   "id": "12505",
-  "serializeDate": "'2026-01-15 12:31:28.322'",
-  "serialized": 1768480288322,
+  "serializeDate": "'2026-01-15 12:33:59.384'",
+  "serialized": 1768480439384,
   "serializedBy": "heatherp",
-  "time": "2026-01-15T12:31:28.2894831Z",
+  "time": "2026-01-15T12:33:59.3581676Z",
   "status": "PU",
   "title": "Hetao Alpha",
   "date": "2020 - under construction",
