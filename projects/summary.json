@@ -97,6 +97,17 @@
     "typology": "Culture & Leisure"
   },
   {
+    "projectId": "12505",
+    "project": "Hetao Alpha",
+    "date": "2020",
+    "endDate": "under construction",
+    "location": "Shenzhen",
+    "country": "China",
+    "client": "SH-STIC, Shenzhen-Hongkong Science and Technology Innovation Cooperation Zone Development CO., LTD",
+    "longLat": "22.506159006818564 / 114.05953529058411",
+    "typology": "Office"
+  },
+  {
     "projectId": "12605",
     "project": "Horse Soldier Farms",
     "date": "2020",
@@ -127,17 +138,6 @@
     "country": "China",
     "client": "Qianhai Financial Holding Co. Ltd / Century Securities  Co. Ltd",
     "longLat": "22.55452617409 / 114.0586853185",
-    "typology": "Office"
-  },
-  {
-    "projectId": "12505",
-    "project": "Shenzhen-Hong Kong Innovation Integrated Service Centre",
-    "date": "2020",
-    "endDate": "under construction",
-    "location": "Shenzhen",
-    "country": "China",
-    "client": "SH-STIC, Shenzhen-Hongkong Science and Technology Innovation Cooperation Zone Development CO., LTD",
-    "longLat": "22.506159006818564 / 114.05953529058411",
     "typology": "Office"
   },
   {
