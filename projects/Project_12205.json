@@ -7,15 +7,15 @@
   ],
   "type": "Project",
   "id": "12205",
-  "serializeDate": "'2026-01-22 10:17:39.070'",
-  "serialized": 1769077059070,
+  "serializeDate": "'2026-01-22 12:23:41.782'",
+  "serialized": 1769084621782,
   "serializedBy": "heatherp",
-  "time": "2026-01-22T10:17:38.6940914Z",
+  "time": "2026-01-22T12:23:41.4318349Z",
   "status": "PU",
   "title": "Carlton House Terrace",
   "description": "20 Carlton House Terrace is a commercial refurbishment and expansion project in St James’s, London.",
   "date": "2019 - 2025",
-  "client": "Clivedale London",
+  "client": "H.I.G Capital",
   "location": "London, UK",
   "city": "London",
   "country": "UK",
@@ -53,7 +53,7 @@
   "overview": "<div><p>20 Carlton House Terrace is a commercial refurbishment and expansion project in St James’s, London. The site is located in a highly sensitive local heritage context which is largely Grade I or II listed and includes the important 10-18 Carlton House Terrace by John Nash. RSHP worked closely with the client to identify the optimum strategy for redevelopment. Whilst RSHP initially considered a full new-build redevelopment of the site, this vision evolved collaboratively with the client. Careful analysis of the existing building showed that many of the benefits of the original new-build concept could be delivered whilst retaining most of the existing superstructure and basement box with all the associated embodied carbon benefits.</p><p>RSHP’s proposals transform the existing 1970s office building and basement carpark into a high-quality commercial development focused around a vibrant social hub. New cores enabling a future-proofed servicing strategy are carefully positioned to simplify the plan, enhancing tenure flexibility and increasing efficiency. Below-ground levels are transformed into high quality, daylit flexible-use accommodation by introducing natural light at the perimeter and placing a new top-lit atrium space at its heart. The scheme also enhances its public realm setting with new soft and hard landscaping.</p><p>The main entrance is repositioned to create a double-height reception, leading to a new glazed lift-group connecting all floors. The panoramic lift car journey takes in views of the atrium, a newly created roof garden at level 1 and distant views to the north. This rich interior world, glimpsed from the street, connects the above and below ground levels in a coherent whole.</p><p>The repositioned cores structure the stepping form of the upper floors which enjoy stunning views from two new roof terraces. The light-weight roof extensions are unashamedly contemporary whilst carefully integrating with the existing building below. Their purposeful composition respects relationships to nearby residential properties and the statutory viewing plane from Parliament Hill to the Palace of Westminster which crosses the site.</p><p>The extent of glazing in the existing facade is increased enhancing natural light and views for occupants. Much of the existing natural stone façade is retained to preserve the group value with the neighbouring buildings which were part of the same original 1970s development. The result is a contemporary, authentic and elegant intervention within the historic St James’s Conservation Area.</p></div>",
   "dimensions": [
     {
-      "label": "Site Area",
+      "label": "Gross Internal Floor Area",
       "value": "21 400 m²",
       "id": "45d715571aeb47209bf38cfb544b852e"
     }
@@ -88,6 +88,16 @@
       "label": "Highways/Waste",
       "value": "Transport Planning Practice",
       "id": "551f1453126e4b7faef4d1a015b3d6c0"
+    },
+    {
+      "label": "Delivery architect",
+      "value": "EPR  Architects",
+      "id": "480b5d3ba42b483b9a8aac6f1a679ff1"
+    },
+    {
+      "label": "Developer",
+      "value": "Clivedale / Altius Real Estate",
+      "id": "5032cbb769d44bddb9e928b213edcacc"
     }
   ]
 }
