@@ -7,13 +7,12 @@
   ],
   "type": "Project",
   "id": "12205",
-  "serializeDate": "'2026-01-22 12:23:41.782'",
-  "serialized": 1769084621782,
+  "serializeDate": "'2026-01-22 16:18:55.721'",
+  "serialized": 1769098735721,
   "serializedBy": "heatherp",
-  "time": "2026-01-22T12:23:41.4318349Z",
+  "time": "2026-01-22T16:18:55.2798838Z",
   "status": "PU",
   "title": "Carlton House Terrace",
-  "description": "20 Carlton House Terrace is a commercial refurbishment and expansion project in St James’s, London.",
   "date": "2019 - 2025",
   "client": "H.I.G Capital",
   "location": "London, UK",
@@ -60,6 +59,16 @@
   ],
   "companies": [
     {
+      "label": "Developer",
+      "value": "Clivedale / Altius Real Estate",
+      "id": "5032cbb769d44bddb9e928b213edcacc"
+    },
+    {
+      "label": "Delivery architect",
+      "value": "EPR  Architects",
+      "id": "480b5d3ba42b483b9a8aac6f1a679ff1"
+    },
+    {
       "label": "Structural Engineer",
       "value": "Elliott Wood",
       "id": "e4191f5936be44bc9e6c888bee74de1c"
@@ -90,14 +99,19 @@
       "id": "551f1453126e4b7faef4d1a015b3d6c0"
     },
     {
-      "label": "Delivery architect",
-      "value": "EPR  Architects",
-      "id": "480b5d3ba42b483b9a8aac6f1a679ff1"
+      "label": "M&E Consultant",
+      "value": "Hoare Lea",
+      "id": "eb77e496296541e391b142c88fad7b0c"
     },
     {
-      "label": "Developer",
-      "value": "Clivedale / Altius Real Estate",
-      "id": "5032cbb769d44bddb9e928b213edcacc"
+      "label": "Landscape consultant",
+      "value": "Reardon Smith",
+      "id": "5804ae12f4144d5a895049080887f49a"
+    },
+    {
+      "label": "Acoustic consultant",
+      "value": "Hoare Lea",
+      "id": "f3825902d4d34f29beb67159bc3acda0"
     }
   ]
 }
