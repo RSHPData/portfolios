@@ -7,10 +7,10 @@
   ],
   "type": "Project",
   "id": "13045",
-  "serializeDate": "'2026-01-21 15:52:02.107'",
-  "serialized": 1769010722107,
+  "serializeDate": "'2026-01-27 10:37:26.898'",
+  "serialized": 1769510246898,
   "serializedBy": "heatherp",
-  "time": "2026-01-21T15:52:02.0721902Z",
+  "time": "2026-01-27T10:37:26.5819216Z",
   "status": "PU",
   "title": "Sąvaržėlė",
   "date": "2022 - under construction",
@@ -67,7 +67,12 @@
   ],
   "companies": [
     {
-      "label": "Structural Engineer",
+      "label": "Executive  Architect",
+      "value": "Unitectus",
+      "id": "3875ab66aaba4f7cbdea138a07cb472c"
+    },
+    {
+      "label": "Concept Engineer",
       "value": "BuroHappold",
       "id": "deltek:consultant"
     },
@@ -75,6 +80,21 @@
       "label": "Landscape Architect",
       "value": "Gillespies",
       "id": "6c9760f2d7ec4e9ab19a984eb1b103e8"
+    },
+    {
+      "label": "Main Contractor",
+      "value": "Conres",
+      "id": "cc49265212c54387847f76501d4507c6"
+    },
+    {
+      "label": "Facade Consultant",
+      "value": "KG",
+      "id": "1dacf286adae4954a534a39db5646b33"
+    },
+    {
+      "label": "Construction Management Consultant",
+      "value": "Contestus",
+      "id": "69404f40ea7049408ebc4ddac8a9a093"
     }
   ]
 }
