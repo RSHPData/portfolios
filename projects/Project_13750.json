@@ -7,10 +7,10 @@
   ],
   "type": "Project",
   "id": "13750",
-  "serializeDate": "'2026-02-24 10:17:13.463'",
-  "serialized": 1771928233463,
+  "serializeDate": "'2026-02-24 10:19:04.623'",
+  "serialized": 1771928344623,
   "serializedBy": "heatherp",
-  "time": "2026-02-24T10:17:13.436719Z",
+  "time": "2026-02-24T10:19:04.5999561Z",
   "status": "PU",
   "title": "Casablanca Airport",
   "date": "2024 -",
@@ -67,6 +67,28 @@
     {
       "value": "40m to top of Large Dome",
       "id": "76d0893c1f67454e8ab0a756b429b0eb"
+    }
+  ],
+  "floors": [
+    {
+      "label": "Departures",
+      "value": "Level +2, +10m",
+      "id": "fc1042888d5a4b9fb2b3d17e14ccaa38"
+    },
+    {
+      "label": "Arrivals",
+      "value": "Level +1, +5m",
+      "id": "9d6b1b65d7534bb7acbb69e5dfe9b4e0"
+    },
+    {
+      "label": "Check-in + Baggage Reclaim/ Logistics/ Plant Rooms",
+      "value": "Ground / RdC 0m",
+      "id": "6be02412ad9f43ae997ddc30398c5228"
+    },
+    {
+      "label": "Plant rooms and Baggage Handling",
+      "value": "Basement -5m",
+      "id": "e7988c55c8c94f77ae3f4294b5f4ae55"
     }
   ],
   "overview": "<div><p>Casablanca Airport’s new terminal at Mohammed V International Airport is a flagship project within Morocco’s ‘Airports 2030’ strategy. Designed to support Royal Air Maroc’s expansion and reinforce Casablanca’s pivotal role as an intercontinental transfer hub, the terminal will initially accommodate 20 million passengers annually, with capacity increasing to 45 million in subsequent phases.</p><p>The ‘H’-shaped 600,000m² terminal is served by 54 aircraft stands in its 2033 configuration and forms the centrepiece of a wider masterplan that includes a new runway, expanded taxiways, supporting airport infrastructure, landside and airside facilities, as well as a new control tower.</p><p>Conceived to meet international hub standards, the design prioritises efficient connection times and seamless baggage transfers. Served by its own station, the terminal will be directly connected to the Kenitra–Marrakech high-speed rail line (LGV), providing fast, fluid rail links to key cities across Morocco.</p><p>Organised across just three levels, the terminal is designed to deliver an exceptional passenger experience. The architecture maintains a strong sense of human scale, with a rich variety of spaces and passenger amenities sheltered beneath a fluid, undulating roof.  The boldly contemporary design draws on distinctly Moroccan traditions, reinforcing a unique sense of place and identity. Arriving and transferring passengers pass through large, landscaped oases that act as thresholds, marking one’s arrival in Morocco.</p><p>Designed as a modular system; in keeping with RSHP’s approach to rapid, component-based construction, the roof’s sweeping undulations evoke the waves of the Atlantic, reflecting Casablanca’s identity as a coastal city open to the world. Beneath, an ochre-toned soffit articulated by a hexagonal motif and punctuated with rooflights references the bejmat and terracotta zellige of Moroccan architecture, the craftsmanship of the country’s southern provinces.</p></div>",
