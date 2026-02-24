@@ -1,0 +1,86 @@
+{
+  "name": "Casablanca Airport",
+  "url": "transport/casablanca-airport",
+  "webStatus": "Publish",
+  "typologies": [
+    "Transport"
+  ],
+  "type": "Project",
+  "id": "13750",
+  "serializeDate": "'2026-02-24 09:38:55.572'",
+  "serialized": 1771925935572,
+  "serializedBy": "heatherp",
+  "time": "2026-02-24T09:38:55.253533Z",
+  "status": "PU",
+  "title": "Casablanca Airport",
+  "date": "2024 -",
+  "client": "The Office National des Aéroports (ONDA)",
+  "location": "Casablanca, Morocco",
+  "city": "Casablanca",
+  "country": "Morocco",
+  "longLat": "33.37055361324352, / -7.582917232699251",
+  "longitude": "33.37055361324352,",
+  "latitude": "-7.582917232699251",
+  "constructionCost": "15 billion dirhams (MMDH)",
+  "team": [
+    "Mahmoud Abdellattif",
+    "Ainhoa Abreu Diaz",
+    "Ad Aderet",
+    "Stephen Barrett",
+    "Hamish Crockett",
+    "Luca D'Amico",
+    "Jack Evans-Newton",
+    "Valentina Frieri",
+    "Sebastien Gey",
+    "Dan Hanna",
+    "Ivan Harbour",
+    "Daniel Holmes",
+    "Nnenna Itanyi",
+    "Toby Jeavons",
+    "Tudor Jitariu",
+    "Anja Kempa",
+    "Alex Kitching",
+    "Libby Ko",
+    "Adam Lampon",
+    "Monroe Masa",
+    "Jon Mercer",
+    "Nicholas Mitchell",
+    "Bridget Munro",
+    "Noura Nassar",
+    "Douglas Paul",
+    "John-Alexander Rudd",
+    "Maria Taboada",
+    "Andrew Tyley",
+    "Edward Walker",
+    "Ekin Yavuz"
+  ],
+  "partners": [
+    "Stephen Barrett",
+    "Ivan Harbour"
+  ],
+  "leaders": [
+    "Hamish Crockett",
+    "Jack Evans-Newton",
+    "Douglas Paul"
+  ],
+  "heights": [
+    {
+      "value": "40m to top of Large Dome",
+      "id": "76d0893c1f67454e8ab0a756b429b0eb"
+    }
+  ],
+  "overview": "<div><p>Casablanca Airport’s new terminal at Mohammed V International Airport is a flagship project within Morocco’s ‘Airports 2030’ strategy. Designed to support Royal Air Maroc’s expansion and reinforce Casablanca’s pivotal role as an intercontinental transfer hub, the terminal will initially accommodate 20 million passengers annually, with capacity increasing to 45 million in subsequent phases. The ‘H’-shaped 600,000m² terminal is served by 54 aircraft stands in its 2033 configuration and forms the centrepiece of a wider masterplan that includes a new runway, expanded taxiways, supporting airport infrastructure, landside and airside facilities, as well as a new control tower.</p><p>Conceived to meet international hub standards, the design prioritises efficient connection times and seamless baggage transfers. Served by its own station, the terminal will be directly connected to the Kenitra–Marrakech high-speed rail line (LGV), providing fast, fluid rail links to key cities across Morocco.</p><p>Organised across just three levels, the terminal is designed to deliver an exceptional passenger experience. The architecture maintains a strong sense of human scale, with a rich variety of spaces and passenger amenities sheltered beneath a fluid, undulating roof.  The boldly contemporary design draws on distinctly Moroccan traditions, reinforcing a unique sense of place and identity. Arriving and transferring passengers pass through large, landscaped oases that act as thresholds, marking one’s arrival in Morocco. Designed as a modular system; in keeping with RSHP’s approach to rapid, component-based construction, the roof’s sweeping undulations evoke the waves of the Atlantic, reflecting Casablanca’s identity as a coastal city open to the world. Beneath, an ochre-toned soffit articulated by a hexagonal motif and punctuated with rooflights references the bejmat and terracotta zellige of Moroccan architecture, the craftsmanship of the country’s southern provinces.</p></div>",
+  "dimensions": [],
+  "companies": [
+    {
+      "label": "Co-Architect",
+      "value": "ALA Concept",
+      "id": "050bc70b0b5e46688143775a6cd3bf76"
+    },
+    {
+      "label": "Engineering (Concept Phase)",
+      "value": "EGIS",
+      "id": "eac4c5bfd90c4f57828c9a30d15d70cf"
+    }
+  ]
+}
