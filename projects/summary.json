@@ -10,6 +10,17 @@
     "typology": "Culture & Leisure"
   },
   {
+    "projectId": "13750",
+    "project": "Casablanca Airport",
+    "date": "2024",
+    "endDate": "",
+    "location": "Casablanca",
+    "country": "Morocco",
+    "client": "The Office National des Aéroports (ONDA)",
+    "longLat": "33.37055361324352, / -7.582917232699251",
+    "typology": "Transport"
+  },
+  {
     "projectId": "13575",
     "project": "Zhongyuan International Convention Centre Phase 2",
     "date": "2024",
@@ -565,7 +576,7 @@
     "projectId": "10750",
     "project": "Qiantan Shanghai Pudong",
     "date": "2015",
-    "endDate": "under construction",
+    "endDate": "2025",
     "location": "Shanghai",
     "country": "China",
     "client": "Gree Real Estate",
