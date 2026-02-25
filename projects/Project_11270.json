@@ -7,10 +7,10 @@
   ],
   "type": "Project",
   "id": "11270",
-  "serializeDate": "'2026-02-13 11:18:06.993'",
-  "serialized": 1770981486993,
+  "serializeDate": "'2026-02-25 09:57:23.295'",
+  "serialized": 1772013443295,
   "serializedBy": "heatherp",
-  "time": "2026-02-13T11:18:06.6777035Z",
+  "time": "2026-02-25T09:57:22.9825925Z",
   "status": "PU",
   "title": "Oriental One",
   "description": "Oriental One is a mixed-use development that combines places to live with a range of social spaces creating a new lively contemporary mixed-use destination in Shanghai, adding to the city’s dramatic skyline.",
@@ -58,6 +58,11 @@
       "label": "Site Area",
       "value": "31,034m²",
       "id": "aeb6a84e206545ff9f81813b034d77dd"
+    },
+    {
+      "label": "Gross Floor Area",
+      "value": "107,000m² : 96,000m² of residential; 11,000m² of retail",
+      "id": "c7ca4c65915e40998b97b414caf3fe76"
     }
   ],
   "companies": [
