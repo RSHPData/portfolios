@@ -7,10 +7,10 @@
   ],
   "type": "Project",
   "id": "12045",
-  "serializeDate": "'2025-10-02 11:57:50.367'",
-  "serialized": 1759406270367,
+  "serializeDate": "'2026-03-09 10:46:29.552'",
+  "serialized": 1773053189552,
   "serializedBy": "heatherp",
-  "time": "2025-10-02T11:57:50.3163857Z",
+  "time": "2026-03-09T10:46:29.2342705Z",
   "status": "PU",
   "title": "Anboto Dorrea",
   "description": "Bilbao’s success at re-inventing itself is well documented and 30 years after the construction of the Guggenheim the city still remains one of the most notable exemplars of successful urban regeneration.",
@@ -50,6 +50,11 @@
       "label": "Site Area",
       "value": "2,247.73 m2",
       "id": "271cfe1faf0246c98f42dcbae472ffa8"
+    },
+    {
+      "label": "Gross Floor Area",
+      "value": "30,000m2",
+      "id": "f08ca1dc4d824d71ac07b3a4ce8f5110"
     }
   ],
   "companies": [
