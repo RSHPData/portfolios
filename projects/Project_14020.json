@@ -7,10 +7,10 @@
   ],
   "type": "Project",
   "id": "14020",
-  "serializeDate": "'2026-03-17 14:26:04.677'",
-  "serialized": 1773757564677,
+  "serializeDate": "'2026-03-17 14:29:36.428'",
+  "serialized": 1773757776428,
   "serializedBy": "heatherp",
-  "time": "2026-03-17T14:26:04.6477084Z",
+  "time": "2026-03-17T14:29:36.392745Z",
   "status": "PU",
   "title": "PLD - Rives-Défense",
   "date": "2025 -",
@@ -25,7 +25,8 @@
   "team": [
     "Nicola Carnevali",
     "Vitoria Hassuani",
-    "Dan Ropert"
+    "Dan Ropert",
+    "Raphaël Winckler"
   ],
   "partners": [
     "Stephen Barrett"
