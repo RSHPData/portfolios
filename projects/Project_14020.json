@@ -7,10 +7,10 @@
   ],
   "type": "Project",
   "id": "14020",
-  "serializeDate": "'2026-03-17 13:47:38.05'",
-  "serialized": 1773755258005,
+  "serializeDate": "'2026-03-17 14:26:04.677'",
+  "serialized": 1773757564677,
   "serializedBy": "heatherp",
-  "time": "2026-03-17T13:47:37.9744341Z",
+  "time": "2026-03-17T14:26:04.6477084Z",
   "status": "PU",
   "title": "PLD - Rives-Défense",
   "date": "2025 -",
@@ -24,7 +24,6 @@
   "constructionCost": "30 000 000 €",
   "team": [
     "Nicola Carnevali",
-    "Raffaele Festa",
     "Vitoria Hassuani",
     "Dan Ropert"
   ],
