@@ -1,0 +1,70 @@
+{
+  "name": "PLD Rives-Defense",
+  "url": "mixed-use/pld-rives-defense",
+  "webStatus": "Publish",
+  "typologies": [
+    "Mixed Use"
+  ],
+  "type": "Project",
+  "id": "14020",
+  "serializeDate": "'2026-03-17 12:03:09.435'",
+  "serialized": 1773748989435,
+  "serializedBy": "heatherp",
+  "time": "2026-03-17T12:03:09.1161996Z",
+  "status": "PU",
+  "title": "PLD - Rives-Défense",
+  "date": "2025 -",
+  "client": "Paris La Défense",
+  "location": "Courbevoie (Greater Paris), France",
+  "city": "Courbevoie (Greater Paris)",
+  "country": "France",
+  "longLat": "2°15'07.9\"E / 48°53'21.5\"N",
+  "longitude": "2°15'07.9\"E",
+  "latitude": "48°53'21.5\"N",
+  "constructionCost": "30 000 000",
+  "team": [
+    "Nicola Carnevali",
+    "Raffaele Festa",
+    "Vitoria Hassuani",
+    "Dan Ropert"
+  ],
+  "partners": [
+    "Stephen Barrett"
+  ],
+  "leaders": [
+    "Nicola Carnevali"
+  ],
+  "dimensions": [],
+  "companies": [
+    {
+      "label": "Urban Planner",
+      "value": "Atelier Soil",
+      "id": "3ea466324f5f417ba112a9f4f666e6f4"
+    },
+    {
+      "label": "Landscape Architect",
+      "value": "Altitude 35",
+      "id": "b28d6de189a449998653ff7052285ef3"
+    },
+    {
+      "label": "Urban and Civil Engineer",
+      "value": "Arcadis",
+      "id": "ad9d7aa31f8c46b98428d58570cef854"
+    },
+    {
+      "label": "Environmental Engineering",
+      "value": "Atelier Franck Boutté",
+      "id": "38bbdc568a5149fea071d39eb44abb8e"
+    },
+    {
+      "label": "Urban Ecology Specialist",
+      "value": "Urban Eco",
+      "id": "7342b9252eb648c9bf737a020c1f5a6d"
+    },
+    {
+      "label": "Reuse and Recycling Specialist",
+      "value": "Mobius",
+      "id": "03297933867c4b7ebe606acd439d6b0c"
+    }
+  ]
+}
