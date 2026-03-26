@@ -7,10 +7,10 @@
   ],
   "type": "Project",
   "id": "06110",
-  "serializeDate": "'2026-03-26 09:29:08.462'",
-  "serialized": 1774517348462,
+  "serializeDate": "'2026-03-26 09:30:55.136'",
+  "serialized": 1774517455136,
   "serializedBy": "heatherp",
-  "time": "2026-03-26T09:29:08.0700189Z",
+  "time": "2026-03-26T09:30:55.1040376Z",
   "status": "PU",
   "title": "Barangaroo South Masterplan",
   "date": "2009 - 2015",
@@ -76,13 +76,9 @@
       "id": "ef103942c2974354b7b5f335fce3c16c"
     },
     {
-      "label": "Lighting consultant",
-      "value": "Speirs",
+      "label": "Lighting",
+      "value": "Speirs Major",
       "id": "e0c4a30bbe714d59aa0cbd8c6c780ca9"
-    },
-    {
-      "value": "Major",
-      "id": "df5eacd58b904cc1b1e855adfd959856"
     }
   ],
   "certificates": [
