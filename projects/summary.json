@@ -43,6 +43,17 @@
     "typology": "Culture & Leisure"
   },
   {
+    "projectId": "13630",
+    "project": "Zone 3 Jumeirah Beach",
+    "date": "2024",
+    "endDate": "Ongoing",
+    "location": "Dubai",
+    "country": "United Arab Emirates",
+    "client": "Shamal Holding",
+    "longLat": "25.0953 / 55.14071",
+    "typology": "Residential"
+  },
+  {
     "projectId": "13400",
     "project": "HEC Campus Saclay",
     "date": "2023",
@@ -57,7 +68,7 @@
     "projectId": "13230",
     "project": "Peninsula Dubai",
     "date": "2023",
-    "endDate": "",
+    "endDate": "ongoing",
     "location": "Dubai",
     "country": "United Arab Emirates",
     "client": "Dubai Peninsula LLC",
