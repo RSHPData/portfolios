@@ -1,0 +1,113 @@
+{
+  "name": "Dubai Harbour Zone 3",
+  "url": "residential/dubai-harbour-zone-3",
+  "webStatus": "Publish",
+  "typologies": [
+    "Residential",
+    "Mixed Use"
+  ],
+  "type": "Project",
+  "id": "13630",
+  "serializeDate": "'2026-03-31 17:09:41.595'",
+  "serialized": 1774976981595,
+  "serializedBy": "heatherp",
+  "time": "2026-03-31T17:09:41.1852408Z",
+  "status": "PU",
+  "title": "Zone 3 Jumeirah Beach",
+  "date": "2024 - Ongoing",
+  "client": "Shamal Holding",
+  "location": "Dubai, United Arab Emirates",
+  "city": "Dubai",
+  "country": "United Arab Emirates",
+  "longLat": "25.0953 / 55.14071",
+  "longitude": "25.0953",
+  "latitude": "55.14071",
+  "heights": [
+    {
+      "value": "Branded Residences 45.4m. Hotel 39.3m",
+      "id": "ef4ee01da96d43f0adcfeadaa65db6eb"
+    }
+  ],
+  "floors": [
+    {
+      "label": "Hotel",
+      "value": "G+7",
+      "id": "71950a2b457e4e4da1359f65dc720005"
+    },
+    {
+      "label": "Branded Residential",
+      "value": "G+9",
+      "id": "35098a71a43c472cb85043c002d76c39"
+    }
+  ],
+  "overview": "<div><p>Dubai Harbour is a major waterfront destination that blends residential, hospitality and retail experiences with one of the region’s most advanced maritime infrastructures.  Celebrating Dubai’s long-standing relationship with the Arabian Sea, the district features the Middle East’s largest marina and a state-of-the-art cruise terminal, strengthening the city’s position as a global hub for maritime tourism.  Located between Palm Jumeirah and Bluewaters Island, and equidistant from Dubai International Airport and Al Maktoum International Airport, the area offers immediate access to signature attractions including Ain Dubai, Burj Al Arab and the city’s most popular beaches.  Dubai Harbour Zone 3 occupies a prominent location between Jumeirah Beach and the main harbour. The mixed-use development comprises a 185-key Edition Hotel with a GFA of 28,314m2 complemented by a 1,352m2 third-party beach club, alongside 165 branded residential units with a total GFA of 38,721m2. The hotel is set within landscaped gardens with direct access to the beach and the ground floor is animated by F&B venues, ballroom and meeting facilities, a fitness centre and a spa.  The branded residences sit within private gardens and include a dedicated swimming pool overlooking the harbour, offering a refined and tranquil living environment. The architectural concept features seven circular pavilion buildings designed to maximise 360-degree views of the Palm, Dubai Harbour, the city skyline and the beachfront. A cohesive design language ties the pavilions together, while subtle variations reflect their individual uses and enhance the identity of this emerging waterfront district.</p></div>",
+  "dimensions": [
+    {
+      "label": "Site Area (Hotel)",
+      "value": "45,468.90m²",
+      "id": "5e3e7d5a66d340c98cf175d8e4d7252d"
+    },
+    {
+      "label": "Site Area (Branded Residence)",
+      "value": "25,950.87m²",
+      "id": "df5b624d99b04d63bb0e0bbe8db6c858"
+    },
+    {
+      "label": "Hotel Area",
+      "value": "27,000m²",
+      "id": "8aa726f010f449ceb2089e4356e3cb3c"
+    },
+    {
+      "label": "Branded Residence Area",
+      "value": "43,000m²",
+      "id": "b57ce5a5e383469d8e81e6a76afd54fd"
+    },
+    {
+      "label": "Beach Club Area",
+      "value": "2,000m² - 6,000m²",
+      "id": "91895a22a1ab42928b24c6dc2a9c778c"
+    },
+    {
+      "label": "Hotel GFA",
+      "value": "28,314m²",
+      "id": "d7e4b7aa828f418fb3dc743bc6e48af4"
+    },
+    {
+      "label": "Beach Club GFA",
+      "value": "1,352m²",
+      "id": "2c9ec501702f4f6ba309101bf468e2e5"
+    },
+    {
+      "label": "Apartment GFA",
+      "value": "38,721m²",
+      "id": "a579ec10d90f4e8195646d4e83cff95d"
+    }
+  ],
+  "companies": [
+    {
+      "label": "Client",
+      "value": "Shamal Holding",
+      "id": "3670e09531ef4d46a04540bd32763208"
+    },
+    {
+      "label": "Lead Consultant",
+      "value": "AECOM",
+      "id": "7bda100cce9442b99999bd6c9706a2ef"
+    },
+    {
+      "label": "Hotel Operator",
+      "value": "Edition Hotels",
+      "id": "1688e9cfb7f6487bbd00ac2b79ab7df9"
+    },
+    {
+      "label": "Interior Design",
+      "value": "Rockwell Group",
+      "id": "9c08e506e0474c3fb3dfd2dadf9f813d"
+    },
+    {
+      "label": "Landscape Design",
+      "value": "Square M Design",
+      "id": "a4231bd1c44747ad9b706dec4fb9cf58"
+    }
+  ]
+}
