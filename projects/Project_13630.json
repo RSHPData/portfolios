@@ -8,10 +8,10 @@
   ],
   "type": "Project",
   "id": "13630",
-  "serializeDate": "'2026-03-31 17:09:41.595'",
-  "serialized": 1774976981595,
+  "serializeDate": "'2026-03-31 17:11:13.661'",
+  "serialized": 1774977073661,
   "serializedBy": "heatherp",
-  "time": "2026-03-31T17:09:41.1852408Z",
+  "time": "2026-03-31T17:11:13.6144999Z",
   "status": "PU",
   "title": "Zone 3 Jumeirah Beach",
   "date": "2024 - Ongoing",
@@ -22,6 +22,27 @@
   "longLat": "25.0953 / 55.14071",
   "longitude": "25.0953",
   "latitude": "55.14071",
+  "team": [
+    "Jadene Aguilar",
+    "Richard Black",
+    "Mohamed Mansour",
+    "Richard Paul",
+    "Richard Sullivan-Paul",
+    "Mimi Tam",
+    "Marco Tessaro",
+    "Daniela Yaneva",
+    "Lucas Wei Zeng Ler",
+    "Grace Chung",
+    "Pinelopi Papadimitraki",
+    "Dominik Mrozinski",
+    "Jai Watts"
+  ],
+  "partners": [
+    "Richard Paul"
+  ],
+  "leaders": [
+    "Richard Black"
+  ],
   "heights": [
     {
       "value": "Branded Residences 45.4m. Hotel 39.3m",
