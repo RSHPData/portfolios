@@ -7,10 +7,10 @@
   ],
   "type": "Project",
   "id": "11230",
-  "serializeDate": "'2024-10-03 14:30:29.456'",
-  "serialized": 1727965829456,
+  "serializeDate": "'2026-04-01 15:25:57.554'",
+  "serialized": 1775057157554,
   "serializedBy": "heatherp",
-  "time": "2024-10-03T14:30:29.4229006Z",
+  "time": "2026-04-01T15:25:57.5077227Z",
   "status": "PU",
   "title": "H-Farm",
   "description": "Located on the outskirts of Venice, the Hill is part of the wider masterplan for H-FARM",
@@ -59,8 +59,8 @@
   "concept": "<div><p>Surrounded by the green countryside of Treviso, near the Sile river and the Venetian lagoon, this is the location where H- Farm was born — a business and training centre gea­red towards innovation via new technologies. The renovation of abandoned farm buildings and the construction of new ones will mark the first intervention, where today, more than five hundred people are living and working.</p><p>The new expansion, the second phase of the project which is still in progress, concerns H-Campus, an international education district. H-Campus will cater to students, teachers and professionals — a multitude of people who come to this evolving place, configuring a new community and injecting new life into the forgotten countryside. As the dominant landscape is the main attraction of the site, the intention is to therefore establish an architectural style which is harmonious with the site’s history and surrounding nature.</p><p>The site is a 30-hectare sized park, all idyllically landscaped. The “H” stands for human, creating a farm of sorts, where people grow from learning. There are low-height restrictions for all the buildings so as to create the pastoral style setting that is so quintessential of a traditional farm. Vehicle access will be limited with the pedestrian routes and pathways forming an informal series of paths across the site. The essential characteristics of the complex are sustainability, modularity, its dialogue with the native territory, soft mobility, the coexistence of nature and architecture, renewable energy, implementation possibility, flexibility, the relationship between indoor and outdoor spaces, and reversibility.</p></div>",
   "dimensions": [
     {
-      "label": "Site Area",
-      "value": "2 500 m²",
+      "label": "GFA",
+      "value": "3,095m²",
       "id": "0571ae1b71ff4adb95f53eab3b6a5998"
     }
   ],
