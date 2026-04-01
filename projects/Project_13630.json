@@ -8,10 +8,10 @@
   ],
   "type": "Project",
   "id": "13630",
-  "serializeDate": "'2026-04-01 15:11:42.801'",
-  "serialized": 1775056302801,
+  "serializeDate": "'2026-04-01 15:32:13.777'",
+  "serialized": 1775057533777,
   "serializedBy": "heatherp",
-  "time": "2026-04-01T15:11:42.7710147Z",
+  "time": "2026-04-01T15:32:13.7299446Z",
   "status": "PU",
   "title": "Zone 3 Jumeirah Beach",
   "date": "2024 - Ongoing",
@@ -91,21 +91,6 @@
       "label": "Site Area (Branded Residence)",
       "value": "25,950.87m²",
       "id": "df5b624d99b04d63bb0e0bbe8db6c858"
-    },
-    {
-      "label": "Hotel Area",
-      "value": "27,000m²",
-      "id": "8aa726f010f449ceb2089e4356e3cb3c"
-    },
-    {
-      "label": "Branded Residence Area",
-      "value": "43,000m²",
-      "id": "b57ce5a5e383469d8e81e6a76afd54fd"
-    },
-    {
-      "label": "Beach Club Area",
-      "value": "2,000m² - 6,000m²",
-      "id": "91895a22a1ab42928b24c6dc2a9c778c"
     },
     {
       "label": "Hotel GFA",
