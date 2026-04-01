@@ -8,10 +8,10 @@
   ],
   "type": "Project",
   "id": "13630",
-  "serializeDate": "'2026-03-31 17:15:22.398'",
-  "serialized": 1774977322398,
+  "serializeDate": "'2026-04-01 15:08:55.640'",
+  "serialized": 1775056135640,
   "serializedBy": "heatherp",
-  "time": "2026-03-31T17:15:22.3650353Z",
+  "time": "2026-04-01T15:08:55.2156127Z",
   "status": "PU",
   "title": "Zone 3 Jumeirah Beach",
   "date": "2024 - Ongoing",
@@ -24,18 +24,27 @@
   "latitude": "25.0953",
   "team": [
     "Jadene Aguilar",
+    "Ben Black",
     "Richard Black",
+    "Alicia Caro",
+    "Grace Chung",
     "Mohamed Mansour",
+    "Dominik Mrozinski",
+    "Akansha Pandey",
+    "Pinelopi Papadimitraki",
     "Richard Paul",
+    "Karim Rouabah",
     "Richard Sullivan-Paul",
+    "Stephy Sum-ying to",
     "Mimi Tam",
     "Marco Tessaro",
-    "Daniela Yaneva",
+    "Angela Vassis",
+    "Dan Wang",
+    "Jai Watts",
     "Lucas Wei Zeng Ler",
-    "Grace Chung",
-    "Pinelopi Papadimitraki",
-    "Dominik Mrozinski",
-    "Jai Watts"
+    "Tommy Wong",
+    "Daniela Yaneva",
+    "Jasmine Yue"
   ],
   "partners": [
     "Richard Paul"
@@ -64,6 +73,16 @@
   "overview": "<div><p>Dubai Harbour is a major waterfront destination that blends residential, hospitality and retail experiences with one of the region’s most advanced maritime infrastructures.  Celebrating Dubai’s long-standing relationship with the Arabian Sea, the district features the Middle East’s largest marina and a state-of-the-art cruise terminal, strengthening the city’s position as a global hub for maritime tourism.  Located between Palm Jumeirah and Bluewaters Island, and equidistant from Dubai International Airport and Al Maktoum International Airport, the area offers immediate access to signature attractions including Ain Dubai, Burj Al Arab and the city’s most popular beaches.  Dubai Harbour Zone 3 occupies a prominent location between Jumeirah Beach and the main harbour. The mixed-use development comprises a 185-key Edition Hotel with a GFA of 28,314m2 complemented by a 1,352m2 third-party beach club, alongside 165 branded residential units with a total GFA of 38,721m2. The hotel is set within landscaped gardens with direct access to the beach and the ground floor is animated by F&B venues, ballroom and meeting facilities, a fitness centre and a spa.  The branded residences sit within private gardens and include a dedicated swimming pool overlooking the harbour, offering a refined and tranquil living environment. The architectural concept features seven circular pavilion buildings designed to maximise 360-degree views of the Palm, Dubai Harbour, the city skyline and the beachfront. A cohesive design language ties the pavilions together, while subtle variations reflect their individual uses and enhance the identity of this emerging waterfront district.</p></div>",
   "dimensions": [
     {
+      "label": "Hotel Rooms",
+      "value": "188",
+      "id": "51cbf5b1f1ba4df3ae31517efdea0861"
+    },
+    {
+      "label": "Apartments",
+      "value": "168",
+      "id": "864da061db174c11bf006075c18555cf"
+    },
+    {
       "label": "Site Area (Hotel)",
       "value": "45,468.90m²",
       "id": "5e3e7d5a66d340c98cf175d8e4d7252d"
@@ -90,17 +109,17 @@
     },
     {
       "label": "Hotel GFA",
-      "value": "28,314m²",
+      "value": "28,759m²",
       "id": "d7e4b7aa828f418fb3dc743bc6e48af4"
     },
     {
       "label": "Beach Club GFA",
-      "value": "1,352m²",
+      "value": "1,075m²",
       "id": "2c9ec501702f4f6ba309101bf468e2e5"
     },
     {
-      "label": "Apartment GFA",
-      "value": "38,721m²",
+      "label": "Residences GFA",
+      "value": "39,002m²",
       "id": "a579ec10d90f4e8195646d4e83cff95d"
     }
   ],
