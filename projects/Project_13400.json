@@ -7,10 +7,10 @@
   ],
   "type": "Project",
   "id": "13400",
-  "serializeDate": "'2026-04-01 16:16:02.190'",
-  "serialized": 1775060162190,
+  "serializeDate": "'2026-04-01 16:16:32.526'",
+  "serialized": 1775060192526,
   "serializedBy": "heatherp",
-  "time": "2026-04-01T16:16:02.1591078Z",
+  "time": "2026-04-01T16:16:32.4955619Z",
   "status": "PU",
   "title": "HEC Campus Saclay",
   "date": "2023 - 2025 (Unrealised)",
@@ -62,7 +62,7 @@
   "dimensions": [
     {
       "label": "Area",
-      "value": "14,700m2",
+      "value": "14,700 m2",
       "id": "ff3cbb028a9f4c1ab6de3ed8579fd739"
     }
   ],
