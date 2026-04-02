@@ -8,10 +8,10 @@
   ],
   "type": "Project",
   "id": "13630",
-  "serializeDate": "'2026-04-01 15:32:13.777'",
-  "serialized": 1775057533777,
+  "serializeDate": "'2026-04-02 10:51:51.608'",
+  "serialized": 1775127111608,
   "serializedBy": "heatherp",
-  "time": "2026-04-01T15:32:13.7299446Z",
+  "time": "2026-04-02T10:51:51.2456197Z",
   "status": "PU",
   "title": "Zone 3 Jumeirah Beach",
   "date": "2024 - Ongoing",
@@ -70,7 +70,7 @@
       "id": "35098a71a43c472cb85043c002d76c39"
     }
   ],
-  "overview": "<div><p>Dubai Harbour is a major waterfront destination that blends residential, hospitality and retail experiences with one of the region’s most advanced maritime infrastructures.</p><p>Celebrating Dubai’s long-standing relationship with the Arabian Sea, the district features the Middle East’s largest marina and a state-of-the-art cruise terminal, strengthening the city’s position as a global hub for maritime tourism.  Located between Palm Jumeirah and Bluewaters Island, and equidistant from Dubai International Airport and Al Maktoum International Airport, the area offers immediate access to signature attractions including Ain Dubai, Burj Al Arab and the city’s most popular beaches.</p><p>Dubai Harbour Zone 3 occupies a prominent location between Jumeirah Beach and the main harbour. The mixed-use development comprises a 188-key Edition Hotel with a GFA of 28,759m2 complemented by a 1,075m2 third-party beach club, alongside 168 branded residential units with a total GFA of 39,002m2. The hotel is set within landscaped gardens with direct access to the beach and the ground floor is animated by F&B venues, ballroom and meeting facilities, a fitness centre and a spa.  The branded residences sit within private gardens and include a dedicated swimming pool overlooking the harbour, offering a refined and tranquil living environment.</p><p>The architectural concept features seven circular pavilion buildings designed to maximise 360-degree views of the Palm, Dubai Harbour, the city skyline and the beachfront. A cohesive design language ties the pavilions together, while subtle variations reflect their individual uses and enhance the identity of this emerging waterfront district.</p></div>",
+  "overview": "<div><p>Dubai Harbour is a major waterfront destination that blends residential, hospitality and retail experiences with one of the region’s most advanced maritime infrastructures.</p><p>Celebrating Dubai’s long-standing relationship with the Arabian Sea, the district features the Middle East’s largest marina and a state-of-the-art cruise terminal, strengthening the city’s position as a global hub for maritime tourism.  Located between Palm Jumeirah and Bluewaters Island, and equidistant from Dubai International Airport and Al Maktoum International Airport, the area offers immediate access to signature attractions including Ain Dubai, Burj Al Arab and the city’s most popular beaches.</p><p>Dubai Harbour Zone 3 occupies a prominent location between Jumeirah Beach and the main harbour. The mixed-use development comprises a 188-key Edition Hotel with a GFA of 28,759m² complemented by a 1,075m² third-party beach club, alongside 168 branded residential units with a GFA of 39,002m². The hotel is set within landscaped gardens with direct access to the beach and the ground floor is animated by F&B venues, ballroom and meeting facilities, a fitness centre and a spa.</p><p>The branded residences sit within private gardens and include a dedicated swimming pool overlooking the harbour, offering a refined and tranquil living environment.</p><p>The architectural concept features seven circular pavilion buildings designed to maximise 360-degree views of the Palm, Dubai Harbour, the city skyline and the beachfront. A cohesive design language ties the pavilions together, while subtle variations reflect their individual uses and enhance the identity of this emerging waterfront district.</p></div>",
   "dimensions": [
     {
       "label": "Hotel Rooms",
@@ -98,14 +98,14 @@
       "id": "d7e4b7aa828f418fb3dc743bc6e48af4"
     },
     {
-      "label": "Beach Club GFA",
-      "value": "1,075m²",
-      "id": "2c9ec501702f4f6ba309101bf468e2e5"
-    },
-    {
       "label": "Residences GFA",
       "value": "39,002m²",
       "id": "a579ec10d90f4e8195646d4e83cff95d"
+    },
+    {
+      "label": "Beach Club GFA",
+      "value": "1,075m²",
+      "id": "2c9ec501702f4f6ba309101bf468e2e5"
     }
   ],
   "companies": [
