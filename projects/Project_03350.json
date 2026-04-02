@@ -7,10 +7,10 @@
   ],
   "type": "Project",
   "id": "03350",
-  "serializeDate": "'2026-04-02 09:18:55.345'",
-  "serialized": 1775121535345,
+  "serializeDate": "'2026-04-02 09:20:06.828'",
+  "serialized": 1775121606828,
   "serializedBy": "heatherp",
-  "time": "2026-04-02T09:18:55.3140793Z",
+  "time": "2026-04-02T09:20:06.7026928Z",
   "status": "PU",
   "title": "GRIPS",
   "description": "The National Graduate Institute for Policy Studies (GRIPS) is a graduate school and research institute, established in October 1997.",
@@ -54,12 +54,12 @@
   "dimensions": [
     {
       "label": "Site Area",
-      "value": "17 842 m²",
+      "value": "17 842m²",
       "id": "1225e77252524283970676ffb35e4dd6"
     },
     {
       "label": "GFA",
-      "value": "31,925m2",
+      "value": "31,925m²",
       "id": "9079a3fb0aa64abeaa7404855c3d99a6"
     }
   ],
