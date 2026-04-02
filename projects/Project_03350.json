@@ -1,22 +1,28 @@
 {
+  "name": "GRIPS",
+  "url": "education/grips",
+  "webStatus": "Publish",
+  "typologies": [
+    "Education"
+  ],
   "type": "Project",
   "id": "03350",
-  "url": "education/grips",
-  "serializeDate": "'2022-06-27 15:40:14.501'",
-  "serialized": 1656344414501,
-  "serializedBy": "sreeve",
+  "serializeDate": "'2026-04-02 09:17:27.224'",
+  "serialized": 1775121447224,
+  "serializedBy": "heatherp",
+  "time": "2026-04-02T09:17:26.8965979Z",
+  "status": "PU",
   "title": "GRIPS",
   "description": "The National Graduate Institute for Policy Studies (GRIPS) is a graduate school and research institute, established in October 1997.",
   "date": "1995-2001",
   "client": "Ministry of Education, Culture, Sports, Science and Technology",
   "location": "Tokyo, Japan",
+  "city": "Tokyo",
+  "country": "Japan",
   "longLat": "139.727313  / 35.663957",
   "longitude": "139.727313 ",
   "latitude": "35.663957",
   "constructionCost": "£ 50,000,000",
-  "typologies": [
-    "Education"
-  ],
   "team": [
     "Satoshi Aiza",
     "Lennart Grut",
@@ -44,12 +50,17 @@
       "id": "228AA2FA7DEC45D6AC06A0"
     }
   ],
-  "overview": "The National Graduate Institute for Policy Studies (GRIPS) is a graduate school and research institute, established in October 1997. Its aim was to be an international centre of excellence for the education of future leaders in the policy arena, for the advancement of policy research, and for the systematic collection and dissemination of policy-related information.\n\nLocated in the Roppongi district of central Tokyo, the school is very close to the political and business headquarters of Japan and the adjacent site was later occupied by the new National Gallery designed by Kisho Kurokawa. This project is one of the first PFI projects commissioned by the Japanese government and the design responds to the life cycle cost of the building.\n\n\nThe building is formed of two volumes, a 14-storey high-rise block to the west (mostly laboratory space) and a 5-storey lower part (work-shop space and administration) to the east. The tower steps down towards the north to allow more sunlight to this part of site and to meet strict Japanese right of light regulations. The two blocks are connected by a long and linear glazed atrium, spanned by bridges connecting different departments. A multiple-use lecture hall is located on the ground/ basement level of the high-rise block. The 8.1m grid superstructure of the high-rise block is a pre-cast concrete frame. Steel bracing at the circulation/services cores are unbonded, absorbing forces by deforming within the constraints of concrete-filled tubing. This reduces the size of bracing required – an important factor in a seismic country such as Japan.\n\n\nThe top level of the lower block has an east-facing undulating roof, designed to maximise daylight. Aluminium louvres, designed to reduce heat gain, are used to clad most of the high-rise façade, but users can still enjoy excellent views over the green spaces of the adjacent Aoyama Cemetery. The remaining façades are clad with terracotta panels.",
+  "overview": "<div><p>The National Graduate Institute for Policy Studies (GRIPS) is a graduate school and research institute, established in October 1997. Its aim was to be an international centre of excellence for the education of future leaders in the policy arena, for the advancement of policy research, and for the systematic collection and dissemination of policy-related information.</p><p>Located in the Roppongi district of central Tokyo, the school is very close to the political and business headquarters of Japan and the adjacent site was later occupied by the new National Gallery designed by Kisho Kurokawa. This project is one of the first PFI projects commissioned by the Japanese government and the design responds to the life cycle cost of the building.</p><p>The building is formed of two volumes, a 14-storey high-rise block to the west (mostly laboratory space) and a 5-storey lower part (work-shop space and administration) to the east. The tower steps down towards the north to allow more sunlight to this part of site and to meet strict Japanese right of light regulations. The two blocks are connected by a long and linear glazed atrium, spanned by bridges connecting different departments. A multiple-use lecture hall is located on the ground/ basement level of the high-rise block. The 8.1m grid superstructure of the high-rise block is a pre-cast concrete frame. Steel bracing at the circulation/services cores are unbonded, absorbing forces by deforming within the constraints of concrete-filled tubing. This reduces the size of bracing required – an important factor in a seismic country such as Japan.</p><p>The top level of the lower block has an east-facing undulating roof, designed to maximise daylight. Aluminium louvres, designed to reduce heat gain, are used to clad most of the high-rise façade, but users can still enjoy excellent views over the green spaces of the adjacent Aoyama Cemetery. The remaining façades are clad with terracotta panels.</p></div>",
   "dimensions": [
     {
       "label": "Site Area",
       "value": "17 842 m²",
       "id": "1225e77252524283970676ffb35e4dd6"
+    },
+    {
+      "label": "GFA",
+      "value": "31,925m2",
+      "id": "9079a3fb0aa64abeaa7404855c3d99a6"
     }
   ],
   "companies": [
