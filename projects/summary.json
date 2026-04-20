@@ -32,6 +32,17 @@
     "typology": "Transport"
   },
   {
+    "projectId": "13630",
+    "project": "The Dubai Beach EDITION Hotel and Residences at Dubai Harbour",
+    "date": "2024",
+    "endDate": "Ongoing",
+    "location": "Dubai",
+    "country": "United Arab Emirates",
+    "client": "Shamal Holding",
+    "longLat": "55.14071 / 25.0953",
+    "typology": "Residential"
+  },
+  {
     "projectId": "13575",
     "project": "Zhongyuan International Convention Centre Phase 2",
     "date": "2024",
@@ -41,17 +52,6 @@
     "client": "Henan Airport Construction & Development Co., LTD",
     "longLat": "113.9107222222 / 34.4898611111",
     "typology": "Culture & Leisure"
-  },
-  {
-    "projectId": "13630",
-    "project": "Zone 3 Jumeirah Beach",
-    "date": "2024",
-    "endDate": "Ongoing",
-    "location": "Dubai",
-    "country": "United Arab Emirates",
-    "client": "Shamal Holding",
-    "longLat": "55.14071 / 25.0953",
-    "typology": "Residential"
   },
   {
     "projectId": "13400",
