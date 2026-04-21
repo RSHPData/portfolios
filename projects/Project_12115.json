@@ -7,10 +7,10 @@
   ],
   "type": "Project",
   "id": "12115",
-  "serializeDate": "'2025-11-24 09:54:53.416'",
-  "serialized": 1763978093416,
+  "serializeDate": "'2026-04-21 10:36:38.310'",
+  "serialized": 1776767798310,
   "serializedBy": "heatherp",
-  "time": "2025-11-24T09:54:53.0431476Z",
+  "time": "2026-04-21T10:36:38.2778251Z",
   "status": "PU",
   "title": "Qianhai SZHK Youth Innovation and Entrepreneur Hub, Northern District",
   "date": "2018 - 2023",
@@ -65,8 +65,13 @@
   "dimensions": [
     {
       "label": "Site Area",
-      "value": "90 000 m²<br>",
+      "value": "90,634m²",
       "id": "fc9a19c5dfe8440f9df4c67501f62366"
+    },
+    {
+      "label": "GFA",
+      "value": "138,200m²",
+      "id": "60e52d23ead34d6e871c42f11cc5ef2c"
     }
   ],
   "companies": [
