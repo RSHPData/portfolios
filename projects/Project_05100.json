@@ -7,10 +7,10 @@
   ],
   "type": "Project",
   "id": "05100",
-  "serializeDate": "'2024-04-18 20:45:39.919'",
-  "serialized": 1713473139919,
+  "serializeDate": "'2026-04-21 10:01:54.533'",
+  "serialized": 1776765714533,
   "serializedBy": "heatherp",
-  "time": "2024-04-18T20:45:39.8819521Z",
+  "time": "2026-04-21T10:01:54.1394212Z",
   "status": "PU",
   "title": "Capodichino Metro Station",
   "description": "The extension to the city of Naples’ Metropolitana Linea 1, part of the Naples Metro system, is a showpiece development, with each station designed by an international artist or architect.",
@@ -42,13 +42,7 @@
     "Leonardo Pelleriti"
   ],
   "overview": "<div><p>The extension to Metropolitana Linea 1, part of the Naples Metro system, is a showpiece development, with each station designed by an international artist or architect.</p><p>RSHP’s design for the Capodichino Aeroporto Station, which is located at the end of the extension to Linea 1, is a celebration of movement and represents a significant opportunity to contribute to the regeneration of the city and the airport itself.  The new station will transform the existing airport terminal into a sustainable transport hub linked to the Napoli Centrale railway station in Piazza Garibaldi and the ferry terminal at Piazza Municipio.</p><p>With a nod to St. Patrick’s Well in Umbria, a central vertical lift structure exaggerates the 50m depth from surface to a platform level piazza, whilst four yellow emergency exit stairs spiral around the perimeter of the tube. The spatial interplay between the two, set against the background of the civil engineering, makes for a dynamic three-dimensional experience, sculpted by daylight, colour and the passengers themselves.</p><p>An open steel and glass canopy stretches across and oversails this subterranean piazza. The form of the roof allows natural light to penetrate deep into the internal space of the station and allows natural ventilation to circulate. It also offers a safe, protected environment for those passengers between the station and the airport. Aside from protecting the piazza from the rain, the roof signals the station’s presence when viewed from the airport and surroundings.</p></div>",
-  "dimensions": [
-    {
-      "label": "Site Area",
-      "value": "12 700 m²",
-      "id": "d7d19b3552cd478085ea820a797621c3"
-    }
-  ],
+  "dimensions": [],
   "companies": [
     {
       "label": "Co-Architect",
