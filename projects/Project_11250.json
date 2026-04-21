@@ -7,10 +7,10 @@
   ],
   "type": "Project",
   "id": "11250",
-  "serializeDate": "'2025-02-04 15:17:34.659'",
-  "serialized": 1738682254659,
+  "serializeDate": "'2026-04-21 10:25:17.240'",
+  "serialized": 1776767117240,
   "serializedBy": "heatherp",
-  "time": "2025-02-04T15:17:34.6127734Z",
+  "time": "2026-04-21T10:25:17.2093081Z",
   "status": "PU",
   "title": "Shanghai Sijing",
   "description": "Located in a historical town on the outskirts of Shanghai, Sijing is 40 minutes from the city’s CBD.",
@@ -56,7 +56,7 @@
   ],
   "floors": [
     {
-      "value": "4 – 15 floors (varies)",
+      "value": "11-15 stories",
       "id": "d4532c1067e4487080089e6303ca072e"
     }
   ],
@@ -66,6 +66,26 @@
       "label": "Site Area",
       "value": "32 600 m²",
       "id": "cc3fe8106cc1417f8440f4a766793ed6"
+    },
+    {
+      "label": "Green Space Ratio",
+      "value": "35%",
+      "id": "/SY0WLDAB0mY83M/v/3IxQ"
+    },
+    {
+      "label": "Gross Floor Area (above ground)",
+      "value": "52 150 m2",
+      "id": "3nu3ksckDUeqOJkcYS7qmQ"
+    },
+    {
+      "label": "Gross Floor Area (below ground)",
+      "value": "52 000 m2",
+      "id": "Cgu1WPUJiEWxy2AgZcqWCQ"
+    },
+    {
+      "label": "Total Construction Area",
+      "value": "105 900 m2",
+      "id": "h/k4pO9eW06xLfCMAJWx2g"
     }
   ],
   "companies": [
