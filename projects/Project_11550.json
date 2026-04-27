@@ -7,13 +7,13 @@
   ],
   "type": "Project",
   "id": "11550",
-  "serializeDate": "'2025-11-28 18:54:51.602'",
-  "serialized": 1764356091602,
+  "serializeDate": "'2026-04-27 08:42:42.661'",
+  "serialized": 1777279362661,
   "serializedBy": "heatherp",
-  "time": "2025-11-28T18:54:51.5702122Z",
+  "time": "2026-04-27T08:42:42.3324751Z",
   "status": "PU",
   "title": "Metro Tunnel Project",
-  "description": "The Metro Tunnel Project in Melbourne is building twin nine-kilometre tunnels and five new underground stations.",
+  "description": "The Metro Tunnel Project in Melbourne is comprises twin nine-kilometre tunnels and five new underground stations.",
   "date": "2017 - 2025",
   "client": "Victoria State Government",
   "location": "Wurundjeri and Bunurong Country, Melbourne, Australia",
@@ -96,7 +96,7 @@
     },
     {
       "label": "Contractor",
-      "value": "Cross Yarra Partnership (CYP), the consortium building the twin tunnels and 5 stations – including John Holland, Lendlease and Bouygues UK.",
+      "value": "Cross Yarra Partnership (CYP), the consortium building the twin tunnels and 5 stations – including John Holland, Lendlease and Bouygues UK",
       "id": "a6f5a3ee7346433499385dee169d414b"
     },
     {
@@ -108,6 +108,14 @@
       "label": "Wayfinding",
       "value": "Maynard",
       "id": "b0263df7e3a44ba29b9d0cd842c41033"
+    }
+  ],
+  "awards": [
+    {
+      "date": "2026-04-23",
+      "year": "2026",
+      "award": "National Infrastructure Awards Project of the Year Winner Metro Tunnel Project",
+      "rowId": "44c56e889b714d9393ba7baae27ab742"
     }
   ],
   "certificates": [
