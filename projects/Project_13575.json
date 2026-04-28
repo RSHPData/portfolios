@@ -7,10 +7,10 @@
   ],
   "type": "Project",
   "id": "13575",
-  "serializeDate": "'2026-04-28 09:06:16.210'",
-  "serialized": 1777367176210,
+  "serializeDate": "'2026-04-28 09:11:04.799'",
+  "serialized": 1777367464799,
   "serializedBy": "heatherp",
-  "time": "2026-04-28T09:06:16.1785974Z",
+  "time": "2026-04-28T09:11:04.7674775Z",
   "status": "PU",
   "title": "Zhongyuan International Convention Centre Phase 2",
   "date": "2024 - under construction",
@@ -107,14 +107,14 @@
       "id": "e25742ac9bd54ff5a1c9b753e155cea8"
     },
     {
-      "label": "Fire Consultant",
-      "value": "Arup",
-      "id": "f5fed45b30c5408e8c10dd2648d9b628"
-    },
-    {
       "label": "Lighting",
       "value": "Speirs Major",
       "id": "771d8e1bd7a9420094bd86b201b6141c"
+    },
+    {
+      "label": "Fire Consultant",
+      "value": "Arup",
+      "id": "f5fed45b30c5408e8c10dd2648d9b628"
     }
   ],
   "certificates": [
