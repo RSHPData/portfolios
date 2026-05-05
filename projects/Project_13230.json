@@ -3,14 +3,15 @@
   "url": "residential/dubai-peninsula",
   "webStatus": "Publish",
   "typologies": [
-    "Mixed Use"
+    "Mixed Use",
+    "Placemaking"
   ],
   "type": "Project",
   "id": "13230",
-  "serializeDate": "'2026-05-05 12:32:49.569'",
-  "serialized": 1777984369569,
+  "serializeDate": "'2026-05-05 12:38:03.971'",
+  "serialized": 1777984683971,
   "serializedBy": "heatherp",
-  "time": "2026-05-05T12:32:49.5381953Z",
+  "time": "2026-05-05T12:38:03.9472449Z",
   "status": "PU",
   "title": "Dubai Peninsula",
   "date": "2023 - ongoing",
