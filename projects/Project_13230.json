@@ -1,19 +1,19 @@
 {
-  "name": "Peninsula Dubai",
-  "url": "residential/peninsula-dubai",
+  "name": "Dubai Peninsula",
+  "url": "residential/dubai-peninsula",
   "webStatus": "Publish",
   "typologies": [
     "Mixed Use"
   ],
   "type": "Project",
   "id": "13230",
-  "serializeDate": "'2025-12-09 16:31:57.437'",
-  "serialized": 1765297917437,
+  "serializeDate": "'2026-05-05 12:22:44.876'",
+  "serialized": 1777983764876,
   "serializedBy": "heatherp",
-  "time": "2025-12-09T16:31:57.3969478Z",
+  "time": "2026-05-05T12:22:44.4736137Z",
   "status": "PU",
   "title": "Peninsula Dubai",
-  "date": "2023 -",
+  "date": "2023 - ongoing",
   "client": "Dubai Peninsula LLC",
   "location": "Dubai, United Arab Emirates",
   "city": "Dubai",
@@ -93,11 +93,6 @@
       "label": "Residential Area",
       "value": "66,900m² / 168 units",
       "id": "67e2dce34cf44873b8945be70be00e71"
-    },
-    {
-      "label": "Hotel Area",
-      "value": "26,150m² / 182 keys",
-      "id": "1c65bb2024a5456bb98289bacd6f2f1e"
     },
     {
       "label": "Branded Residential Area",
