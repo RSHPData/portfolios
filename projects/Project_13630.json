@@ -1,17 +1,17 @@
 {
   "name": "The Dubai Beach EDITION Hotel and Reside",
   "url": "residential/dubai-harbour-zone-3",
-  "webStatus": "Publish",
+  "webStatus": "Upload",
   "typologies": [
     "Residential",
     "Mixed Use"
   ],
   "type": "Project",
   "id": "13630",
-  "serializeDate": "'2026-04-20 18:10:05.392'",
-  "serialized": 1776708605392,
+  "serializeDate": "'2026-05-06 10:06:31.030'",
+  "serialized": 1778061991030,
   "serializedBy": "heatherp",
-  "time": "2026-04-20T18:10:05.0460802Z",
+  "time": "2026-05-06T10:06:31.0059208Z",
   "status": "PU",
   "title": "The Dubai Beach EDITION Hotel and Residences at Dubai Harbour",
   "date": "2024 - Ongoing",
@@ -113,6 +113,11 @@
       "label": "Client",
       "value": "Shamal Holding",
       "id": "3670e09531ef4d46a04540bd32763208"
+    },
+    {
+      "label": "Developer",
+      "value": "H&H",
+      "id": "e324527024424edab0e4520feca988a3"
     },
     {
       "label": "Lead Consultant",
