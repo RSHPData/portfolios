@@ -1,17 +1,17 @@
 {
   "name": "Dubai Peninsula",
-  "url": "mixeduse/dubai-peninsula",
+  "url": "residential/dubai-peninsula",
   "webStatus": "Publish",
   "typologies": [
-    "Mixed Use",
-    "Placemaking"
+    "Residential",
+    "Mixed Use"
   ],
   "type": "Project",
   "id": "13230",
-  "serializeDate": "'2026-05-05 12:44:42.415'",
-  "serialized": 1777985082415,
+  "serializeDate": "'2026-05-06 08:58:08.555'",
+  "serialized": 1778057888555,
   "serializedBy": "heatherp",
-  "time": "2026-05-05T12:44:42.3846916Z",
+  "time": "2026-05-06T08:58:08.1853887Z",
   "status": "PU",
   "title": "Dubai Peninsula",
   "date": "2023 - ongoing",
@@ -83,7 +83,7 @@
       "id": "916d98b2c60b42388806476c4285d054"
     }
   ],
-  "overview": "<div><p>Peninsula Dubai is a luxury residential development created around a marina to the west of a new beach front peninsula in Dubai.  Two buildings, comprising three pavilions each, provide serviced apartments, a hotel, and branded residences. Each pavilion is nine storeys high, maximising views towards both the marina and the city. Sharing a common language of design, their scale and articulated massing creates an air of exclusivity for the hotel and residences within.</p><p>The pavilions that house the hotel are connected via a series of glazed, elevated bridge links. These functional links allow for a high degree of efficiency when servicing the three volumes as they share means of escape and service elevators which are all positioned within the floorplates to give structural stability to the volumes. Sharing these functional elements allows the building to operate as one whilst maintaining their appearance as three exclusive pavilion buildings.</p><p>Guests of the hotel and the serviced apartment buildings arrive via the central drop off offering spectacular views of the marina before entering the buildings. The hotel and serviced apartments both have lobbies at this central drop-off space, whilst the lobby of the branded residences is served by a separate drop-off at the other end of the building. The ground floor is activated with lounges, bar, and restaurant spaces with access to the external terrace on the marina side.</p><p>Two residential towers bookend the scheme. Sky gardens and amenities feature throughout the towers to define the form and provide external areas for residents. The towers are punctuated at their peaks with distinctively shaped penthouses strategically perched above generous external terraces that allow for pools, water features and landscaped decks. These penthouses offer panoramic views over the marina, with extensive balconies providing a luxurious experience.</p></div>",
+  "overview": "<div><p>Dubai Peninsula is a luxury residential development created around a marina to the west of a new beach front peninsula in Dubai.  Two buildings, comprising three pavilions each, provide serviced apartments, a hotel, and branded residences. Each pavilion is nine storeys high, maximising views towards both the marina and the city. Sharing a common language of design, their scale and articulated massing creates an air of exclusivity for the hotel and residences within.</p><p>The pavilions that house the hotel are connected via a series of glazed, elevated bridge links. These functional links allow for a high degree of efficiency when servicing the three volumes as they share means of escape and service elevators which are all positioned within the floorplates to give structural stability to the volumes. Sharing these functional elements allows the building to operate as one whilst maintaining their appearance as three exclusive pavilion buildings.</p><p>Guests of the hotel and the serviced apartment buildings arrive via the central drop off offering spectacular views of the marina before entering the buildings. The hotel and serviced apartments both have lobbies at this central drop-off space, whilst the lobby of the branded residences is served by a separate drop-off at the other end of the building. The ground floor is activated with lounges, bar, and restaurant spaces with access to the external terrace on the marina side.</p><p>Two residential towers bookend the scheme. Sky gardens and amenities feature throughout the towers to define the form and provide external areas for residents. The towers are punctuated at their peaks with distinctively shaped penthouses strategically perched above generous external terraces that allow for pools, water features and landscaped decks. These penthouses offer panoramic views over the marina, with extensive balconies providing a luxurious experience.</p></div>",
   "dimensions": [
     {
       "label": "Site Area",
