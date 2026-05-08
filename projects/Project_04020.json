@@ -1,22 +1,28 @@
 {
+  "name": "Parc 1, Yeouido",
+  "url": "office/parc-1/",
+  "webStatus": "Publish",
+  "typologies": [
+    "Office"
+  ],
   "type": "Project",
   "id": "04020",
-  "url": "office/parc-1/",
-  "serializeDate": "'2022-06-27 15:40:22.873'",
-  "serialized": 1656344422873,
-  "serializedBy": "sreeve",
+  "serializeDate": "'2026-05-08 10:45:15.547'",
+  "serialized": 1778237115547,
+  "serializedBy": "heatherp",
+  "time": "2026-05-08T10:45:15.5130999Z",
+  "status": "PU",
   "title": "Parc.1",
   "description": "Parc.1 comprises two landmark office towers facing west, the luxury 326-room Fairmount Ambassador Seoul hotel at the eastern end, and, anchoring the entire site, The Hyundai Seoul retail centre.",
   "date": "2003-2021",
   "client": "Skylan Developments / Y22 Project Financing Investment",
   "location": "Seoul, South Korea",
+  "city": "Seoul",
+  "country": "South Korea",
   "longLat": "126.928436  / 37.525992",
   "longitude": "126.928436 ",
   "latitude": "37.525992",
   "constructionCost": "$1.5 billion (USD)",
-  "typologies": [
-    "Office"
-  ],
   "team": [
     "Torsten Burkhardt",
     "Kelly Darlington",
@@ -94,7 +100,7 @@
       "id": "ab65400803074bb996741207e3468a38"
     }
   ],
-  "overview": "Located on Yeouido island, a business and residential district alongside the Han River in Seoul, South Korea, Parc.1 comprises two landmark office towers facing west, the luxury 326-room Fairmount Ambassador Seoul hotel at the eastern end, and, anchoring the entire site, The Hyundai Seoul retail centre.\n\nThe 629, 047m² mixed-use scheme is organized to respond to views, existing city grain, pedestrian movement and massing, and is marked by its striking exterior, inspired by red columns symbolizing dignity and refinement in traditional Korean architecture.\n\n\nThe two office towers are located at the northern end of the site to take advantage of the park and river views, whilst avoiding overshadowing the three other buildings.\n\nCentral to the design, is the establishment of a series of buildings that create a hierarchy of public spaces, including plazas in front of the entrances, and tree-lined boulevards which connect the surrounding neighbourhood to urban community spaces. The scheme integrates public transport by extending public walkways and enabling direct access to the underground system.\n\n\nThe retail store, which has a total area of 89,100m² (959,064ft²), is the largest in Seoul. Its architectural features echo the pangp'aeyon, the popular Korean kite, and the 300 stores and restaurants are centred around a series of dramatic, full-height atria which allow natural light to enter the complex. Much of its space is dedicated to indoor landscaping, most notably a triple-height indoor park dotted with trees, flower plants and grasses which recreates the nearby Yeouido Park.",
+  "overview": "<div><p>Located on Yeouido island, a business and residential district alongside the Han River in Seoul, South Korea, Parc.1 comprises two landmark office towers facing west, the luxury 326-room Fairmount Ambassador Seoul hotel at the eastern end, and, anchoring the entire site, The Hyundai Seoul retail centre.</p><p>The 629, 047m² mixed-use scheme is organized to respond to views, existing city grain, pedestrian movement and massing, and is marked by its striking exterior, inspired by red columns symbolizing dignity and refinement in traditional Korean architecture.</p><p>The two office towers are located at the northern end of the site to take advantage of the park and river views, whilst avoiding overshadowing the three other buildings.</p><p>Central to the design, is the establishment of a series of buildings that create a hierarchy of public spaces, including plazas in front of the entrances, and tree-lined boulevards which connect the surrounding neighbourhood to urban community spaces. The scheme integrates public transport by extending public walkways and enabling direct access to the underground system.</p><p>The retail store, which has a total area of 89,100m² (959,064ft²), is the largest in Seoul. Its architectural features echo the pangp'aeyon, the popular Korean kite, and the 300 stores and restaurants are centred around a series of dramatic, full-height atria which allow natural light to enter the complex. Much of its space is dedicated to indoor landscaping, most notably a triple-height indoor park dotted with trees, flower plants and grasses which recreates the nearby Yeouido Park.</p></div>",
   "dimensions": [
     {
       "label": "Site Area",
@@ -137,6 +143,13 @@
       "label": "Cost Consultant",
       "value": "Davis Langdon/Seah Korea",
       "id": "fc5a864281e448419dbb87f59b50d332"
+    }
+  ],
+  "certificates": [
+    {
+      "authority": "G-Seed - Green Standard for Energy and Environmental Design",
+      "rating": "Green Rating 1 (highest ranking grade)",
+      "rowId": "985a018c8a0843d8aed59f1b9b2ac3ec"
     }
   ]
 }
