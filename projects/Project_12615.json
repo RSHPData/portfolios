@@ -7,10 +7,10 @@
   ],
   "type": "Project",
   "id": "12615",
-  "serializeDate": "'2026-05-06 15:05:52.087'",
-  "serialized": 1778079952087,
+  "serializeDate": "'2026-05-08 16:49:30.853'",
+  "serialized": 1778258970853,
   "serializedBy": "heatherp",
-  "time": "2026-05-06T15:05:52.0616617Z",
+  "time": "2026-05-08T16:49:30.8275135Z",
   "status": "PU",
   "title": "Qianhai Financial Holdings Building",
   "date": "2020 - under construction",
@@ -65,7 +65,13 @@
     }
   ],
   "overview": "<div><p>With a building height of 244.45m  and clad in warm metallic finishes, Qianhai Financial Holdings Building is a commercial high-rise in the centre of the Qianhai district in Shenzhen, China. The unique structural system of this building creates a community-friendly arcade space that captures the characteristics of Lingnan: the river, the bay, and the area south of the Nanling Mountains.</p><p>At street level, four mega-columns allow for a five-storey podium building to be held aloft, creating a striking undercroft that makes way for a free-flowing public ground plane with a new park, underground retail, and connections to the metro.</p><p>Punctuating and contrasting with the tower’s order and rectilinearity are two triple-height sky lobbies created for its major clients, Century Securities and Qianhai Financial Holdings. These vertical villages create a diverse, elegant, green, and low-carbon office headquarters which frame the views toward the mountains, bay, and river.</p><p>At the top of the building there is a simple glazed octagon amenity space which offers 360° views of the wider bay area and beyond. Further outdoor landscaped amenity space can be found under the soaring wings of the building’s feature crown. Composed of inclined double-mesh facades, the crown catches the warmth of the daytime sun, and at night becomes a beacon on the skyline.</p></div>",
-  "dimensions": [],
+  "dimensions": [
+    {
+      "label": "Total Gross Floor Area",
+      "value": "127,600m²",
+      "id": "724719f6a5f84cb38bc7e2bbe61740a6"
+    }
+  ],
   "companies": [
     {
       "label": "Co-Architect",
