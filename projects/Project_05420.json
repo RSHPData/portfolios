@@ -7,10 +7,10 @@
   ],
   "type": "Project",
   "id": "05420",
-  "serializeDate": "'2024-02-02 16:58:14.574'",
-  "serialized": 1706893094574,
+  "serializeDate": "'2026-05-08 10:13:24.412'",
+  "serialized": 1778235204412,
   "serializedBy": "heatherp",
-  "time": "2024-02-02T16:58:14.5280664Z",
+  "time": "2026-05-08T10:13:23.9988025Z",
   "status": "PU",
   "title": "8 Chifley",
   "description": "8 Chifley is a premium grade office building in Sydney, Australia. The scheme – developed in conjunction with Lippmann Partnership – comprises of a 30-storey office building situated in the Central Business District of Sydney.",
@@ -22,6 +22,7 @@
   "longLat": "151.211233 / -33.866730",
   "longitude": "151.211233",
   "latitude": "-33.866730",
+  "constructionCost": "£91m",
   "team": [
     "Lennart Grut",
     "Ivan Harbour",
@@ -45,6 +46,12 @@
   "leaders": [
     "Andrew Partridge"
   ],
+  "heights": [
+    {
+      "value": "140m/459.32ft",
+      "id": "13a91554a84946b6bf4bf7577044c75d"
+    }
+  ],
   "floors": [
     {
       "value": "34",
@@ -58,7 +65,7 @@
   "dimensions": [
     {
       "label": "Site Area",
-      "value": "1 580 m²",
+      "value": "1,580m²",
       "id": "3dcf144040c84b6ebf218cb97310a5c5"
     }
   ],
