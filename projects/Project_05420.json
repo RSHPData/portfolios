@@ -7,10 +7,10 @@
   ],
   "type": "Project",
   "id": "05420",
-  "serializeDate": "'2026-05-08 10:13:24.412'",
-  "serialized": 1778235204412,
+  "serializeDate": "'2026-05-08 10:34:52.279'",
+  "serialized": 1778236492279,
   "serializedBy": "heatherp",
-  "time": "2026-05-08T10:13:23.9988025Z",
+  "time": "2026-05-08T10:34:52.245922Z",
   "status": "PU",
   "title": "8 Chifley",
   "description": "8 Chifley is a premium grade office building in Sydney, Australia. The scheme – developed in conjunction with Lippmann Partnership – comprises of a 30-storey office building situated in the Central Business District of Sydney.",
@@ -67,6 +67,16 @@
       "label": "Site Area",
       "value": "1,580m²",
       "id": "3dcf144040c84b6ebf218cb97310a5c5"
+    },
+    {
+      "label": "Net Lettable Area",
+      "value": "19,000 m²",
+      "id": "59fe9c04dfa94fa795d99ad47e810668"
+    },
+    {
+      "label": "Total Floor Space",
+      "value": "27,000 m²",
+      "id": "fa50825149164e8c9d256bfeed533c9d"
     }
   ],
   "companies": [
