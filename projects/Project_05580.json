@@ -7,10 +7,10 @@
   ],
   "type": "Project",
   "id": "05580",
-  "serializeDate": "'2024-04-16 10:54:30.092'",
-  "serialized": 1713264870092,
+  "serializeDate": "'2026-05-08 16:39:29.023'",
+  "serialized": 1778258369023,
   "serializedBy": "heatherp",
-  "time": "2024-04-16T10:54:29.7552621Z",
+  "time": "2026-05-08T16:39:28.6681128Z",
   "status": "PU",
   "title": "Atrio",
   "description": "Atrio is a major mixed-use commercial development in central Bogotá comprising two towers – North and South – with a large, open public space at ground level.",
@@ -84,13 +84,13 @@
   ],
   "heights": [
     {
-      "value": "201 and 268 metres",
+      "value": "South Tower: 268m /879.27ft",
       "id": "43DB8DB759594EA3BD370A"
     }
   ],
   "floors": [
     {
-      "value": "59",
+      "value": "58",
       "id": "E18107C422BD43D2920291"
     }
   ],
@@ -98,12 +98,12 @@
   "dimensions": [
     {
       "label": "Office Area",
-      "value": "250 000 m²",
+      "value": "250,000m²",
       "id": "6290b34fd1294c499dde9ecadd0be0c0"
     },
     {
       "label": "Public space",
-      "value": "10 000 m²",
+      "value": "10,000m²",
       "id": "211805c3fedb4e53a2b723cb222819c3"
     }
   ],
