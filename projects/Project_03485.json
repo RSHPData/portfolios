@@ -7,10 +7,10 @@
   ],
   "type": "Project",
   "id": "03485",
-  "serializeDate": "'2026-05-08 15:17:02.267'",
-  "serialized": 1778253422267,
+  "serializeDate": "'2026-05-08 15:57:38.586'",
+  "serialized": 1778255858586,
   "serializedBy": "heatherp",
-  "time": "2026-05-08T15:17:02.2426366Z",
+  "time": "2026-05-08T15:57:38.2761598Z",
   "status": "PU",
   "title": "Scandicci Nuovo Centro Civico",
   "description": "Located at the gates of Florence, halfway between Casellina and the old town of Scandicci, the Nuovo Centro Civico is a new town centre designed by RSHP in collaboration with dastudio.",
@@ -80,7 +80,7 @@
   "companies": [
     {
       "label": "Co-Architect",
-      "value": "dastudio",
+      "value": "DA.Studio",
       "id": "1d7d0ab737264ca5b58794aa787ffd91"
     },
     {
