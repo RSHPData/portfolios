@@ -7,14 +7,14 @@
   ],
   "type": "Project",
   "id": "03485",
-  "serializeDate": "'2026-05-08 13:57:50.804'",
-  "serialized": 1778248670804,
+  "serializeDate": "'2026-05-08 13:59:29.022'",
+  "serialized": 1778248769022,
   "serializedBy": "heatherp",
-  "time": "2026-05-08T13:57:50.4294416Z",
+  "time": "2026-05-08T13:59:28.9967668Z",
   "status": "PU",
   "title": "Scandicci Nuovo Centro Civico",
   "description": "Located at the gates of Florence, halfway between Casellina and the old town of Scandicci, the Nuovo Centro Civico is a new town centre designed by RSHP in collaboration with dastudio.",
-  "date": "2006-2013",
+  "date": "2006 - 2013",
   "client": "Scandicci Centro srl",
   "location": "Scandicci, Italy",
   "city": "Scandicci",
@@ -48,12 +48,12 @@
   "dimensions": [
     {
       "label": "Site Area",
-      "value": "26 000m²",
+      "value": "26,000m²",
       "id": "887c8e97a7d74fc7b5b25f126f5f1c16"
     },
     {
       "label": "Total Gross Floor Area",
-      "value": "15 500m²",
+      "value": "15,500m²",
       "id": "71361e4d89074bca99beb52c0c44bd80"
     },
     {
@@ -67,12 +67,12 @@
       "id": "ac64190e16c8490880c6e3f784187198"
     },
     {
-      "label": "Office",
+      "label": "Office GFA",
       "value": "4,000m²",
       "id": "6f6f731c08b147f3adf3bf9e39a38fce"
     },
     {
-      "label": "Residential",
+      "label": "Residential GFA",
       "value": "7,250m²",
       "id": "5e76628166a64d689908e9f25cd3c23f"
     }
