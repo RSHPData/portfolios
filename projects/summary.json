@@ -433,17 +433,6 @@
     "typology": "Transport"
   },
   {
-    "projectId": "10610",
-    "project": "No. 33 Park Row",
-    "date": "2017",
-    "endDate": "",
-    "location": "New York City",
-    "country": "USA",
-    "client": "Centurion Real Estate Partners",
-    "longLat": "-74.0070569  / 40.7118001",
-    "typology": "Office"
-  },
-  {
     "projectId": "11430",
     "project": "Parcs en Scène, Thiais",
     "date": "2017",
@@ -667,6 +656,17 @@
     "client": "ASA",
     "longLat": "-99.072001  / 19.436971",
     "typology": "Transport"
+  },
+  {
+    "projectId": "10610",
+    "project": "No. 33 Park Row",
+    "date": "2014",
+    "endDate": "2022",
+    "location": "New York City",
+    "country": "USA",
+    "client": "Centurion Real Estate Partners",
+    "longLat": "-74.0070569  / 40.7118001",
+    "typology": "Office"
   },
   {
     "projectId": "10410",
