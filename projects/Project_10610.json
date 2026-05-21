@@ -7,10 +7,10 @@
   ],
   "type": "Project",
   "id": "10610",
-  "serializeDate": "'2026-05-20 11:09:19.028'",
-  "serialized": 1779275359028,
+  "serializeDate": "'2026-05-21 08:51:12.358'",
+  "serialized": 1779353472358,
   "serializedBy": "heatherp",
-  "time": "2026-05-20T11:09:19.0041301Z",
+  "time": "2026-05-21T08:51:11.9844143Z",
   "status": "PU",
   "title": "No. 33 Park Row",
   "date": "2014 - 2022",
@@ -47,7 +47,7 @@
   ],
   "heights": [
     {
-      "value": "101 metres / 334 feet",
+      "value": "102 metres / 334 feet",
       "id": "8F685EE9856D4501BEEB4F"
     }
   ],
@@ -61,28 +61,23 @@
   "dimensions": [
     {
       "label": "Site Area",
-      "value": "4,861 sq ft",
+      "value": "4,861 sq ft / 451 m",
       "id": "f7b011f260ac4d61bcb84fa5c9d0edf0"
     },
     {
-      "label": "Typical Floor Area",
-      "value": "4,062 sq ft  (83% site coverage)",
-      "id": "1067c8ca974f426ba7959c17dfaabc76"
+      "label": "Total Building Area",
+      "value": "95,678 sq ft / 8889 sqm",
+      "id": "d6e281c106f84c629bf1ebd31d9d1ab3"
     },
     {
       "label": "Total Residential Area",
-      "value": "76,181 sq ft",
+      "value": "76,181 sq ft / 7077 sqm",
       "id": "a2721ba8198c4af3b22b5127a404c724"
     },
     {
       "label": "Total Commercial Area",
-      "value": "16,946 sq ft",
+      "value": "16,946 sq ft / 1574 sqm",
       "id": "3421a6c950884b72a3cc89f049d57df0"
-    },
-    {
-      "label": "Total Building Area",
-      "value": "95,678 sq ft",
-      "id": "d6e281c106f84c629bf1ebd31d9d1ab3"
     }
   ],
   "companies": [
