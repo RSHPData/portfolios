@@ -7,10 +7,10 @@
   ],
   "type": "Project",
   "id": "10610",
-  "serializeDate": "'2026-05-21 08:51:34.259'",
-  "serialized": 1779353494259,
+  "serializeDate": "'2026-05-21 08:55:20.385'",
+  "serialized": 1779353720385,
   "serializedBy": "heatherp",
-  "time": "2026-05-21T08:51:34.2281506Z",
+  "time": "2026-05-21T08:55:20.3543072Z",
   "status": "PU",
   "title": "No. 33 Park Row",
   "date": "2014 - 2022",
@@ -61,7 +61,7 @@
   "dimensions": [
     {
       "label": "Site Area",
-      "value": "4,861 sq ft / 451 m",
+      "value": "4,861 sq ft / 451 sqm",
       "id": "f7b011f260ac4d61bcb84fa5c9d0edf0"
     },
     {
