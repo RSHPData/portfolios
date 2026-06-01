@@ -7,10 +7,10 @@
   ],
   "type": "Project",
   "id": "13215",
-  "serializeDate": "'2024-03-28 17:39:30.242'",
-  "serialized": 1711647570242,
+  "serializeDate": "'2026-06-01 09:10:47.574'",
+  "serialized": 1780305047574,
   "serializedBy": "heatherp",
-  "time": "2024-03-28T17:39:30.2000718Z",
+  "time": "2026-06-01T09:10:47.2655041Z",
   "status": "PU",
   "title": "Bayeux Tapestry Museum",
   "date": "2023 -",
@@ -18,9 +18,9 @@
   "location": "Bayeux, France",
   "city": "Bayeux",
   "country": "France",
-  "longLat": "-0.698197 / 49.323869",
-  "longitude": "-0.698197",
-  "latitude": "49.323869",
+  "longLat": "-0.681717 / 49.356081",
+  "longitude": "-0.681717",
+  "latitude": "49.356081",
   "constructionCost": "€38M",
   "team": [
     "Ad Aderet",
@@ -47,13 +47,10 @@
     "Simon Smithson"
   ],
   "partners": [
-    "Stephen Barrett",
-    "Ivan Harbour",
-    "Simon Smithson"
+    "Stephen Barrett"
   ],
   "leaders": [
-    "Ad Aderet",
-    "Cecilia Pineiro Lopez"
+    "Ad Aderet"
   ],
   "heights": [
     {
