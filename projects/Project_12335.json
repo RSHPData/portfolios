@@ -3,10 +3,10 @@
   "webStatus": "Publish",
   "type": "Project",
   "id": "12335",
-  "serializeDate": "'2023-02-21 13:13:34.371'",
-  "serialized": 1676985214371,
+  "serializeDate": "'2026-06-03 14:07:25.237'",
+  "serialized": 1780495645237,
   "serializedBy": "heatherp",
-  "time": "2023-02-21T13:13:34.3511866Z",
+  "time": "2026-06-03T14:07:24.9081158Z",
   "status": "PU",
   "title": "Four Seasons Hotel Taipei",
   "date": "2019 - under construction",
@@ -23,7 +23,6 @@
     "Pablo Codesido",
     "Jaime Cunha",
     "Kelly Darlington",
-    "Dylan Davies",
     "Valentina Frieri",
     "Mariana Garza",
     "Sebastien Gey",
@@ -36,6 +35,8 @@
     "Addy Lin",
     "Pei-Yi Lin",
     "Ann Miller",
+    "Charlie Morris",
+    "Dawid Panek",
     "Amabel Richardson",
     "Dan Rogers",
     "Soki So",
@@ -76,6 +77,16 @@
       "label": "Site Area",
       "value": "5,133 m²",
       "id": "c3ad57ea6b5b451fa7a44f1e58361582"
+    },
+    {
+      "label": "Allowable GFA",
+      "value": "27,512m²",
+      "id": "e7f1324005b749e29a379ee830689229"
+    },
+    {
+      "label": "Total GFA",
+      "value": "27,512m²",
+      "id": "3891fa4a1715448badcf88cdd259d9b4"
     }
   ],
   "companies": [
