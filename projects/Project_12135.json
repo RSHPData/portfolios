@@ -7,10 +7,10 @@
   ],
   "type": "Project",
   "id": "12135",
-  "serializeDate": "'2025-04-23 19:20:36.472'",
-  "serialized": 1745436036472,
+  "serializeDate": "'2026-06-05 08:52:16.388'",
+  "serialized": 1780649536388,
   "serializedBy": "heatherp",
-  "time": "2025-04-23T19:20:36.4251834Z",
+  "time": "2026-06-05T08:52:16.0065953Z",
   "status": "PU",
   "title": "Bromley-by-Bow Gasworks",
   "date": "2018 - ongoing",
@@ -113,6 +113,14 @@
       "label": "Heritage and Townscape",
       "value": "Montagu Evans",
       "id": "c60c823978f14891a46cb8fc44360d2e"
+    }
+  ],
+  "awards": [
+    {
+      "date": "2026-06-04",
+      "year": "2026",
+      "award": "Planning Permission of the Year",
+      "rowId": "aa57ead412324f28ad68b2c698fc7525"
     }
   ],
   "certificates": [
