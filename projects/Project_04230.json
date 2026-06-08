@@ -7,10 +7,10 @@
   ],
   "type": "Project",
   "id": "04230",
-  "serializeDate": "'2026-06-08 15:17:04.202'",
-  "serialized": 1780931824202,
+  "serializeDate": "'2026-06-08 15:19:52.822'",
+  "serialized": 1780931992822,
   "serializedBy": "heatherp",
-  "time": "2026-06-08T15:17:03.794718Z",
+  "time": "2026-06-08T15:19:52.7880051Z",
   "status": "PU",
   "title": "NEO Bankside",
   "description": "This residential scheme lies in the heart of the Bankside area of London, located close to the River Thames and directly opposite the west entrance to Tate Modern and its new extension.",
@@ -68,8 +68,12 @@
   ],
   "heights": [
     {
-      "value": "Block A: 38,5m (12 Levels) Block B: 57,5m (18 Levels)  Block C: 76,5m (24 Levels) Block D: 38,5m (12 Levels) Block E: 19,5m (6 Levels)",
+      "value": "Block A: 38,5m (12 Levels); Block B: 57,5m (18 Levels)",
       "id": "399d23ab3d5e43aab04b9ad90c8d5d1e"
+    },
+    {
+      "value": "Block C: 76,5m (24 Levels); Block D: 38,5m (12 Levels); Block E: 19,5m (6 Levels)",
+      "id": "6b19167839f84e96beab9a973427d9fe"
     }
   ],
   "floors": [
