@@ -7,10 +7,10 @@
   ],
   "type": "Project",
   "id": "13045",
-  "serializeDate": "'2026-01-27 10:37:26.898'",
-  "serialized": 1769510246898,
+  "serializeDate": "'2026-06-08 11:52:08.839'",
+  "serialized": 1780919528839,
   "serializedBy": "heatherp",
-  "time": "2026-01-27T10:37:26.5819216Z",
+  "time": "2026-06-08T11:52:08.8146177Z",
   "status": "PU",
   "title": "Sąvaržėlė",
   "date": "2022 - under construction",
@@ -57,7 +57,7 @@
       "id": "C874BF3AF6BB46C5AE71E6"
     }
   ],
-  "overview": "<div><p>Sąvaržėlė is a new nearly net zero operational 19,200m2 business centre within the CBD in the city of Vilnius, Lithuania. The scheme will provide over 16,000sq m of office space over the 7-storey business centre.</p><p>A new public city square, plus gardens and a green roof terrace for the building's occupants, are at the heart of the design for a new business complex located at a crossroads between the old and the new in Vilnius.</p><p>Easy access to nature and public spaces is a distinct feature of Vilnius and the design themes for the landscape have purposefully been drawn from the local context, including the site’s proximity to the river, indigenous tree species and surrounding landscape, bringing a distinctive character to the scheme whilst embedding it into the city.</p><p>The scheme is a place for coming together, linking the CBD with the Old Town through an arcade of shops and cafes as well as a covered public street through the heart of the new business centre. Above the new street is a grand staircase, visible to the public, connecting one side of the courtyard with the other.</p><p>A sequence of platforms and planted landings float within the space connected by an array of generously scaled steps. These create a central venue that is as much about gathering to meet, greet or retreat as it is about movement.</p><p>Above is a fully glazed atrium roof incorporating automated natural ventilation and solar control systems to allow daylight into the heart of the building while ensuring a comfortable environment.</p></div>",
+  "overview": "<div style =\"break-inside:avoid-column;\"><p>Sąvaržėlė is a 19,200m² International BREEAM Outstanding business centre located within the central business district of Vilnius. Positioned at the meeting point of the city’s historic Old Town and emerging commercial district, the seven-storey development provides more than 16,000m² of Grade A office accommodation alongside retail, hospitality and public amenity spaces.</p><p style='margin-bottom:22px'>Conceived as a catalyst for urban regeneration, the scheme creates a strong physical and social connection between the CBD and the Old Town. A covered public street lined with shops and cafés passes through the building, linking a new public square with landscaped public spaces and encouraging activity throughout the day.</p></div><div style =\"break-inside:avoid-column;margin-top:22px\"><p>The building’s form responds to its context, opening towards Konstitucijos Avenue to the north while creating a more intimate civic space to the south. A dramatic central atrium, animated by open staircases, panoramic lifts and extensive planting, draws natural light deep into the building. Its fully glazed roof incorporates automated natural ventilation and solar-control systems, creating a bright, comfortable environment through the year.</p><p style='margin-bottom:22px'>Office floorplates are carefully planned so that no workspace is more than six metres from a facade, maximising access to daylight and views of vegetation. The landscape strategy draws inspiration from the nearby river, indigenous tree species and local ecology, with landscaped spaces and a roof terrace enhancing biodiversity, wellbeing and outdoor amenity.</p></div><div style =\"break-inside:avoid-column;margin-top:22px\"><p>Environmental performance is supported by passive design principles, energy-efficient chilled beam systems, a high-performance double-skin facade with automated solar shading, rainwater harvesting, and an extensive green roof, contributing to the building’s A++ energy performance.</p></div>",
   "dimensions": [
     {
       "label": "Area",
@@ -68,11 +68,11 @@
   "companies": [
     {
       "label": "Executive  Architect",
-      "value": "Unitectus",
+      "value": "UNITECTUS",
       "id": "3875ab66aaba4f7cbdea138a07cb472c"
     },
     {
-      "label": "Concept Engineer",
+      "label": "Structural Engineer",
       "value": "BuroHappold",
       "id": "deltek:consultant"
     },
