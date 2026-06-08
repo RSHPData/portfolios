@@ -7,10 +7,10 @@
   ],
   "type": "Project",
   "id": "13045",
-  "serializeDate": "'2026-06-08 11:52:08.839'",
-  "serialized": 1780919528839,
+  "serializeDate": "'2026-06-08 11:52:54.723'",
+  "serialized": 1780919574723,
   "serializedBy": "heatherp",
-  "time": "2026-06-08T11:52:08.8146177Z",
+  "time": "2026-06-08T11:52:54.6973522Z",
   "status": "PU",
   "title": "Sąvaržėlė",
   "date": "2022 - under construction",
@@ -95,6 +95,13 @@
       "label": "Construction Management Consultant",
       "value": "Contestus",
       "id": "69404f40ea7049408ebc4ddac8a9a093"
+    }
+  ],
+  "certificates": [
+    {
+      "authority": "BREEAM",
+      "rating": "Outstanding",
+      "rowId": "ad255cbf29a449df9924b6d23884708a"
     }
   ]
 }
