@@ -7,10 +7,10 @@
   ],
   "type": "Project",
   "id": "10460",
-  "serializeDate": "'2025-09-30 14:55:27.961'",
-  "serialized": 1759244127961,
+  "serializeDate": "'2026-06-09 09:40:41.526'",
+  "serialized": 1780998041526,
   "serializedBy": "heatherp",
-  "time": "2025-09-30T14:55:27.9306304Z",
+  "time": "2026-06-09T09:40:41.1819039Z",
   "status": "PU",
   "title": "Madrid Nuevo Norte, MNN",
   "description": "The objective of this ambitious project is to close a major split in the city where the railway alignment running north out of Madrid divides the city in two.",
@@ -53,7 +53,7 @@
   "dimensions": [
     {
       "label": "Site Area",
-      "value": "230 Ha",
+      "value": "230 Hectare",
       "id": "b3401d70b0f24de795ff2b13b60cb124"
     },
     {
