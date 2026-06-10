@@ -7,14 +7,14 @@
   ],
   "type": "Project",
   "id": "12005",
-  "serializeDate": "'2026-05-28 09:26:45.243'",
-  "serialized": 1779960405243,
-  "serializedBy": "heatherp",
-  "time": "2026-05-28T09:26:44.9285258Z",
+  "serializeDate": "'2026-06-10 11:06:41.918'",
+  "serialized": 1781089601918,
+  "serializedBy": "emajumdar",
+  "time": "2026-06-10T11:06:41.5753927Z",
   "status": "PU",
   "title": "Montparnasse Masterplan",
   "description": "In 2019, RSHP led the winning team for this competition run by the City of Paris, launched in tandem with the co-owners of the existing complex, the EITMM.",
-  "date": "2019 - 2023",
+  "date": "2019-2023",
   "client": "Ville de Paris",
   "location": "Paris, France",
   "city": "Paris",
@@ -61,7 +61,7 @@
   "dimensions": [
     {
       "label": "Site Area",
-      "value": "9ha",
+      "value": "9 ha",
       "id": "ae30adf185fb4307bcb94576a573f26a"
     },
     {
