@@ -7,14 +7,14 @@
   ],
   "type": "Project",
   "id": "10460",
-  "serializeDate": "'2026-06-09 09:40:41.526'",
-  "serialized": 1780998041526,
-  "serializedBy": "heatherp",
-  "time": "2026-06-09T09:40:41.1819039Z",
+  "serializeDate": "'2026-06-10 11:07:45.539'",
+  "serialized": 1781089665539,
+  "serializedBy": "emajumdar",
+  "time": "2026-06-10T11:07:45.5158432Z",
   "status": "PU",
   "title": "Madrid Nuevo Norte, MNN",
   "description": "The objective of this ambitious project is to close a major split in the city where the railway alignment running north out of Madrid divides the city in two.",
-  "date": "2017 - 2020",
+  "date": "2017-2020",
   "client": "Distrito Castellana Norte (BBVA-San Jose)",
   "location": "Madrid, Spain",
   "city": "Madrid",
@@ -53,7 +53,7 @@
   "dimensions": [
     {
       "label": "Site Area",
-      "value": "230 Hectare",
+      "value": "230 ha",
       "id": "b3401d70b0f24de795ff2b13b60cb124"
     },
     {
