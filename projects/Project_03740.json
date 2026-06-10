@@ -1,21 +1,27 @@
 {
+  "name": "Almada Eastern Riverside",
+  "url": "masterplanning/almada-eastern-riverside",
+  "webStatus": "Publish",
+  "typologies": [
+    "Masterplanning"
+  ],
   "type": "Project",
   "id": "03740",
-  "url": "masterplanning/almada-eastern-riverside",
-  "serializeDate": "'2022-06-27 17:25:44.214'",
-  "serialized": 1656350744214,
-  "serializedBy": "sreeve",
+  "serializeDate": "'2026-06-10 11:09:14.930'",
+  "serialized": 1781089754930,
+  "serializedBy": "emajumdar",
+  "time": "2026-06-10T11:09:14.899677Z",
+  "status": "PU",
   "title": "Almada Eastern Riverside",
   "description": "RSHP was commissioned to devise a masterplan for a 115-hectare site encompassing extensive former dockyards and a part of Almada’s conurbation along a two-kilometre stretch of river frontage.",
   "date": "2002-2010",
   "client": "Municipal de Almada",
   "location": "Almada, Portugal",
+  "city": "Almada",
+  "country": "Portugal",
   "longLat": "-9.145054  / 38.684582",
   "longitude": "-9.145054 ",
   "latitude": "38.684582",
-  "typologies": [
-    "Masterplanning"
-  ],
   "team": [
     "Benjamin Darras",
     "Lennart Grut",
@@ -24,11 +30,11 @@
   "partners": [
     "Lennart Grut"
   ],
-  "overview": "RSHP was commissioned to devise a masterplan for a 115-hectare site encompassing extensive former dockyards and a part of Almada’s conurbation along a two-kilometre stretch of river frontage. The location is an outstanding topographic feature of the Tagus Estuary, important in terms of geography, history, economy and environment. The historic centre of Lisbon lies to the north of the site across the estuary, while to the south is an extensive nature reserve.\n\n\nThe masterplan envisages an employment-led mix of uses, leisure and cultural activities while retaining a large allocation of residential use. Densities ranging from 800,000m² to 1.5 million m² are planned, depending on the implementation of the proposed Metro link to Lisbon.\n\n\nThe masterplan’s initial phase focuses on a transport strategy for the Almada area to reduce dependence on the car. This includes extending the proposed MST (tram), a Metro link from Lisbon, the expansion of an existing ferry terminal, and the creation of a river taxi service – strengthening existing connections with Lisbon and with the eastern Seixal area.",
+  "overview": "<div><p>RSHP was commissioned to devise a masterplan for a 115-hectare site encompassing extensive former dockyards and a part of Almada’s conurbation along a two-kilometre stretch of river frontage. The location is an outstanding topographic feature of the Tagus Estuary, important in terms of geography, history, economy and environment. The historic centre of Lisbon lies to the north of the site across the estuary, while to the south is an extensive nature reserve.</p><p>The masterplan envisages an employment-led mix of uses, leisure and cultural activities while retaining a large allocation of residential use. Densities ranging from 800,000m² to 1.5 million m² are planned, depending on the implementation of the proposed Metro link to Lisbon.</p><p>The masterplan’s initial phase focuses on a transport strategy for the Almada area to reduce dependence on the car. This includes extending the proposed MST (tram), a Metro link from Lisbon, the expansion of an existing ferry terminal, and the creation of a river taxi service – strengthening existing connections with Lisbon and with the eastern Seixal area.</p></div>",
   "dimensions": [
     {
       "label": "Area",
-      "value": "115 hectares",
+      "value": "115 ha",
       "id": "15802de38cdb4a04a734e68793639d20"
     }
   ],
