@@ -7,14 +7,14 @@
   ],
   "type": "Project",
   "id": "04230",
-  "serializeDate": "'2026-06-08 15:19:52.822'",
-  "serialized": 1780931992822,
-  "serializedBy": "heatherp",
-  "time": "2026-06-08T15:19:52.7880051Z",
+  "serializeDate": "'2026-06-11 09:17:17.404'",
+  "serialized": 1781169437404,
+  "serializedBy": "emajumdar",
+  "time": "2026-06-11T09:17:17.3672366Z",
   "status": "PU",
   "title": "NEO Bankside",
   "description": "This residential scheme lies in the heart of the Bankside area of London, located close to the River Thames and directly opposite the west entrance to Tate Modern and its new extension.",
-  "date": "2006-2012",
+  "date": "2006-2013",
   "client": "Native Land",
   "location": "London, UK",
   "city": "London",
@@ -78,7 +78,7 @@
   ],
   "floors": [
     {
-      "value": "6-24",
+      "value": "12-24",
       "id": "CC4A7FBBC2AD41D6A1C709"
     }
   ],
