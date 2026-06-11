@@ -7,10 +7,10 @@
   ],
   "type": "Project",
   "id": "11430",
-  "serializeDate": "'2026-05-20 15:43:14.400'",
-  "serialized": 1779291794400,
-  "serializedBy": "heatherp",
-  "time": "2026-05-20T15:43:14.0556326Z",
+  "serializeDate": "'2026-06-11 09:04:13.607'",
+  "serialized": 1781168653607,
+  "serializedBy": "emajumdar",
+  "time": "2026-06-11T09:04:13.1801236Z",
   "status": "PU",
   "title": "Parcs en Scène, Thiais",
   "date": "2017 - ongoing",
@@ -47,7 +47,7 @@
   "dimensions": [
     {
       "label": "Site Area",
-      "value": "15ha",
+      "value": "15 ha",
       "id": "b1a95c526fb24bd39c1595ddf874f284"
     }
   ],
