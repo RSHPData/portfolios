@@ -7,10 +7,10 @@
   ],
   "type": "Project",
   "id": "11550",
-  "serializeDate": "'2026-06-12 14:53:17.091'",
-  "serialized": 1781275997091,
+  "serializeDate": "'2026-06-12 14:55:10.832'",
+  "serialized": 1781276110832,
   "serializedBy": "heatherp",
-  "time": "2026-06-12T14:53:16.7185854Z",
+  "time": "2026-06-12T14:55:10.7880947Z",
   "status": "PU",
   "title": "Metro Tunnel Project",
   "description": "The Metro Tunnel Project in Melbourne is comprises twin nine-kilometre tunnels and five new underground stations.",
@@ -115,6 +115,12 @@
   ],
   "awards": [
     {
+      "date": "2026-06-12",
+      "year": "2026",
+      "award": "Australian Interior Design Award for Public Design - Town Hall Station",
+      "rowId": "42adb2afd811492fba43b8aee2e5f811"
+    },
+    {
       "date": "2026-04-23",
       "year": "2026",
       "award": "National Infrastructure Awards Project of the Year Winner",
@@ -125,12 +131,6 @@
       "year": "2026",
       "award": "Shortlisted for the Australian Institute of Architecture (AIA) awards (public architecture, urban design, sustainability and the Melbourne Prize)",
       "rowId": "a5f52a16434e4106973caaaba096f1e0"
-    },
-    {
-      "date": "2026-06-12",
-      "year": "2026",
-      "award": "Australian Interior Design Award for Public Design - Town Hall Station",
-      "rowId": "42adb2afd811492fba43b8aee2e5f811"
     }
   ],
   "certificates": [
