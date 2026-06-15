@@ -7,10 +7,10 @@
   ],
   "type": "Project",
   "id": "13045",
-  "serializeDate": "'2026-06-08 11:52:54.723'",
-  "serialized": 1780919574723,
-  "serializedBy": "heatherp",
-  "time": "2026-06-08T11:52:54.6973522Z",
+  "serializeDate": "'2026-06-15 14:36:46.936'",
+  "serialized": 1781534206936,
+  "serializedBy": "emajumdar",
+  "time": "2026-06-15T14:36:46.6703686Z",
   "status": "PU",
   "title": "Sąvaržėlė",
   "date": "2022 - under construction",
@@ -60,8 +60,8 @@
   "overview": "<div style =\"break-inside:avoid-column;\"><p>Sąvaržėlė is a 19,200m² International BREEAM Outstanding business centre located within the central business district of Vilnius. Positioned at the meeting point of the city’s historic Old Town and emerging commercial district, the seven-storey development provides more than 16,000m² of Grade A office accommodation alongside retail, hospitality and public amenity spaces.</p><p style='margin-bottom:22px'>Conceived as a catalyst for urban regeneration, the scheme creates a strong physical and social connection between the CBD and the Old Town. A covered public street lined with shops and cafés passes through the building, linking a new public square with landscaped public spaces and encouraging activity throughout the day.</p></div><div style =\"break-inside:avoid-column;margin-top:22px\"><p>The building’s form responds to its context, opening towards Konstitucijos Avenue to the north while creating a more intimate civic space to the south. A dramatic central atrium, animated by open staircases, panoramic lifts and extensive planting, draws natural light deep into the building. Its fully glazed roof incorporates automated natural ventilation and solar-control systems, creating a bright, comfortable environment through the year.</p><p style='margin-bottom:22px'>Office floorplates are carefully planned so that no workspace is more than six metres from a facade, maximising access to daylight and views of vegetation. The landscape strategy draws inspiration from the nearby river, indigenous tree species and local ecology, with landscaped spaces and a roof terrace enhancing biodiversity, wellbeing and outdoor amenity.</p></div><div style =\"break-inside:avoid-column;margin-top:22px\"><p>Environmental performance is supported by passive design principles, energy-efficient chilled beam systems, a high-performance double-skin facade with automated solar shading, rainwater harvesting, and an extensive green roof, contributing to the building’s A++ energy performance.</p></div>",
   "dimensions": [
     {
-      "label": "Area",
-      "value": "19,200m²",
+      "label": "Site Area",
+      "value": "6,430m²",
       "id": "8bb052c0af554b5392fe56a56fbf4997"
     }
   ],
