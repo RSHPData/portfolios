@@ -7,10 +7,10 @@
   ],
   "type": "Project",
   "id": "03610",
-  "serializeDate": "'2026-01-08 15:24:42.750'",
-  "serialized": 1767885882750,
-  "serializedBy": "heatherp",
-  "time": "2026-01-08T15:24:42.7150962Z",
+  "serializeDate": "'2026-06-16 15:00:50.872'",
+  "serialized": 1781622050872,
+  "serializedBy": "emajumdar",
+  "time": "2026-06-16T15:00:50.8498396Z",
   "status": "PU",
   "title": "Maggie’s West London Centre",
   "description": "Maggie’s Centres offer support for people affected by cancer at any stage, be they patients, family members or friends. Their work is in complete support of conventional medical treatment.",
@@ -22,7 +22,7 @@
   "longLat": "-0.221702  / 51.487682",
   "longitude": "-0.221702 ",
   "latitude": "51.487682",
-  "constructionCost": "£ 2.1m",
+  "constructionCost": "£ 2m",
   "team": [
     "Ed Burgess",
     "James Curtis",
@@ -61,7 +61,7 @@
   "dimensions": [
     {
       "label": "Gross Floor Area",
-      "value": "370 m²",
+      "value": "370m²",
       "id": "6cf7ee892bcb4aa580985c5d542899ce"
     }
   ],
