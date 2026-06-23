@@ -1,22 +1,29 @@
 {
+  "name": "Kunming",
+  "url": "mixed-use/kunming-competition",
+  "webStatus": "Publish",
+  "typologies": [
+    "Mixed Use",
+    "Retail"
+  ],
   "type": "Project",
   "id": "06630",
-  "url": "mixed-use/kunming-competition",
-  "serializeDate": "'2022-06-27 15:40:47.461'",
-  "serialized": 1656344447461,
-  "serializedBy": "sreeve",
+  "serializeDate": "'2026-06-23 14:25:42.816'",
+  "serialized": 1782224742816,
+  "serializedBy": "emajumdar",
+  "time": "2026-06-23T14:25:42.7760618Z",
+  "status": "PU",
   "title": "Kunming Competition",
   "description": "The Camellia development is a major mixed-use development located in the centre of Kunming’s CBD. Flanked by the Ginko Department Store and Beijing Road.",
   "date": "2011",
   "client": "Hang Lung Properties",
   "location": "Kunming City, China",
+  "city": "Kunming City",
+  "country": "China",
   "longLat": "102.719863  / 25.039867",
   "longitude": "102.719863 ",
   "latitude": "25.039867",
   "constructionCost": "5,280,365,450 RMB",
-  "typologies": [
-    "Mixed Use"
-  ],
   "team": [
     "Andrea Marini",
     "Ben Warner",
@@ -48,7 +55,7 @@
       "id": "F9654F91827C4D03B9E854"
     }
   ],
-  "overview": "The Camellia development is a major mixed-use development located in the centre of Kunming’s CBD. Flanked by the Ginko Department Store and Beijing Road, a bustling commercial street in the city, the scheme capitalises on new levels of investment to the city’s economy by creating a centralised shopping experience with a commercial tower comprised of over 1.5million square foot of office space, alongside a residential tower offering quality apartments, all brought together by an integrated public realm.\n\nA network of modular steel frames link together floorplates of various scale and proportion to support the diverse set of functions it accommodates. Whilst the expressive structure gives nod to Kunming’s industrial heritage, the flexible framework it creates is designed with the future needs of this evolving hub in mind.\n\n\nThis landmark development is designed to take advantage of the city’s year-round mild weather, where a series of ground level parks, courtyards, roof and sky gardens define a well-connected, permeable public world along with private premises, with an aspiration to create a 24-hour living place, full of activities in daytime and evening, in an accessible, safe environment with an emphasis on well-being.\n\nThe scheme strives to be the cultivating ground for the rich diversity of native flora and fauna with active encouragement of birds creating a development that is a centre for sustainable excellence.",
+  "overview": "<div><p>The Camellia development is a major mixed-use development located in the centre of Kunming’s CBD. Flanked by the Ginko Department Store and Beijing Road, a bustling commercial street in the city, the scheme capitalises on new levels of investment to the city’s economy by creating a centralised shopping experience with a commercial tower comprised of over 1.5million square foot of office space, alongside a residential tower offering quality apartments, all brought together by an integrated public realm.</p><p>A network of modular steel frames link together floorplates of various scale and proportion to support the diverse set of functions it accommodates. Whilst the expressive structure gives nod to Kunming’s industrial heritage, the flexible framework it creates is designed with the future needs of this evolving hub in mind.</p><p>This landmark development is designed to take advantage of the city’s year-round mild weather, where a series of ground level parks, courtyards, roof and sky gardens define a well-connected, permeable public world along with private premises, with an aspiration to create a 24-hour living place, full of activities in daytime and evening, in an accessible, safe environment with an emphasis on well-being.</p><p>The scheme strives to be the cultivating ground for the rich diversity of native flora and fauna with active encouragement of birds creating a development that is a centre for sustainable excellence.</p></div>",
   "dimensions": [
     {
       "label": "Site Area",
