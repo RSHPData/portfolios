@@ -1,22 +1,29 @@
 {
+  "name": "Centre Commercial St Herblain",
+  "url": "industrial/centre-commercial-st-herblain/",
+  "webStatus": "Publish",
+  "typologies": [
+    "Industrial",
+    "Retail"
+  ],
   "type": "Project",
   "id": "00370",
-  "url": "industrial/centre-commercial-st-herblain/",
-  "serializeDate": "'2022-06-27 15:39:43.585'",
-  "serialized": 1656344383585,
-  "serializedBy": "sreeve",
+  "serializeDate": "'2026-06-23 14:26:56.414'",
+  "serialized": 1782224816414,
+  "serializedBy": "emajumdar",
+  "time": "2026-06-23T14:26:56.3891417Z",
+  "status": "PU",
   "title": "Centre Commercial St Herblain",
   "description": "The client wanted a low-cost building in record time - one which projected the dynamic retailing operation it was to contain and could at the same time be adapted to other sites.",
   "date": "1986-1987",
   "client": "Groupe Rhodanien de Construction",
   "location": "Nantes, France",
+  "city": "Nantes",
+  "country": "France",
   "longLat": "-1.62682  / 47.22456",
   "longitude": "-1.62682 ",
   "latitude": "47.22456",
   "constructionCost": "£6.3 million",
-  "typologies": [
-    "Industrial"
-  ],
   "team": [
     "Kieran Breen",
     "Philippa Browning",
@@ -34,7 +41,7 @@
   "partners": [
     "Richard Rogers"
   ],
-  "overview": "The shopping centre at St. Herblain, near Nantes, was built to a very strict brief. The client wanted a low-cost building in record time - one which projected the dynamic retailing operation it was to contain and could at the same time be adapted to other sites. A simple and clear architectural statement was required.\n\nThe client was familiar with the <a href=\"projects/industrial/fleetguard/\">Fleetguard</a> factory and the suspended structure of Fleetguard re-emerged at St. Herblain, with a forest of slender masts giving what could have been a basic shed a genuine architectural grace. Inside, the plan is remarkably clear and well organized.\n\n\nThe Centre is entered, as at Fleetguard, by way of a steel bridge, leading into a double-height reception area. A strong use of colour adds to the appeal of the building, while exposed servicing provides visual interest inside. The lightness of the construction and the provision of generous quantities of daylight make the Centre a clear counterpoint to the typical cluttered, claustrophobic out-of-town shopping centre.\n\nAt only 21,000 m², St. Herblain is a modest masterpiece, clear and logical, achieved at low cost.",
+  "overview": "<div><p>The shopping centre at St. Herblain, near Nantes, was built to a very strict brief. The client wanted a low-cost building in record time - one which projected the dynamic retailing operation it was to contain and could at the same time be adapted to other sites. A simple and clear architectural statement was required.</p><p>The client was familiar with the <a href=\"projects/industrial/fleetguard/\">Fleetguard</a> factory and the suspended structure of Fleetguard re-emerged at St. Herblain, with a forest of slender masts giving what could have been a basic shed a genuine architectural grace. Inside, the plan is remarkably clear and well organized.</p><p>The Centre is entered, as at Fleetguard, by way of a steel bridge, leading into a double-height reception area. A strong use of colour adds to the appeal of the building, while exposed servicing provides visual interest inside. The lightness of the construction and the provision of generous quantities of daylight make the Centre a clear counterpoint to the typical cluttered, claustrophobic out-of-town shopping centre.</p><p>At only 21,000 m², St. Herblain is a modest masterpiece, clear and logical, achieved at low cost.</p></div>",
   "dimensions": [
     {
       "label": "Area",
