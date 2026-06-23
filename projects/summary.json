@@ -21,17 +21,6 @@
     "typology": "Culture & Leisure"
   },
   {
-    "projectId": "13750",
-    "project": "Casablanca Airport",
-    "date": "2024",
-    "endDate": "ongoing",
-    "location": "Casablanca",
-    "country": "Morocco",
-    "client": "Office National des Aéroports (ONDA)",
-    "longLat": "-7.5829 / 33.3705",
-    "typology": "Transport"
-  },
-  {
     "projectId": "13575",
     "project": "Central China International Convention and Exhibition Centre (Phase 2)",
     "date": "2024",
@@ -41,6 +30,17 @@
     "client": "Henan Airport Construction & Development Co., LTD",
     "longLat": "113.9107222222 / 34.4898611111",
     "typology": "Culture & Leisure"
+  },
+  {
+    "projectId": "13750",
+    "project": "New terminal at Mohammed V International Airport",
+    "date": "2024",
+    "endDate": "ongoing",
+    "location": "Casablanca",
+    "country": "Morocco",
+    "client": "Office National des Aéroports (ONDA)",
+    "longLat": "-7.5829 / 33.3705",
+    "typology": "Transport"
   },
   {
     "projectId": "13230",
