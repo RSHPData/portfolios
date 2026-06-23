@@ -7,10 +7,10 @@
   ],
   "type": "Project",
   "id": "11550",
-  "serializeDate": "'2026-06-23 11:07:26.878'",
-  "serialized": 1782212846878,
+  "serializeDate": "'2026-06-23 13:18:31.244'",
+  "serialized": 1782220711244,
   "serializedBy": "heatherp",
-  "time": "2026-06-23T11:07:26.8347681Z",
+  "time": "2026-06-23T13:18:30.9914922Z",
   "status": "PU",
   "title": "Metro Tunnel Project",
   "description": "The Metro Tunnel Project in Melbourne is comprises twin nine-kilometre tunnels and five new underground stations.",
@@ -111,6 +111,91 @@
       "label": "Wayfinding",
       "value": "Maynard",
       "id": "b0263df7e3a44ba29b9d0cd842c41033"
+    },
+    {
+      "label": "PPP Partner",
+      "value": "Project Co",
+      "id": "6d725a25b91f436b8dfad97dda05622a"
+    },
+    {
+      "label": "Design & Construct Subcontractor",
+      "value": "Cross Yarra Partnership (CYP)",
+      "id": "9057a0cf63a244cbb843d5039a4228c2"
+    },
+    {
+      "label": "Project Manager",
+      "value": "Cross Yarra Partnership (CYP)",
+      "id": "dea10c93bbd2488fbba5058131378c0c"
+    },
+    {
+      "label": "Structural",
+      "value": "Arcadis/Arup/WSP Design Design JV",
+      "id": "17c074ce17b142a098a667c408b9061e"
+    },
+    {
+      "label": "Civil",
+      "value": "Arcadis/Arup/WSP Design Design JV",
+      "id": "51c4ee1c7337420e99b0370b1fb8690b"
+    },
+    {
+      "label": "Mechanical",
+      "value": "Arcadis/Arup/WSP Design Design JV",
+      "id": "b51306f762b145fa9acab47e860d3077"
+    },
+    {
+      "label": "Services",
+      "value": "Arcadis/Arup/WSP Design Design JV",
+      "id": "23008ef8e2d949918eca1afad5bd427d"
+    },
+    {
+      "label": "Electrical",
+      "value": "Arcadis/Arup/WSP Design Design JV",
+      "id": "61ba33476f684070826923797093aca1"
+    },
+    {
+      "label": "Hydraulic",
+      "value": "Arcadis/Arup/WSP Design Design JV",
+      "id": "4745ca1072064ddfa2c4ae55eef41db1"
+    },
+    {
+      "label": "Geothermal",
+      "value": "Arcadis/Arup/WSP Design Design JV",
+      "id": "70e93cd729b949309135c7976cc8b1af"
+    },
+    {
+      "label": "Acoustic",
+      "value": "Arcadis/Arup/WSP Design Design JV",
+      "id": "8312442883774e939de16ca934a62b1c"
+    },
+    {
+      "label": "Landscape Design",
+      "value": "Hassell",
+      "id": "ef459eb12e2f466cb1b3dc310c33fbb4"
+    },
+    {
+      "label": "Strategic Planning, Urban Design, and Urban Economics",
+      "value": "Aurecon, Jacobs and Mott MacDonald Joint Venture (AJM-JV)",
+      "id": "321d3833a1c0476283ab125af1604070"
+    },
+    {
+      "label": "Heritage and Built Context Advice",
+      "value": "Purcell",
+      "id": "50cf5a17fa0841d880509fa3c4a7b4ac"
+    },
+    {
+      "label": "Technical, planning and engagement advisors",
+      "value": "Aurecon",
+      "id": "0bc0f8f096ae4818a20c267c284218a9"
+    },
+    {
+      "label": "Creative Program",
+      "value": "T Projects",
+      "id": "a157453765de4e5e8744f265a4e28614"
+    },
+    {
+      "label": "Indigenous cultural engagement",
+      "value": "Greenshoot Consulting",
+      "id": "71cc6fc1e2cb45718367a57d4086ce0e"
     }
   ],
   "awards": [
