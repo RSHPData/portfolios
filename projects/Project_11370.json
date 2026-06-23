@@ -1,21 +1,27 @@
 {
-  "type": "Project",
-  "id": "11370",
-  "url": "410:office/the-hub-30-bay-street",
-  "serializeDate": "'2022-07-18 12:57:03.097'",
-  "serialized": 1658149023097,
-  "serializedBy": "sreeve",
-  "title": "The HUB, 30 Bay Street",
-  "description": "Named for its proximity to Harbour, Union Station and Bay Street, the HUB will be one of the tallest commercial towers in downtown Toronto’s vibrant South Core neighbourhood.",
-  "date": "2017-",
-  "client": "Oxford Properties",
-  "location": "Toronto, Canada",
-  "longLat": "-79.3806469  / 43.6420533",
-  "longitude": "-79.3806469 ",
-  "latitude": "43.6420533",
+  "name": "30 Bay Street Toronto",
+  "url": "office/the-hub-30-bay-street",
+  "webStatus": "Publish",
   "typologies": [
     "Office"
   ],
+  "type": "Project",
+  "id": "11370",
+  "serializeDate": "'2026-06-23 11:40:43.536'",
+  "serialized": 1782214843536,
+  "serializedBy": "emajumdar",
+  "time": "2026-06-23T11:40:43.4819504Z",
+  "status": "PU",
+  "title": "The HUB, 30 Bay Street",
+  "description": "Named for its proximity to Harbour, Union Station and Bay Street, the HUB will be one of the tallest commercial towers in downtown Toronto’s vibrant South Core neighbourhood.",
+  "date": "2017 - ongoing",
+  "client": "Oxford Properties",
+  "location": "Toronto, Canada",
+  "city": "Toronto",
+  "country": "Canada",
+  "longLat": "-79.3806469  / 43.6420533",
+  "longitude": "-79.3806469 ",
+  "latitude": "43.6420533",
   "team": [
     "Jaime Cunha",
     "Jon Garmendia",
@@ -49,7 +55,7 @@
       "id": "4521C50ECDC8461C9CB0D1"
     }
   ],
-  "overview": "Named for its proximity to Harbour, Union Station and Bay Street, the HUB will be one of the tallest commercial towers in downtown Toronto’s vibrant South Core neighbourhood, located close to the shores of Lake Ontario and the CBD. The scheme creates a contemporary dialogue with its historical context, allowing the heritage building breathing space to coexist with a large new office tower development and maintaining integrity within the overall urban configuration.\n\nThe 1917 six-storey Toronto Harbour Commission Building currently occupies a significant portion of the site. This challenging constraint inspired the new 60-storey tower’s unique, bridge-like structure: Four pairs of mega-columns and diagonal steel hangers suspend the entire volume of the office tower up and over the existing property, allowing this high-rise to touch the ground with a minimal footprint. This structure preserves the integrity of the heritage building, but also gives way for a square centre-core tower with optimised lease spans and flexible, column-free, seemingly floating floorplates visually expressed through a clear glazed façade.\n\n\nThe cathedral-like, transparent reception space engages both public and private, offering a range of amenities with direct link to Toronto’s transport network and allowing pedestrians to flow through the building seamlessly. The surrounding ground plane features public art, interactive landscape and water features that respond to the region’s dramatic climate and respectfully embrace the heritage building, whilst creating a compelling public realm that is unique, inviting and accessible.\n\nA distinctive rooftop lantern and a number of enclosed sky gardens at the tower corners captivate the vistas of Lake Ontario, the CN tower and panoramic views across the city and beyond, whilst redefining the city’s ever-evolving skyline.\n\n\nEnvironmental credentials include a CaGBC zero carbon pilot application and striving to achieve LEED Platinum status, through the provision of district heating, deep-lake cooling technology, roof mounted photovoltaic panels and a variety of other sustainable design features to minimise the building’s environmental impact.",
+  "overview": "<div><p>Named for its proximity to Harbour, Union Station and Bay Street, the HUB will be one of the tallest commercial towers in downtown Toronto’s vibrant South Core neighbourhood, located close to the shores of Lake Ontario and the CBD. The scheme creates a contemporary dialogue with its historical context, allowing the heritage building breathing space to coexist with a large new office tower development and maintaining integrity within the overall urban configuration.</p><p>The 1917 six-storey Toronto Harbour Commission Building currently occupies a significant portion of the site. This challenging constraint inspired the new 60-storey tower’s unique, bridge-like structure: Four pairs of mega-columns and diagonal steel hangers suspend the entire volume of the office tower up and over the existing property, allowing this high-rise to touch the ground with a minimal footprint. This structure preserves the integrity of the heritage building, but also gives way for a square centre-core tower with optimised lease spans and flexible, column-free, seemingly floating floorplates visually expressed through a clear glazed façade.</p><p>The cathedral-like, transparent reception space engages both public and private, offering a range of amenities with direct link to Toronto’s transport network and allowing pedestrians to flow through the building seamlessly. The surrounding ground plane features public art, interactive landscape and water features that respond to the region’s dramatic climate and respectfully embrace the heritage building, whilst creating a compelling public realm that is unique, inviting and accessible.</p><p>A distinctive rooftop lantern and a number of enclosed sky gardens at the tower corners captivate the vistas of Lake Ontario, the CN tower and panoramic views across the city and beyond, whilst redefining the city’s ever-evolving skyline.</p><p>Environmental credentials include a CaGBC zero carbon pilot application and striving to achieve LEED Platinum status, through the provision of district heating, deep-lake cooling technology, roof mounted photovoltaic panels and a variety of other sustainable design features to minimise the building’s environmental impact.</p></div>",
   "dimensions": [
     {
       "label": "Site Area",
