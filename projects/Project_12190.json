@@ -7,12 +7,12 @@
   ],
   "type": "Project",
   "id": "12190",
-  "serializeDate": "'2026-06-23 09:49:42.566'",
-  "serialized": 1782208182566,
-  "serializedBy": "emajumdar",
-  "time": "2026-06-23T09:49:42.5385252Z",
+  "serializeDate": "'2026-06-26 09:22:02.734'",
+  "serialized": 1782465722734,
+  "serializedBy": "heatherp",
+  "time": "2026-06-26T09:22:02.3610583Z",
   "status": "PU",
-  "title": "Shimen 1st Road Tower",
+  "title": "China Resources Building (Shanghai)",
   "date": "2019 - under construction",
   "client": "China Resources Land Limited",
   "location": "Shanghai, China",
@@ -121,6 +121,20 @@
       "label": "Lighting Consultant",
       "value": "BPI",
       "id": "W02jKgD5XUmb8zBnPpl4ag"
+    }
+  ],
+  "awards": [
+    {
+      "date": "2026-06-26",
+      "year": "2026",
+      "award": "Council on Vertical Urbanism China - Winner of the Best Building",
+      "rowId": "e7415a9a517446cf975c984768af7580"
+    },
+    {
+      "date": "2026-06-26",
+      "year": "2026",
+      "award": "Council on Vertical Urbanism China - Winner Best Office Building",
+      "rowId": "c529c304d10e4206967ad5630a75f282"
     }
   ]
 }
