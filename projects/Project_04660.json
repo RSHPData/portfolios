@@ -1,22 +1,28 @@
 {
+  "name": "Wood Wharf",
+  "url": "masterplanning/wood-wharf",
+  "webStatus": "Publish",
+  "typologies": [
+    "Masterplanning"
+  ],
   "type": "Project",
   "id": "04660",
-  "url": "masterplanning/wood-wharf",
-  "serializeDate": "'2022-06-27 15:40:27.903'",
-  "serialized": 1656344427903,
-  "serializedBy": "sreeve",
+  "serializeDate": "'2026-07-03 16:21:32.343'",
+  "serialized": 1783095692343,
+  "serializedBy": "heatherp",
+  "time": "2026-07-03T16:21:32.305187Z",
+  "status": "PU",
   "title": "Wood Wharf",
   "description": "Wood Wharf is a 671,000m² high rise, mixed use development located on a compact but spectacular site to the east of Canary Wharf.",
-  "date": "2004-2012",
+  "date": "2004 - 2012",
   "client": "Wood Wharf (General Partner) Ltd",
   "location": "London, UK",
+  "city": "London",
+  "country": "UK",
   "longLat": "-0.013403  / 51.503062",
   "longitude": "-0.013403 ",
   "latitude": "51.503062",
   "constructionCost": "Approx £2.5billion",
-  "typologies": [
-    "Masterplanning"
-  ],
   "team": [
     "Julian Chen",
     "Daniel Crane",
@@ -45,7 +51,7 @@
   "leaders": [
     "Andrew Tyley"
   ],
-  "overview": "Wood Wharf is a 671,000m² high rise, mixed use development located on a compact but spectacular site to the east of Canary Wharf.\n\nThe site is surrounded on three sides by water, and the proposed design focuses on greater access and enjoyment of the water’s edge for workers, residents and visitors. The development comprises of commercial, residential and hotel elements, grouped around a central square and exploiting the surrounding waterfront. At the heart of the scheme is a pedestrian only high street linking the local community with Canary Wharf and the existing and proposed new transport facilities that serve the Isle of Dogs. A new park will be created on the eastern side of the development adjacent to the local residential community. A series of new residential buildings are planned along the length of the southern edge of the site linking the commercial areas west of the canal with the park on the east\n\nThe visual corridor that exists along the south dock in Canary Wharf is extended through to the site by the creation of the central square. The urban composition of Wood Wharf continues the evolving Isle of Dogs metropolitan high-rise ensemble through to the east where its finer grain and residential mix allows a cascading skyline to link down to the residential neighbourhood to the east.\n\n\nThe site is served by excellent public transport systems with Jubilee Line, DLR and local bus services within a five-minute walk and will be further served by future Crossrail. These connections allow Wood Wharf to be pedestrian prioritised, with no through roads, restricted car access and limited parking.\n\nA distinctive strategy has been developed for the site based on the expected energy consumption, carbon emissions, integrated renewable energy opportunities and ambient energy resources of the Wood Wharf scheme. The principal component of this strategy is the use of a district cooling system using the thermal capacity of the surrounding dock water, enabling ‘free cooling’ for a substantial proportion of the year. All buildings will be designed, as far as possible, to exceed the requirements of Part L of the Building Regulations.\n\nAn Outline Planning Application lodged in 2008 was one of the largest applications by development area in the United Kingdom providing some of the highest density urban living and working in Europe.\n\nIn 2012 the site was the subject of a new architectural competition, responding to a change in demand for office and residential accommodation.",
+  "overview": "<div><p>Wood Wharf is a 671,000m² high rise, mixed use development located on a compact but spectacular site to the east of Canary Wharf.</p><p>The site is surrounded on three sides by water, and the proposed design focuses on greater access and enjoyment of the water’s edge for workers, residents and visitors. The development comprises of commercial, residential and hotel elements, grouped around a central square and exploiting the surrounding waterfront. At the heart of the scheme is a pedestrian only high street linking the local community with Canary Wharf and the existing and proposed new transport facilities that serve the Isle of Dogs. A new park will be created on the eastern side of the development adjacent to the local residential community. A series of new residential buildings are planned along the length of the southern edge of the site linking the commercial areas west of the canal with the park on the east</p><p>The visual corridor that exists along the south dock in Canary Wharf is extended through to the site by the creation of the central square. The urban composition of Wood Wharf continues the evolving Isle of Dogs metropolitan high-rise ensemble through to the east where its finer grain and residential mix allows a cascading skyline to link down to the residential neighbourhood to the east.</p><p>The site is served by excellent public transport systems with Jubilee Line, DLR and local bus services within a five-minute walk and will be further served by future Crossrail. These connections allow Wood Wharf to be pedestrian prioritised, with no through roads, restricted car access and limited parking.</p><p>A distinctive strategy has been developed for the site based on the expected energy consumption, carbon emissions, integrated renewable energy opportunities and ambient energy resources of the Wood Wharf scheme. The principal component of this strategy is the use of a district cooling system using the thermal capacity of the surrounding dock water, enabling ‘free cooling’ for a substantial proportion of the year. All buildings will be designed, as far as possible, to exceed the requirements of Part L of the Building Regulations.</p><p>An Outline Planning Application lodged in 2008 was one of the largest applications by development area in the United Kingdom providing some of the highest density urban living and working in Europe.</p><p>In 2012 the site was the subject of a new architectural competition, responding to a change in demand for office and residential accommodation.</p></div>",
   "dimensions": [
     {
       "label": "Site area",
