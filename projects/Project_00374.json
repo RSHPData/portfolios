@@ -7,14 +7,14 @@
   ],
   "type": "Project",
   "id": "00374",
-  "serializeDate": "'2026-06-11 09:42:28.891'",
-  "serialized": 1781170948891,
-  "serializedBy": "emajumdar",
-  "time": "2026-06-11T09:42:28.6607555Z",
+  "serializeDate": "'2026-07-03 15:20:54.310'",
+  "serialized": 1783092054310,
+  "serializedBy": "heatherp",
+  "time": "2026-07-03T15:20:54.2881979Z",
   "status": "PU",
   "title": "Reuters Data Centre",
   "description": "This 28,000m² building was intended as the first phase of a speculative office scheme set around a 19th-century restored graving dock near the Isle of Dogs.",
-  "date": "1987-1992",
+  "date": "1987 - 1992",
   "client": "Rosehaugh Stanhope Developments plc / Reuters",
   "location": "London, UK",
   "city": "London",
@@ -42,7 +42,7 @@
     "Graham Stirk",
     "Andrew Morris"
   ],
-  "overview": "<div><p>This 28,000m² building was intended as the first phase of a speculative office scheme set around a 19th-century restored graving dock near the Isle of Dogs. In the event, the other three phases of the development were not built. Phase 1 was pre-let as a ‘shell-and-core’ building to the news agency Reuters, for use as a secure data centre. The practice was also commissioned to design a separate restaurant/recreation block close to the old dockside.</p><p>The building is used for processing data and a high degree of artificial servicing was required. The internal space is divided between offices and plant rooms full of computers. Scope for rearranging the spaces and bringing in heavy machinery had to be built into the scheme.</p><p>An interchangeable cladding system of solid and glazed panels reflects the flexibility of the interior. To maintain flexibility, lifts and staircases are concentrated in perimeter towers. Main plant is placed at roof level and services are distributed downwards through internal cores. Cranes are made into features and colour used to denote the various functions. Though essentially a ‘functional’ building – rigorous, economical and rational – constructed to a strict time schedule. Since the building opened, it has undergone a number of refits as both technology has changed and alternative uses are housed. The strength of the building is in its enduring ability to change to meet contemporary demands.</p></div>",
+  "overview": "<div><p>This 28,000m² building was intended as the first phase of a speculative office scheme set around a 19th-century restored graving dock near the Isle of Dogs. In the event, the other three phases of the development were not built. Phase 1 was pre-let as a ‘shell-and-core’ building to the news agency Reuters, for use as a secure data centre. The practice was also commissioned to design a separate restaurant/recreation block close to the old dockside.</p><p>The building is used for processing data and a high degree of artificial servicing was required. The internal space is divided between offices and plant rooms full of computers. Scope for rearranging the spaces and bringing in heavy machinery had to be built into the scheme.</p><p>An interchangeable cladding system of solid and glazed panels reflects the flexibility of the interior. To maintain flexibility, lifts and staircases are concentrated in perimeter towers. Main plant is placed at roof level and services are distributed downwards through internal cores. Cranes are made into features and colour used to denote the various functions. Though essentially a ‘functional’ building – rigorous, economical and rational – constructed to a strict time schedule, it has undergone a number of refits since opening, as both technology has changed and alternative uses are housed.  The strength of the building is in its enduring ability to change to meet contemporary demands.</p></div>",
   "dimensions": [
     {
       "label": "Gross Floor Area",
