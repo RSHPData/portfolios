@@ -7,10 +7,10 @@
   ],
   "type": "Project",
   "id": "12190",
-  "serializeDate": "'2026-07-07 12:15:44.955'",
-  "serialized": 1783426544955,
+  "serializeDate": "'2026-07-07 14:35:26.865'",
+  "serialized": 1783434926865,
   "serializedBy": "heatherp",
-  "time": "2026-07-07T12:15:44.9147631Z",
+  "time": "2026-07-07T14:35:26.5654987Z",
   "status": "PU",
   "title": "China Resources Building (Shanghai)",
   "date": "2019 - 2026",
@@ -69,12 +69,12 @@
   ],
   "partners": [
     "Richard Paul",
-    "Lennart Grut",
     "Graham Stirk",
-    "Stephen Light"
+    "Ben Warner"
   ],
   "leaders": [
-    "Richard Paul"
+    "Richard Black",
+    "Shuo Qian"
   ],
   "heights": [
     {
