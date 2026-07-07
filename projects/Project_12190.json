@@ -7,10 +7,10 @@
   ],
   "type": "Project",
   "id": "12190",
-  "serializeDate": "'2026-06-30 16:46:05.384'",
-  "serialized": 1782837965384,
+  "serializeDate": "'2026-07-07 12:14:14.804'",
+  "serialized": 1783426454804,
   "serializedBy": "heatherp",
-  "time": "2026-06-30T16:46:04.9373991Z",
+  "time": "2026-07-07T12:14:14.4889011Z",
   "status": "PU",
   "title": "China Resources Building (Shanghai)",
   "date": "2019 - 2026",
@@ -88,11 +88,11 @@
       "id": "2036EF6A741F43818B3E68"
     }
   ],
-  "overview": "<div><p>The China Resources Building (Shanghai) is a mixed-use commercial development located on Shimen First Road in Jing’an District, Shanghai. The project comprises a 180 m tall, 38-storey office tower positioned above a retail podium with a total building area of 89,000 m². It is directly connected to the concourse of three adjacent metro lines and is located beside the historic Zhang Garden precinct.</p><p>The building is organised to improve pedestrian circulation through the site. Instead of locating the main office lobby at ground level, the lobby is elevated above the retail podium, allowing the ground plane to remain open for public movement between surrounding streets and the metro network. This arrangement creates a direct internal connection between public transport, retail spaces and office functions.</p><p>The tower is set back from Zhang Garden to maintain visual connections with the surrounding heritage area and to reduce the building’s perceived scale at street level. The facade incorporates high-performance glazing and external shading elements that improve solar control while responding to the colour and materiality of nearby buildings.  Office floors provide flexible floorplates that can accommodate different tenancy sizes. The building also includes landscaped roof gardens, access to natural daylight, and sustainable design measures such as solar shading and efficient resource management to improve environmental performance.</p><p>The building demonstrates how commercial office development can be integrated with public transport infrastructure, retail activity, and an adjacent heritage precinct through planning, circulation, and environmental design strategies.</p></div>",
+  "overview": "<div><p>The China Resources Building (Shanghai) is a mixed-use commercial development located on Shimen First Road in Jing’an District, Shanghai. The project comprises a 186 m tall, 38-storey office tower positioned above a retail podium with a total building area of 89,000 m². It is directly connected to the concourse of three adjacent metro lines and is located beside the historic Zhang Garden precinct.</p><p>The building is organised to improve pedestrian circulation through the site. Instead of locating the main office lobby at ground level, the lobby is elevated above the retail podium, allowing the ground plane to remain open for public movement between surrounding streets and the metro network. This arrangement creates a direct internal connection between public transport, retail spaces and office functions.</p><p>The tower is set back from Zhang Garden to maintain visual connections with the surrounding heritage area and to reduce the building’s perceived scale at street level. The facade incorporates high-performance glazing and external shading elements that improve solar control while responding to the colour and materiality of nearby buildings.  Office floors provide flexible floorplates that can accommodate different tenancy sizes. The building also includes landscaped roof gardens, access to natural daylight, and sustainable design measures such as solar shading and efficient resource management to improve environmental performance.</p><p>The building demonstrates how commercial office development can be integrated with public transport infrastructure, retail activity, and an adjacent heritage precinct through planning, circulation, and environmental design strategies.</p></div>",
   "dimensions": [
     {
       "label": "Total Building Area",
-      "value": "89000m²",
+      "value": "89,000m²",
       "id": "BEIpaJJvrkCz61vAwn+vcw"
     }
   ],
@@ -121,6 +121,11 @@
       "label": "Lighting Consultant",
       "value": "BPI",
       "id": "W02jKgD5XUmb8zBnPpl4ag"
+    },
+    {
+      "label": "Facade Consultant",
+      "value": "EFC",
+      "id": "bd80cdec478245618a94779a2123768b"
     }
   ],
   "awards": [
@@ -135,6 +140,28 @@
       "year": "2026",
       "award": "Council on Vertical Urbanism China - Winner Best Office Building",
       "rowId": "c529c304d10e4206967ad5630a75f282"
+    }
+  ],
+  "certificates": [
+    {
+      "authority": "LEED",
+      "rating": "v4 BD+C Platinum",
+      "rowId": "57904e465c094ef3a0ce21bf46c39f71"
+    },
+    {
+      "authority": "WELL",
+      "rating": "v2 Health Building Gold",
+      "rowId": "45daaa5436fe4ee49e5bb12fd72b10a5"
+    },
+    {
+      "authority": "SITES",
+      "rating": "Sustainable Site Gold",
+      "rowId": "975310719ea34675907d7fdd145ffe8d"
+    },
+    {
+      "authority": "Green Building",
+      "rating": "2 Stars",
+      "rowId": "3d5888e8312442c3b7e00654fb16cf34"
     }
   ]
 }
