@@ -7,10 +7,10 @@
   ],
   "type": "Project",
   "id": "06130",
-  "serializeDate": "'2026-06-16 14:43:24.080'",
-  "serialized": 1781621004080,
-  "serializedBy": "emajumdar",
-  "time": "2026-06-16T14:43:24.0335638Z",
+  "serializeDate": "'2026-07-15 11:09:53.530'",
+  "serialized": 1784113793530,
+  "serializedBy": "heatherp",
+  "time": "2026-07-15T11:09:53.217255Z",
   "status": "PU",
   "title": "Cancer Centre at Guy’s Hospital",
   "description": "The Cancer Centre at Guy’s brings together all oncology services from across Guy’s and St Thomas hospital, integrating research and treatment services within the same building.",
@@ -56,7 +56,8 @@
     "Andrew Morris"
   ],
   "leaders": [
-    "Steve Martin"
+    "Steve Martin",
+    "Leonardo Pelleriti"
   ],
   "heights": [
     {
