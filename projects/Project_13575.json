@@ -7,10 +7,10 @@
   ],
   "type": "Project",
   "id": "13575",
-  "serializeDate": "'2026-06-03 10:33:55.226'",
-  "serialized": 1780482835226,
+  "serializeDate": "'2026-07-15 08:28:17.095'",
+  "serialized": 1784104097095,
   "serializedBy": "heatherp",
-  "time": "2026-06-03T10:33:49.4211054Z",
+  "time": "2026-07-15T08:28:16.7105605Z",
   "status": "PU",
   "title": "Central China International Convention and Exhibition Centre (Phase 2)",
   "date": "2024 - 2025",
@@ -51,7 +51,8 @@
     "Wenchao Zhou"
   ],
   "partners": [
-    "Richard Paul"
+    "Richard Paul",
+    "Ben Warner"
   ],
   "leaders": [
     "Tadashi Arai"
