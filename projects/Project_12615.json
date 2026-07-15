@@ -7,10 +7,10 @@
   ],
   "type": "Project",
   "id": "12615",
-  "serializeDate": "'2026-06-16 15:43:37.484'",
-  "serialized": 1781624617484,
-  "serializedBy": "emajumdar",
-  "time": "2026-06-16T15:43:37.4421143Z",
+  "serializeDate": "'2026-07-15 11:24:43.682'",
+  "serialized": 1784114683682,
+  "serializedBy": "heatherp",
+  "time": "2026-07-15T11:24:43.6526379Z",
   "status": "PU",
   "title": "Qianhai Financial Holdings Building",
   "date": "2020 - under construction",
@@ -47,7 +47,8 @@
     "Wenchao Zhou"
   ],
   "partners": [
-    "Ivan Harbour"
+    "Ivan Harbour",
+    "Ben Warner"
   ],
   "leaders": [
     "Simon Tonks"
