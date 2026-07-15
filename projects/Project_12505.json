@@ -7,10 +7,10 @@
   ],
   "type": "Project",
   "id": "12505",
-  "serializeDate": "'2026-01-15 12:35:11.941'",
-  "serialized": 1768480511941,
+  "serializeDate": "'2026-07-15 11:23:27.708'",
+  "serialized": 1784114607708,
   "serializedBy": "heatherp",
-  "time": "2026-01-15T12:35:11.9086173Z",
+  "time": "2026-07-15T11:23:27.6595482Z",
   "status": "PU",
   "title": "Hetao Alpha",
   "date": "2020 - under construction",
@@ -56,7 +56,8 @@
     "Wenchao Zhou"
   ],
   "partners": [
-    "Richard Paul"
+    "Richard Paul",
+    "Ben Warner"
   ],
   "leaders": [
     "Marco Tessaro"
