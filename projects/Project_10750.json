@@ -7,14 +7,14 @@
   ],
   "type": "Project",
   "id": "10750",
-  "serializeDate": "'2025-10-06 18:15:53.702'",
-  "serialized": 1759774553702,
+  "serializeDate": "'2026-07-15 11:26:02.246'",
+  "serialized": 1784114762246,
   "serializedBy": "heatherp",
-  "time": "2025-10-06T18:15:53.6773919Z",
+  "time": "2026-07-15T11:26:02.2106279Z",
   "status": "PU",
   "title": "Qiantan Shanghai Pudong",
   "description": "Qiantan Shanghai Pudong is situated within the Qiantan District in Pudong, Shanghai, fronting the Huangpu River.",
-  "date": "2015 - under construction",
+  "date": "2015 - 2025",
   "client": "Gree Real Estate",
   "location": "Shanghai, China",
   "city": "Shanghai",
@@ -47,7 +47,8 @@
     "Ben Warner"
   ],
   "partners": [
-    "Richard Rogers"
+    "Richard Rogers",
+    "Ben Warner"
   ],
   "leaders": [
     "Stephen Spence"
