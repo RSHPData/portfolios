@@ -7,10 +7,10 @@
   ],
   "type": "Project",
   "id": "05950",
-  "serializeDate": "'2024-02-02 16:21:18.897'",
-  "serialized": 1706890878897,
+  "serializeDate": "'2026-07-15 11:27:34.453'",
+  "serialized": 1784114854453,
   "serializedBy": "heatherp",
-  "time": "2024-02-02T16:21:18.8659187Z",
+  "time": "2026-07-15T11:27:34.4204237Z",
   "status": "PU",
   "title": "The River ONE",
   "description": "Located on the banks of Hangzhou Bay, two stepped towers mark the southwest corner of the Chinese city of Ningbo’s newest district, created as part of a 2008 masterplan.",
@@ -44,7 +44,8 @@
     "Ben Warner"
   ],
   "partners": [
-    "Richard Paul"
+    "Richard Paul",
+    "Ben Warner"
   ],
   "leaders": [
     "Ben Warner"
