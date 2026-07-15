@@ -7,10 +7,10 @@
   ],
   "type": "Project",
   "id": "11270",
-  "serializeDate": "'2026-02-25 09:57:23.295'",
-  "serialized": 1772013443295,
+  "serializeDate": "'2026-07-15 11:25:17.313'",
+  "serialized": 1784114717313,
   "serializedBy": "heatherp",
-  "time": "2026-02-25T09:57:22.9825925Z",
+  "time": "2026-07-15T11:25:17.2847719Z",
   "status": "PU",
   "title": "Oriental One",
   "description": "Oriental One is a mixed-use development that combines places to live with a range of social spaces creating a new lively contemporary mixed-use destination in Shanghai, adding to the city’s dramatic skyline.",
@@ -35,7 +35,8 @@
     "Wenchao Zhou"
   ],
   "partners": [
-    "Richard Paul"
+    "Richard Paul",
+    "Ben Warner"
   ],
   "leaders": [
     "Richard Paul"
