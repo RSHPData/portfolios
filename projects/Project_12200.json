@@ -7,13 +7,13 @@
   ],
   "type": "Project",
   "id": "12200",
-  "serializeDate": "'2025-04-22 13:25:08.691'",
-  "serialized": 1745328308691,
+  "serializeDate": "'2026-08-13 17:42:58.076'",
+  "serialized": 1786642978076,
   "serializedBy": "heatherp",
-  "time": "2025-04-22T13:25:08.6761788Z",
+  "time": "2026-08-13T17:42:57.6523237Z",
   "status": "PU",
   "title": "Fubon Insurance HQ",
-  "date": "2019 - ongoing",
+  "date": "2019 - under construction",
   "client": "Fubon Insurance Co. Ltd / Fubon Securities Co. Ltd",
   "location": "Taipei, Taiwan",
   "city": "Taipei",
@@ -65,6 +65,41 @@
     {
       "value": "27",
       "id": "ecb95ade186444deaa8afe3b695103f3"
+    },
+    {
+      "label": "Retail - Fubon bank branch",
+      "value": "Level 1",
+      "id": "9F086CC32A5F4BE9BCA8D3"
+    },
+    {
+      "label": "Commercial Lobby",
+      "value": "Level 2",
+      "id": "538bace6625041448734261eff94ca94"
+    },
+    {
+      "label": "Commercial Office - low rise",
+      "value": "Level 3 - Level 14",
+      "id": "f53133ba79964c3a9d93842c4550b4e6"
+    },
+    {
+      "label": "Commercial - Canteen and Gym",
+      "value": "Level 15",
+      "id": "72d6bc64d3014c26a2b7347c10da321b"
+    },
+    {
+      "label": "Commercial - Meeting Rooms",
+      "value": "Level 16",
+      "id": "890b775281204ab4a6fda10e6a898921"
+    },
+    {
+      "label": "Commercial Office - high rise",
+      "value": "Level 17 - 26",
+      "id": "fa8b1643ce574cccaea0b6b1096e04bf"
+    },
+    {
+      "label": "Commercial - Chairmen Offices",
+      "value": "Level 27",
+      "id": "aaa107bf101e42b38f0fe54038030234"
     }
   ],
   "overview": "<div><p>Fubon Insurance HQ is a commercial tower located on the corner of Renai Road and Jianguo Road in Taipei, Taiwan for Fubon Insurance and Fubon Securities.</p><p>The building addresses the two roads equally, with a gently curved NW corner to connect the two prime office elevations. A horizontal ribbon facade with articulated solar shading further binds the composition. This also provides scale and grain - and - crucial shading to the office floorplate. Double height internal vertical villages animate the NW corner, providing dynamic, democratic spaces for employees to gather, collaborate and socialise.</p><p>Diagonally opposite on the SE corner is a highly glazed and naturally ventilated circulation stair. Visually open and inviting, it encourages wellness through walking between adjacent floors, and its generous landings provide opportunity for chance encounters. The other service elements of the core: lift banks, washrooms and MEP spaces, unfold on either side of the corner stair and hold the south and eastern edges of the building. The office floorplate which offers 27,866m2 is defined by 9 equal squares on a 9x9m structural grid. Open ceilings are proposed for the office fit-out, giving maximum legibility to the structural frame and on floor servicing.</p><p>At the ground plane, the podium facade is setback on the diagonal, enhancing the corner address and creating a landscaped public agora beneath the tower above. An entry canopy featuring LED display for public artwork and escalators animate this protected volume delivering visitors to a generous Level 2 lobby.</p><p>A cafe and covered outdoor terrace provide opportunities for informal meetings and activity. Set within the monolithic stone podium is a retail tenancy for their Fubon bank branch, creating active street frontages, with through site connections to a sheltered pocket park and rear laneways.</p></div>",
@@ -73,6 +108,41 @@
       "label": "Area",
       "value": "27,866m2 of office floorplate",
       "id": "3f80bfe16b104e8cbac4e71ac70b3d7e"
+    },
+    {
+      "label": "Building Top",
+      "value": "127.68m",
+      "id": "4LV+ykMQwEatdGmWpp1gIQ"
+    },
+    {
+      "label": "Site Area",
+      "value": "3,031 m2",
+      "id": "8b9c72f4a9314c2387362f60c5c6e5c0"
+    },
+    {
+      "label": "Building Coverage Area",
+      "value": "1,337.97 m2 (Max 45%)",
+      "id": "026612b4e03d413a931007a9c6d29b53"
+    },
+    {
+      "label": "GFA - above ground",
+      "value": "27,485 m2 (HOY calculation)",
+      "id": "e4d7d36d13614b76ba2783a285dfc776"
+    },
+    {
+      "label": "FAR - above ground",
+      "value": "21,638 m2 (HOY calculation) (Max 21,700m2)",
+      "id": "b3267d3e78144681b77c40838d117e1b"
+    },
+    {
+      "label": "Habitable Office Area",
+      "value": "17,430 m2 (HOY calculation)",
+      "id": "5494fd29cafb4b5b9e1fe8c7bc2fd14f"
+    },
+    {
+      "label": "GFA - below ground",
+      "value": "11,195 m2 (HOY calculation)",
+      "id": "7e793a412c8845c2a9465df542ce98ac"
     }
   ],
   "companies": [
