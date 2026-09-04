@@ -7,10 +7,10 @@
   ],
   "type": "Project",
   "id": "11370",
-  "serializeDate": "'2026-09-04 09:32:08.835'",
-  "serialized": 1788514328835,
-  "serializedBy": "jonm",
-  "time": "2026-09-04T09:32:08.7887759Z",
+  "serializeDate": "'2026-09-04 10:08:20.356'",
+  "serialized": 1788516500356,
+  "serializedBy": "heatherp",
+  "time": "2026-09-04T10:08:20.1216446Z",
   "status": "PU",
   "title": "The HUB, 30 Bay Street",
   "description": "Named for its proximity to Harbour, Union Station and Bay Street, the HUB will be one of the tallest commercial towers in downtown Toronto’s vibrant South Core neighbourhood.",
@@ -118,6 +118,11 @@
       "label": "Lighting Design",
       "value": "Speirs Major",
       "id": "574ddd7b66d041a2a615e0da4e553acc"
+    },
+    {
+      "label": "SVP Leasing",
+      "value": "Jon Peets",
+      "id": "f5a5e28d678047029c20a02eabafa1c0"
     }
   ]
 }
