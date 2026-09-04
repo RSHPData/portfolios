@@ -7,10 +7,10 @@
   ],
   "type": "Project",
   "id": "11370",
-  "serializeDate": "'2026-06-23 11:49:26.706'",
-  "serialized": 1782215366706,
-  "serializedBy": "emajumdar",
-  "time": "2026-06-23T11:49:26.6833458Z",
+  "serializeDate": "'2026-09-04 09:19:59.536'",
+  "serialized": 1788513599536,
+  "serializedBy": "jonm",
+  "time": "2026-09-04T09:19:59.0984757Z",
   "status": "PU",
   "title": "The HUB, 30 Bay Street",
   "description": "Named for its proximity to Harbour, Union Station and Bay Street, the HUB will be one of the tallest commercial towers in downtown Toronto’s vibrant South Core neighbourhood.",
@@ -98,6 +98,11 @@
       "label": "Planning Consultant",
       "value": "Urban Strategies",
       "id": "c320f542afaa41dfa2dbcd92f21a1d3e"
+    },
+    {
+      "label": "SVP Leasing",
+      "value": "John Peets",
+      "id": "04400cf236ce45c78281af2965cdcdd4"
     },
     {
       "label": "Development Manager",
