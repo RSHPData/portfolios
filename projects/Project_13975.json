@@ -1,0 +1,57 @@
+{
+  "name": "Valencia Central Station",
+  "url": "transport/valencia-central-station",
+  "webStatus": "Publish",
+  "typologies": [
+    "Transport"
+  ],
+  "type": "Project",
+  "id": "13975",
+  "serializeDate": "'2026-09-15 13:20:53.082'",
+  "serialized": 1789478453082,
+  "serializedBy": "heatherp",
+  "time": "2026-09-15T13:20:52.691776Z",
+  "status": "PU",
+  "title": "Valencia Central Station",
+  "date": "2026 -",
+  "client": "ERRE",
+  "location": "Valencia, Spain",
+  "city": "Valencia",
+  "country": "Spain",
+  "longLat": "39.4700 / -0.3768",
+  "longitude": "39.4700",
+  "latitude": "-0.3768",
+  "team": [
+    "Ainhoa Abreu Diaz",
+    "Christophe Dembinski",
+    "Valentina Frieri",
+    "Carlos Garcia",
+    "Daniel Holmes",
+    "Mohamed Mansour",
+    "Riccardo Mazzucco",
+    "Noura Nassar",
+    "Ramon F Roman",
+    "Simon Smithson",
+    "Brooke Wilson"
+  ],
+  "partners": [
+    "Simon Smithson"
+  ],
+  "leaders": [
+    "Ainhoa Abreu Diaz"
+  ],
+  "overview": "<div><p>Valencia Central Station reimagines the underground station as an open, daylit part of the city. The architecture opens the station box to bring natural light, fresh air and views down to the platforms, while visual connections between levels make movement through the station clear and intuitive. At ground level, a lightweight modular canopy follows the geometry of the landscape and provides a contemporary interpretation of the 19th-century railway canopy of the historic Valencia Nord station opposite.</p><p>Taking the railway tracks underground removes a barrier that has divided this part of Valencia for decades and allows the city to reconnect across the former railway corridor. Central Park extends north towards Valencia Nord and City Hall Square as a continuous landscape of planting, pedestrian routes and cycle paths, with the station becoming part of this sequence rather than interrupting it.</p><p>Between the new station and Valencia Nord, a new Station Square brings the two buildings together and creates a shared public space. Opening up the setting of the historic station restores its presence in the city while allowing the new architecture to establish its own identity.</p><p>Below ground, the existing terminus becomes a through station, enabling trains to continue north–south without reversing and improving connections across the rail network.</p><p>The station uses a systemised kit of parts that supports prefabrication, reduces construction time and disruption, minimises waste and supports whole-life carbon reduction, bringing architecture, infrastructure and landscape together in a station that reconnects Valencia.</p></div>",
+  "dimensions": [],
+  "companies": [
+    {
+      "label": "Co-Architect",
+      "value": "ERRE",
+      "id": "ab87b82e32f84889a436b44fc21e8ed3"
+    },
+    {
+      "label": "Engineering",
+      "value": "Sener",
+      "id": "29188d9cccf748958ac2c2ca5719cfd8"
+    }
+  ]
+}
