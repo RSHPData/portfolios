@@ -1,5 +1,16 @@
 [
   {
+    "projectId": "13880",
+    "project": "La Cavale Blanche Hospital",
+    "date": "2026",
+    "endDate": "",
+    "location": "Brest",
+    "country": "France",
+    "client": "CHRU Brest",
+    "longLat": "48.4016 / -4.5277",
+    "typology": "Health & Science"
+  },
+  {
     "projectId": "14020",
     "project": "PLD - Rives-Défense",
     "date": "2025",
