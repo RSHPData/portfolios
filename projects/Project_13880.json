@@ -1,0 +1,70 @@
+{
+  "name": "La Cavale Blanche Hospital",
+  "webStatus": "Publish",
+  "typologies": [
+    "Health & Science"
+  ],
+  "type": "Project",
+  "id": "13880",
+  "serializeDate": "'2026-09-21 14:15:15.654'",
+  "serialized": 1790000115654,
+  "serializedBy": "heatherp",
+  "time": "2026-09-21T14:15:15.2919882Z",
+  "status": "PU",
+  "team": [
+    "Stephen Barrett",
+    "Nicola Carnevali",
+    "Carole Charrier",
+    "Hamish Crockett",
+    "Benjamin Darras",
+    "Raffaele Festa",
+    "Valentina Frieri",
+    "Felipe Guerrero",
+    "Vitoria Hassuani",
+    "Mohamed Mansour",
+    "Noura Nassar",
+    "Dan Ropert",
+    "John-Alexander Rudd",
+    "Raphaël Winckler"
+  ],
+  "partners": [
+    "Stephen Barrett"
+  ],
+  "leaders": [
+    "Hamish Crockett"
+  ],
+  "overview": "<div><p>The restructuring and extension of La Cavale Blanche Hospital at Brest University Hospital (CHU de Brest) transforms the existing building to create a more connected, intuitive and welcoming environment for patients, visitors and staff.</p><p>The project reorganises the hospital’s technical and clinical core, consolidating and expanding critical care services, the interventional technical platform and operating theatres, while restructuring pharmacy, sterilisation and logistics facilities within a new logistics hub. These interventions are conceived as part of a coordinated transformation focused on improving the overall hospital experience.</p><p>At the heart of the building, the existing atrium is extended to the lower levels through a large new opening and staircase. Bringing natural light deep into the technical platform, the intervention creates visual connections between floors and establishes the atrium as a clear point of orientation. A new vertical circulation core on the façade further improves wayfinding and separates staff and logistics flows from patient and visitor routes.</p><p>A new entrance hall creates a more accessible arrival from the main forecourt, with reception and admissions immediately visible. Above the existing hospital, a rooftop extension brings medical and surgical critical care together on a single level. Patient rooms benefit from daylight and outward views, while shared family and visitor spaces incorporate planting, natural light and access to terraces, providing a less clinical environment.</p><p>At the lower levels, expanded pharmacy and sterilisation facilities are integrated into the hillside, reducing their visual impact and allowing the hospital’s principal clinical functions to remain prominent on arrival.</p></div>",
+  "dimensions": [],
+  "companies": [
+    {
+      "label": "Local Architect",
+      "value": "Collectif d’Architectes",
+      "id": "06de4b7d4f364a8284cf090fe8aaf348"
+    },
+    {
+      "label": "Hospital Specialist",
+      "value": "B+B Architectes",
+      "id": "73b160b66fe74014b5d22b3b74d94c4c"
+    },
+    {
+      "label": "Engineering",
+      "value": "OTE Ingénierie",
+      "id": "c3d53e17b7574e3390ec96c96a69c1f5"
+    },
+    {
+      "label": "Sustainability Consultant",
+      "value": "Otélio",
+      "id": "ec89233c729042c4948f419cc4c5d85a"
+    },
+    {
+      "label": "Hospital and Healthcare Logistics",
+      "value": "Optilog Santé",
+      "id": "60897da8ef674fdaba19280a3a34d5fd"
+    },
+    {
+      "label": "Hospital Management",
+      "value": "Iris Conseil Santé",
+      "id": "a2f4c08f889c43178d8a27f4d08d825b"
+    }
+  ]
+}
