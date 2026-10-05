@@ -7,10 +7,10 @@
   ],
   "type": "Project",
   "id": "05950",
-  "serializeDate": "'2026-10-05 16:14:45.285'",
-  "serialized": 1791216885285,
+  "serializeDate": "'2026-10-05 16:18:32.569'",
+  "serialized": 1791217112569,
   "serializedBy": "heatherp",
-  "time": "2026-10-05T16:14:44.9330945Z",
+  "time": "2026-10-05T16:18:32.5380905Z",
   "status": "PU",
   "title": "The River ONE",
   "description": "Located on the banks of Hangzhou Bay, two stepped towers mark the southwest corner of the Chinese city of Ningbo’s newest district, created as part of a 2008 masterplan.",
@@ -60,7 +60,7 @@
   "dimensions": [
     {
       "label": "Site Area",
-      "value": "3 748 m² + 3 584 m²",
+      "value": "3 748 m² (north parcel) + 3 584 m² (south parcel)",
       "id": "315b8bac39db47f0869e0b79caf87310"
     },
     {
