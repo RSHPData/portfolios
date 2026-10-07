@@ -6,10 +6,10 @@
   ],
   "type": "Project",
   "id": "13880",
-  "serializeDate": "'2026-09-21 14:42:01.968'",
-  "serialized": 1790001721968,
+  "serializeDate": "'2026-10-07 14:05:46.971'",
+  "serialized": 1791381946971,
   "serializedBy": "heatherp",
-  "time": "2026-09-21T14:42:01.9341902Z",
+  "time": "2026-10-07T14:05:46.5721327Z",
   "status": "PU",
   "title": "La Cavale Blanche Hospital",
   "date": "2026 -",
@@ -42,16 +42,16 @@
   "leaders": [
     "Hamish Crockett"
   ],
-  "overview": "<div><p>The restructuring and extension of La Cavale Blanche Hospital at Brest University Hospital (CHU de Brest) transforms the existing building to create a more connected, intuitive and welcoming environment for patients, visitors and staff.</p><p>The project reorganises the hospital’s technical and clinical core, consolidating and expanding critical care services, the interventional technical platform and operating theatres, while restructuring pharmacy, sterilisation and logistics facilities within a new logistics hub. These interventions are conceived as part of a coordinated transformation focused on improving the overall hospital experience.</p><p>At the heart of the building, the existing atrium is extended to the lower levels through a large new opening and staircase. Bringing natural light deep into the technical platform, the intervention creates visual connections between floors and establishes the atrium as a clear point of orientation. A new vertical circulation core on the façade further improves wayfinding and separates staff and logistics flows from patient and visitor routes.</p><p>A new entrance hall creates a more accessible arrival from the main forecourt, with reception and admissions immediately visible. Above the existing hospital, a rooftop extension brings medical and surgical critical care together on a single level. Patient rooms benefit from daylight and outward views, while shared family and visitor spaces incorporate planting, natural light and access to terraces, providing a less clinical environment.</p><p>At the lower levels, expanded pharmacy and sterilisation facilities are integrated into the hillside, reducing their visual impact and allowing the hospital’s principal clinical functions to remain prominent on arrival.</p></div>",
+  "overview": "<div><p>The restructuring and extension of La Cavale Blanche Hospital at Brest University Hospital (CHU de Brest) transforms the existing building to create a more connected, intuitive and welcoming environment for patients, visitors and staff.</p><p>The project reorganises the hospital’s clinical core, consolidating and expanding critical care services and reconfiguring the interventional suite and operating theatres while restructuring pharmacy, sterilisation and logistics facilities within a new logistics</p><p>hub. These interventions are conceived as part of a coordinated transformation focused on improving the overall hospital experience. At the heart of the building, the existing atrium is extended to the lower levels through a large new opening and staircase. Bringing natural light deep into the surgical and interventional floors creates a visual connection between floors, and establishes the atrium as a clear point of orientation. A new vertical circulation core on the façade further improves wayfinding and separates staff and logistics flows from patient and visitor routes.</p><p>A new entrance hall creates a clearer and more welcoming arrival from the main forecourt, with reception and admissions immediately visible. Above the existing hospital, a rooftop extension brings medical and surgical critical care together on a single level. Patient rooms benefit from daylight and outward views, while shared family and visitor spaces incorporate planting, natural light and access to terraces, providing a less clinical environment.</p><p>At the lower levels, expanded pharmacy and sterilisation facilities are integrated into the hillside, reducing their visual impact and allowing the hospital’s principal clinical functions to remain prominent on arrival.</p></div>",
   "dimensions": [],
   "companies": [
     {
-      "label": "Local Architect",
+      "label": "Co-Architect",
       "value": "Collectif d’Architectes",
       "id": "06de4b7d4f364a8284cf090fe8aaf348"
     },
     {
-      "label": "Hospital Specialist",
+      "label": "Co-Architect",
       "value": "B+B Architectes",
       "id": "73b160b66fe74014b5d22b3b74d94c4c"
     },
@@ -71,7 +71,7 @@
       "id": "60897da8ef674fdaba19280a3a34d5fd"
     },
     {
-      "label": "Hospital Management",
+      "label": "Biomedical Consultant",
       "value": "Iris Conseil Santé",
       "id": "a2f4c08f889c43178d8a27f4d08d825b"
     }
