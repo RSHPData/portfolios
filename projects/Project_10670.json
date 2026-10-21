@@ -7,10 +7,10 @@
   ],
   "type": "Project",
   "id": "10670",
-  "serializeDate": "'2026-01-16 17:00:11.645'",
-  "serialized": 1768582811645,
+  "serializeDate": "'2026-10-21 15:31:29.285'",
+  "serialized": 1792596689285,
   "serializedBy": "heatherp",
-  "time": "2026-01-16T17:00:11.0683806Z",
+  "time": "2026-10-21T15:31:29.2567873Z",
   "status": "PU",
   "title": "Mandarin Oriental Mayfair",
   "description": "Inspired by existing Georgian terraces on Hanover Square, RSHP have designed a grand townscape structure to hold a contemporary mixed-use development, providing residential and hotel accommodation in the heart of London’s Mayfair Conservation Area.",
@@ -122,6 +122,12 @@
     }
   ],
   "awards": [
+    {
+      "date": "2026-02-19",
+      "year": "2026",
+      "award": "RIBA London Award - Shortlisted",
+      "rowId": "6c9772c24b024f94b3a6dc22abfe58b4"
+    },
     {
       "date": "2025-12-01",
       "year": "2025",
