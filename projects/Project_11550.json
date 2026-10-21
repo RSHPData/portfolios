@@ -7,10 +7,10 @@
   ],
   "type": "Project",
   "id": "11550",
-  "serializeDate": "'2026-10-21 15:38:02.278'",
-  "serialized": 1792597082278,
+  "serializeDate": "'2026-10-21 15:45:37.077'",
+  "serialized": 1792597537077,
   "serializedBy": "heatherp",
-  "time": "2026-10-21T15:38:02.2498921Z",
+  "time": "2026-10-21T15:45:37.0407848Z",
   "status": "PU",
   "title": "Metro Tunnel Project",
   "description": "The Metro Tunnel Project in Melbourne is comprises twin nine-kilometre tunnels and five new underground stations.",
@@ -200,6 +200,12 @@
   ],
   "awards": [
     {
+      "date": "2026-09-30",
+      "year": "2026",
+      "award": "Prix Versailles - World’s Most Beautiful Stations - Town Hall Station - Shortlisted",
+      "rowId": "3b82d2f016e54eadb69e7852df1f7b0c"
+    },
+    {
       "date": "2026-06-12",
       "year": "2026",
       "award": "Australian Interior Design Winner Award for Public Design - Town Hall Station",
@@ -234,12 +240,6 @@
       "year": "2026",
       "award": "Commended for Sustainable Architecture by the Australian Institute of Architecture (AIA)",
       "rowId": "8adbed122206431cbca27e79bdcf621e"
-    },
-    {
-      "date": "2026-09-30",
-      "year": "2026",
-      "award": "Prix Versailles - World’s Most Beautiful Stations - Town Hall Station - Shortlisted",
-      "rowId": "3b82d2f016e54eadb69e7852df1f7b0c"
     }
   ],
   "certificates": [
