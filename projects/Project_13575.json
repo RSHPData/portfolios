@@ -7,10 +7,10 @@
   ],
   "type": "Project",
   "id": "13575",
-  "serializeDate": "'2026-07-15 08:28:17.095'",
-  "serialized": 1784104097095,
+  "serializeDate": "'2026-10-21 15:24:18.792'",
+  "serialized": 1792596258792,
   "serializedBy": "heatherp",
-  "time": "2026-07-15T08:28:16.7105605Z",
+  "time": "2026-10-21T15:24:18.3695266Z",
   "status": "PU",
   "title": "Central China International Convention and Exhibition Centre (Phase 2)",
   "date": "2024 - 2025",
@@ -145,6 +145,14 @@
       "label": "Interior Design  Consultant",
       "value": "Xuwen",
       "id": "e373095afc674e92895b00ec889820d2"
+    }
+  ],
+  "awards": [
+    {
+      "date": "2026-07-04",
+      "year": "2026",
+      "award": "World Architecture Festival (WAF) Awards - Shortlisted",
+      "rowId": "0f44d68941e84327a2f5e8a6b290490b"
     }
   ],
   "certificates": [
