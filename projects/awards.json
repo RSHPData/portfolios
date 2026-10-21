@@ -1,5 +1,11 @@
 [
   {
+    "projectId": "11550",
+    "project": "Metro Tunnel Project",
+    "year": "2026",
+    "award": "Prix Versailles - World’s Most Beautiful Stations - Shortlisted"
+  },
+  {
     "projectId": "00170",
     "project": "Lloyd’s of London",
     "year": "2026",
@@ -70,6 +76,12 @@
     "project": "Mandarin Oriental Mayfair",
     "year": "2026",
     "award": "RIBA London Award - Shortlisted"
+  },
+  {
+    "projectId": "10890",
+    "project": "The Emory",
+    "year": "2026",
+    "award": "RIBA London Award - Winner"
   },
   {
     "projectId": "10670",
