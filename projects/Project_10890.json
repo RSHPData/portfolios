@@ -7,10 +7,10 @@
   ],
   "type": "Project",
   "id": "10890",
-  "serializeDate": "'2026-05-20 15:47:05.583'",
-  "serialized": 1779292025583,
+  "serializeDate": "'2026-10-21 15:40:35.820'",
+  "serialized": 1792597235820,
   "serializedBy": "heatherp",
-  "time": "2026-05-20T15:47:05.550969Z",
+  "time": "2026-10-21T15:40:35.7744097Z",
   "status": "PU",
   "title": "The Emory",
   "date": "2004 - 2024",
@@ -281,6 +281,12 @@
     }
   ],
   "awards": [
+    {
+      "date": "2026-02-19",
+      "year": "2026",
+      "award": "RIBA London Award - Winner",
+      "rowId": "6bdfa75c6d7e4e3780b0f107b1d5ea25"
+    },
     {
       "date": "2025-01-10",
       "year": "2025",
