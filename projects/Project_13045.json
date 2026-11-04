@@ -7,10 +7,10 @@
   ],
   "type": "Project",
   "id": "13045",
-  "serializeDate": "'2026-11-04 12:22:56.147'",
-  "serialized": 1793794976147,
+  "serializeDate": "'2026-11-04 15:05:12.954'",
+  "serialized": 1793804712954,
   "serializedBy": "heatherp",
-  "time": "2026-11-04T12:22:55.8501503Z",
+  "time": "2026-11-04T15:05:12.5330412Z",
   "status": "PU",
   "title": "Sąvaržėlė",
   "date": "2022 - 2026",
@@ -105,7 +105,7 @@
   "certificates": [
     {
       "authority": "BREEAM",
-      "rating": "Outstanding",
+      "rating": "International New Construction - Outstanding",
       "rowId": "ad255cbf29a449df9924b6d23884708a"
     }
   ]
