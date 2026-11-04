@@ -7,13 +7,13 @@
   ],
   "type": "Project",
   "id": "13045",
-  "serializeDate": "'2026-06-15 15:03:50.878'",
-  "serialized": 1781535830878,
-  "serializedBy": "emajumdar",
-  "time": "2026-06-15T15:03:50.6485856Z",
+  "serializeDate": "'2026-11-04 12:22:56.147'",
+  "serialized": 1793794976147,
+  "serializedBy": "heatherp",
+  "time": "2026-11-04T12:22:55.8501503Z",
   "status": "PU",
   "title": "Sąvaržėlė",
-  "date": "2022 - under construction",
+  "date": "2022 - 2026",
   "client": "Lords LB Asset Management",
   "location": "Vilnius, Lithuania",
   "city": "Vilnius",
@@ -88,13 +88,18 @@
     },
     {
       "label": "Facade Consultant",
-      "value": "KG",
+      "value": "Buro Happold",
       "id": "1dacf286adae4954a534a39db5646b33"
     },
     {
       "label": "Construction Management Consultant",
       "value": "Contestus",
       "id": "69404f40ea7049408ebc4ddac8a9a093"
+    },
+    {
+      "label": "Facade Contractor",
+      "value": "KG",
+      "id": "b9b84d5475484cff843c311a945fb9ea"
     }
   ],
   "certificates": [
