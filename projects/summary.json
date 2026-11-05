@@ -109,6 +109,17 @@
     "typology": "Office"
   },
   {
+    "projectId": "12870",
+    "project": "181 Talgarth Road",
+    "date": "2021",
+    "endDate": "2025",
+    "location": "London",
+    "country": "UK",
+    "client": "Dominvs Group",
+    "longLat": "-0.21936 / 51.4909",
+    "typology": "Residential"
+  },
+  {
     "projectId": "12900",
     "project": "Nanjing Yuhua",
     "date": "2021",
