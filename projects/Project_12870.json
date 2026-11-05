@@ -1,12 +1,17 @@
 {
-  "name": "Talgarth Student Accommodation",
-  "webStatus": "Upload",
+  "name": "181 Talgarth Road",
+  "url": "residential/181-talgarth-road/",
+  "webStatus": "Publish",
+  "typologies": [
+    "Residential",
+    "Culture & Leisure"
+  ],
   "type": "Project",
   "id": "12870",
-  "serializeDate": "'2026-11-05 14:58:44.635'",
-  "serialized": 1793890724635,
+  "serializeDate": "'2026-11-05 15:02:03.487'",
+  "serialized": 1793890923487,
   "serializedBy": "heatherp",
-  "time": "2026-11-05T14:58:44.6046372Z",
+  "time": "2026-11-05T15:02:03.4409335Z",
   "status": "PU",
   "title": "181 Talgarth Road",
   "date": "2021 - 2025",
