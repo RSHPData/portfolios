@@ -3,20 +3,20 @@
   "webStatus": "Upload",
   "type": "Project",
   "id": "12870",
-  "serializeDate": "'2023-02-02 09:57:28.585'",
-  "serialized": 1675331848585,
+  "serializeDate": "'2026-11-05 14:57:39.068'",
+  "serialized": 1793890659068,
   "serializedBy": "heatherp",
-  "time": "2023-02-02T09:57:28.5700701Z",
+  "time": "2026-11-05T14:57:38.7875908Z",
   "status": "PU",
-  "title": "Talgarth Student Accommodation",
-  "date": "2021 - ongoing",
+  "title": "181 Talgarth Road",
+  "date": "2021 - 2025",
   "client": "Dominvs Group",
   "location": "London, UK",
   "city": "London",
   "country": "UK",
-  "longLat": "51.49092972523974 / -0.21936925728189427",
-  "longitude": "51.49092972523974",
-  "latitude": "-0.21936925728189427",
+  "longLat": "-0.21936 / 51.4909",
+  "longitude": "-0.21936",
+  "latitude": "51.4909",
   "team": [
     "Walid Bhatt",
     "Holly Clarke",
@@ -45,7 +45,6 @@
     "Lennart Grut"
   ],
   "leaders": [
-    "Harjinder Singh",
     "Michael Rudko"
   ],
   "heights": [
@@ -122,6 +121,13 @@
       "label": "Heritage Consultant",
       "value": "KMHeritage",
       "id": "vdIGUh6IuUKLXFSpjCIikw"
+    }
+  ],
+  "certificates": [
+    {
+      "authority": "BREEAM",
+      "rating": "Excellent",
+      "rowId": "d6f149c9201a4c7ab4d863afbad580a9"
     }
   ]
 }
